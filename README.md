@@ -1,4 +1,4 @@
-# MSP-shared-task
+# Morpho-Syntactic Parsing 2025 Shared Task
 
 Welcome to the official repo of UniDive's 1st shared task on morpho-syntactic parsing. In this repo you will find the data for training and testing your systems. Soon we will add scripts for evalutation and data in some more languages.
 
