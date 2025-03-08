@@ -14,7 +14,7 @@ Morphosyntactic parsing redefines the content-function boundary to differentiate
 
 ## File Format
 
-The data resembles UD treebanks and is using the same CoNLL-U structure. The required output from systems includes the arcs with their labels between content nodes, together with their grammatical features (that may be deduced from the function words). That is to say that systems should predict the `head`, `deprel` and `feats` columns. Other columns, namely `lemma` and `upos` areprovided for reference, systen may or may not predict them and our metrics do not consider them. In addition, function words are also present in the data without any columns other than `lemma` and `upos`. This is also just for reference and systems won't take nodes of function words into account. Function nodes are distinguished by `_` in their `feats` column.
+The data resembles UD treebanks and is using the same CoNLL-U structure. The required output from systems includes the arcs with their labels between content nodes, together with their grammatical features (that may be deduced from the function words). That is to say that systems should predict the `head`, `deprel` and `feats` columns. Other columns, namely `lemma` and `upos` areprovided for reference, systen may or may not predict them and our metrics do not consider them. In addition, function words are also present in the data without any columns other than `lemma` and `upos`. This is also just for reference and our metrics won't take nodes of function words into account. Function nodes are distinguished by `_` in their `feats` column.
 
 Example sentence (from the English training data):
 ~~~ conllu
