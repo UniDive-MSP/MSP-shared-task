@@ -147,7 +147,14 @@ def load_conllu(file, path=None):
             ud.sentences.append(UDSpan(sentence_start, 0))
         if not line:
             # Add parent and children UDWord links and check there are no cycles
-            abstracts = list(itertools.accumulate([int('.' in word.columns[ID]) for word in ud.words[sentence_start:]]))
+            abstracts = []
+            count = 0
+            for word in ud.words[sentence_start:]:
+                if '.' in word.columns[ID]:
+                    count += 1
+                else:
+                    abstracts.append(count)
+
             def process_word(word):
                 if word.parent == "remapping":
                     print(word.columns[FORM])
@@ -176,7 +183,7 @@ def load_conllu(file, path=None):
             # Check there is a single root node
             if len([word for word in ud.words[sentence_start:] if word.parent is None]) > 1:
                 raise UDError("There are multiple roots in a sentence")
-            if len([word for word in ud.words[sentence_start:] if word.parent is None]) == 0 and len(ud.words[sentence_start:]) > 1:
+            if len([word for word in ud.words[sentence_start:] if word.parent is None]) == 0 and len(ud.words[sentence_start:]) > 2:
                 raise UDError("There are no roots in a sentence")
 
             # End the sentence
@@ -227,6 +234,9 @@ def load_conllu(file, path=None):
             raise UDError("HEAD cannot be negative")
 
         ud.words.append(UDWord(ud.tokens[-1], columns))
+
+        if columns[FEATS] == '_':
+            columns[FEATS] = ''
 
     if sentence_start is not None:
         raise UDError("The CoNLL-U file does not end with empty line")
