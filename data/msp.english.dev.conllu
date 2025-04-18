@@ -8260,7 +8260,7 @@
 3	and	and	CCONJ	_	_	_	_	_	_
 4	/	/	SYM	_	_	_	_	_	_
 5	or	or	CCONJ	_	_	_	_	_	_
-6	attachments	attachment	NOUN	_	or(Conj,Disj)|Number=Plur	2	conj	_	_
+6	attachments	attachment	NOUN	_	Case=or(Conj,Disj)|Number=Plur	2	conj	_	_
 7	may	may	AUX	_	_	_	_	_	_
 8	be	be	AUX	_	_	_	_	_	_
 9	a	a	DET	_	_	_	_	_	_

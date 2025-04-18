@@ -22,7 +22,7 @@
 9	e	e	CCONJ	_	_	_	_	_	_
 10	stavano	stare	AUX	_	_	_	_	_	_
 11	cominciando	cominciare	VERB	_	Aspect=Prog|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	_
-11.1	-	-	-	_	Case=Nom	11	nsubj	_	_
+11.1	_	_	_	_	Case=Nom	11	nsubj	_	_
 12	la	il	DET	_	_	_	_	_	_
 13	discesa	discesa	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	11	obj	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
@@ -38,7 +38,7 @@
 7	spesso	spesso	ADV	_	|	9	advmod	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
 9	fanno	fare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9.1	-	-	-	_	Case=Nom	9	nsubj	_	_
+9.1	_	_	_	_	Case=Nom	9	nsubj	_	_
 10	fatica	fatica	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	9	obj	_	_
 11	ad	a	ADP	_	_	_	_	_	_
 12	ammettere	ammettere	VERB	_	Case=Pur|Polarity=Pos|VerbForm=Inf|Voice=Act	10	acl	_	_
@@ -51,7 +51,7 @@
 19	dotato	dotato	ADJ	_	Case=che|Degree=Cmp|Gender=Masc|Mood=Sub|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
 20	,	,	PUNCT	_	_	_	_	_	_
 21	possegga	possedere	VERB	_	Mood=Sub|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	_
-21.1	-	-	-	_	Case=Nom	21	nsubj	_	_
+21.1	_	_	_	_	Case=Nom	21	nsubj	_	_
 22	qualità	qualità	NOUN	_	Case=Acc|Gender=Fem|Polarity=Pos	21	obj	_	_
 23	e	e	CCONJ	_	_	_	_	_	_
 24	capacità	capacità	NOUN	_	Case=Acc;Conj|Gender=Fem|Number=Plur|Polarity=Pos	22	conj	_	_
@@ -155,7 +155,7 @@
 5	quando	quando	SCONJ	_	_	_	_	_	_
 6	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	7	expl	_	_
 7	muovevano	muovere	VERB	_	Aspect=Imp|Case=Tem|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	9	advcl	_	_
-7.1	-	-	-	_	Case=Nom	7	nsubj	_	_
+7.1	_	_	_	_	Case=Nom	7	nsubj	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
 9	andavano	andare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
 10	a	a	ADP	_	_	_	_	_	_
@@ -192,7 +192,7 @@
 13	tramonto	tramonto	NOUN	_	Case=Gen|Definite=Def|Dem=Prox|Gender=Masc|Number=Sing|Polarity=Pos	9	nmod	_	_
 14	,	,	PUNCT	_	_	_	_	_	_
 15	nasce	nascere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
-15.1	-	-	-	_	Case=Nom	15	nsubj	_	_
+15.1	_	_	_	_	Case=Nom	15	nsubj	_	_
 16-17	dalla	_	_	_	_	_	_	_	_
 16	da	da	ADP	_	_	_	_	_	_
 17	la	il	DET	_	_	_	_	_	_
@@ -243,7 +243,7 @@
 11	allora	allora	ADV	_	|	13	advmod	_	_
 12	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	13	expl	_	_
 13	chiamava	chiamare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	5	advcl	_	_
-13.1	-	-	-	_	Case=Nom	13	nsubj	_	_
+13.1	_	_	_	_	Case=Nom	13	nsubj	_	_
 14	Congo	Congo	PROPN	_	Polarity=Pos	13	xcomp	_	_
 15	)	)	PUNCT	_	_	_	_	_	_
 16	,	,	PUNCT	_	_	_	_	_	_
@@ -257,7 +257,7 @@
 24	dov'	dove	ADV	_	|	27	advmod	_	_
 25	erano	essere	AUX	_	_	_	_	_	_
 26	stati	essere	AUX	_	_	_	_	_	_
-27.1	-	-	-	_	Case=Nom	27	nsubj	_	_
+27.1	_	_	_	_	Case=Nom	27	nsubj	_	_
 27	inviati	inviare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	23	acl:relcl	_	_
 28	con	con	ADP	_	_	_	_	_	_
 29	aiuti	aiuto	NOUN	_	Case=Com|Gender=Masc|Number=Plur|Polarity=Pos	27	obl	_	_
@@ -347,7 +347,7 @@
 46	mentre	mentre	SCONJ	_	_	_	_	_	_
 47	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	48	expl	_	_
 48	trovavano	trovare	VERB	_	Aspect=Imp|Case=Dur|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	40	advcl	_	_
-48.1	-	-	-	_	Case=Nom	48	nsubj	_	_
+48.1	_	_	_	_	Case=Nom	48	nsubj	_	_
 49	in	in	ADP	_	_	_	_	_	_
 50	una	uno	DET	_	_	_	_	_	_
 51	riserva	riserva	NOUN	_	Case=Ine|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	48	obl	_	_
@@ -408,7 +408,7 @@
 27	ha	avere	AUX	_	_	_	_	_	_
 28	mai	mai	ADV	_	|	29	advmod	_	_
 29	seguito	seguire	VERB	_	Aspect=Perf|Case=Conj|Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	22	conj	_	_
-29.1	-	-	-	_	Case=Nom	29	nsubj	_	_
+29.1	_	_	_	_	Case=Nom	29	nsubj	_	_
 30	il	il	DET	_	_	_	_	_	_
 31	padre	padre	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	29	obj	_	_
 32-33	nello	_	_	_	_	_	_	_	_
@@ -495,7 +495,7 @@
 5	accertato	accertare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 6	chi	chi	PRON	_	Case=Nom|Polarity=Pos|PronType=Int	5	nsubj	_	_
 7	volle	volere	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
-7.1	-	-	-	_	Case=Nom	7	nsubj	_	_
+7.1	_	_	_	_	Case=Nom	7	nsubj	_	_
 8	la	il	DET	_	_	_	_	_	_
 9	sua	suo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det:poss	_	_
 10	morte	morte	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	_
@@ -506,7 +506,7 @@
 15	che	che	PRON	_	Case=Acc|Polarity=Pos|PronType=Rel	18	obj	_	_
 16	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	18	expl	_	_
 17	era	essere	AUX	_	_	_	_	_	_
-18.1	-	-	-	_	Case=Nom	18	nsubj	_	_
+18.1	_	_	_	_	Case=Nom	18	nsubj	_	_
 18	fatta	fare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
 19	erano	essere	AUX	_	_	_	_	_	_
 20	molti	molto	PRON	_	Aspect=Imp|Case=Advs|Gender=Masc|Mood=Ind|Number=Plur|Polarity=Pos|PronType=Ind|Tense=Imp|VerbForm=Fin	5	conj	_	_
@@ -536,7 +536,7 @@
 19	da	da	ADP	_	_	_	_	_	_
 20	anni	anno	NOUN	_	Case=Abl|Gender=Masc|Number=Plur|Polarity=Pos	21	obl	_	_
 21	trascorre	trascorrere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
-21.1	-	-	-	_	Case=Nom	21	nsubj	_	_
+21.1	_	_	_	_	Case=Nom	21	nsubj	_	_
 22	le	il	DET	_	_	_	_	_	_
 23	vacanze	vacanza	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	21	obj	_	_
 24	estive	estivo	ADJ	_	Polarity=Pos	23	amod	_	_
@@ -615,7 +615,7 @@
 21	non	non	ADV	_	_	_	_	_	_
 22	gli	lo	PRON	_	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	23	iobj	_	_
 23	restava	restare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Neg|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
-23.1	-	-	-	_	Case=Nom	23	nsubj	_	_
+23.1	_	_	_	_	Case=Nom	23	nsubj	_	_
 24	che	che	SCONJ	_	_	_	_	_	_
 25	firmare	firmare	VERB	_	Case=Acc|Polarity=Pos|VerbForm=Inf|Voice=Act	23	ccomp	_	_
 26	un	uno	DET	_	_	_	_	_	_
@@ -706,7 +706,7 @@
 # sent_id = isst_tanl-591
 # text = Stravince le elezioni del 1990, e si lancia in virtuosismi nazionalistici da far invidia a Slobo Milosevic:
 1	Stravince	stravincere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	le	il	DET	_	_	_	_	_	_
 3	elezioni	elezione	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	_
 4-5	del	_	_	_	_	_	_	_	_
@@ -717,7 +717,7 @@
 8	e	e	CCONJ	_	_	_	_	_	_
 9	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	10	expl	_	_
 10	lancia	lanciare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
-10.1	-	-	-	_	Case=Nom	10	nsubj	_	_
+10.1	_	_	_	_	Case=Nom	10	nsubj	_	_
 11	in	in	ADP	_	_	_	_	_	_
 12	virtuosismi	virtuosismo	NOUN	_	Case=Ine|Gender=Masc|Number=Plur|Polarity=Pos	10	obl	_	_
 13	nazionalistici	nazionalistico	ADJ	_	Polarity=Pos	12	amod	_	_
@@ -758,7 +758,7 @@
 2	in	in	ADP	_	_	_	_	_	_
 3	Parlamento	Parlamento	PROPN	_	Case=Ine|Polarity=Pos	4	obl	_	_
 4	disse	dire	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	che	che	SCONJ	_	_	_	_	_	_
 6	noi	noi	PRON	_	Case=Nom|Number=Plur|Person=1|Polarity=Pos|PronType=Prs	8	nsubj	_	_
 7	saremmo	essere	AUX	_	_	_	_	_	_
@@ -835,7 +835,7 @@
 # sent_id = isst_tanl-657
 # text = Stia a casa lo stesso.
 1	Stia	stare	VERB	_	Mood=Sub|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	a	a	ADP	_	_	_	_	_	_
 3	casa	casa	NOUN	_	Case=Lat|Gender=Fem|Number=Sing|Polarity=Pos	1	obl	_	_
 4	lo	il	DET	_	_	_	_	_	_
@@ -885,7 +885,7 @@
 # sent_id = isst_tanl-732
 # text = mettiamo la targa agli "esperti".
 1	mettiamo	mettere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	la	il	DET	_	_	_	_	_	_
 3	targa	targa	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	1	obj	_	_
 4-5	agli	_	_	_	_	_	_	_	_
@@ -1018,7 +1018,7 @@
 12	e	e	CCONJ	_	_	_	_	_	_
 13	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	14	expl	_	_
 14	tratta	trattare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
-14.1	-	-	-	_	Case=Nom	14	nsubj	_	_
+14.1	_	_	_	_	Case=Nom	14	nsubj	_	_
 15	ora	ora	ADV	_	|	14	advmod	_	_
 16	di	di	ADP	_	_	_	_	_	_
 17	trovare	trovare	VERB	_	Case=di|Polarity=Pos|VerbForm=Inf|Voice=Act	14	ccomp	_	_
@@ -1067,7 +1067,7 @@
 26	è	essere	AUX	_	_	_	_	_	_
 27	stato	essere	AUX	_	_	_	_	_	_
 28	esibito	esibire	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	10	acl:relcl	_	_
-28.1	-	-	-	_	Case=Nom	28	nsubj	_	_
+28.1	_	_	_	_	Case=Nom	28	nsubj	_	_
 29-30	ai	_	_	_	_	_	_	_	_
 29	a	a	ADP	_	_	_	_	_	_
 30	i	il	DET	_	_	_	_	_	_
@@ -1205,7 +1205,7 @@
 1	avevano	avere	AUX	_	_	_	_	_	_
 2	appena	appena	ADV	_	|	3	advmod	_	_
 3	lasciato	lasciare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	la	il	DET	_	_	_	_	_	_
 5	cima	cima	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
 6	per	per	ADP	_	_	_	_	_	_
@@ -1216,7 +1216,7 @@
 11	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	13	expl	_	_
 12	erano	essere	AUX	_	_	_	_	_	_
 13	slegati	slegare	VERB	_	Aspect=Perf|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
-13.1	-	-	-	_	Case=Nom	13	nsubj	_	_
+13.1	_	_	_	_	Case=Nom	13	nsubj	_	_
 14	tra	tra	ADP	_	_	_	_	_	_
 15	loro	loro	PRON	_	Case=Int|Number=Plur|Person=3|Polarity=Pos|PronType=Prs	13	obl	_	_
 16	proprio	proprio	ADV	_	|	19	advmod	_	_
@@ -1285,7 +1285,7 @@
 1	L'	lo	PRON	_	Case=Acc|Clitic=Yes|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	3	obj	_	_
 2	ho	avere	AUX	_	_	_	_	_	_
 3	sentito	sentire	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	qualche	qualche	DET	_	Number=Sing|PronType=Ind	5	det	_	_
 5	volta	volta	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	3	obl	_	_
 6-7	al	_	_	_	_	_	_	_	_
@@ -1298,7 +1298,7 @@
 12	ho	avere	AUX	_	_	_	_	_	_
 13	mai	mai	ADV	_	|	14	advmod	_	_
 14	visto	vedere	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
-14.1	-	-	-	_	Case=Nom	14	nsubj	_	_
+14.1	_	_	_	_	Case=Nom	14	nsubj	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-1460
@@ -1351,7 +1351,7 @@
 5	vengano	venire	AUX	_	_	_	_	_	_
 6	subito	subito	ADV	_	|	7	advmod	_	_
 7	discusse	discutere	VERB	_	Case=Acc|Mood=Sub|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
-7.1	-	-	-	_	Case=Nom	7	nsubj	_	_
+7.1	_	_	_	_	Case=Nom	7	nsubj	_	_
 8	in	in	ADP	_	_	_	_	_	_
 9	commissione	commissione	NOUN	_	Case=Ine|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	_
 10	Affari	affare	NOUN	_	|	9	compound	_	_
@@ -1377,7 +1377,7 @@
 11	legge	legge	NOUN	_	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	9	nmod	_	_
 12	,	,	PUNCT	_	_	_	_	_	_
 13	credo	credere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-13.1	-	-	-	_	Case=Nom	13	nsubj	_	_
+13.1	_	_	_	_	Case=Nom	13	nsubj	_	_
 14	sia	essere	AUX	_	_	_	_	_	_
 15	giusto	giusto	ADJ	_	Gender=Masc|Mood=Sub|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
 16	che	che	SCONJ	_	_	_	_	_	_
@@ -1440,7 +1440,7 @@
 13	,	,	PUNCT	_	_	_	_	_	_
 14	viene	venire	AUX	_	_	_	_	_	_
 15	visto	vedere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past;Pres|VerbForm=Fin|Voice=Pass	9	conj	_	_
-15.1	-	-	-	_	Case=Nom	15	nsubj	_	_
+15.1	_	_	_	_	Case=Nom	15	nsubj	_	_
 16	da	da	ADP	_	_	_	_	_	_
 17	Moravia	Moravia	PROPN	_	Case=Agt|Polarity=Pos	15	obl:agent	_	_
 18	che	che	PRON	_	Case=Nom|Polarity=Pos|PronType=Rel	20	nsubj	_	_
@@ -1510,7 +1510,7 @@
 2	il	il	DET	_	_	_	_	_	_
 3	'93	'93	NUM	_	Case=Abl|Definite=Def|Gender=Masc|NumType=Card|Number=Sing|Polarity=Pos	4	obl	_	_
 4	dirige	dirigere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	il	il	DET	_	_	_	_	_	_
 6	Festival	festival	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	_
 7	di	di	ADP	_	_	_	_	_	_
@@ -1614,7 +1614,7 @@
 # text = Abbiamo cercato di presentare una interpretazione diversa.
 1	Abbiamo	avere	AUX	_	_	_	_	_	_
 2	cercato	cercare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	di	di	ADP	_	_	_	_	_	_
 4	presentare	presentare	VERB	_	Case=di|Polarity=Pos|VerbForm=Inf|Voice=Act	2	xcomp	_	_
 5	una	uno	DET	_	_	_	_	_	_
@@ -1627,7 +1627,7 @@
 1	Adesso	adesso	ADV	_	|	3	advmod	_	_
 2	devo	dovere	AUX	_	_	_	_	_	_
 3	fare	fare	VERB	_	Modality=Nec|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	da	da	ADP	_	_	_	_	_	_
 5	cuscinetto	cuscinetto	NOUN	_	Case=Abl|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
 6	tra	tra	ADP	_	_	_	_	_	_
@@ -1651,7 +1651,7 @@
 4	,	,	PUNCT	_	_	_	_	_	_
 5	è	essere	AUX	_	_	_	_	_	_
 6	andato	andare	VERB	_	Aspect=Perf|Case=Ine|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
-6.1	-	-	-	_	Case=Nom	6	nsubj	_	_
+6.1	_	_	_	_	Case=Nom	6	nsubj	_	_
 7	via	via	ADV	_	|	6	advmod	_	_
 8	soltanto	soltanto	ADV	_	|	10	advmod	_	_
 9	mezz'	mezzo	ADJ	_	Polarity=Pos	10	amod	_	_
@@ -1722,7 +1722,7 @@
 8	circa	circa	ADV	_	|	7	advmod	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
 10	pago	pagare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-10.1	-	-	-	_	Case=Nom	10	nsubj	_	_
+10.1	_	_	_	_	Case=Nom	10	nsubj	_	_
 11	L.	lira	NOUN	_	Case=Acc|Gender=Fem|Polarity=Pos	10	obj	_	_
 12	22.500	22.500	NUM	_	NumType=Card|Polarity=Pos	11	nummod	_	_
 13	,	,	PUNCT	_	_	_	_	_	_
@@ -1839,7 +1839,7 @@
 1	Se	se	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	3	expl:impers	_	_
 2	ne	ne	PRON	_	Clitic=Yes|Polarity=Pos|PronType=Prs	3	expl	_	_
 3	va	andare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
 5	come	come	ADP	_	_	_	_	_	_
 6	Lewis	Lewis	PROPN	_	Case=Ess|Polarity=Pos	3	obl	_	_
@@ -1850,7 +1850,7 @@
 11	ufficiale	ufficiale	ADJ	_	Number=Sing|Polarity=Pos	13	amod	_	_
 12	,	,	PUNCT	_	_	_	_	_	_
 13	salpa	salpare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
-13.1	-	-	-	_	Case=Nom	13	nsubj	_	_
+13.1	_	_	_	_	Case=Nom	13	nsubj	_	_
 14	mercoledì	mercoledì	NOUN	_	Gender=Masc|Polarity=Pos	13	obl	_	_
 15	)	)	PUNCT	_	_	_	_	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
@@ -1891,7 +1891,7 @@
 # text = Ha distanziato tutte le rivali lungo i tornanti del celebre passo pirenaico.
 1	Ha	avere	AUX	_	_	_	_	_	_
 2	distanziato	distanziare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	tutte	tutto	DET	_	Gender=Fem|Number=Plur|PronType=Tot	5	det:predet	_	_
 4	le	il	DET	_	_	_	_	_	_
 5	rivali	rivale	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	2	obj	_	_
@@ -1915,7 +1915,7 @@
 5	pessima	pessimo	ADJ	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	e	e	CCONJ	_	_	_	_	_	_
 7	rischia	rischiare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
-7.1	-	-	-	_	Case=Nom	7	nsubj	_	_
+7.1	_	_	_	_	Case=Nom	7	nsubj	_	_
 8	di	di	ADP	_	_	_	_	_	_
 9	esplodere	esplodere	VERB	_	Case=di|Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	_
 10	durante	durante	ADP	_	_	_	_	_	_
@@ -2016,7 +2016,7 @@
 # text = Così diventa first lady.
 1	Così	così	ADV	_	|	2	advmod	_	_
 2	diventa	diventare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	first	first	NOUN	_	Polarity=Pos	2	xcomp	_	_
 4	lady	lady	NOUN	_	|	3	compound	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
@@ -2030,7 +2030,7 @@
 5	ci	ci	PRON	_	Clitic=Yes|Polarity=Pos|PronType=Prs	7	expl	_	_
 6	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	7	expl:impers	_	_
 7	attendeva	attendere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
-7.1	-	-	-	_	Case=Nom	7	nsubj	_	_
+7.1	_	_	_	_	Case=Nom	7	nsubj	_	_
 8	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-2304
@@ -2054,7 +2054,7 @@
 9	,	,	PUNCT	_	_	_	_	_	_
 10	la	la	PRON	_	Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	11	obj	_	_
 11	copre	coprire	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
-11.1	-	-	-	_	Case=Nom	11	nsubj	_	_
+11.1	_	_	_	_	Case=Nom	11	nsubj	_	_
 12	veloce	veloce	ADJ	_	Number=Sing|Polarity=Pos	11	xcomp	_	_
 13	:	:	PUNCT	_	_	_	_	_	_
 
@@ -2064,11 +2064,11 @@
 2	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|Polarity=Pos|PronType=Prs	4	expl	_	_
 3	sono	essere	AUX	_	_	_	_	_	_
 4	innervosita	innervosire	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	e	e	CCONJ	_	_	_	_	_	_
 6	ho	avere	AUX	_	_	_	_	_	_
 7	temuto	temere	VERB	_	Aspect=Perf|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
-7.1	-	-	-	_	Case=Nom	7	nsubj	_	_
+7.1	_	_	_	_	Case=Nom	7	nsubj	_	_
 8	la	il	DET	_	_	_	_	_	_
 9	beffa	beffa	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
@@ -2076,7 +2076,7 @@
 # sent_id = isst_tanl-2356
 # text = Sembrava un amore destinato a finire subito, invece il rapporto andò avanti fino alle nozze, celebrate due anni fa.
 1	Sembrava	sembrare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	un	uno	DET	_	_	_	_	_	_
 3	amore	amore	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos	1	xcomp	_	_
 4	destinato	destinare	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	_
@@ -2166,7 +2166,7 @@
 1	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	3	expl	_	_
 2	è	essere	AUX	_	_	_	_	_	_
 3	accordata	accordare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	con	con	ADP	_	_	_	_	_	_
 5	Johnny	Johnny	PROPN	_	Case=Com|Polarity=Pos	3	obl	_	_
 6	Newman	Newman	PROPN	_	|	5	flat:name	_	_
@@ -2209,11 +2209,11 @@
 18	dovessero	dovere	AUX	_	_	_	_	_	_
 19-20	trattarci	_	_	_	_	_	_	_	_
 19	trattar	trattare	VERB	_	Case=Cnd|Modality=Nec|Mood=Sub|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	23	advcl	_	_
-19.1	-	-	-	_	Case=Nom	19	nsubj	_	_
+19.1	_	_	_	_	Case=Nom	19	nsubj	_	_
 20	ci	ci	PRON	_	Case=Acc|Clitic=Yes|Number=Plur|Person=1|Polarity=Pos|PronType=Prs	19	obj	_	_
 21	meglio	meglio	ADV	_	|	19	advmod	_	_
 22	,	,	PUNCT	_	_	_	_	_	_
-23.1	-	-	-	_	Case=Nom	23	nsubj	_	_
+23.1	_	_	_	_	Case=Nom	23	nsubj	_	_
 23	commetterebbero	commettere	VERB	_	Case=Conj|Mood=Cnd|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 24	comunque	comunque	ADV	_	|	23	advmod	_	_
 25	un'	uno	DET	_	_	_	_	_	_
@@ -2249,7 +2249,7 @@
 23	poi	poi	ADV	_	|	25	advmod	_	_
 24	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	25	expl:impers	_	_
 25	ha	avere	VERB	_	Aspect=Imp|Case=Cau|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	20	advcl	_	_
-25.1	-	-	-	_	Case=Nom	25	nsubj	_	_
+25.1	_	_	_	_	Case=Nom	25	nsubj	_	_
 26	un	uno	DET	_	_	_	_	_	_
 27	ritorno	ritorno	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos	25	obj	_	_
 28	economico	economico	ADJ	_	Polarity=Pos	27	amod	_	_
@@ -2284,7 +2284,7 @@
 2	Varese	Varese	PROPN	_	Case=Tps|Polarity=Pos	4	obl	_	_
 3	aveva	avere	AUX	_	_	_	_	_	_
 4	ridotto	ridurre	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	tutto	tutto	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Ind	4	obj	_	_
 6	a	a	ADP	_	_	_	_	_	_
 7	un	uno	DET	_	_	_	_	_	_
@@ -2510,7 +2510,7 @@
 17	mentre	mentre	SCONJ	_	_	_	_	_	_
 18	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	19	expl	_	_
 19	avviavano	avviare	VERB	_	Aspect=Imp|Case=Dur|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	14	advcl	_	_
-19.1	-	-	-	_	Case=Nom	19	nsubj	_	_
+19.1	_	_	_	_	Case=Nom	19	nsubj	_	_
 20	a	a	ADP	_	_	_	_	_	_
 21	una	uno	DET	_	_	_	_	_	_
 22	giornata	giornata	NOUN	_	Case=Lat|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	19	obl	_	_
@@ -2531,7 +2531,7 @@
 9	pensionati	pensionato	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	6	conj	_	_
 10	e	e	CCONJ	_	_	_	_	_	_
 11	parlano	parlare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
-11.1	-	-	-	_	Case=Nom	11	nsubj	_	_
+11.1	_	_	_	_	Case=Nom	11	nsubj	_	_
 12	ad	a	ADP	_	_	_	_	_	_
 13	alta	alto	ADJ	_	Polarity=Pos	14	amod	_	_
 14	voce	voce	NOUN	_	Case=Lat|Gender=Fem|Number=Sing|Polarity=Pos	11	obl	_	_
@@ -2674,10 +2674,10 @@
 30	e	e	CCONJ	_	_	_	_	_	_
 31	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	32	expl:impers	_	_
 32	prevede	prevedere	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	22	conj	_	_
-32.1	-	-	-	_	Case=Nom	32	nsubj	_	_
+32.1	_	_	_	_	Case=Nom	32	nsubj	_	_
 33	che	che	SCONJ	_	_	_	_	_	_
 34	viaggerà	viaggiare	VERB	_	Case=Acc|Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	32	ccomp	_	_
-34.1	-	-	-	_	Case=Nom	34	nsubj	_	_
+34.1	_	_	_	_	Case=Nom	34	nsubj	_	_
 35	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-3019
@@ -3012,7 +3012,7 @@
 9	ed	e	CCONJ	_	_	_	_	_	_
 10	è	essere	AUX	_	_	_	_	_	_
 11	fatto	fare	VERB	_	Aspect=Perf|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
-11.1	-	-	-	_	Case=Nom	11	nsubj	_	_
+11.1	_	_	_	_	Case=Nom	11	nsubj	_	_
 12	apposta	apposta	ADV	_	|	11	advmod	_	_
 13	per	per	ADP	_	_	_	_	_	_
 14	recuperare	recuperare	VERB	_	Case=Cau|Polarity=Pos|VerbForm=Inf|Voice=Act	12	advcl	_	_
@@ -3032,7 +3032,7 @@
 # sent_id = isst_tanl-3268
 # text = Trattieni il respiro per cinque secondi, poi espira piano piano, ripetendo mentalmente la parola "rilassati".
 1	Trattieni	trattenere	VERB	_	Mood=Imp|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	il	il	DET	_	_	_	_	_	_
 3	respiro	respiro	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	_
 4	per	per	ADP	_	_	_	_	_	_
@@ -3041,7 +3041,7 @@
 7	,	,	PUNCT	_	_	_	_	_	_
 8	poi	poi	ADV	_	|	9	advmod	_	_
 9	espira	espirare	VERB	_	Mood=Imp|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
-9.1	-	-	-	_	Case=Nom	9	nsubj	_	_
+9.1	_	_	_	_	Case=Nom	9	nsubj	_	_
 10	piano	piano	ADV	_	|	9	advmod	_	_
 11	piano	piano	ADV	_	|	10	advmod	_	_
 12	,	,	PUNCT	_	_	_	_	_	_
@@ -3051,7 +3051,7 @@
 16	parola	parola	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	13	obj	_	_
 17	"	"	PUNCT	_	_	_	_	_	_
 18	rilassati	rilassare	VERB	_	Mood=Imp|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
-18.1	-	-	-	_	Case=Nom	18	nsubj	_	_
+18.1	_	_	_	_	Case=Nom	18	nsubj	_	_
 19	"	"	PUNCT	_	_	_	_	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
 
@@ -3152,7 +3152,7 @@
 # text = Se appaiono dei peluzzi intorno al capezzolo, ricorri al consiglio di un endocrinologo:
 1	Se	se	SCONJ	_	_	_	_	_	_
 2	appaiono	apparire	VERB	_	Aspect=Imp|Case=Cnd|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3-4	dei	_	_	_	_	_	_	_	_
 3	di	di	ADP	_	_	_	_	_	_
 4	i	il	DET	_	_	_	_	_	_
@@ -3163,7 +3163,7 @@
 8	il	il	DET	_	_	_	_	_	_
 9	capezzolo	capezzolo	NOUN	_	Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
-11.1	-	-	-	_	Case=Nom	11	nsubj	_	_
+11.1	_	_	_	_	Case=Nom	11	nsubj	_	_
 11	ricorri	ricorrere	VERB	_	Mood=Imp|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 12-13	al	_	_	_	_	_	_	_	_
 12	a	a	ADP	_	_	_	_	_	_
@@ -3219,7 +3219,7 @@
 4	fisiologico	fisiologico	ADJ	_	Polarity=Pos	3	amod	_	_
 5	,	,	PUNCT	_	_	_	_	_	_
 6	segui	seguire	VERB	_	Mood=Imp|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-6.1	-	-	-	_	Case=Nom	6	nsubj	_	_
+6.1	_	_	_	_	Case=Nom	6	nsubj	_	_
 7	una	uno	DET	_	_	_	_	_	_
 8	dieta	dieta	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	_
 9	equilibrata	equilibrato	ADJ	_	Polarity=Pos	8	amod	_	_
@@ -3246,7 +3246,7 @@
 # text = Frizionale tutti i giorni con un guanto di crine e leviga la pelle, non più di una volta la settimana sotto la doccia, con uno scrubbing esfoliante come Grain Fin di Jeanne Piaubert ai polimeri addolcenti, e se preferisci il gel c'è quello exfoliant di Vichy tonificante.
 1-2	Frizionale	_	_	_	_	_	_	_	_
 1	Friziona	frizionare	VERB	_	Mood=Imp|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	le	le	PRON	_	Case=Acc|Clitic=Yes|Gender=Fem|Number=Plur|Person=3|Polarity=Pos|PronType=Prs	1	obj	_	_
 3	tutti	tutto	DET	_	Gender=Masc|Number=Plur|PronType=Tot	5	det:predet	_	_
 4	i	il	DET	_	_	_	_	_	_
@@ -3258,7 +3258,7 @@
 10	crine	crine	NOUN	_	Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	8	nmod	_	_
 11	e	e	CCONJ	_	_	_	_	_	_
 12	leviga	levigare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
-12.1	-	-	-	_	Case=Nom	12	nsubj	_	_
+12.1	_	_	_	_	Case=Nom	12	nsubj	_	_
 13	la	il	DET	_	_	_	_	_	_
 14	pelle	pelle	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	12	obj	_	_
 15	,	,	PUNCT	_	_	_	_	_	_
@@ -3291,7 +3291,7 @@
 41	,	,	PUNCT	_	_	_	_	_	_
 42	e	e	CCONJ	_	_	_	_	_	_
 43	se	se	SCONJ	_	_	_	_	_	_
-44.1	-	-	-	_	Case=Nom	44	nsubj	_	_
+44.1	_	_	_	_	Case=Nom	44	nsubj	_	_
 44	preferisci	preferire	VERB	_	Aspect=Imp|Case=Cnd|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	48	advcl	_	_
 45	il	il	DET	_	_	_	_	_	_
 46	gel	gel	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	44	obj	_	_
@@ -3307,7 +3307,7 @@
 # sent_id = isst_tanl-3459
 # text = Stanno lì, ben dilatati, pronti a riempirsi di acqua e scorie (ecco la cellulite) a trasformare una linea netta in una curva di troppo.
 1	Stanno	stare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	lì	lì	ADV	_	|	1	advmod	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
 4	ben	bene	ADV	_	|	5	advmod	_	_
@@ -3352,7 +3352,7 @@
 # sent_id = isst_tanl-3601
 # text = Vediamo prima di tutto i fatti.
 1	Vediamo	vedere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	prima	prima	ADV	_	|	4	case	_	_
 3	di	di	ADP	_	_	_	_	_	_
 4	tutto	tutto	PRON	_	Gender=Masc|Number=Sing|Polarity=Pos|PronType=Ind	1	obl	_	_
@@ -3399,7 +3399,7 @@
 1	Chi	chi	PRON	_	Case=Nom|Polarity=Pos|PronType=Rel	10	nsubj	_	_
 2	non	non	ADV	_	_	_	_	_	_
 3	sa	sapere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	a	a	ADP	_	_	_	_	_	_
 5	che	che	DET	_	PronType=Int	6	det	_	_
 6	santo	santo	NOUN	_	Case=Lat|Gender=Masc|Number=Sing|Polarity=Pos	7	obl	_	_
@@ -3436,7 +3436,7 @@
 32	americani	americano	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	28	nmod	_	_
 33	e	e	CCONJ	_	_	_	_	_	_
 34	li	li	PRON	_	Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|PronType=Prs	35	obj	_	_
-35.1	-	-	-	_	Case=Nom	35	nsubj	_	_
+35.1	_	_	_	_	Case=Nom	35	nsubj	_	_
 35	indurrebbe	indurre	VERB	_	Case=Conj|Mood=Cnd|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	_
 36	,	,	PUNCT	_	_	_	_	_	_
 37	inconsciamente	inconsciamente	ADV	_	|	35	advmod	_	_
@@ -3463,7 +3463,7 @@
 55	gli	il	DET	_	_	_	_	_	_
 56	indiani	indiano	NOUN	_	Case=Lat|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	53	obl	_	_
 57	o	o	CCONJ	_	_	_	_	_	_
-58.1	-	-	-	_	Case=Nom	58	nsubj	_	_
+58.1	_	_	_	_	Case=Nom	58	nsubj	_	_
 58	proteggevano	proteggere	VERB	_	Aspect=Imp|Case=Disj|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	53	conj	_	_
 59	la	il	DET	_	_	_	_	_	_
 60	fattoria	fattoria	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	58	obj	_	_
@@ -3478,7 +3478,7 @@
 1	Per	per	ADP	_	_	_	_	_	_
 2	quanto	quanto	PRON	_	Case=Cau|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Rel	8	obl	_	_
 3	riguarda	riguardare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	il	il	DET	_	_	_	_	_	_
 5	secondo	secondo	ADJ	_	NumType=Ord|Polarity=Pos	6	amod	_	_
 6	sistema	sistema	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	3	obj	_	_
@@ -3576,7 +3576,7 @@
 11	infarti	infarto	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	obj	_	_
 12	e	e	CCONJ	_	_	_	_	_	_
 13	aveva	avere	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	9	conj	_	_
-13.1	-	-	-	_	Case=Nom	13	nsubj	_	_
+13.1	_	_	_	_	Case=Nom	13	nsubj	_	_
 14	quattro	quattro	NUM	_	NumType=Card|Polarity=Pos	15	nummod	_	_
 15	by-pass	by-pass	NOUN	_	Case=Acc|Gender=Masc|Polarity=Pos	13	obj	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
@@ -3584,7 +3584,7 @@
 # sent_id = isst_tanl-3864
 # text = Trascorrevo i giorni su una sedia a rotelle, mi mancava il fiato per riposare, pesavo 46 chili.
 1	Trascorrevo	trascorrere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	i	il	DET	_	_	_	_	_	_
 3	giorni	giorno	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	1	obj	_	_
 4	su	su	ADP	_	_	_	_	_	_
@@ -3601,7 +3601,7 @@
 15	riposare	riposare	VERB	_	Case=Cau|Polarity=Pos|VerbForm=Inf|Voice=Act	13	acl	_	_
 16	,	,	PUNCT	_	_	_	_	_	_
 17	pesavo	pesare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	1	conj	_	_
-17.1	-	-	-	_	Case=Nom	17	nsubj	_	_
+17.1	_	_	_	_	Case=Nom	17	nsubj	_	_
 18	46	46	NUM	_	NumType=Card|Polarity=Pos	19	nummod	_	_
 19	chili	chilo	NOUN	_	Gender=Masc|Number=Plur|Polarity=Pos	17	obl	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
@@ -3725,7 +3725,7 @@
 5	a	a	ADP	_	_	_	_	_	_
 6	quanto	quanto	PRON	_	Case=Lat|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Rel	10	obl	_	_
 7	pare	parere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
-7.1	-	-	-	_	Case=Nom	7	nsubj	_	_
+7.1	_	_	_	_	Case=Nom	7	nsubj	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
 9	ha	avere	AUX	_	_	_	_	_	_
 10	dato	dare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
@@ -3740,7 +3740,7 @@
 2	Per	per	ADP	_	_	_	_	_	_
 3	piacere	piacere	NOUN	_	Case=Cau|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	_	_
 4	evitate	evitare	VERB	_	Mood=Imp|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	di	di	ADP	_	_	_	_	_	_
 6	parlare	parlare	VERB	_	Case=di|Polarity=Pos|VerbForm=Inf|Voice=Act	4	xcomp	_	_
 7	tra	tra	ADP	_	_	_	_	_	_
@@ -3822,7 +3822,7 @@
 34	che	che	SCONJ	_	_	_	_	_	_
 35	attualmente	attualmente	ADV	_	|	36	advmod	_	_
 36	disporrebbe	disporre	VERB	_	Case=che|Mood=Cnd|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	33	acl	_	_
-36.1	-	-	-	_	Case=Nom	36	nsubj	_	_
+36.1	_	_	_	_	Case=Nom	36	nsubj	_	_
 37	di	di	ADP	_	_	_	_	_	_
 38	un	uno	DET	_	_	_	_	_	_
 39	cospicuo	cospicuo	ADJ	_	Polarity=Pos	40	amod	_	_
@@ -3989,7 +3989,7 @@
 45	se	se	SCONJ	_	_	_	_	_	_
 46	non	non	ADV	_	_	_	_	_	_
 47	superano	superare	VERB	_	Aspect=Imp|Case=Cnd|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
-47.1	-	-	-	_	Case=Nom	47	nsubj	_	_
+47.1	_	_	_	_	Case=Nom	47	nsubj	_	_
 48	la	il	DET	_	_	_	_	_	_
 49	normale	normale	ADJ	_	Polarity=Pos	50	amod	_	_
 50	tollerabilità	tollerabilità	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	47	obj	_	_
@@ -4052,7 +4052,7 @@
 1	Deve	dovere	AUX	_	_	_	_	_	_
 2	inoltre	inoltre	ADV	_	|	3	advmod	_	_
 3	eseguire	eseguire	VERB	_	Modality=Nec|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	le	il	DET	_	_	_	_	_	_
 5	opere	opera	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	3	obj	_	_
 6	che	che	PRON	_	Case=Nom|Polarity=Pos|PronType=Rel	7	nsubj	_	_
@@ -4091,7 +4091,7 @@
 1	Chi	chi	PRON	_	Case=Nom|Number=Sing|Polarity=Pos|PronType=Rel	9	nsubj	_	_
 2	vuol	volere	AUX	_	_	_	_	_	_
 3	piantare	piantare	VERB	_	Modality=Des|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	alberi	albero	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	3	obj	_	_
 5	presso	presso	ADP	_	_	_	_	_	_
 6	il	il	DET	_	_	_	_	_	_
@@ -4139,7 +4139,7 @@
 4	,	,	PUNCT	_	_	_	_	_	_
 5	quando	quando	SCONJ	_	_	_	_	_	_
 6	permettono	permettere	VERB	_	Aspect=Imp|Case=Tem|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
-6.1	-	-	-	_	Case=Nom	6	nsubj	_	_
+6.1	_	_	_	_	Case=Nom	6	nsubj	_	_
 7	di	di	ADP	_	_	_	_	_	_
 8-9	affacciarsi	_	_	_	_	_	_	_	_
 8	affacciar	affacciare	VERB	_	Case=di|Polarity=Pos|VerbForm=Inf|Voice=Act	6	ccomp	_	_
@@ -4230,7 +4230,7 @@
 52	ma	ma	CCONJ	_	_	_	_	_	_
 53	deve	dovere	AUX	_	_	_	_	_	_
 54	restituire	restituire	VERB	_	Case=Advs|Modality=Nec|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	33	conj	_	_
-54.1	-	-	-	_	Case=Nom	54	nsubj	_	_
+54.1	_	_	_	_	Case=Nom	54	nsubj	_	_
 55	le	il	DET	_	_	_	_	_	_
 56	colature	colatura	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	54	obj	_	_
 57	e	e	CCONJ	_	_	_	_	_	_
@@ -4278,7 +4278,7 @@
 15	utilità	utilità	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	12	nmod	_	_
 16	che	che	PRON	_	Case=Acc|Polarity=Pos|PronType=Rel	17	obj	_	_
 17	derivano	derivare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl:relcl	_	_
-17.1	-	-	-	_	Case=Nom	17	nsubj	_	_
+17.1	_	_	_	_	Case=Nom	17	nsubj	_	_
 18	da	da	ADP	_	_	_	_	_	_
 19	tali	tale	DET	_	Number=Plur|PronType=Dem	20	det	_	_
 20	opere	opera	NOUN	_	Case=Abl|Dem=TBD-DETDEM-tale|Gender=Fem|Number=Plur|Polarity=Pos	17	obl	_	_
@@ -4516,7 +4516,7 @@
 3	pari	pari	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	5	obl	_	_
 4	può	potere	AUX	_	_	_	_	_	_
 5	alienare	alienare	VERB	_	Modality=Pot|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5.1	-	-	-	_	Case=Nom	5	nsubj	_	_
+5.1	_	_	_	_	Case=Nom	5	nsubj	_	_
 6	la	il	DET	_	_	_	_	_	_
 7	proprietà	proprietà	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	5	obj	_	_
 8-9	della	_	_	_	_	_	_	_	_
@@ -4870,7 +4870,7 @@
 # text = Si comprendono inoltre i figli adottivi (291 e seguenti), i figli naturali riconosciuti (250 e seguenti) e gli affiliati (404 e seguenti), anche se l'adozione, il riconoscimento o l'affiliazione sono seguiti dopo che il diritto era già sorto.
 1	Si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	2	expl:impers	_	_
 2	comprendono	comprendere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	inoltre	inoltre	ADV	_	|	2	advmod	_	_
 4	i	il	DET	_	_	_	_	_	_
 5	figli	figlio	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	2	obj	_	_
@@ -5013,7 +5013,7 @@
 # text = Chi ha diritto di derivare acque da fiumi, torrenti, rivi, canali, laghi o serbatoi può, qualora sia necessario, appoggiare o infiggere una chiusa alle sponde, con l'obbligo però di pagare la indennità e di fare e mantenere le opere atte ad assicurare i fondi da ogni danno (1032).
 1	Chi	chi	PRON	_	Case=Nom|Number=Sing|Polarity=Pos|PronType=Rel	25	nsubj	_	_
 2	ha	avere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	diritto	diritto	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
 4	di	di	ADP	_	_	_	_	_	_
 5	derivare	derivare	VERB	_	Case=di|Polarity=Pos|VerbForm=Inf|Voice=Act	3	acl	_	_
@@ -5240,7 +5240,7 @@
 1	Parimenti	parimenti	ADV	_	|	3	advmod	_	_
 2	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	3	expl:impers	_	_
 3	fa	fare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	luogo	luogo	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	3	obj	_	_
 5-6	alle	_	_	_	_	_	_	_	_
 5	a	a	ADP	_	_	_	_	_	_
@@ -5315,7 +5315,7 @@
 1	Chi	chi	PRON	_	Case=Nom|Number=Sing|Polarity=Pos|PronType=Rel	7	nsubj:pass	_	_
 2	ha	avere	AUX	_	_	_	_	_	_
 3	ricevuto	ricevere	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	il	il	DET	_	_	_	_	_	_
 5	pagamento	pagamento	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	3	obj	_	_
 6	è	essere	AUX	_	_	_	_	_	_
@@ -5569,7 +5569,7 @@
 1	Si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	3	expl:impers	_	_
 2	può	potere	AUX	_	_	_	_	_	_
 3	procedere	procedere	VERB	_	Modality=Pot|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	a	a	ADP	_	_	_	_	_	_
 5	sequestro	sequestro	NOUN	_	Case=Lat|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
 6	soltanto	soltanto	ADV	_	|	8	advmod	_	_
@@ -5629,7 +5629,7 @@
 # sent_id = tut-1369
 # text = Protegge la maternità, l'infanzia e la gioventù, favorendo gli istituti necessari a tale scopo.
 1	Protegge	proteggere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	la	il	DET	_	_	_	_	_	_
 3	maternità	maternità	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	1	obj	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
@@ -5674,10 +5674,10 @@
 # sent_id = tut-1391
 # text = Promuove e favorisce gli accordi e le organizzazioni internazionali intesi ad affermare e regolare i diritti del lavoro.
 1	Promuove	promuovere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	e	e	CCONJ	_	_	_	_	_	_
 3	favorisce	favorire	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	gli	il	DET	_	_	_	_	_	_
 5	accordi	accordo	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	3	obj	_	_
 6	e	e	CCONJ	_	_	_	_	_	_
@@ -5700,7 +5700,7 @@
 # sent_id = tut-1430
 # text = aiuta la piccola e la media proprietà.
 1	aiuta	aiutare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	la	il	DET	_	_	_	_	_	_
 3	piccola	piccolo	ADJ	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	1	obj	_	_
 4	e	e	CCONJ	_	_	_	_	_	_
@@ -5785,7 +5785,7 @@
 12	Consiglio	consiglio	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	9	nmod	_	_
 13	e	e	CCONJ	_	_	_	_	_	_
 14	determina	determinare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
-14.1	-	-	-	_	Case=Nom	14	nsubj	_	_
+14.1	_	_	_	_	Case=Nom	14	nsubj	_	_
 15	il	il	DET	_	_	_	_	_	_
 16	numero	numero	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	14	obj	_	_
 17	,	,	PUNCT	_	_	_	_	_	_
@@ -5840,7 +5840,7 @@
 3	,	,	PUNCT	_	_	_	_	_	_
 4	quando	quando	SCONJ	_	_	_	_	_	_
 5	ritenga	ritenere	VERB	_	Case=Tem|Mood=Sub|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	32	advcl	_	_
-5.1	-	-	-	_	Case=Nom	5	nsubj	_	_
+5.1	_	_	_	_	Case=Nom	5	nsubj	_	_
 6	che	che	SCONJ	_	_	_	_	_	_
 7	una	uno	DET	_	_	_	_	_	_
 8	legge	legge	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	24	nsubj	_	_
@@ -6022,7 +6022,7 @@
 8	energia	energia	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	_
 9	ed	e	CCONJ	_	_	_	_	_	_
 10	ottemperano	ottemperare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
-10.1	-	-	-	_	Case=Nom	10	nsubj	_	_
+10.1	_	_	_	_	Case=Nom	10	nsubj	_	_
 11-12	alle	_	_	_	_	_	_	_	_
 11	a	a	ADP	_	_	_	_	_	_
 12	le	il	DET	_	_	_	_	_	_
@@ -6111,7 +6111,7 @@
 24	modifica	modificare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl:relcl	_	_
 25	ed	e	CCONJ	_	_	_	_	_	_
 26	estende	estendere	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	_
-26.1	-	-	-	_	Case=Nom	26	nsubj	_	_
+26.1	_	_	_	_	Case=Nom	26	nsubj	_	_
 27	la	il	DET	_	_	_	_	_	_
 28	Decisione	decisione	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	26	obj	_	_
 29-30	del	_	_	_	_	_	_	_	_
@@ -6297,7 +6297,7 @@
 7	anche	anche	ADV	_	|	9	advmod	_	_
 8	ci	ci	PRON	_	Case=Acc|Clitic=Yes|Number=Plur|Person=1|Polarity=Pos|PronType=Prs	9	obj	_	_
 9	divideva	dividere	VERB	_	Aspect=Imp|Case=Advs|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	4	conj	_	_
-9.1	-	-	-	_	Case=Nom	9	nsubj	_	_
+9.1	_	_	_	_	Case=Nom	9	nsubj	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = tut-2220
@@ -6386,7 +6386,7 @@
 46	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	48	expl	_	_
 47	sono	essere	AUX	_	_	_	_	_	_
 48	portati	portare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	42	acl:relcl	_	_
-48.1	-	-	-	_	Case=Nom	48	nsubj	_	_
+48.1	_	_	_	_	Case=Nom	48	nsubj	_	_
 49	via	via	ADV	_	|	48	advmod	_	_
 50	135	135	NUM	_	NumType=Card|Polarity=Pos	51	nummod	_	_
 51	barche	barca	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	48	obj	_	_
@@ -6736,7 +6736,7 @@
 23	e	e	CCONJ	_	_	_	_	_	_
 24	hanno	avere	AUX	_	_	_	_	_	_
 25	raggiunto	raggiungere	VERB	_	Aspect=Perf|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	_	_
-25.1	-	-	-	_	Case=Nom	25	nsubj	_	_
+25.1	_	_	_	_	Case=Nom	25	nsubj	_	_
 26	il	il	DET	_	_	_	_	_	_
 27	porto	porto	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	25	obj	_	_
 28	albanese	albanese	ADJ	_	Polarity=Pos	27	amod	_	_
@@ -6820,7 +6820,7 @@
 2	quanto	quanto	PRON	_	Case=Cau|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Rel	23	obl	_	_
 3	è	essere	AUX	_	_	_	_	_	_
 4	dato	dare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past;Pres|VerbForm=Fin|Voice=Pass	2	acl:relcl	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	sapere	sapere	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	4	xcomp	_	_
 6-7	negli	_	_	_	_	_	_	_	_
 6	in	in	ADP	_	_	_	_	_	_
@@ -6910,7 +6910,7 @@
 2	questo	questo	PRON	_	Case=Cau|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Dem	4	obl	_	_
 3	ha	avere	AUX	_	_	_	_	_	_
 4	annunciato	annunciare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	la	il	DET	_	_	_	_	_	_
 6	creazione	creazione	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
 7	di	di	ADP	_	_	_	_	_	_
@@ -6958,7 +6958,7 @@
 7	per	per	ADP	_	_	_	_	_	_
 8	vivere	vivere	VERB	_	Case=Cau|Polarity=Pos|VerbForm=Inf|Voice=Act	9	advcl	_	_
 9	bisogna	bisognare	VERB	_	Aspect=Imp|Case=Acc|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
-9.1	-	-	-	_	Case=Nom	9	nsubj	_	_
+9.1	_	_	_	_	Case=Nom	9	nsubj	_	_
 10	anche	anche	ADV	_	|	9	advmod	_	_
 11	produrre	produrre	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	9	ccomp	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
@@ -6993,7 +6993,7 @@
 22	e	e	CCONJ	_	_	_	_	_	_
 23	hanno	avere	AUX	_	_	_	_	_	_
 24	indetto	indire	VERB	_	Aspect=Perf|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	_
-24.1	-	-	-	_	Case=Nom	24	nsubj	_	_
+24.1	_	_	_	_	Case=Nom	24	nsubj	_	_
 25	una	uno	DET	_	_	_	_	_	_
 26	manifestazione	manifestazione	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	24	obj	_	_
 27	per	per	ADP	_	_	_	_	_	_
@@ -7097,7 +7097,7 @@
 26	calorosamente	calorosamente	ADV	_	|	28	advmod	_	_
 27	"	"	PUNCT	_	_	_	_	_	_
 28	congratulato	congratulare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
-28.1	-	-	-	_	Case=Nom	28	nsubj	_	_
+28.1	_	_	_	_	Case=Nom	28	nsubj	_	_
 29	"	"	PUNCT	_	_	_	_	_	_
 30	per	per	ADP	_	_	_	_	_	_
 31	il	il	DET	_	_	_	_	_	_
@@ -7172,16 +7172,16 @@
 # text = Se pensi a queste cose, se ci rifletti su finisci per sbagliare.
 1	Se	se	SCONJ	_	_	_	_	_	_
 2	pensi	pensare	VERB	_	Aspect=Imp|Case=Cnd|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	a	a	ADP	_	_	_	_	_	_
 4	queste	questo	DET	_	Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
 5	cose	cosa	NOUN	_	Case=Lat|Definite=Def|Dem=Prox|Gender=Fem|Number=Plur|Polarity=Pos	2	obl	_	_
 6	,	,	PUNCT	_	_	_	_	_	_
 7	se	se	SCONJ	_	_	_	_	_	_
 8	ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|Polarity=Pos|PronType=Prs	9	expl	_	_
-9.1	-	-	-	_	Case=Nom	9	nsubj	_	_
+9.1	_	_	_	_	Case=Nom	9	nsubj	_	_
 9	rifletti	riflettere	VERB	_	Aspect=Imp|Case=Cnd|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
-11.1	-	-	-	_	Case=Nom	11	nsubj	_	_
+11.1	_	_	_	_	Case=Nom	11	nsubj	_	_
 10	su	su	ADV	_	|	9	advmod	_	_
 11	finisci	finire	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 12	per	per	ADP	_	_	_	_	_	_
@@ -7223,7 +7223,7 @@
 4	anche	anche	ADV	_	|	5	advmod	_	_
 5	chi	chi	PRON	_	Case=Nom|Number=Sing|Polarity=Pos|PronType=Rel	3	nsubj	_	_
 6	avanza	avanzare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
-6.1	-	-	-	_	Case=Nom	6	nsubj	_	_
+6.1	_	_	_	_	Case=Nom	6	nsubj	_	_
 7	una	uno	DET	_	_	_	_	_	_
 8	strana	strano	ADJ	_	Polarity=Pos	9	amod	_	_
 9	offerta	offerta	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	6	obj	_	_
@@ -7315,7 +7315,7 @@
 9	e	e	CCONJ	_	_	_	_	_	_
 10	presto	presto	ADV	_	|	11	advmod	_	_
 11	vedrò	vedere	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	_
-11.1	-	-	-	_	Case=Nom	11	nsubj	_	_
+11.1	_	_	_	_	Case=Nom	11	nsubj	_	_
 12	il	il	DET	_	_	_	_	_	_
 13	leader	leader	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	11	obj	_	_
 14	sovietico	sovietico	ADJ	_	Polarity=Pos	13	amod	_	_
@@ -7960,7 +7960,7 @@
 27	foglie	foglia	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	24	nmod	_	_
 28	dove	dove	ADV	_	|	29	advmod	_	_
 29	distruggono	distruggere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	27	acl:relcl	_	_
-29.1	-	-	-	_	Case=Nom	29	nsubj	_	_
+29.1	_	_	_	_	Case=Nom	29	nsubj	_	_
 30	la	il	DET	_	_	_	_	_	_
 31	clorofilla	clorofilla	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	29	obj	_	_
 32	.	.	PUNCT	_	_	_	_	_	_
@@ -8013,7 +8013,7 @@
 24	completata	completare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 25	e	e	CCONJ	_	_	_	_	_	_
 26	prese	prendere	VERB	_	Case=Conj|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	24	conj	_	_
-26.1	-	-	-	_	Case=Nom	26	nsubj	_	_
+26.1	_	_	_	_	Case=Nom	26	nsubj	_	_
 27	il	il	DET	_	_	_	_	_	_
 28	nome	nome	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	26	obj	_	_
 29	di	di	ADP	_	_	_	_	_	_
@@ -8379,7 +8379,7 @@
 23	se	se	SCONJ	_	_	_	_	_	_
 24	non	non	ADV	_	_	_	_	_	_
 25	esiste	esistere	VERB	_	Aspect=Imp|Case=Cnd|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
-25.1	-	-	-	_	Case=Nom	25	nsubj	_	_
+25.1	_	_	_	_	Case=Nom	25	nsubj	_	_
 26	,	,	PUNCT	_	_	_	_	_	_
 27	nome	nome	NOUN	_	Case=Disj|Gender=Masc|Number=Sing|Polarity=Pos	3	conj	_	_
 28	,	,	PUNCT	_	_	_	_	_	_
@@ -8440,7 +8440,7 @@
 28	che	che	SCONJ	_	_	_	_	_	_
 29	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	30	expl	_	_
 30	tratti	trattare	VERB	_	Case=che|Mood=Sub|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	27	acl	_	_
-30.1	-	-	-	_	Case=Nom	30	nsubj	_	_
+30.1	_	_	_	_	Case=Nom	30	nsubj	_	_
 31	di	di	ADP	_	_	_	_	_	_
 32	un	uno	DET	_	_	_	_	_	_
 33	acquisto	acquisto	NOUN	_	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos	30	obl	_	_
@@ -8747,7 +8747,7 @@
 # sent_id = quest-335
 # text = Dimmi il nome di un burattinaio.
 1	Dimmi	Dimmi	VERB	_	Mood=Imp|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	il	il	DET	_	_	_	_	_	_
 3	nome	nome	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	_
 4	di	di	ADP	_	_	_	_	_	_
@@ -9071,7 +9071,7 @@
 # sent_id = quest-933
 # text = Nomina una squadra in cui ha giocato Tim Crews.
 1	Nomina	nominare	VERB	_	Mood=Imp|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	una	uno	DET	_	_	_	_	_	_
 3	squadra	squadra	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	1	obj	_	_
 4	in	in	ADP	_	_	_	_	_	_
@@ -9561,7 +9561,7 @@
 2	chi	chi	PRON	_	Case=Cau|Polarity=Pos|PronType=Int	4	obl	_	_
 3	ha	avere	AUX	_	_	_	_	_	_
 4	comprato	comprare	VERB	_	Aspect=Perf|Mood=Int|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	i	il	DET	_	_	_	_	_	_
 6	regali	regalo	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	4	obj	_	_
 7	?	?	PUNCT	_	_	_	_	_	_
@@ -9572,7 +9572,7 @@
 2	cosa	cosa	PRON	_	Case=Com|Number=Sing|Polarity=Pos|PronType=Int	4	obl	_	_
 3	stanno	stare	AUX	_	_	_	_	_	_
 4	legando	legare	VERB	_	Aspect=Prog|Mood=Int|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	le	il	DET	_	_	_	_	_	_
 6	barche	barca	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	4	obj	_	_
 7	?	?	PUNCT	_	_	_	_	_	_
@@ -9742,7 +9742,7 @@
 4	è	essere	AUX	_	_	_	_	_	_
 5	stato	essere	AUX	_	_	_	_	_	_
 6	nominato	nominare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-6.1	-	-	-	_	Case=Nom	6	nsubj	_	_
+6.1	_	_	_	_	Case=Nom	6	nsubj	_	_
 7	amministratore	amministratore	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	6	xcomp	_	_
 8	delegato	delegato	ADJ	_	Polarity=Pos	7	amod	_	_
 9-10	della	_	_	_	_	_	_	_	_
@@ -9853,7 +9853,7 @@
 22	non	non	ADV	_	_	_	_	_	_
 23	sarà	essere	AUX	_	_	_	_	_	_
 24	chiusa	chiudere	VERB	_	Aspect=Perf|Case=Conj|Mood=Ind|Polarity=Neg|Tense=Past;Fut|VerbForm=Fin|Voice=Act	4	conj	_	_
-24.1	-	-	-	_	Case=Nom	24	nsubj	_	_
+24.1	_	_	_	_	Case=Nom	24	nsubj	_	_
 25	prima	prima	ADV	_	|	28	case	_	_
 26	di	di	ADP	_	_	_	_	_	_
 27	diversi	diverso	DET	_	Gender=Masc|Number=Plur|PronType=Ind	28	det	_	_
@@ -9912,7 +9912,7 @@
 16	lavoro	lavoro	NOUN	_	Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	15	obj	_	_
 17	o	o	CCONJ	_	_	_	_	_	_
 18	svolgono	svolgere	VERB	_	Aspect=Imp|Case=Disj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
-18.1	-	-	-	_	Case=Nom	18	nsubj	_	_
+18.1	_	_	_	_	Case=Nom	18	nsubj	_	_
 19	lavori	lavoro	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	18	obj	_	_
 20	sottopagati	sottopagato	ADJ	_	Polarity=Pos	19	amod	_	_
 21	e	e	CCONJ	_	_	_	_	_	_
@@ -9926,7 +9926,7 @@
 1	Gli	gli	PRON	_	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	3	iobj	_	_
 2	abbiamo	avere	AUX	_	_	_	_	_	_
 3	dato	dare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	da	da	ADP	_	_	_	_	_	_
 5	mangiare	mangiare	VERB	_	Case=Abl|Polarity=Pos|VerbForm=Inf|Voice=Act	3	ccomp	_	_
 6	due	due	NUM	_	NumType=Card|Polarity=Pos	7	nummod	_	_
@@ -9935,14 +9935,14 @@
 9	li	li	PRON	_	Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|PronType=Prs	11	obj	_	_
 10	abbiamo	avere	AUX	_	_	_	_	_	_
 11	fatti	fare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
-11.1	-	-	-	_	Case=Nom	11	nsubj	_	_
+11.1	_	_	_	_	Case=Nom	11	nsubj	_	_
 12	bere	bere	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	11	xcomp	_	_
 13	,	,	PUNCT	_	_	_	_	_	_
 14	riscaldati	riscaldare	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	conj	_	_
 15	,	,	PUNCT	_	_	_	_	_	_
 16	gli	gli	PRON	_	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	18	iobj	_	_
 17	abbiamo	avere	AUX	_	_	_	_	_	_
-18.1	-	-	-	_	Case=Nom	18	nsubj	_	_
+18.1	_	_	_	_	Case=Nom	18	nsubj	_	_
 18	messo	mettere	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
 19	delle	di	DET	_	Gender=Fem|Number=Plur|PronType=Ind	20	det	_	_
 20	coperte	coperta	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur|Polarity=Pos	18	obj	_	_
@@ -9976,7 +9976,7 @@
 18	e	e	CCONJ	_	_	_	_	_	_
 19	non	non	ADV	_	_	_	_	_	_
 20	fornisce	fornire	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	_
-20.1	-	-	-	_	Case=Nom	20	nsubj	_	_
+20.1	_	_	_	_	Case=Nom	20	nsubj	_	_
 21	servizi	servizio	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	20	obj	_	_
 22	di	di	ADP	_	_	_	_	_	_
 23	consulenza	consulenza	NOUN	_	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	21	nmod	_	_
@@ -10046,7 +10046,7 @@
 7	,	,	PUNCT	_	_	_	_	_	_
 8	è	essere	AUX	_	_	_	_	_	_
 9	inteso	intendere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past;Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-9.1	-	-	-	_	Case=Nom	9	nsubj	_	_
+9.1	_	_	_	_	Case=Nom	9	nsubj	_	_
 10	che	che	SCONJ	_	_	_	_	_	_
 11	il	il	DET	_	_	_	_	_	_
 12	Licenziante	Licenziante	PROPN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	13	nsubj	_	_
@@ -10110,7 +10110,7 @@
 6	esclude	escludere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	o	o	CCONJ	_	_	_	_	_	_
 8	limita	limitare	VERB	_	Aspect=Imp|Case=Disj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
-8.1	-	-	-	_	Case=Nom	8	nsubj	_	_
+8.1	_	_	_	_	Case=Nom	8	nsubj	_	_
 9	la	il	DET	_	_	_	_	_	_
 10	responsabilità	responsabilità	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	_	_
 11-12	nel	_	_	_	_	_	_	_	_
@@ -10154,11 +10154,11 @@
 # text = Avete chiesto che si tenesse una discussione su tale tema nei prossimi giorni, nel corso della presente tornata.
 1	Avete	avere	AUX	_	_	_	_	_	_
 2	chiesto	chiedere	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	che	che	SCONJ	_	_	_	_	_	_
 4	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	5	expl:impers	_	_
 5	tenesse	tenere	VERB	_	Case=Acc|Mood=Sub|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	2	ccomp	_	_
-5.1	-	-	-	_	Case=Nom	5	nsubj	_	_
+5.1	_	_	_	_	Case=Nom	5	nsubj	_	_
 6	una	uno	DET	_	_	_	_	_	_
 7	discussione	discussione	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	5	obj	_	_
 8	su	su	ADP	_	_	_	_	_	_
@@ -10216,7 +10216,7 @@
 26	paragrafo	paragrafo	NOUN	_	Case=Lat|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	28	obl	_	_
 27	6	6	NUM	_	NumType=Card|Polarity=Pos	26	nummod	_	_
 28	contiene	contenere	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	_
-28.1	-	-	-	_	Case=Nom	28	nsubj	_	_
+28.1	_	_	_	_	Case=Nom	28	nsubj	_	_
 29	una	uno	DET	_	_	_	_	_	_
 30	proposta	proposta	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	28	obj	_	_
 31	volta	volgere	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	30	acl	_	_
@@ -10264,7 +10264,7 @@
 # sent_id = 2_Europarl-40
 # text = faccia in modo che sia reso disponibile anche un canale olandese.
 1	faccia	fare	VERB	_	Mood=Sub|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	in	in	ADP	_	_	_	_	_	_
 3	modo	modo	NOUN	_	Case=Ine|Gender=Masc|Number=Sing|Polarity=Pos	1	obl	_	_
 4	che	che	SCONJ	_	_	_	_	_	_
@@ -10358,7 +10358,7 @@
 2	infine	infine	ADV	_	|	3	advmod	_	_
 3-4	soffermarmi	_	_	_	_	_	_	_	_
 3	soffermar	soffermare	VERB	_	Modality=Des|Mood=Cnd|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|Polarity=Pos|PronType=Prs	3	expl	_	_
 5	su	su	ADP	_	_	_	_	_	_
 6	un	uno	DET	_	_	_	_	_	_
@@ -10373,7 +10373,7 @@
 3	che	che	SCONJ	_	_	_	_	_	_
 4	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	5	expl	_	_
 5	tratta	trattare	VERB	_	Aspect=Imp|Case=Acc|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
-5.1	-	-	-	_	Case=Nom	5	nsubj	_	_
+5.1	_	_	_	_	Case=Nom	5	nsubj	_	_
 6	soltanto	soltanto	ADV	_	|	10	advmod	_	_
 7	di	di	ADP	_	_	_	_	_	_
 8	un	uno	DET	_	_	_	_	_	_
@@ -10404,12 +10404,12 @@
 4	volta	volta	NOUN	_	Aspect=Imp|Definite=Def|Gender=Fem|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	che	che	SCONJ	_	_	_	_	_	_
 6	intervengo	intervenire	VERB	_	Aspect=Imp|Case=che|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
-6.1	-	-	-	_	Case=Nom	6	nsubj	_	_
+6.1	_	_	_	_	Case=Nom	6	nsubj	_	_
 7	in	in	ADP	_	_	_	_	_	_
 8	Plenaria	Plenaria	PROPN	_	Case=Ine|Polarity=Pos	6	obl	_	_
 9	e	e	CCONJ	_	_	_	_	_	_
 10	devo	dovere	AUX	_	_	_	_	_	_
-11.1	-	-	-	_	Case=Nom	11	nsubj	_	_
+11.1	_	_	_	_	Case=Nom	11	nsubj	_	_
 11	ammettere	ammettere	VERB	_	Case=Conj|Modality=Nec|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 12	di	di	ADP	_	_	_	_	_	_
 13	essere	essere	AUX	_	_	_	_	_	_
@@ -10419,7 +10419,7 @@
 17	un	uno	DET	_	_	_	_	_	_
 18	po'	poco	ADV	_	Definite=Ind|Gender=Masc|Number=Sing	20	advmod	_	_
 19	come	come	SCONJ	_	_	_	_	_	_
-20.1	-	-	-	_	Case=Nom	20	nsubj	_	_
+20.1	_	_	_	_	Case=Nom	20	nsubj	_	_
 20	succede	succedere	VERB	_	Aspect=Imp|Case=TBD-'come'|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	_
 21	con	con	ADP	_	_	_	_	_	_
 22	il	il	DET	_	_	_	_	_	_
@@ -10516,7 +10516,7 @@
 3	,	,	PUNCT	_	_	_	_	_	_
 4	mi	mi	PRON	_	Clitic=Yes|Number=Sing|Person=1|Polarity=Pos|PronType=Prs	5	expl	_	_
 5	congratulo	congratulare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5.1	-	-	-	_	Case=Nom	5	nsubj	_	_
+5.1	_	_	_	_	Case=Nom	5	nsubj	_	_
 6	nuovamente	nuovamente	ADV	_	|	5	advmod	_	_
 7	con	con	ADP	_	_	_	_	_	_
 8	l'	il	DET	_	_	_	_	_	_
@@ -10546,7 +10546,7 @@
 32	che	che	PRON	_	Case=Acc|Polarity=Pos|PronType=Rel	34	obj	_	_
 33	abbiamo	avere	AUX	_	_	_	_	_	_
 34	tenuto	tenere	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	31	acl:relcl	_	_
-34.1	-	-	-	_	Case=Nom	34	nsubj	_	_
+34.1	_	_	_	_	Case=Nom	34	nsubj	_	_
 35	lo	il	DET	_	_	_	_	_	_
 36	scorso	scorso	ADJ	_	Polarity=Pos	37	amod	_	_
 37	ottobre	ottobre	NOUN	_	Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	34	obl	_	_
@@ -10562,7 +10562,7 @@
 1	Non	non	ADV	_	_	_	_	_	_
 2	dobbiamo	dovere	AUX	_	_	_	_	_	_
 3	dimenticare	dimenticare	VERB	_	Modality=not(Nec)|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	che	che	SCONJ	_	_	_	_	_	_
 5	lo	il	DET	_	_	_	_	_	_
 6	spazio	spazio	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	8	nsubj	_	_
@@ -10597,7 +10597,7 @@
 # text = Ci opponiamo all'eccessivo controllo dell'Unione Europea e dei governi centrali dei paesi membri e chiediamo che venga ridotta la burocrazia, che fa rallentare lo sviluppo e lo svolgimento dei programmi.
 1	Ci	ci	PRON	_	Clitic=Yes|Number=Plur|Person=1|Polarity=Pos|PronType=Prs	2	expl	_	_
 2	opponiamo	opporre	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3-4	all'	_	_	_	_	_	_	_	_
 3	a	a	ADP	_	_	_	_	_	_
 4	l'	il	DET	_	_	_	_	_	_
@@ -10621,7 +10621,7 @@
 19	membri	membro	NOUN	_	|	18	compound	_	_
 20	e	e	CCONJ	_	_	_	_	_	_
 21	chiediamo	chiedere	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
-21.1	-	-	-	_	Case=Nom	21	nsubj	_	_
+21.1	_	_	_	_	Case=Nom	21	nsubj	_	_
 22	che	che	SCONJ	_	_	_	_	_	_
 23	venga	venire	AUX	_	_	_	_	_	_
 24	ridotta	ridurre	VERB	_	Case=Acc|Mood=Sub|Polarity=Pos|Tense=Past;Pres|VerbForm=Fin|Voice=Pass	21	ccomp	_	_
@@ -10832,7 +10832,7 @@
 2	,	,	PUNCT	_	_	_	_	_	_
 3	se	se	SCONJ	_	_	_	_	_	_
 4	decidi	decidere	VERB	_	Aspect=Imp|Case=Cnd|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	di	di	ADP	_	_	_	_	_	_
 6	utilizzare	utilizzare	VERB	_	Case=di|Polarity=Pos|VerbForm=Inf|Voice=Act	4	xcomp	_	_
 7	Facebook	Facebook	PROPN	_	Case=Acc|Polarity=Pos	6	obj	_	_
@@ -10841,7 +10841,7 @@
 10	dispositivo	dispositivo	ADJ	_	Polarity=Pos	11	amod	_	_
 11	mobile	mobile	NOUN	_	Case=Abl|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	_	_
 12	,	,	PUNCT	_	_	_	_	_	_
-13.1	-	-	-	_	Case=Nom	13	nsubj	_	_
+13.1	_	_	_	_	Case=Nom	13	nsubj	_	_
 13	tieni	tenere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 14	presente	presente	ADJ	_	Number=Sing|Polarity=Pos	13	xcomp	_	_
 15	che	che	SCONJ	_	_	_	_	_	_
@@ -10893,7 +10893,7 @@
 7	account	account	NOUN	_	Case=Cau|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos	2	obl	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
 9	inserisci	inserire	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9.1	-	-	-	_	Case=Nom	9	nsubj	_	_
+9.1	_	_	_	_	Case=Nom	9	nsubj	_	_
 10	il	il	DET	_	_	_	_	_	_
 11	tuo	tuo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	_
 12	nome	nome	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	9	obj	_	_
@@ -11033,7 +11033,7 @@
 13	sorella	sorella	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	10	nmod	_	_
 14	e	e	CCONJ	_	_	_	_	_	_
 15	dichiarò	dichiarare	VERB	_	Aspect=Perf|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
-15.1	-	-	-	_	Case=Nom	15	nsubj	_	_
+15.1	_	_	_	_	Case=Nom	15	nsubj	_	_
 16	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = 5_WIKIBalzac-113
@@ -11061,7 +11061,7 @@
 20	anche	anche	ADV	_	|	22	mark	_	_
 21	se	se	SCONJ	_	_	_	_	_	_
 22	sono	essere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
-22.1	-	-	-	_	Case=Nom	22	nsubj	_	_
+22.1	_	_	_	_	Case=Nom	22	nsubj	_	_
 23-24	al	_	_	_	_	_	_	_	_
 23	a	a	ADP	_	_	_	_	_	_
 24	il	il	DET	_	_	_	_	_	_
@@ -11130,10 +11130,10 @@
 # text = Mentre ammirava e traeva ispirazione dallo stile romantico del romanziere scozzese Walter Scott, Balzac cercava di presentare l'esistenza umana attraverso l'uso dei particolari.
 1	Mentre	mentre	SCONJ	_	_	_	_	_	_
 2	ammirava	ammirare	VERB	_	Aspect=Imp|Case=Dur|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	18	advcl	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	e	e	CCONJ	_	_	_	_	_	_
 4	traeva	trarre	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	2	conj	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	ispirazione	ispirazione	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
 6-7	dallo	_	_	_	_	_	_	_	_
 6	da	da	ADP	_	_	_	_	_	_
@@ -11274,7 +11274,7 @@
 6	anni	anno	NOUN	_	Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	3	nmod	_	_
 7	,	,	PUNCT	_	_	_	_	_	_
 8	sposò	sposare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-8.1	-	-	-	_	Case=Nom	8	nsubj	_	_
+8.1	_	_	_	_	Case=Nom	8	nsubj	_	_
 9	Anne	Anne	PROPN	_	Case=Acc|Polarity=Pos	8	obj	_	_
 10	Hathaway	Hathaway	PROPN	_	|	9	flat:name	_	_
 11	,	,	PUNCT	_	_	_	_	_	_
@@ -11282,7 +11282,7 @@
 13	la	il	DET	_	_	_	_	_	_
 14	quale	quale	PRON	_	Case=Com|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos|PronType=Rel	15	obl	_	_
 15	ebbe	avere	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
-15.1	-	-	-	_	Case=Nom	15	nsubj	_	_
+15.1	_	_	_	_	Case=Nom	15	nsubj	_	_
 16	3	3	NUM	_	NumType=Card|Polarity=Pos	17	nummod	_	_
 17	figli	figlio	NOUN	_	Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	15	obj	_	_
 18	:	:	PUNCT	_	_	_	_	_	_
@@ -11415,7 +11415,7 @@
 4	,	,	PUNCT	_	_	_	_	_	_
 5	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	6	expl	_	_
 6	spostò	spostare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-6.1	-	-	-	_	Case=Nom	6	nsubj	_	_
+6.1	_	_	_	_	Case=Nom	6	nsubj	_	_
 7	di	di	ADP	_	_	_	_	_	_
 8	nuovo	nuovo	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	_	_
 9	a	a	ADP	_	_	_	_	_	_
@@ -11447,7 +11447,7 @@
 # text = Qui affittò camere da un ugonotto francese chiamato Christopher Moutjoy, un produttore di parrucche da donna e altri copricapi.
 1	Qui	qui	ADV	_	|	2	advmod	_	_
 2	affittò	affittare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	camere	camera	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	2	obj	_	_
 4	da	da	ADP	_	_	_	_	_	_
 5	un	uno	DET	_	_	_	_	_	_
@@ -11477,7 +11477,7 @@
 4	,	,	PUNCT	_	_	_	_	_	_
 5	fu	essere	AUX	_	_	_	_	_	_
 6	chiamato	chiamare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-6.1	-	-	-	_	Case=Nom	6	nsubj	_	_
+6.1	_	_	_	_	Case=Nom	6	nsubj	_	_
 7	come	come	ADP	_	_	_	_	_	_
 8	testimone	testimone	NOUN	_	Case=Ess|Number=Sing|Polarity=Pos	6	obl	_	_
 9	in	in	ADP	_	_	_	_	_	_
@@ -11578,7 +11578,7 @@
 # text = Li dedicò a Henry Wriothesley, il conte di Southampton.
 1	Li	li	PRON	_	Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|PronType=Prs	2	obj	_	_
 2	dedicò	dedicare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	a	a	ADP	_	_	_	_	_	_
 4	Henry	Henry	PROPN	_	Case=Lat|Polarity=Pos	2	obl	_	_
 5	Wriothesley	Wriothesley	PROPN	_	|	4	flat:name	_	_
@@ -11645,7 +11645,7 @@
 21	non	non	ADV	_	_	_	_	_	_
 22	lo	lo	PRON	_	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	23	expl	_	_
 23	siano	essere	VERB	_	Mood=Sub|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
-23.1	-	-	-	_	Case=Nom	23	nsubj	_	_
+23.1	_	_	_	_	Case=Nom	23	nsubj	_	_
 24	adesso	adesso	ADV	_	|	23	advmod	_	_
 25	,	,	PUNCT	_	_	_	_	_	_
 26	e	e	CCONJ	_	_	_	_	_	_
@@ -11684,7 +11684,7 @@
 14	modernismo	modernismo	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	12	obj	_	_
 15	e	e	CCONJ	_	_	_	_	_	_
 16	spianò	spianare	VERB	_	Aspect=Perf|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
-16.1	-	-	-	_	Case=Nom	16	nsubj	_	_
+16.1	_	_	_	_	Case=Nom	16	nsubj	_	_
 17	la	il	DET	_	_	_	_	_	_
 18	strada	strada	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	16	obj	_	_
 19-20	agli	_	_	_	_	_	_	_	_
@@ -11706,7 +11706,7 @@
 2	diciotto	diciotto	NUM	_	NumType=Card|Polarity=Pos	3	nummod	_	_
 3	anni	anno	NOUN	_	Case=Lat|Gender=Masc|Number=Plur|Polarity=Pos	4	obl	_	_
 4	sposò	sposare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	la	il	DET	_	_	_	_	_	_
 6	ventiseienne	ventiseienne	ADJ	_	Polarity=Pos	7	amod	_	_
 7	Anne	Anne	PROPN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing;Plur|Polarity=Pos	4	obj	_	_
@@ -11900,7 +11900,7 @@
 # sent_id = 9_PS-82
 # text = E' ora che i leader indiani riconoscano il ruolo positivo che la proprietà intellettuale può svolgere nel sostenere la crescita e migliorare il benessere dei cittadini.
 1	E'	essere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	ora	ora	ADV	_	|	1	advmod	_	_
 3	che	che	SCONJ	_	_	_	_	_	_
 4	i	il	DET	_	_	_	_	_	_
@@ -12201,7 +12201,7 @@
 10	entrano	entrare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 11	e	e	CCONJ	_	_	_	_	_	_
 12	restano	restare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
-12.1	-	-	-	_	Case=Nom	12	nsubj	_	_
+12.1	_	_	_	_	Case=Nom	12	nsubj	_	_
 13-14	nel	_	_	_	_	_	_	_	_
 13	in	in	ADP	_	_	_	_	_	_
 14	il	il	DET	_	_	_	_	_	_
@@ -12456,7 +12456,7 @@
 # sent_id = 10_new-1
 # text = Amo le sfide, e salvare la terra è probabilmente una buona sfida.
 1	Amo	amare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	le	il	DET	_	_	_	_	_	_
 3	sfide	sfida	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
@@ -12487,7 +12487,7 @@
 # text = Siamo entrati ora nella 6X:
 1	Siamo	essere	AUX	_	_	_	_	_	_
 2	entrati	entrare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	ora	ora	ADV	_	|	2	advmod	_	_
 4-5	nella	_	_	_	_	_	_	_	_
 4	in	in	ADP	_	_	_	_	_	_
@@ -12511,7 +12511,7 @@
 # sent_id = 10_new-5
 # text = Penso che quel voto sia in corso, proprio adesso.
 1	Penso	pensare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	che	che	SCONJ	_	_	_	_	_	_
 3	quel	quello	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	voto	voto	NOUN	_	Case=Nom|Definite=Def|Dem=Dist|Gender=Masc|Number=Sing|Polarity=Pos	7	nsubj	_	_
@@ -12528,7 +12528,7 @@
 1	Voglio	volere	AUX	_	_	_	_	_	_
 2-3	presentarvi	_	_	_	_	_	_	_	_
 2	presentar	presentare	VERB	_	Modality=Des|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	vi	vi	PRON	_	Case=Dat|Clitic=Yes|Number=Plur|Person=2|Polarity=Pos|PronType=Prs	2	iobj	_	_
 4	un	uno	DET	_	_	_	_	_	_
 5	set	set	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	_
@@ -12564,7 +12564,7 @@
 8	terreni	terreno	NOUN	_	Case=Ine|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	4	obl	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
 10	mantiene	mantenere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
-10.1	-	-	-	_	Case=Nom	10	nsubj	_	_
+10.1	_	_	_	_	Case=Nom	10	nsubj	_	_
 11	i	il	DET	_	_	_	_	_	_
 12	suoli	suolo	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	10	obj	_	_
 13	uniti	unire	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	10	xcomp	_	_
@@ -12577,7 +12577,7 @@
 # sent_id = 10_new-8
 # text = Regge fino a 30.000 volte la propria massa.
 1	Regge	reggere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	fino	fino	ADV	_	|	5	case	_	_
 3	a	a	ADP	_	_	_	_	_	_
 4	30.000	30.000	NUM	_	NumType=Card|Polarity=Pos	5	nummod	_	_
@@ -12610,7 +12610,7 @@
 # sent_id = 10_new-10
 # text = Generano l'humus nelle terre emerse di tutta la terra.
 1	Generano	generare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	l'	il	DET	_	_	_	_	_	_
 3	humus	humus	NOUN	_	Case=Acc|Definite=Def|Number=Sing|Polarity=Pos	1	obj	_	_
 4-5	nelle	_	_	_	_	_	_	_	_
@@ -12627,7 +12627,7 @@
 # sent_id = 10_new-12
 # text = Amo le foreste primarie, e sono un americano patriottico proprio grazie a loro.
 1	Amo	amare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	le	il	DET	_	_	_	_	_	_
 3	foreste	foresta	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	_
 4	primarie	primario	ADJ	_	Polarity=Pos	3	amod	_	_
@@ -12662,7 +12662,7 @@
 2	francamente	francamente	ADV	_	|	4	advmod	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
 4	affronto	affrontare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	un	uno	DET	_	_	_	_	_	_
 6	grande	grande	ADJ	_	Polarity=Pos	7	amod	_	_
 7	ostacolo	ostacolo	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	_
@@ -12671,7 +12671,7 @@
 # sent_id = 10_new-15
 # text = Spero di sfatare questo pregiudizio per sempre, con voi.
 1	Spero	sperare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	di	di	ADP	_	_	_	_	_	_
 3	sfatare	sfatare	VERB	_	Case=di|Polarity=Pos|VerbForm=Inf|Voice=Act	1	xcomp	_	_
 4	questo	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
@@ -12687,7 +12687,7 @@
 # text = La chiamiamo micofobia, l'irrazionale paura dell'ignoto quando essa riguarda i funghi.
 1	La	la	PRON	_	Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	2	obj	_	_
 2	chiamiamo	chiamare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	micofobia	micofobia	ADJ	_	Gender=Fem|Number=Sing|Polarity=Pos	2	xcomp	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
 5	l'	il	DET	_	_	_	_	_	_
@@ -12750,7 +12750,7 @@
 # sent_id = 10_new-20
 # text = Abbiamo in comune gli stessi patogeni.
 1	Abbiamo	avere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	in	in	ADP	_	_	_	_	_	_
 3	comune	comune	NOUN	_	Case=Ine|Gender=Masc|Number=Sing|Polarity=Pos	1	obl	_	_
 4	gli	il	DET	_	_	_	_	_	_
@@ -12805,7 +12805,7 @@
 3	sporulato	sporulato	VERB	_	Case=Tps|Polarity=Pos|Tense=Past|VerbForm=Inf|Voice=Act	5	advcl	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
 5	marciscono	marcire	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5.1	-	-	-	_	Case=Nom	5	nsubj	_	_
+5.1	_	_	_	_	Case=Nom	5	nsubj	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 10_new-24
@@ -12813,7 +12813,7 @@
 1	Ma	ma	CCONJ	_	_	_	_	_	_
 2	vi	vi	PRON	_	Case=Dat|Clitic=Yes|Number=Plur|Person=2|Polarity=Pos|PronType=Prs	3	iobj	_	_
 3	propongo	proporre	VERB	_	Aspect=Imp|Case=Advs|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	l'	il	DET	_	_	_	_	_	_
 5	idea	idea	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
 6	che	che	SCONJ	_	_	_	_	_	_
@@ -12841,13 +12841,13 @@
 # sent_id = 10_new-25
 # text = Fanno crescere gli alberi, creano le aree di detriti che nutrono il micelio.
 1	Fanno	fare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	crescere	crescere	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	1	ccomp	_	_
 3	gli	il	DET	_	_	_	_	_	_
 4	alberi	albero	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	2	obj	_	_
 5	,	,	PUNCT	_	_	_	_	_	_
 6	creano	creare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
-6.1	-	-	-	_	Case=Nom	6	nsubj	_	_
+6.1	_	_	_	_	Case=Nom	6	nsubj	_	_
 7	le	il	DET	_	_	_	_	_	_
 8	aree	area	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	6	obj	_	_
 9	di	di	ADP	_	_	_	_	_	_
@@ -12863,7 +12863,7 @@
 1	E	e	CCONJ	_	_	_	_	_	_
 2	così	così	ADV	_	|	3	advmod	_	_
 3	vediamo	vedere	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	qui	qui	ADV	_	|	3	advmod	_	_
 5	un	uno	DET	_	_	_	_	_	_
 6	fungo	fungo	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos	3	obj	_	_
@@ -12884,7 +12884,7 @@
 9	forma	formare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 10	e	e	CCONJ	_	_	_	_	_	_
 11	avanza	avanzare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
-11.1	-	-	-	_	Case=Nom	11	nsubj	_	_
+11.1	_	_	_	_	Case=Nom	11	nsubj	_	_
 12	sottoterra	sottoterra	ADV	_	|	11	advmod	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
 
@@ -12941,7 +12941,7 @@
 # sent_id = 10_new-31
 # text = Notate come man mano che il micelio cresce, conquista il terreno e poi forma la rete.
 1	Notate	notare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	come	come	ADP	_	_	_	_	_	_
 3	man	mano	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	10	obl	_	_
 4	mano	mano	NOUN	_	|	3	fixed	_	_
@@ -12951,13 +12951,13 @@
 8	cresce	crescere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
 10	conquista	conquistare	VERB	_	Aspect=Imp|Case=TBD-'come'|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
-10.1	-	-	-	_	Case=Nom	10	nsubj	_	_
+10.1	_	_	_	_	Case=Nom	10	nsubj	_	_
 11	il	il	DET	_	_	_	_	_	_
 12	terreno	terreno	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	10	obj	_	_
 13	e	e	CCONJ	_	_	_	_	_	_
 14	poi	poi	ADV	_	|	15	advmod	_	_
 15	forma	formare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
-15.1	-	-	-	_	Case=Nom	15	nsubj	_	_
+15.1	_	_	_	_	Case=Nom	15	nsubj	_	_
 16	la	il	DET	_	_	_	_	_	_
 17	rete	rete	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	15	obj	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
@@ -13031,7 +13031,7 @@
 13	suoli	suolo	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	11	obj	_	_
 14	e	e	CCONJ	_	_	_	_	_	_
 15	assorbono	assorbire	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	_
-15.1	-	-	-	_	Case=Nom	15	nsubj	_	_
+15.1	_	_	_	_	Case=Nom	15	nsubj	_	_
 16	acqua	acqua	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	15	obj	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
 
@@ -13049,7 +13049,7 @@
 3	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
 4	pozzi	pozzo	NOUN	_	Case=Ine|Definite=Def|Dem=Prox|Gender=Masc|Number=Plur|Polarity=Pos	5	obl	_	_
 5	iniziano	iniziare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5.1	-	-	-	_	Case=Nom	5	nsubj	_	_
+5.1	_	_	_	_	Case=Nom	5	nsubj	_	_
 6	a	a	ADP	_	_	_	_	_	_
 7-8	formarsi	_	_	_	_	_	_	_	_
 7	formar	formare	VERB	_	Case=Pur|Polarity=Pos|VerbForm=Inf|Voice=Act	5	xcomp	_	_
@@ -13065,7 +13065,7 @@
 2	primo	primo	ADJ	_	Case=Cau|Gender=Masc|NumType=Ord|Number=Sing|Polarity=Pos	4	obl	_	_
 3	ho	avere	AUX	_	_	_	_	_	_
 4	proposto	proporre	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4.1	-	-	-	_	Case=Nom	4	nsubj	_	_
+4.1	_	_	_	_	Case=Nom	4	nsubj	_	_
 5	,	,	PUNCT	_	_	_	_	_	_
 6-7	agli	_	_	_	_	_	_	_	_
 6	a	a	ADP	_	_	_	_	_	_
@@ -13116,7 +13116,7 @@
 # sent_id = 10_new-42
 # text = Sa che sei nei paraggi.
 1	Sa	sapere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	che	che	SCONJ	_	_	_	_	_	_
 3	sei	sei	NUM	_	Case=che|NumType=Card|Polarity=Pos	1	ccomp	_	_
 4-5	nei	_	_	_	_	_	_	_	_
@@ -13130,7 +13130,7 @@
 1	Quando	quando	SCONJ	_	_	_	_	_	_
 2	lo	lo	PRON	_	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	3	obj	_	_
 3	calpesti	calpestare	VERB	_	Aspect=Imp|Case=Tem|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
 5	camminando	camminare	VERB	_	Polarity=Pos|VerbForm=Ger|Voice=Act	3	advcl	_	_
 6-7	sul	_	_	_	_	_	_	_	_
@@ -13160,7 +13160,7 @@
 1	Quindi	quindi	ADV	_	|	3	advmod	_	_
 2	,	,	PUNCT	_	_	_	_	_	_
 3	credo	credere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	che	che	SCONJ	_	_	_	_	_	_
 5	l'	il	DET	_	_	_	_	_	_
 6	invenzione	invenzione	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	12	nsubj	_	_
@@ -13208,7 +13208,7 @@
 4	paradigma	paradigma	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	2	nsubj	_	_
 5	che	che	PRON	_	Case=Acc|Polarity=Pos|PronType=Rel	6	obj	_	_
 6	vediamo	vedere	VERB	_	Mood=Sub|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
-6.1	-	-	-	_	Case=Nom	6	nsubj	_	_
+6.1	_	_	_	_	Case=Nom	6	nsubj	_	_
 7	in	in	ADP	_	_	_	_	_	_
 8	tutto	tutto	DET	_	Gender=Masc|Number=Sing|PronType=Tot	10	det:predet	_	_
 9	l'	il	DET	_	_	_	_	_	_
@@ -13239,7 +13239,7 @@
 # sent_id = 10_new-48
 # text = Arrivarono 1,3 miliardi di anni fa, centinaia di milioni di anni prima delle prime piante.
 1	Arrivarono	arrivare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	1,3	1,3	NUM	_	NumType=Card|Polarity=Pos	3	nummod	_	_
 3	miliardi	miliardo	NOUN	_	Gender=Masc|Number=Plur|Polarity=Pos	1	obl	_	_
 4	di	di	ADP	_	_	_	_	_	_
@@ -13269,7 +13269,7 @@
 # sent_id = 10_new-50
 # text = Sbriciola le rocce ed è il primo passo nella formazione del suolo.
 1	Sbriciola	sbriciolare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-1.1	-	-	-	_	Case=Nom	1	nsubj	_	_
+1.1	_	_	_	_	Case=Nom	1	nsubj	_	_
 2	le	il	DET	_	_	_	_	_	_
 3	rocce	roccia	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	_
 4	ed	e	CCONJ	_	_	_	_	_	_
@@ -13300,7 +13300,7 @@
 9	di	di	ADP	_	_	_	_	_	_
 10	Co2	Co2	PROPN	_	Case=Gen|Polarity=Pos	8	nmod	_	_
 11	unite	unire	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	_
-11.1	-	-	-	_	Case=Nom	11	nsubj	_	_
+11.1	_	_	_	_	Case=Nom	11	nsubj	_	_
 12	insieme	insieme	ADV	_	|	11	advmod	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
 
@@ -13346,7 +13346,7 @@
 18	e	e	CCONJ	_	_	_	_	_	_
 19	sono	essere	AUX	_	_	_	_	_	_
 20	fuoriusciti	fuoriuscire	VERB	_	Aspect=Perf|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	_
-20.1	-	-	-	_	Case=Nom	20	nsubj	_	_
+20.1	_	_	_	_	Case=Nom	20	nsubj	_	_
 21-22	dalla	_	_	_	_	_	_	_	_
 21	da	da	ADP	_	_	_	_	_	_
 22	la	il	DET	_	_	_	_	_	_
@@ -13385,7 +13385,7 @@
 1	È	essere	AUX	_	_	_	_	_	_
 2	stata	essere	AUX	_	_	_	_	_	_
 3	scattata	scattare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past;Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4-5	negli	_	_	_	_	_	_	_	_
 4	in	in	ADP	_	_	_	_	_	_
 5	gli	il	DET	_	_	_	_	_	_
@@ -13413,7 +13413,7 @@
 # text = Si chiamava Prototaxites.
 1	Si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	2	expl	_	_
 2	chiamava	chiamare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	Prototaxites	Prototaxites	PROPN	_	Polarity=Pos	2	xcomp	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
@@ -13564,7 +13564,7 @@
 12	funghi	fungo	NOUN	_	Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	11	nsubj	_	_
 13	,	,	PUNCT	_	_	_	_	_	_
 14	penso	pensare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-14.1	-	-	-	_	Case=Nom	14	nsubj	_	_
+14.1	_	_	_	_	Case=Nom	14	nsubj	_	_
 15	sia	essere	AUX	_	_	_	_	_	_
 16	una	uno	DET	_	_	_	_	_	_
 17	conclusione	conclusione	NOUN	_	Definite=Ind|Gender=Fem|Mood=Sub|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
@@ -13674,7 +13674,7 @@
 1	Siamo	essere	AUX	_	_	_	_	_	_
 2	stati	essere	AUX	_	_	_	_	_	_
 3	coinvolti	coinvolgere	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Past;Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
+3.1	_	_	_	_	Case=Nom	3	nsubj	_	_
 4	in	in	ADP	_	_	_	_	_	_
 5	diversi	diverso	DET	_	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
 6	esperimenti	esperimento	NOUN	_	Case=Ine|Gender=Masc|Number=Plur|Polarity=Pos	3	obl	_	_
@@ -13684,7 +13684,7 @@
 # text = E sto per mostrarvi, se mi permettete, 6 soluzioni per salvare il mondo.
 1	E	e	CCONJ	_	_	_	_	_	_
 2	sto	stare	VERB	_	Aspect=Imp|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3	per	per	ADP	_	_	_	_	_	_
 4-5	mostrarvi	_	_	_	_	_	_	_	_
 4	mostrar	mostrare	VERB	_	Case=Cau|Polarity=Pos|VerbForm=Inf|Voice=Act	2	advcl	_	_
@@ -13693,7 +13693,7 @@
 7	se	se	SCONJ	_	_	_	_	_	_
 8	mi	mi	PRON	_	Case=Dat|Clitic=Yes|Number=Sing|Person=1|Polarity=Pos|PronType=Prs	9	iobj	_	_
 9	permettete	permettere	VERB	_	Aspect=Imp|Case=Cnd|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
-9.1	-	-	-	_	Case=Nom	9	nsubj	_	_
+9.1	_	_	_	_	Case=Nom	9	nsubj	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
 11	6	6	NUM	_	NumType=Card|Polarity=Pos	12	nummod	_	_
 12	soluzioni	soluzione	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	4	obj	_	_
@@ -13707,7 +13707,7 @@
 # text = Ho lavorato coi laboratori Battelle di Bellingham, Washington.
 1	Ho	avere	AUX	_	_	_	_	_	_
 2	lavorato	lavorare	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2.1	-	-	-	_	Case=Nom	2	nsubj	_	_
+2.1	_	_	_	_	Case=Nom	2	nsubj	_	_
 3-4	coi	_	_	_	_	_	_	_	_
 3	con	con	ADP	_	_	_	_	_	_
 4	i	il	DET	_	_	_	_	_	_

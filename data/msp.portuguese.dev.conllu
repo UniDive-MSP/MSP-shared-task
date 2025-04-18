@@ -917,7 +917,7 @@
 # sent_id = FOLHA_DOC004066_SENT013
 # text = Mais tarde, foram identificados mais dois funcionários da companhia aérea que faziam parte do esquema criminoso.
 1	Mais	mais	ADV	_	|	2	advmod	_	_
-2	tarde	tarde	ADV	_	||Degree=Cmp	5	advmod	_	_
+2	tarde	tarde	ADV	_	Degree=Cmp	5	advmod	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
 4	foram	ser	AUX	_	_	_	_	_	_
 5	identificados	identificar	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -3426,7 +3426,7 @@
 6	montado	montar	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Fin|Voice=Pass	0	root	_	_
 7	para	para	ADP	_	|	8	mark	_	_
 8	entender	entender	VERB	_	Case=para|VerbForm=Inf|Voice=Act	6	advcl	_	_
-9	melhor	melhor	ADV	_	||Degree=Cmp	8	advmod	_	_
+9	melhor	melhor	ADV	_	Degree=Cmp	8	advmod	_	_
 10	o	o	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	obj	_	_
 11	que	que	PRON	_	PronType=Rel	15	obj	_	_
 12	os	o	DET	_	_	_	_	_	_
@@ -6571,7 +6571,7 @@
 # sent_id = FOLHA_DOC003102_SENT023
 # text = Em pouco mais de uma hora no festival, os gastos já chegavam a quase R$ 600.
 1	Em	em	ADP	_	_	_	_	_	_
-2	pouco	pouco	ADV	_	||Degree=Cmp	5	advmod	_	_
+2	pouco	pouco	ADV	_	Degree=Cmp	5	advmod	_	_
 3	mais	mais	ADV	_	_	_	_	_	_
 4	de	de	ADP	_	_	_	_	_	_
 5	uma	um	NUM	_	Gender=Fem|NumType=Card	6	nummod	_	_
@@ -14973,7 +14973,7 @@
 14	descaracterizado	descaracterizado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	13	advcl	_	_
 15	,	,	PUNCT	_	_	_	_	_	_
 16	mais	mais	ADV	_	|	17	advmod	_	_
-17	próximo	próximo	ADV	_	||Degree=Cmp	13	advmod	_	_
+17	próximo	próximo	ADV	_	Degree=Cmp	13	advmod	_	_
 18	de	de	ADP	_	_	_	_	_	_
 19	um	um	DET	_	_	_	_	_	_
 20	picadinho	picadinho	NOUN	_	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	17	obl	_	_
@@ -15193,7 +15193,7 @@
 5	,	,	PUNCT	_	_	_	_	_	_
 6	mas	mas	CCONJ	_	_	_	_	_	_
 7	mais	mais	ADV	_	|	8	advmod	_	_
-8	tarde	tarde	ADV	_	||Degree=Cmp	10	advmod	_	_
+8	tarde	tarde	ADV	_	Degree=Cmp	10	advmod	_	_
 9	ele	ele	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 10	volta	voltar	VERB	_	Case=mas|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
