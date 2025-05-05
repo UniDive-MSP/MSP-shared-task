@@ -593,7 +593,7 @@
 14	och	och	CCONJ	_	_	_	_	_	_
 15	fostra	fostra	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	13	conj	_	_
 16	barnen	barn	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	13	obj	_	_
-17	därför	därför	ADV	_	ExtPos=SCONJ	21	mark	_	_
+17	därför	därför	ADV	_	_	_	_	_	_
 18	att	att	SCONJ	_	_	_	_	_	_
 19	det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	21	expl	_	_
 20	är	vara	AUX	_	_	_	_	_	_
@@ -2094,7 +2094,7 @@
 9	politiskt	politisk	ADJ	_	Degree=Pos	10	amod	_	_
 10	reformparti	reformparti	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	23	nsubj	_	_
 11	,	,	PUNCT	_	_	_	_	_	_
-12	vare	vare	CCONJ	_	ExtPos=CCONJ	16	cc	_	_
+12	vare	vare	CCONJ	_	_	_	_	_	_
 13	sig	sig	PRON	_	_	_	_	_	_
 14	i	i	ADP	_	_	_	_	_	_
 15	vårt	vi	PRON	_	Definite=Def|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
@@ -2395,7 +2395,7 @@
 2	och	och	CCONJ	_	_	_	_	_	_
 3	kanske	kanske	ADV	_	|	6	advmod	_	_
 4	rent	ren	ADV	_	Degree=Pos|ExtPos=ADV	6	advmod	_	_
-5	av	av	ADP	_	_	_	_	_	_
+5	av	av	ADP	_	|	4	fixed	_	_
 6	avsaktande	avsaktande	ADJ	_	Case=Conj|Degree=Pos	1	conj	_	_
 7	är	vara	AUX	_	_	_	_	_	_
 8	det	den	DET	_	_	_	_	_	_
@@ -3895,12 +3895,12 @@
 
 # sent_id = sv-ud-dev-160
 # text = I och med att kvinnan axlar mer krävande uppgifter får hon högre lön.
-1	I	i	ADP	_	ExtPos=ADP	6	mark	_	_
+1	I	i	ADP	_	_	_	_	_	_
 2	och	och	CCONJ	_	_	_	_	_	_
 3	med	med	ADP	_	_	_	_	_	_
 4	att	att	SCONJ	_	_	_	_	_	_
 5	kvinnan	kvinna	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	6	nsubj	_	_
-6	axlar	axel	VERB	_	Case=Atr;Ine|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
+6	axlar	axel	VERB	_	Case=Atr;Cau|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	_
 7	mer	mycket	ADV	_	_	_	_	_	_
 8	krävande	krävande	ADJ	_	Degree=Cmp	9	amod	_	_
 9	uppgifter	uppgift	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	6	obj	_	_
@@ -3970,7 +3970,7 @@
 4	om	om	SCONJ	_	_	_	_	_	_
 5	samhället	samhälle	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	8	nsubj	_	_
 6	sent	sen	ADV	_	Degree=Pos|ExtPos=ADV	8	advmod	_	_
-7	omsider	omsider	ADV	_	_	_	_	_	_
+7	omsider	omsider	ADV	_	|	6	fixed	_	_
 8	tycks	tyckas	VERB	_	Case=Cnd;Rpl|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
 9	inse	inse	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	8	xcomp	_	_
 10	att	att	SCONJ	_	_	_	_	_	_
@@ -4651,9 +4651,9 @@
 # newpar id = P410.4
 # sent_id = sv-ud-dev-187
 # text = För två år sedan utspelades en elevdebatt i en modern svensk folkhögskola.
-1	För	för	ADP	_	ExtPos=ADP	3	case	_	_
+1	För	för	ADP	_	_	_	_	_	_
 2	två	två	NUM	_	Case=Nom|NumType=Card	3	nummod	_	_
-3	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	5	obl	_	_
+3	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	5	obl	_	_
 4	sedan	sedan	ADV	_	_	_	_	_	_
 5	utspelades	utspelas	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	en	en	DET	_	_	_	_	_	_
@@ -5384,8 +5384,8 @@
 # sent_id = sv-ud-dev-220
 # text = Till och med i Sovjetunionen, där kvinnor under de sista femtio åren utbildats och arbetat på samma villkor som männen, väljer kvinnorna gärna vårdande och undervisande yrken.
 1	Till	till	ADV	_	ExtPos=ADV	5	advmod	_	_
-2	och	och	CCONJ	_	_	_	_	_	_
-3	med	med	ADV	_	_	_	_	_	_
+2	och	och	CCONJ	_	|	1	fixed	_	_
+3	med	med	ADV	_	|	1	fixed	_	_
 4	i	i	ADP	_	_	_	_	_	_
 5	Sovjetunionen	Sovjetunionen	PROPN	_	Case=Ine	23	obl	_	_
 6	,	,	PUNCT	_	_	_	_	_	_
@@ -5684,7 +5684,7 @@
 5	den	den	PRON	_	Definite=Def|Gender=Com|Number=Sing|PronType=Prs	4	obj	_	_
 6	ifrån	ifrån	ADP	_	_	_	_	_	_
 7	oss	vi	PRON	_	Case=Ela|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	4	obl	_	_
-8	för	för	ADP	_	ExtPos=ADP	12	case	_	_
+8	för	för	ADP	_	_	_	_	_	_
 9	en	en	DET	_	_	_	_	_	_
 10	så	så	ADV	_	|	11	advmod	_	_
 11	futtig	futtig	ADJ	_	Degree=Pos	12	amod	_	_
@@ -5755,7 +5755,7 @@
 13	annat	annan	ADJ	_	Degree=Pos	14	amod	_	_
 14	yrkesarbete	yrkesarbete	NOUN	_	Case=Rpl|Definite=Ind|Gender=Neut|Number=Sing	8	obl	_	_
 15	som	som	CCONJ	_	ExtPos=ADV	12	advmod	_	_
-16	helst	gärna	ADV	_	_	_	_	_	_
+16	helst	gärna	ADV	_	|	15	fixed	_	_
 17	och	och	CCONJ	_	_	_	_	_	_
 18	berättigar	berättiga	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
 19	till	till	ADP	_	_	_	_	_	_
@@ -5768,7 +5768,7 @@
 2	kanske	kanske	ADV	_	|	3	advmod	_	_
 3	männen	man	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur	7	nsubj	_	_
 4	rent	ren	ADV	_	Degree=Pos|ExtPos=ADV	7	advmod	_	_
-5	av	av	ADP	_	_	_	_	_	_
+5	av	av	ADP	_	|	4	fixed	_	_
 6	vill	vilja	AUX	_	_	_	_	_	_
 7	vara	vara	VERB	_	Mood=Des;Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	med	med	ADP	_	_	_	_	_	_
@@ -7129,8 +7129,8 @@
 3	jag	jag	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	_	_
 4	'	'	PUNCT	_	_	_	_	_	_
 5	så	så	ADV	_	ExtPos=ADV|Polarity=Neg	11	advmod	_	_
-6	fan	fan	INTJ	_	_	_	_	_	_
-7	heller	heller	ADV	_	_	_	_	_	_
+6	fan	fan	INTJ	_	|	5	fixed	_	_
+7	heller	heller	ADV	_	|	5	fixed	_	_
 8	är	vara	AUX	_	_	_	_	_	_
 9	allt	all	DET	_	PronType=Tot	10	det	_	_
 10	mitt	mitt	PRON	_	Definite=Def|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	11	nsubj	_	_
@@ -7239,7 +7239,7 @@
 4	vilket	vilket	DET	_	PronType=Tot	5	det	_	_
 5	fall	fall	NOUN	_	Case=Ine|Definite=Ind|Gender=Neut|Number=Sing	2	obl	_	_
 6	som	som	CCONJ	_	ExtPos=ADV	4	advmod	_	_
-7	helst	gärna	ADV	_	_	_	_	_	_
+7	helst	gärna	ADV	_	|	6	fixed	_	_
 8	inte	inte	PART	_	_	_	_	_	_
 9	göra	göra	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	2	xcomp	_	_
 10	något	någon	PRON	_	Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	9	obj	_	_
@@ -7663,7 +7663,7 @@
 
 # sent_id = sv-ud-dev-342
 # text = Därför att de har råd att välja t.ex. mellan att arbeta borta och arbeta hemma, t.ex. mellan att ha barn och ta abort.
-1	Därför	därför	ADV	_	ExtPos=SCONJ	4	mark	_	_
+1	Därför	därför	ADV	_	_	_	_	_	_
 2	att	att	SCONJ	_	_	_	_	_	_
 3	de	de	PRON	_	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	4	nsubj	_	_
 4	har	ha	VERB	_	Case=Cau|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -7886,7 +7886,7 @@
 
 # sent_id = sv-ud-dev-352
 # text = Därför att det kapitalistiska systemet tjänar på hemmafruarna.
-1	Därför	därför	ADV	_	ExtPos=SCONJ	6	mark	_	_
+1	Därför	därför	ADV	_	_	_	_	_	_
 2	att	att	SCONJ	_	_	_	_	_	_
 3	det	den	DET	_	_	_	_	_	_
 4	kapitalistiska	kapitalistisk	ADJ	_	Degree=Pos	5	amod	_	_
@@ -8508,8 +8508,8 @@
 9	får	få	AUX	_	_	_	_	_	_
 10	mannen	man	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	14	nsubj	_	_
 11	till	till	ADV	_	ExtPos=ADV	14	advmod	_	_
-12	och	och	CCONJ	_	_	_	_	_	_
-13	med	med	ADV	_	_	_	_	_	_
+12	och	och	CCONJ	_	|	11	fixed	_	_
+13	med	med	ADV	_	|	11	fixed	_	_
 14	lägga	lägga	VERB	_	Mood=Ind;Prms|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
 15	till	till	ADP	_	_	_	_	_	_
 16	för	för	ADP	_	_	_	_	_	_
@@ -10770,7 +10770,7 @@
 14	tidigare	tidig	ADV	_	Case=Cmp|Degree=Cmp|Mood=Ind|Polarity=Pos	9	advcl	_	_
 15	,	,	PUNCT	_	_	_	_	_	_
 16	detta	denna	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	9	parataxis	_	_
-17	därför	därför	ADV	_	ExtPos=SCONJ	27	mark	_	_
+17	därför	därför	ADV	_	_	_	_	_	_
 18	att	att	SCONJ	_	_	_	_	_	_
 19	den	den	DET	_	_	_	_	_	_
 20	enorma	enorm	ADJ	_	Degree=Pos	21	amod	_	_
@@ -10837,8 +10837,8 @@
 34	de	de	PRON	_	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	35	nsubj	_	_
 35	arbetar	arbeta	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	_
 36	så	så	ADV	_	ExtPos=ADV	35	advmod	_	_
-37	att	att	PART	_	_	_	_	_	_
-38	säga	säga	VERB	_	_	_	_	_	_
+37	att	att	PART	_	|	36	fixed	_	_
+38	säga	säga	VERB	_	|	36	fixed	_	_
 39	för	för	ADP	_	_	_	_	_	_
 40	kvinnorna	kvinna	NOUN	_	Case=Ben|Definite=Def|Gender=Com|Number=Plur	35	obl	_	_
 41	,	,	PUNCT	_	_	_	_	_	_
@@ -11118,7 +11118,7 @@
 18	båda	båda	PRON	_	Case=Disj|Definite=Def|Number=Plur|PronType=Tot	16	conj	_	_
 19	i	i	ADP	_	_	_	_	_	_
 20	förening	förening	NOUN	_	Case=Ine|Definite=Ind|Gender=Com|Number=Sing	18	nmod	_	_
-21	därför	därför	ADV	_	ExtPos=SCONJ	35	mark	_	_
+21	därför	därför	ADV	_	_	_	_	_	_
 22	att	att	SCONJ	_	_	_	_	_	_
 23	de	de	PRON	_	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	35	nsubj	_	_
 24	då	då	ADV	_	|	35	advmod	_	_

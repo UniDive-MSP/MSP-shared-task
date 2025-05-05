@@ -1063,7 +1063,7 @@
 20	kamrater	kamrat	NOUN	_	Case=Com|Definite=Ind|Gender=Com|Number=Plur	16	obl	_	_
 21	och	och	CCONJ	_	_	_	_	_	_
 22	så	så	ADV	_	ExtPos=ADV	24	advmod	_	_
-23	småningom	småningom	ADV	_	_	_	_	_	_
+23	småningom	småningom	ADV	_	|	22	fixed	_	_
 24	sammangjutas	sammangjuta	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Pass	14	conj	_	_
 25	med	med	ADP	_	_	_	_	_	_
 26	dem	de	PRON	_	Case=Com|Definite=Def|Number=Plur|PronType=Prs	24	obl	_	_
@@ -3665,7 +3665,7 @@
 1	Kan	kunna	AUX	_	_	_	_	_	_
 2	vem	vem	PRON	_	Definite=Ind|Gender=Com|Number=Sing|PronType=Tot	5	nsubj	_	_
 3	som	som	CCONJ	_	ExtPos=ADV	2	advmod	_	_
-4	helst	gärna	ADV	_	_	_	_	_	_
+4	helst	gärna	ADV	_	|	3	fixed	_	_
 5	slå	slå	VERB	_	Mood=Ind;Int;Pot|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	sig	sig	PRON	_	Case=Acc|Definite=Def|PronType=Prs	5	obj	_	_
 7	ned	ned	ADV	_	|	5	compound:prt	_	_
@@ -3711,7 +3711,7 @@
 20	sig	sig	PRON	_	Case=Acc|Definite=Def|PronType=Prs	19	obj	_	_
 21	var	vara	ADV	_	|	16	advmod	_	_
 22	som	som	CCONJ	_	ExtPos=ADV	21	advmod	_	_
-23	helst	gärna	ADV	_	_	_	_	_	_
+23	helst	gärna	ADV	_	|	22	fixed	_	_
 24	i	i	ADP	_	_	_	_	_	_
 25	Norden	Norden	PROPN	_	Case=Ine	21	obl	_	_
 26	.	.	PUNCT	_	_	_	_	_	_
@@ -4513,7 +4513,7 @@
 3	som	som	PRON	_	PronType=Rel	4	nsubj:pass	_	_
 4	adresseras	adressera	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	2	acl:relcl	_	_
 5	Poste	poste	NOUN	_	ExtPos=ADV|Foreign=Yes	4	advmod	_	_
-6	restante	restante	ADJ	_	_	_	_	_	_
+6	restante	restante	ADJ	_	|	5	fixed	_	_
 7	är	vara	AUX	_	_	_	_	_	_
 8	postnumret	postnummer	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	9	nsubj	_	_
 9	detsamma	densamma	PRON	_	Definite=Def|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos|PronType=Ind	0	root	_	_
@@ -8094,7 +8094,7 @@
 10	ut	ut	ADV	_	|	9	compound:prt	_	_
 11	när	när	ADV	_	|	9	advmod	_	_
 12	som	som	CCONJ	_	ExtPos=ADV	11	advmod	_	_
-13	helst	gärna	ADV	_	_	_	_	_	_
+13	helst	gärna	ADV	_	|	12	fixed	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-456
@@ -11964,7 +11964,7 @@
 7	samlas	samla	VERB	_	Mood=Ind;Pot|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 8	in	in	ADV	_	|	7	compound:prt	_	_
 9	centralt	central	ADV	_	Degree=Pos	7	advmod	_	_
-10	därför	därför	ADV	_	ExtPos=SCONJ	14	mark	_	_
+10	därför	därför	ADV	_	_	_	_	_	_
 11	att	att	SCONJ	_	_	_	_	_	_
 12	priserna	pris	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	14	nsubj	_	_
 13	är	vara	AUX	_	_	_	_	_	_
@@ -12448,8 +12448,8 @@
 14	med	med	ADP	_	_	_	_	_	_
 15	5/100	5/100	NUM	_	Case=Com|NumType=Card	13	nmod	_	_
 16	det	den	PRON	_	Definite=Def|ExtPos=ADV|Gender=Neut|Number=Sing|PronType=Prs	21	advmod	_	_
-17	vill	vilja	VERB	_	_	_	_	_	_
-18	säga	säga	VERB	_	_	_	_	_	_
+17	vill	vilja	VERB	_	|	16	fixed	_	_
+18	säga	säga	VERB	_	|	16	fixed	_	_
 19	med	med	ADP	_	_	_	_	_	_
 20	5	5	NUM	_	Case=Nom|NumType=Card	21	nummod	_	_
 21	procent	procent	NOUN	_	Case=Com|Definite=Ind|Gender=Com|Number=Plur	11	parataxis	_	_
@@ -13262,7 +13262,7 @@
 11	för	för	ADP	_	_	_	_	_	_
 12	telefonsamtal	telefonsamtal	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Sing	10	nmod	_	_
 13	ändras	ändra	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
-14	därför	därför	ADV	_	ExtPos=SCONJ	19	mark	_	_
+14	därför	därför	ADV	_	_	_	_	_	_
 15	att	att	SCONJ	_	_	_	_	_	_
 16	ett-	ett-	NUM	_	NumType=Card	19	nsubj	_	_
 17	och	och	CCONJ	_	_	_	_	_	_
@@ -16391,7 +16391,7 @@
 # sent_id = sv-ud-train-990
 # text = Skaffa för säkerhets skull valsedlar för ditt parti i förväg.
 1	Skaffa	skaffa	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
-2	för	för	ADP	_	ExtPos=ADP	3	case	_	_
+2	för	för	ADP	_	_	_	_	_	_
 3	säkerhets	säkerhet	NOUN	_	Case=Ben|Definite=Ind|Gender=Com|Number=Sing	1	obl	_	_
 4	skull	skull	NOUN	_	_	_	_	_	_
 5	valsedlar	valsedel	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	1	obj	_	_
@@ -20151,7 +20151,7 @@
 4	börja	börja	VERB	_	Mood=Ind;Pot|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	när	när	ADV	_	|	4	advmod	_	_
 6	som	som	CCONJ	_	ExtPos=ADV	5	advmod	_	_
-7	helst	gärna	ADV	_	_	_	_	_	_
+7	helst	gärna	ADV	_	|	6	fixed	_	_
 8	och	och	CCONJ	_	_	_	_	_	_
 9	utbildningen	utbildning	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	10	nsubj	_	_
 10	sker	ske	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
@@ -20496,7 +20496,7 @@
 # text = Vem som helst, som fyllt 21 år och anses kunna klara utbildningen kan deltaga.
 1	Vem	vem	PRON	_	Definite=Ind|Gender=Com|Number=Sing|PronType=Tot	15	nsubj	_	_
 2	som	som	CCONJ	_	ExtPos=ADV	1	advmod	_	_
-3	helst	gärna	ADV	_	_	_	_	_	_
+3	helst	gärna	ADV	_	|	2	fixed	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
 5	som	som	PRON	_	PronType=Rel	6	nsubj	_	_
 6	fyllt	fylla	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Sup|Voice=Act	1	acl:relcl	_	_
@@ -23948,7 +23948,7 @@
 # newpar id = P201.41
 # sent_id = sv-ud-train-1434
 # text = Slutligen:
-1	Slutligen	slutligen	ADV	_	_	_	_	_	_
+1	Slutligen	slutligen	ADV	_	|	0	root	_	_
 2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-1435
@@ -24247,7 +24247,7 @@
 
 # sent_id = sv-ud-train-1451
 # text = Nämligen:
-1	Nämligen	nämligen	ADV	_	_	_	_	_	_
+1	Nämligen	nämligen	ADV	_	|	0	root	_	_
 2	:	:	PUNCT	_	_	_	_	_	_
 
 # newpar id = P201.49
@@ -27021,9 +27021,9 @@
 
 # sent_id = sv-ud-train-1621
 # text = För kort tid sedan anställdes han som chef för de borrningar som Oljeprospektering AB - ägt av staten och näringslivet gemensamt - startar på den skånska slätten i januari.
-1	För	för	ADP	_	ExtPos=ADP	3	case	_	_
+1	För	för	ADP	_	_	_	_	_	_
 2	kort	kort	ADJ	_	Degree=Pos	3	amod	_	_
-3	tid	tid	NOUN	_	Case=Ben|Definite=Ind|Gender=Com|Number=Sing	5	obl	_	_
+3	tid	tid	NOUN	_	Case=Tps|Definite=Ind|Gender=Com|Number=Sing	5	obl	_	_
 4	sedan	sedan	ADV	_	_	_	_	_	_
 5	anställdes	anställa	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 6	han	han	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	5	nsubj:pass	_	_
@@ -27143,7 +27143,7 @@
 6	utan	utan	ADP	_	_	_	_	_	_
 7	några	någon	DET	_	PronType=Ind	10	det	_	_
 8	som	som	CCONJ	_	ExtPos=ADV	7	advmod	_	_
-9	helst	gärna	ADV	_	_	_	_	_	_
+9	helst	gärna	ADV	_	|	8	fixed	_	_
 10	garantier	garanti	NOUN	_	Case=Abe|Definite=Ind|Gender=Com|Number=Plur	5	obl	_	_
 11	för	för	ADP	_	_	_	_	_	_
 12	utdelning	utdelning	NOUN	_	Case=Ben|Definite=Ind|Gender=Com|Number=Sing	10	nmod	_	_
@@ -27201,9 +27201,9 @@
 2	-	-	PUNCT	_	_	_	_	_	_
 3	som	som	PRON	_	PronType=Rel	4	nsubj:pass	_	_
 4	bildades	bilda	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	1	acl:relcl	_	_
-5	för	för	ADP	_	ExtPos=ADP	7	case	_	_
+5	för	för	ADP	_	_	_	_	_	_
 6	fyra	fyra	NUM	_	Case=Nom|NumType=Card	7	nummod	_	_
-7	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	4	obl	_	_
+7	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	4	obl	_	_
 8	sedan	sedan	ADV	_	_	_	_	_	_
 9	-	-	PUNCT	_	_	_	_	_	_
 10	har	ha	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -27426,8 +27426,8 @@
 2	markägare	markägare	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	3	nsubj	_	_
 3	får	få	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	så	så	ADV	_	ExtPos=ADV	3	advmod	_	_
-5	att	att	PART	_	_	_	_	_	_
-6	säga	säga	VERB	_	_	_	_	_	_
+5	att	att	PART	_	|	4	fixed	_	_
+6	säga	säga	VERB	_	|	4	fixed	_	_
 7	mer	mycket	ADV	_	Degree=Cmp	3	obj	_	_
 8	än	än	SCONJ	_	_	_	_	_	_
 9	en	en	NUM	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|NumType=Card	11	nummod	_	_
@@ -28323,9 +28323,9 @@
 
 # sent_id = sv-ud-train-1699
 # text = För 3-4 år sedan gav han ut 'hörselskyddsprogram för krigsmakten'.
-1	För	för	ADP	_	ExtPos=ADP	3	case	_	_
+1	För	för	ADP	_	_	_	_	_	_
 2	3-4	3-4	NUM	_	Case=Nom|NumType=Card	3	nummod	_	_
-3	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	5	obl	_	_
+3	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	5	obl	_	_
 4	sedan	sedan	ADV	_	_	_	_	_	_
 5	gav	ge	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	han	han	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	5	nsubj	_	_
@@ -28891,8 +28891,8 @@
 3	borde	böra	AUX	_	_	_	_	_	_
 4	ha	ha	AUX	_	_	_	_	_	_
 5	kommit	komma	VERB	_	Aspect=Perf|Mood=Ind;Nec|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-6	för	för	ADP	_	ExtPos=ADP	7	case	_	_
-7	länge	länge	ADV	_	Case=Ben|Degree=Pos	5	advmod	_	_
+6	för	för	ADP	_	_	_	_	_	_
+7	länge	länge	ADV	_	Case=Tps|Degree=Pos	5	advmod	_	_
 8	sedan	sedan	ADV	_	_	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
@@ -28939,9 +28939,9 @@
 6	miljoner	miljon	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	7	nmod	_	_
 7	människor	människa	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Plur	24	obl	_	_
 8	som	som	PRON	_	PronType=Rel	13	nsubj	_	_
-9	för	för	ADP	_	ExtPos=ADP	11	case	_	_
+9	för	för	ADP	_	_	_	_	_	_
 10	fyra	fyra	NUM	_	Case=Nom|NumType=Card	11	nummod	_	_
-11	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	13	obl	_	_
+11	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	13	obl	_	_
 12	sedan	sedan	ADV	_	_	_	_	_	_
 13	rökte	röka	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
 14	cigaretter	cigarett	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	13	obj	_	_
@@ -28968,7 +28968,7 @@
 6	19	19	NUM	_	Case=Nom|NumType=Card	7	nummod	_	_
 7	miljoner	miljon	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	10	nmod	_	_
 8	före	före	ADP	_	ExtPos=ADJ	10	amod	_	_
-9	detta	denna	PRON	_	_	_	_	_	_
+9	detta	denna	PRON	_	|	8	fixed	_	_
 10	rökare	rökare	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	4	obj	_	_
 11	har	ha	AUX	_	_	_	_	_	_
 12	den	den	DET	_	_	_	_	_	_
@@ -29122,9 +29122,9 @@
 # text = Man började för fem år sedan, när antirökningskampanjen drogs i gång, med en upplysningskampanj på mycket bred basis.
 1	Man	man	PRON	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	2	nsubj	_	_
 2	började	börja	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	för	för	ADP	_	ExtPos=ADP	5	case	_	_
+3	för	för	ADP	_	_	_	_	_	_
 4	fem	fem	NUM	_	Case=Nom|NumType=Card	5	nummod	_	_
-5	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	2	obl	_	_
+5	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	2	obl	_	_
 6	sedan	sedan	ADV	_	_	_	_	_	_
 7	,	,	PUNCT	_	_	_	_	_	_
 8	när	när	SCONJ	_	_	_	_	_	_
@@ -29307,12 +29307,12 @@
 # sent_id = sv-ud-train-1754
 # text = - För ett och ett halvt år sedan fick vi också tid i TV för vår kampanj mot rökningen, säger dr Horn.
 1	-	-	PUNCT	_	_	_	_	_	_
-2	För	för	ADP	_	ExtPos=ADP	7	case	_	_
+2	För	för	ADP	_	_	_	_	_	_
 3	ett	en	NUM	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card	7	nummod	_	_
 4	och	och	CCONJ	_	_	_	_	_	_
 5	ett	en	DET	_	_	_	_	_	_
 6	halvt	halv	ADJ	_	Case=Conj|Degree=Pos	3	conj	_	_
-7	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Sing	9	obl	_	_
+7	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Sing	9	obl	_	_
 8	sedan	sedan	ADV	_	_	_	_	_	_
 9	fick	få	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 10	vi	vi	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	9	nsubj	_	_
@@ -29851,10 +29851,10 @@
 2	Jack	Jack	PROPN	_	Case=Nom	4	nsubj	_	_
 3	Adams-Ray	Adams-Ray	PROPN	_	Case=Nom	2	flat:name	_	_
 4	halkade	halka	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	för	för	ADP	_	ExtPos=ADP	8	case	_	_
+5	för	för	ADP	_	_	_	_	_	_
 6	drygt	dryg	ADV	_	Degree=Pos	7	advmod	_	_
 7	ett	en	DET	_	PronType=Art	8	det	_	_
-8	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Sing	4	obl	_	_
+8	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Sing	4	obl	_	_
 9	sedan	sedan	ADV	_	_	_	_	_	_
 10	i	i	ADP	_	_	_	_	_	_
 11	en	en	DET	_	_	_	_	_	_
@@ -30080,9 +30080,9 @@
 13	vårdpersonal	vårdpersonal	NOUN	_	Case=Conj|Definite=Ind|Gender=Com|Number=Sing	11	conj	_	_
 14	-	-	PUNCT	_	_	_	_	_	_
 15	i	i	ADP	_	ExtPos=ADV	21	advmod	_	_
-16	och	och	CCONJ	_	_	_	_	_	_
-17	för	för	ADP	_	_	_	_	_	_
-18	sig	sig	PRON	_	_	_	_	_	_
+16	och	och	CCONJ	_	|	15	fixed	_	_
+17	för	för	ADP	_	|	15	fixed	_	_
+18	sig	sig	PRON	_	|	15	fixed	_	_
 19	nog	nog	ADV	_	|	20	advmod	_	_
 20	så	så	ADV	_	|	21	advmod	_	_
 21	angeläget	angelägen	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	7	advcl	_	_
@@ -30842,7 +30842,7 @@
 # newpar id = P208.21
 # sent_id = sv-ud-train-1844
 # text = För säkerhets skull ger SvD här en tolk till bildtolken.
-1	För	för	ADP	_	ExtPos=ADP	2	case	_	_
+1	För	för	ADP	_	_	_	_	_	_
 2	säkerhets	säkerhet	NOUN	_	Case=Ben|Definite=Ind|Gender=Com|Number=Sing	4	obl	_	_
 3	skull	skull	NOUN	_	_	_	_	_	_
 4	ger	ge	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -31346,7 +31346,7 @@
 # text = Bland annat därför att de måste göras av styv kartong.
 1	Bland	bland	ADP	_	_	_	_	_	_
 2	annat	annan	PRON	_	Case=Ces|Definite=Ind|Gender=Neut|Number=Sing|PronType=Prs	7	obl	_	_
-3	därför	därför	ADV	_	ExtPos=SCONJ	7	mark	_	_
+3	därför	därför	ADV	_	_	_	_	_	_
 4	att	att	SCONJ	_	_	_	_	_	_
 5	de	de	PRON	_	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	7	nsubj:pass	_	_
 6	måste	måste	AUX	_	_	_	_	_	_
@@ -36494,9 +36494,9 @@
 9	potatis	potatis	NOUN	_	Case=Lat|Definite=Def|Gender=Com|Number=Sing	6	obl	_	_
 10	vi	vi	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	11	nsubj	_	_
 11	åt	äta	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
-12	för	för	ADP	_	ExtPos=ADP	14	case	_	_
+12	för	för	ADP	_	_	_	_	_	_
 13	trettio	trettio	NUM	_	Case=Nom|NumType=Card	14	nummod	_	_
-14	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	11	obl	_	_
+14	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	11	obl	_	_
 15	sen	sen	ADV	_	_	_	_	_	_
 16	?	?	PUNCT	_	_	_	_	_	_
 
@@ -36798,8 +36798,8 @@
 7	forskarnas	forskare	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Plur	8	nmod:poss	_	_
 8	uppfattning	uppfattning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	4	nsubj	_	_
 9	stick	stick	NOUN	_	Case=Nom|Definite=Ind|ExtPos=ADV|Gender=Neut|Number=Sing	4	obl	_	_
-10	i	i	ADP	_	_	_	_	_	_
-11	stäv	stäv	NOUN	_	_	_	_	_	_
+10	i	i	ADP	_	|	9	fixed	_	_
+11	stäv	stäv	NOUN	_	|	9	fixed	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-2166
@@ -36971,9 +36971,9 @@
 8	vid	vid	ADP	_	_	_	_	_	_
 9	motsvarande	motsvarande	ADJ	_	Degree=Pos	10	amod	_	_
 10	reform	reform	NOUN	_	Case=Loc|Definite=Ind|Gender=Com|Number=Sing	3	obl	_	_
-11	för	för	ADP	_	ExtPos=ADP	13	case	_	_
+11	för	för	ADP	_	_	_	_	_	_
 12	tre	tre	NUM	_	Case=Nom|NumType=Card	13	nummod	_	_
-13	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	3	obl	_	_
+13	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	3	obl	_	_
 14	sedan	sedan	ADV	_	_	_	_	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
 
@@ -37380,7 +37380,7 @@
 # sent_id = sv-ud-train-2199
 # text = Fastighetsägarna därför att de räknat med att hyrorna i genomsnitt skulle fördubblas.
 1	Fastighetsägarna	fastighetsägare	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-2	därför	därför	ADV	_	ExtPos=SCONJ	5	mark	_	_
+2	därför	därför	ADV	_	_	_	_	_	_
 3	att	att	SCONJ	_	_	_	_	_	_
 4	de	de	PRON	_	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	5	nsubj	_	_
 5	räknat	räkna	VERB	_	Case=Cau|Mood=Ind|Polarity=Pos|VerbForm=Sup|Voice=Act	1	acl	_	_
@@ -37398,7 +37398,7 @@
 1	Hyresgästföreningen	hyresgästförening	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	nsubj	_	_
 2	var	vara	AUX	_	_	_	_	_	_
 3	besviken	besviken	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	0	root	_	_
-4	därför	därför	ADV	_	ExtPos=SCONJ	14	mark	_	_
+4	därför	därför	ADV	_	_	_	_	_	_
 5	att	att	SCONJ	_	_	_	_	_	_
 6	de	de	DET	_	_	_	_	_	_
 7	stegrade	stegrad	ADJ	_	Degree=Pos	8	amod	_	_
@@ -37619,7 +37619,7 @@
 16	litet	litet	ADV	_	Degree=Pos	17	advmod	_	_
 17	hur	hur	ADV	_	|	15	advmod	_	_
 18	som	som	CCONJ	_	ExtPos=ADV	17	advmod	_	_
-19	helst	gärna	ADV	_	_	_	_	_	_
+19	helst	gärna	ADV	_	|	18	fixed	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-2210
@@ -41875,12 +41875,12 @@
 1	Sådana	sådan	ADJ	_	Degree=Pos	2	amod	_	_
 2	anläggningar	anläggning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	10	nsubj	_	_
 3	måste	måste	AUX	_	_	_	_	_	_
-4	i	i	ADP	_	ExtPos=ADP	9	case	_	_
+4	i	i	ADP	_	_	_	_	_	_
 5	och	och	CCONJ	_	_	_	_	_	_
 6	med	med	ADP	_	_	_	_	_	_
 7	det	den	DET	_	_	_	_	_	_
 8	ökade	ökad	ADJ	_	Degree=Pos	9	amod	_	_
-9	båtbeståndet	båtbestånd	NOUN	_	Case=Ine|Definite=Def|Gender=Neut|Number=Sing	10	obl	_	_
+9	båtbeståndet	båtbestånd	NOUN	_	Case=Cau|Definite=Def|Gender=Neut|Number=Sing	10	obl	_	_
 10	komma	komma	VERB	_	Mood=Ind;Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 11	även	även	ADV	_	|	12	advmod	_	_
 12	här	här	ADV	_	|	10	advmod	_	_
@@ -42978,10 +42978,10 @@
 6	på	på	ADP	_	_	_	_	_	_
 7	allvar	allvar	NOUN	_	Case=Ade|Definite=Ind|Gender=Neut|Number=Sing	8	obl	_	_
 8	utarbetats	utarbeta	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Sup|Voice=Pass	3	acl:relcl	_	_
-9	för	för	ADP	_	ExtPos=ADP	12	case	_	_
+9	för	för	ADP	_	_	_	_	_	_
 10	ca	circa	ADV	_	Abbr=Yes	11	advmod	_	_
 11	100	100	NUM	_	Case=Nom|NumType=Card	12	nummod	_	_
-12	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	8	obl	_	_
+12	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	8	obl	_	_
 13	sen	sen	ADV	_	_	_	_	_	_
 14	,	,	PUNCT	_	_	_	_	_	_
 15	när	när	ADV	_	|	17	advmod	_	_
@@ -43130,7 +43130,7 @@
 11	,	,	PUNCT	_	_	_	_	_	_
 12	som	som	PRON	_	PronType=Rel	15	nsubj	_	_
 13	så	så	ADV	_	ExtPos=ADV	15	advmod	_	_
-14	småningom	småningom	ADV	_	_	_	_	_	_
+14	småningom	småningom	ADV	_	|	13	fixed	_	_
 15	resulterade	resultera	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
 16	i	i	ADP	_	_	_	_	_	_
 17	Nordiska	nordisk	ADJ	_	Degree=Pos	18	amod	_	_
@@ -43219,8 +43219,8 @@
 7	Norden	Norden	PROPN	_	Case=Ine	5	obl	_	_
 8	utan	utan	CCONJ	_	_	_	_	_	_
 9	till	till	ADV	_	ExtPos=ADV	14	advmod	_	_
-10	och	och	CCONJ	_	_	_	_	_	_
-11	med	med	ADV	_	_	_	_	_	_
+10	och	och	CCONJ	_	|	9	fixed	_	_
+11	med	med	ADV	_	|	9	fixed	_	_
 12	i	i	ADP	_	_	_	_	_	_
 13	hela	hel	ADJ	_	Degree=Pos	14	amod	_	_
 14	världen	värld	NOUN	_	Case=Advs|Definite=Def|Gender=Com|Number=Sing	5	conj	_	_
@@ -43485,7 +43485,7 @@
 
 # sent_id = sv-ud-train-2537
 # text = Därför att vi har ett brett förankrat undervisningsväsende.
-1	Därför	därför	ADV	_	ExtPos=SCONJ	4	mark	_	_
+1	Därför	därför	ADV	_	_	_	_	_	_
 2	att	att	SCONJ	_	_	_	_	_	_
 3	vi	vi	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	4	nsubj	_	_
 4	har	ha	VERB	_	Case=Cau|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -43598,7 +43598,7 @@
 # sent_id = sv-ud-train-2544
 # text = Och vare sig gammelmatten genomsnittligt producerade bra eller dåliga elever - så nog var den en fasa för många.
 1	Och	och	CCONJ	_	_	_	_	_	_
-2	vare	vare	CCONJ	_	ExtPos=CCONJ	6	mark	_	_
+2	vare	vare	CCONJ	_	_	_	_	_	_
 3	sig	sig	PRON	_	_	_	_	_	_
 4	gammelmatten	gammelmatt	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	6	nsubj	_	_
 5	genomsnittligt	genomsnittlig	ADV	_	Degree=Pos	6	advmod	_	_
@@ -48092,10 +48092,10 @@
 # sent_id = sv-ud-train-2799
 # text = Bara för några hundra år sedan var folkökningen långsam och reglerades bl.a. genom en hög barndödlighet och en relativt kort livslängd.
 1	Bara	bara	ADV	_	|	5	advmod	_	_
-2	för	för	ADP	_	ExtPos=ADP	5	case	_	_
+2	för	för	ADP	_	_	_	_	_	_
 3	några	någon	DET	_	PronType=Ind	4	det	_	_
 4	hundra	hundra	NUM	_	Case=Nom|NumType=Card	5	nummod	_	_
-5	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	9	obl	_	_
+5	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	9	obl	_	_
 6	sedan	sedan	ADV	_	_	_	_	_	_
 7	var	vara	AUX	_	_	_	_	_	_
 8	folkökningen	folkökning	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	9	nsubj	_	_
@@ -50187,7 +50187,7 @@
 23	andliga	andlig	ADJ	_	Case=Conj|Degree=Pos	21	conj	_	_
 24	brutaliteter	brutalitet	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	27	nsubj:pass	_	_
 25	som	som	CCONJ	_	ExtPos=ADV	20	advmod	_	_
-26	helst	gärna	ADV	_	_	_	_	_	_
+26	helst	gärna	ADV	_	|	25	fixed	_	_
 27	tillåts	tillåta	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	16	acl:relcl	_	_
 28	.	.	PUNCT	_	_	_	_	_	_
 
@@ -51272,14 +51272,14 @@
 # newpar id = P304.16
 # sent_id = sv-ud-train-2955
 # text = I och med att människorna i äktenskapet blivit viktigare än äktenskapet som institution, har frågorna om äktenskapets vara eller icke-vara och om den personliga trivseln i äktenskapet blivit långt mer aktuella och brännande än förr.
-1	I	i	ADP	_	ExtPos=ADP	8	mark	_	_
+1	I	i	ADP	_	_	_	_	_	_
 2	och	och	CCONJ	_	_	_	_	_	_
 3	med	med	ADP	_	_	_	_	_	_
 4	att	att	SCONJ	_	_	_	_	_	_
 5	människorna	människa	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur	8	nsubj	_	_
 6	i	i	ADP	_	_	_	_	_	_
 7	äktenskapet	äktenskap	NOUN	_	Case=Ine|Definite=Def|Gender=Neut|Number=Sing	5	nmod	_	_
-8	blivit	bli	VERB	_	Case=Atr;Ine|Mood=Ind|Polarity=Pos|VerbForm=Sup|Voice=Act	29	advcl	_	_
+8	blivit	bli	VERB	_	Case=Atr;Cau|Mood=Ind|Polarity=Pos|VerbForm=Sup|Voice=Act	29	advcl	_	_
 9	viktigare	viktig	ADJ	_	Degree=Cmp|Mood=Ind|Polarity=Pos	8	xcomp	_	_
 10	än	än	ADP	_	_	_	_	_	_
 11	äktenskapet	äktenskap	NOUN	_	Case=Cmp|Definite=Def|Gender=Neut|Number=Sing	8	obl	_	_
@@ -51782,7 +51782,7 @@
 6	den	den	DET	_	_	_	_	_	_
 7	sexuella	sexuell	ADJ	_	Degree=Pos	8	amod	_	_
 8	driften	drift	NOUN	_	Case=Com|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	4	acl	_	_
-9	för	för	ADP	_	ExtPos=ADP	10	case	_	_
+9	för	för	ADP	_	_	_	_	_	_
 10	fortplantningens	fortplantning	NOUN	_	Case=Ben|Definite=Def|Gender=Com|Number=Sing	8	obl	_	_
 11	skull	skull	NOUN	_	_	_	_	_	_
 12	och	och	CCONJ	_	_	_	_	_	_
@@ -52460,7 +52460,7 @@
 6	vara	vara	AUX	_	_	_	_	_	_
 7	monogamt	monogam	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	0	root	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
-9	därför	därför	ADV	_	ExtPos=SCONJ	14	mark	_	_
+9	därför	därför	ADV	_	_	_	_	_	_
 10	att	att	SCONJ	_	_	_	_	_	_
 11	det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	14	nsubj	_	_
 12	är	vara	AUX	_	_	_	_	_	_
@@ -52851,7 +52851,7 @@
 9	till	till	ADP	_	_	_	_	_	_
 10	förmån	förmån	NOUN	_	Case=Lat|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Neg	0	root	_	_
 11	för	för	ADP	_	_	_	_	_	_
-12	vare	vare	CCONJ	_	ExtPos=CCONJ	14	cc	_	_
+12	vare	vare	CCONJ	_	_	_	_	_	_
 13	sig	sig	PRON	_	_	_	_	_	_
 14	individ	individ	NOUN	_	Case=Disj|Definite=Ind|Gender=Com|Number=Sing	10	obl	_	_
 15	eller	eller	CCONJ	_	_	_	_	_	_
@@ -53007,7 +53007,7 @@
 12	inte	inte	PART	_	_	_	_	_	_
 13	upplösas	upplösa	VERB	_	Case=Conj|Mood=Ind;neg(Pot)|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	7	conj	_	_
 14	-	-	PUNCT	_	_	_	_	_	_
-15	vare	vare	CCONJ	_	ExtPos=CCONJ	18	cc	_	_
+15	vare	vare	CCONJ	_	_	_	_	_	_
 16	sig	sig	PRON	_	_	_	_	_	_
 17	av	av	ADP	_	_	_	_	_	_
 18	otrohet	otrohet	NOUN	_	Case=Disj|Definite=Ind|Gender=Com|Number=Sing	7	obl:agent	_	_
@@ -53110,7 +53110,7 @@
 
 # sent_id = sv-ud-train-3055
 # text = För syndens skull tillåter den ortodoxa kyrkan både skilsmässa och omgifte.
-1	För	för	ADP	_	ExtPos=ADP	2	case	_	_
+1	För	för	ADP	_	_	_	_	_	_
 2	syndens	synd	NOUN	_	Case=Ben|Definite=Def|Gender=Com|Number=Sing	4	obl	_	_
 3	skull	skull	NOUN	_	_	_	_	_	_
 4	tillåter	tillåta	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -53213,7 +53213,7 @@
 1	'	'	PUNCT	_	_	_	_	_	_
 2	Den	den	PRON	_	Definite=Def|Gender=Com|Number=Sing|PronType=Prs	22	dislocated	_	_
 3	som	som	PRON	_	PronType=Rel	12	nsubj	_	_
-4	för	för	ADP	_	ExtPos=ADP	7	case	_	_
+4	för	för	ADP	_	_	_	_	_	_
 5	någon	någon	DET	_	PronType=Ind	7	det	_	_
 6	annan	annan	ADJ	_	Degree=Pos	7	amod	_	_
 7	orsaks	orsak	NOUN	_	Case=Ben|Definite=Ind|Gender=Com|Number=Sing	12	obl	_	_
@@ -53308,8 +53308,8 @@
 3	äktenskap	äktenskap	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	8	nsubj	_	_
 4	har	ha	AUX	_	_	_	_	_	_
 5	så	så	ADV	_	ExtPos=ADV	8	advmod	_	_
-6	att	att	PART	_	_	_	_	_	_
-7	säga	säga	VERB	_	_	_	_	_	_
+6	att	att	PART	_	|	5	fixed	_	_
+7	säga	säga	VERB	_	|	5	fixed	_	_
 8	ogiltigförklarat	ogiltigförklara	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	sig	sig	PRON	_	Case=Acc|Definite=Def|PronType=Prs	8	obj	_	_
 10	självt	själv	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	9	acl	_	_
@@ -53616,10 +53616,10 @@
 17	vad	vad	PRON	_	Definite=Ind|Gender=Neut|Number=Sing|PronType=Int	19	obj	_	_
 18	det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	19	nsubj	_	_
 19	gjorde	göra	VERB	_	Case=Cmp|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
-20	för	för	ADP	_	ExtPos=ADP	23	case	_	_
+20	för	för	ADP	_	_	_	_	_	_
 21	bara	bara	ADV	_	|	23	advmod	_	_
 22	hundra	hundra	NUM	_	Case=Nom|NumType=Card	23	nummod	_	_
-23	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	19	obl	_	_
+23	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	19	obl	_	_
 24	sedan	sedan	ADV	_	_	_	_	_	_
 25	.	.	PUNCT	_	_	_	_	_	_
 
@@ -55189,23 +55189,23 @@
 8	nu	nu	ADV	_	|	3	advmod	_	_
 9	ljusare	ljus	ADJ	_	Degree=Cmp|Mood=Ind|Polarity=Pos	3	xcomp	_	_
 10	än	än	ADP	_	_	_	_	_	_
-11	för	för	ADP	_	ExtPos=ADP	14	case	_	_
+11	för	för	ADP	_	_	_	_	_	_
 12	bara	bara	ADV	_	|	14	advmod	_	_
 13	några	någon	DET	_	PronType=Ind	14	det	_	_
-14	decennier	decennium	NOUN	_	Case=Ben;Cmp|Definite=Ind|Gender=Neut|Number=Plur	3	obl	_	_
+14	decennier	decennium	NOUN	_	Case=Tps;Cmp|Definite=Ind|Gender=Neut|Number=Plur	3	obl	_	_
 15	sedan	sedan	ADV	_	_	_	_	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-3163
 # text = I och med att kärnkraften inom något decennium blir ett realistiskt alternativ till oljan, stenkolet och vattenkraften, har världen i sina uran- och toriumlager fått ett nytt energitillskott.
-1	I	i	ADP	_	ExtPos=ADP	9	mark	_	_
+1	I	i	ADP	_	_	_	_	_	_
 2	och	och	CCONJ	_	_	_	_	_	_
 3	med	med	ADP	_	_	_	_	_	_
 4	att	att	SCONJ	_	_	_	_	_	_
 5	kärnkraften	kärnkraft	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	9	nsubj	_	_
 6	inom	inom	ADP	_	_	_	_	_	_
 7	något	någon	DET	_	PronType=Ind	8	det	_	_
-8	decennium	decennium	NOUN	_	Case=Ine|Definite=Ind|Gender=Neut|Number=Sing	9	obl	_	_
+8	decennium	decennium	NOUN	_	Case=Cau|Definite=Ind|Gender=Neut|Number=Sing	9	obl	_	_
 9	blir	bli	VERB	_	Case=Atr;Ine|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	27	advcl	_	_
 10	ett	en	DET	_	_	_	_	_	_
 11	realistiskt	realistisk	ADJ	_	Degree=Pos	12	amod	_	_
@@ -55751,7 +55751,7 @@
 5	för	för	ADP	_	_	_	_	_	_
 6	oljan	olja	NOUN	_	Case=Ben|Definite=Def|Gender=Com|Number=Sing	4	nmod	_	_
 7	,	,	PUNCT	_	_	_	_	_	_
-8	vare	vare	CCONJ	_	ExtPos=CCONJ	11	mark	_	_
+8	vare	vare	CCONJ	_	_	_	_	_	_
 9	sig	sig	PRON	_	_	_	_	_	_
 10	den	den	PRON	_	Definite=Def|Gender=Com|Number=Sing|PronType=Prs	11	nsubj	_	_
 11	går	gå	VERB	_	Case=Disj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	_
@@ -56610,7 +56610,7 @@
 4	av	av	ADP	_	_	_	_	_	_
 5	oss	vi	PRON	_	Case=Gen|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	3	obl	_	_
 6	bara	bara	ADV	_	|	11	advmod	_	_
-7	därför	därför	ADV	_	ExtPos=SCONJ	11	mark	_	_
+7	därför	därför	ADV	_	_	_	_	_	_
 8	att	att	SCONJ	_	_	_	_	_	_
 9	vi	vi	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	11	nsubj	_	_
 10	är	vara	AUX	_	_	_	_	_	_
@@ -56913,8 +56913,8 @@
 # sent_id = sv-ud-train-3248
 # text = Icke desto mindre var det en kraftig skillnad mellan grupperna ifråga om vad de trodde om föräldrarnas förväntningar på dem när det gällde deras framtid.
 1	Icke	icke	PART	_	ExtPos=ADV	8	advmod	_	_
-2	desto	desto	ADV	_	_	_	_	_	_
-3	mindre	lite	ADV	_	_	_	_	_	_
+2	desto	desto	ADV	_	|	1	fixed	_	_
+3	mindre	lite	ADV	_	|	1	fixed	_	_
 4	var	vara	AUX	_	_	_	_	_	_
 5	det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	8	nsubj	_	_
 6	en	en	DET	_	_	_	_	_	_
@@ -57348,7 +57348,7 @@
 11	vilka	vilken	DET	_	PronType=Tot	12	det	_	_
 12	situationer	situation	NOUN	_	Case=Ben|Definite=Ind|Gender=Com|Number=Plur	9	obl	_	_
 13	som	som	CCONJ	_	ExtPos=ADV	11	advmod	_	_
-14	helst	gärna	ADV	_	_	_	_	_	_
+14	helst	gärna	ADV	_	|	13	fixed	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-3269
@@ -58886,7 +58886,7 @@
 2	ger	ge	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	-	-	PUNCT	_	_	_	_	_	_
 4	så	så	ADV	_	ExtPos=ADV	2	advmod	_	_
-5	småningom	småningom	ADV	_	_	_	_	_	_
+5	småningom	småningom	ADV	_	|	4	fixed	_	_
 6	-	-	PUNCT	_	_	_	_	_	_
 7	en	en	DET	_	_	_	_	_	_
 8	standardhöjning	standardhöjning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obj	_	_
@@ -58998,9 +58998,9 @@
 4	har	ha	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	väl	väl	ADV	_	|	4	advmod	_	_
 6	i	i	ADP	_	ExtPos=ADV	4	advmod	_	_
-7	och	och	CCONJ	_	_	_	_	_	_
-8	för	för	ADP	_	_	_	_	_	_
-9	sig	sig	PRON	_	_	_	_	_	_
+7	och	och	CCONJ	_	|	6	fixed	_	_
+8	för	för	ADP	_	|	6	fixed	_	_
+9	sig	sig	PRON	_	|	6	fixed	_	_
 10	någon	någon	DET	_	PronType=Ind	11	det	_	_
 11	inkomst	inkomst	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	4	obj	_	_
 12	,	,	PUNCT	_	_	_	_	_	_
@@ -59599,12 +59599,12 @@
 
 # sent_id = sv-ud-train-3380
 # text = I och med att hälsan sviktar blir lönen ännu lägre och spiralen kommer i gång neråt.
-1	I	i	ADP	_	ExtPos=ADP	6	mark	_	_
+1	I	i	ADP	_	_	_	_	_	_
 2	och	och	CCONJ	_	_	_	_	_	_
 3	med	med	ADP	_	_	_	_	_	_
 4	att	att	SCONJ	_	_	_	_	_	_
 5	hälsan	hälsa	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	6	nsubj	_	_
-6	sviktar	svikta	VERB	_	Case=Atr;Ine|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+6	sviktar	svikta	VERB	_	Case=Atr;Cau|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
 7	blir	bli	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	lönen	lön	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	nsubj	_	_
 9	ännu	ännu	ADV	_	|	10	advmod	_	_
@@ -59701,7 +59701,7 @@
 20	inte	inte	PART	_	_	_	_	_	_
 21	kan	kunna	VERB	_	Case=Advs|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	_
 22	,	,	PUNCT	_	_	_	_	_	_
-23	därför	därför	ADV	_	ExtPos=SCONJ	28	mark	_	_
+23	därför	därför	ADV	_	_	_	_	_	_
 24	att	att	SCONJ	_	_	_	_	_	_
 25	de	de	PRON	_	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	28	nsubj	_	_
 26	inte	inte	PART	_	_	_	_	_	_
@@ -60976,9 +60976,9 @@
 
 # sent_id = sv-ud-train-3447
 # text = För 20 år sedan skaffade sig mindre än 10 % av 20-åringarna studentexamen eller en liknande utbildning.
-1	För	för	ADP	_	ExtPos=ADP	3	case	_	_
+1	För	för	ADP	_	_	_	_	_	_
 2	20	20	NUM	_	Case=Nom|NumType=Card	3	nummod	_	_
-3	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	5	obl	_	_
+3	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	5	obl	_	_
 4	sedan	sedan	ADV	_	_	_	_	_	_
 5	skaffade	skaffa	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	sig	sig	PRON	_	Case=Acc|Definite=Def|PronType=Prs	5	iobj	_	_
@@ -64176,10 +64176,10 @@
 
 # sent_id = sv-ud-train-3631
 # text = I och med parbildningen och bobyggandet följer beteendet andra mönster.
-1	I	i	ADP	_	ExtPos=ADP	4	case	_	_
+1	I	i	ADP	_	_	_	_	_	_
 2	och	och	CCONJ	_	_	_	_	_	_
 3	med	med	ADP	_	_	_	_	_	_
-4	parbildningen	parbildning	NOUN	_	Case=Ine|Definite=Def|Gender=Com|Number=Sing	7	obl	_	_
+4	parbildningen	parbildning	NOUN	_	Case=Cau|Definite=Def|Gender=Com|Number=Sing	7	obl	_	_
 5	och	och	CCONJ	_	_	_	_	_	_
 6	bobyggandet	bobyggande	NOUN	_	Case=Conj|Definite=Def|Gender=Neut|Number=Sing	4	conj	_	_
 7	följer	följa	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -65258,7 +65258,7 @@
 
 # sent_id = sv-ud-train-3686
 # text = Tack vare den hindras svaga djur från fortplantning och kan t.o.m. ibland dödas av de starkare individerna i gruppen.
-1	Tack	tack	NOUN	_	Case=Nom|Definite=Ind|ExtPos=ADP|Gender=Neut|Number=Sing	3	case	_	_
+1	Tack	tack	NOUN	_	_	_	_	_	_
 2	vare	vara	VERB	_	_	_	_	_	_
 3	den	den	PRON	_	Case=Cau|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	4	obl	_	_
 4	hindras	hindra	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -66254,8 +66254,8 @@
 3	passerar	passera	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	således	således	ADV	_	|	3	advmod	_	_
 5	varken	varken	CCONJ	_	_	_	_	_	_
-6	genom	genom	ADP	_	Case=Nnor	7	case	_	_
-7	Jönköping	Jönköping	PROPN	_	Case=Per	3	obl	_	_
+6	genom	genom	ADP	_	_	_	_	_	_
+7	Jönköping	Jönköping	PROPN	_	Case=Nnor;Per	3	obl	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
 9	Växjö	Växjö	PROPN	_	Case=Nom	7	conj	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
@@ -67343,9 +67343,9 @@
 
 # sent_id = sv-ud-train-3786
 # text = För inte länge sedan var det normalt, att flickor och pojkar gick i olika skolor och fick olika utbildning.
-1	För	för	ADP	_	ExtPos=ADP	3	case	_	_
+1	För	för	ADP	_	_	_	_	_	_
 2	inte	inte	PART	_	_	_	_	_	_
-3	länge	länge	ADV	_	Case=Ben|Degree=Pos|Mood=Ind|Polarity=Neg	7	advmod	_	_
+3	länge	länge	ADV	_	Case=Tps|Degree=Pos|Mood=Ind|Polarity=Neg	7	advmod	_	_
 4	sedan	sedan	ADV	_	_	_	_	_	_
 5	var	vara	AUX	_	_	_	_	_	_
 6	det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	7	expl	_	_
@@ -69416,7 +69416,7 @@
 2	forskare	forskare	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	3	nsubj	_	_
 3	drar	dra	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	rent	ren	ADV	_	Degree=Pos|ExtPos=ADV	3	advmod	_	_
-5	av	av	ADP	_	_	_	_	_	_
+5	av	av	ADP	_	|	4	fixed	_	_
 6	den	den	DET	_	_	_	_	_	_
 7	slutsatsen	slutsats	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	obj	_	_
 8	att	att	SCONJ	_	_	_	_	_	_
@@ -71873,7 +71873,7 @@
 11	själva	själv	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	10	acl	_	_
 12	,	,	PUNCT	_	_	_	_	_	_
 13	just	just	ADV	_	|	22	advmod	_	_
-14	därför	därför	ADV	_	ExtPos=SCONJ	22	mark	_	_
+14	därför	därför	ADV	_	_	_	_	_	_
 15	att	att	SCONJ	_	_	_	_	_	_
 16	ingen	ingen	DET	_	_	_	_	_	_
 17	annan	annan	ADJ	_	Degree=Pos	18	amod	_	_
@@ -72280,7 +72280,7 @@
 13	vågar	våga	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
 14	bryta	bryta	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	13	xcomp	_	_
 15	,	,	PUNCT	_	_	_	_	_	_
-16	därför	därför	ADV	_	ExtPos=SCONJ	20	mark	_	_
+16	därför	därför	ADV	_	_	_	_	_	_
 17	att	att	SCONJ	_	_	_	_	_	_
 18	man	man	PRON	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	20	nsubj	_	_
 19	är	vara	AUX	_	_	_	_	_	_
@@ -73609,7 +73609,7 @@
 41	(	(	PUNCT	_	_	_	_	_	_
 42	och	och	CCONJ	_	_	_	_	_	_
 43	vice	vice	NOUN	_	Case=Conj|ExtPos=ADV|Foreign=Yes	37	conj	_	_
-44	versa	versa	NOUN	_	_	_	_	_	_
+44	versa	versa	NOUN	_	|	43	fixed	_	_
 45	,	,	PUNCT	_	_	_	_	_	_
 46	naturligtvis	naturligtvis	ADV	_	|	43	advmod	_	_
 47	)	)	PUNCT	_	_	_	_	_	_
@@ -75173,17 +75173,17 @@
 
 # sent_id = sv-ud-train-4115
 # text = Kort.
-1	Kort	kort	ADV	_	_	_	_	_	_
+1	Kort	kort	ADV	_	Degree=Pos	0	root	_	_
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-4116
 # text = Realistiskt.
-1	Realistiskt	realistisk	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	0	root	_	_
+1	Realistiskt	realistiskt	ADV	_	Degree=Pos	0	root	_	_
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-4117
 # text = Bibliskt.
-1	Bibliskt	biblisk	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	0	root	_	_
+1	Bibliskt	bibliskt	ADV	_	Degree=Pos	0	root	_	_
 2	.	.	PUNCT	_	_	_	_	_	_
 
 # newpar id = P405.3
@@ -75265,7 +75265,7 @@
 13	blir	bli	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 14	hur	hur	ADV	_	|	13	advmod	_	_
 15	som	som	CCONJ	_	ExtPos=ADV	14	advmod	_	_
-16	helst	gärna	ADV	_	_	_	_	_	_
+16	helst	gärna	ADV	_	|	15	fixed	_	_
 17	ett	en	DET	_	_	_	_	_	_
 18	andrahandssyfte	andrahandssyfte	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	13	xcomp	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
@@ -76759,9 +76759,9 @@
 10	som	som	PRON	_	PronType=Rel	16	nsubj	_	_
 11	inte	inte	PART	_	_	_	_	_	_
 12	i	i	ADP	_	ExtPos=ADV	16	advmod	_	_
-13	och	och	CCONJ	_	_	_	_	_	_
-14	för	för	ADP	_	_	_	_	_	_
-15	sig	sig	PRON	_	_	_	_	_	_
+13	och	och	CCONJ	_	|	12	fixed	_	_
+14	för	för	ADP	_	|	12	fixed	_	_
+15	sig	sig	PRON	_	|	12	fixed	_	_
 16	har	ha	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
 17	något	någon	DET	_	PronType=Ind	18	det	_	_
 18	kristet	kristen	ADJ	_	Degree=Pos	16	obj	_	_
@@ -76940,10 +76940,10 @@
 25	debattör	debattör	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	22	nsubj	_	_
 26	i	i	ADP	_	_	_	_	_	_
 27	trolöshetsdebatten	trolöshetsdebatt	NOUN	_	Case=Ine|Definite=Def|Gender=Com|Number=Sing	25	nmod	_	_
-28	för	för	ADP	_	ExtPos=ADP	31	case	_	_
+28	för	för	ADP	_	_	_	_	_	_
 29	en	en	DET	_	_	_	_	_	_
 30	del	del	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	31	nmod	_	_
-31	år	år	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	22	obl	_	_
+31	år	år	NOUN	_	Case=Tps|Definite=Ind|Gender=Neut|Number=Plur	22	obl	_	_
 32	sen	sen	ADV	_	_	_	_	_	_
 33	-	-	PUNCT	_	_	_	_	_	_
 34	så	så	ADV	_	|	38	advmod	_	_
@@ -77076,7 +77076,7 @@
 14	grund	grund	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	13	obj	_	_
 15	helt	helt	ADV	_	Degree=Pos	16	advmod	_	_
 16	enkelt	enkel	ADV	_	Degree=Pos	22	advmod	_	_
-17	därför	därför	ADV	_	ExtPos=SCONJ	22	mark	_	_
+17	därför	därför	ADV	_	_	_	_	_	_
 18	att	att	SCONJ	_	_	_	_	_	_
 19	detta	denna	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	22	nsubj	_	_
 20	är	vara	AUX	_	_	_	_	_	_
@@ -77248,9 +77248,9 @@
 26	skiftningar	skiftning	NOUN	_	Case=Nom|Definite=Def|Dem=Prox|Gender=Com|Number=Plur	33	nsubj:pass	_	_
 27	inte	inte	PART	_	_	_	_	_	_
 28	i	i	ADP	_	ExtPos=ADV	33	advmod	_	_
-29	och	och	CCONJ	_	_	_	_	_	_
-30	för	för	ADP	_	_	_	_	_	_
-31	sig	sig	PRON	_	_	_	_	_	_
+29	och	och	CCONJ	_	|	28	fixed	_	_
+30	för	för	ADP	_	|	28	fixed	_	_
+31	sig	sig	PRON	_	|	28	fixed	_	_
 32	behöver	behöva	AUX	_	_	_	_	_	_
 33	tillmätas	tillmäta	VERB	_	Case=Conj|Mood=Ind;neg(Nec)|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	15	conj	_	_
 34	någon	någon	DET	_	PronType=Ind	36	det	_	_
@@ -77687,7 +77687,7 @@
 3	gifter	gifta	VERB	_	Case=Disj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	sig	sig	PRON	_	Case=Acc|Definite=Def|PronType=Prs	3	obj	_	_
 5	bara	bara	ADV	_	|	8	advmod	_	_
-6	för	för	ADP	_	ExtPos=ADP	8	case	_	_
+6	för	för	ADP	_	_	_	_	_	_
 7	ett	en	DET	_	_	_	_	_	_
 8	barns	barn	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Sing	3	obl	_	_
 9	skull	skull	NOUN	_	_	_	_	_	_
@@ -77972,7 +77972,7 @@
 14	skulle	skola	AUX	_	_	_	_	_	_
 15	uppge	uppge	VERB	_	Case=Atr|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	6	csubj	_	_
 16	trohetsaspekten	trohetsaspekt	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	15	obj	_	_
-17	därför	därför	ADV	_	ExtPos=SCONJ	23	mark	_	_
+17	därför	därför	ADV	_	_	_	_	_	_
 18	att	att	SCONJ	_	_	_	_	_	_
 19	den	den	PRON	_	Definite=Def|Gender=Com|Number=Sing|PronType=Prs	23	nsubj	_	_
 20	inte	inte	PART	_	_	_	_	_	_
@@ -78370,9 +78370,9 @@
 17	som	som	PRON	_	PronType=Rel	24	obj	_	_
 18	det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	24	expl	_	_
 19	i	i	ADP	_	ExtPos=ADV	24	advmod	_	_
-20	och	och	CCONJ	_	_	_	_	_	_
-21	för	för	ADP	_	_	_	_	_	_
-22	sig	sig	PRON	_	_	_	_	_	_
+20	och	och	CCONJ	_	|	19	fixed	_	_
+21	för	för	ADP	_	|	19	fixed	_	_
+22	sig	sig	PRON	_	|	19	fixed	_	_
 23	inte	inte	PART	_	_	_	_	_	_
 24	finns	finnas	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
 25	någon	någon	DET	_	PronType=Ind	26	det	_	_
@@ -79207,11 +79207,10 @@
 5	inte	inte	PART	_	_	_	_	_	_
 6	var	vara	AUX	_	_	_	_	_	_
 7	skilsmässan	skilsmässa	NOUN	_	Case=Atr|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Neg	2	ccomp	_	_
-8	i	i	ADP	_	_	_	_	_	_
-8.1	_	_	_	_	Case=Ine	7	nmod	_	_
-9	och	och	CCONJ	_	_	_	_	_	_
-10	för	för	ADP	_	_	_	_	_	_
-11	sig	sig	PRON	_	_	_	_	_	_
+8	i	i	ADP	_	ExtPos=ADV	7	advmod	_	_
+9	och	och	CCONJ	_	|	8	fixed	_	_
+10	för	för	ADP	_	|	8	fixed	_	_
+11	sig	sig	PRON	_	|	8	fixed	_	_
 12	som	som	PRON	_	PronType=Rel	13	nsubj	_	_
 13	skadade	skada	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:cleft	_	_
 14	barnen	barn	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	13	obj	_	_
@@ -79486,7 +79485,7 @@
 20	att	att	SCONJ	_	_	_	_	_	_
 21	mamma	mamma	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	25	nsubj	_	_
 22	a	a	ADP	_	ExtPos=ADV|Foreign=Yes	25	advmod	_	_
-23	priori	priori	ADJ	_	_	_	_	_	_
+23	priori	priori	ADJ	_	|	22	fixed	_	_
 24	måste	måste	AUX	_	_	_	_	_	_
 25	vara	vara	VERB	_	Case=Atr|Mood=Ind;Nec|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl	_	_
 26	hemma	hemma	ADV	_	|	25	advmod	_	_
@@ -79528,11 +79527,10 @@
 16	inte	inte	PART	_	_	_	_	_	_
 17	är	vara	AUX	_	_	_	_	_	_
 18	bortovaron	bortovaro	NOUN	_	Case=Atr|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Neg	13	ccomp	_	_
-19	i	i	ADP	_	_	_	_	_	_
-19.1	_	_	_	_	Case=Ine	18	nmod	_	_
-20	och	och	CCONJ	_	_	_	_	_	_
-21	för	för	ADP	_	_	_	_	_	_
-22	sig	sig	PRON	_	_	_	_	_	_
+19	i	i	ADP	_	ExtPos=ADV	18	advmod	_	_
+20	och	och	CCONJ	_	|	19	fixed	_	_
+21	för	för	ADP	_	|	19	fixed	_	_
+22	sig	sig	PRON	_	|	19	fixed	_	_
 23	som	som	PRON	_	PronType=Rel	24	nsubj	_	_
 24	påverkar	påverka	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl:cleft	_	_
 25	barnen	barn	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	24	obj	_	_
@@ -79668,7 +79666,7 @@
 11	6	6	NUM	_	Case=Disj|NumType=Card	9	obl	_	_
 12	eller	eller	CCONJ	_	_	_	_	_	_
 13	rent	ren	ADV	_	Degree=Pos|ExtPos=ADV	18	advmod	_	_
-14	av	av	ADP	_	_	_	_	_	_
+14	av	av	ADP	_	|	13	fixed	_	_
 15	till	till	ADP	_	_	_	_	_	_
 16	7	7	NUM	_	Case=Nom|NumType=Card	17	nummod	_	_
 17	års	år	NOUN	_	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	18	nmod:poss	_	_
