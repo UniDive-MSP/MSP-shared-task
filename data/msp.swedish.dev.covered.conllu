@@ -1241,9 +1241,6 @@
 # sent_id = sv-ud-dev-389
 # text = Finns det någon reglerad befordringsgång?
 
-# sent_id = sv-ud-dev-390
-# text = Uppsägningstid?
-
 # sent_id = sv-ud-dev-391
 # text = Trygghet i anställningen?
 
@@ -1259,17 +1256,11 @@
 # sent_id = sv-ud-dev-395
 # text = Ja, men den dag han inte vill längre eller hans avlöning av någon anledning försvinner, då får Du ingen avlöning längre men jobbet har Du kvar.
 
-# sent_id = sv-ud-dev-396
-# text = Sjukförsäkring?
-
 # sent_id = sv-ud-dev-397
 # text = Jo visst har vi sjukförsäkring, sex kronor om dagen.
 
 # sent_id = sv-ud-dev-398
 # text = Vem tror Du vill göra Ditt jobb för sex kronor om dagen den dag Du blir sjuk och inte kan?
-
-# sent_id = sv-ud-dev-399
-# text = Pension?
 
 # sent_id = sv-ud-dev-400
 # text = Jag får pension efter min make, säger Du.
@@ -1519,10 +1510,6 @@
 
 # sent_id = sv-ud-dev-478
 # text = De relativt få, fasta och entydiga normer som styrde samlevnaden i det statiska samhället räcker inte längre i dagens sammansatta, skiftande och ständigt föränderliga tillvaro.
-
-# newpar id = P417.13
-# sent_id = sv-ud-dev-479
-# text = Uppgifter:
 
 # newpar id = P417.14
 # sent_id = sv-ud-dev-480

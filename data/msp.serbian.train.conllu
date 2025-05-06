@@ -46680,11 +46680,6 @@
 10	komunizma	komunizam	NOUN	_	Case=Com|Gender=Masc|Number=Sing	8	nmod	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = set-s2559
-# text = Maja Kostić-Mandić
-1	Maja	Maja	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-2	Kostić-Mandić	Kostić-Mandić	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	_
-
 # sent_id = set-s2560
 # text = Pad komunizma doneo je Crnogorcima višestranačku demokratiju, a na kraju i nezavisnost.
 1	Pad	pad	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -79677,11 +79672,6 @@
 15	favorita	favorit	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	13	conj	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = news-s282
-# text = Apolitičan.
-1	Apolitičan	apolitičan	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = news-s283
 # text = Je l ' znate nekog takvog?
 1	Je	biti	AUX	_	_	_	_	_	_
@@ -79976,11 +79966,6 @@
 28	i	i	CCONJ	_	_	_	_	_	_
 29	kongresmene	kongresmen	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	21	conj	_	_
 30	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = news-s298
-# text = Apolitičan?
-1	Apolitičan	apolitičan	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
-2	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = news-s299
 # text = Je li apolitično bilo pismo ucene Martinu Luteru Kingu u kom mu se sugeriše da je bolje da izvrši samoubistvo?
@@ -80838,13 +80823,6 @@
 36	izgubi	izgubiti	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	34	xcomp	_	_
 37	korak	korak	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	36	obj	_	_
 38	.	.	PUNCT	_	_	_	_	_	_
-
-# newdoc id = news.sr.10
-# url = http://elementarium.cpn.rs/teme/nedostatak-sna/
-# sent_id = news-s332
-# text = Nedostatak sna
-1	Nedostatak	nedostatak	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-2	sna	san	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 
 # sent_id = news-s333
 # text = Pored brojnih loših posledica, nedostatak sna dovodi i do toga da mozak počinje da „jede sam sebe”, zaključak je novog istraživanja

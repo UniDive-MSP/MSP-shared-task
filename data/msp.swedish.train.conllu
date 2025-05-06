@@ -232,12 +232,6 @@
 11	1971	1971	NUM	_	Case=Nom|NumType=Card	10	nummod	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P101.7
-# sent_id = sv-ud-train-13
-# text = Kommunalskatteavdraget slopas
-1	Kommunalskatteavdraget	kommunalskatteavdrag	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nsubj:pass	_	_
-2	slopas	slopa	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-
 # sent_id = sv-ud-train-14
 # text = För fysiska personer, dödsbon och familjestiftelser slopas rätten att göra avdrag för kommunalskatten fr.o.m. den självdeklaration som skall avlämnas 1972.
 1	För	för	ADP	_	_	_	_	_	_
@@ -282,12 +276,6 @@
 15	som	som	SCONJ	_	_	_	_	_	_
 16	tidigare	tidig	ADV	_	Case=Rpl|Degree=Cmp|Mood=Ind|Polarity=Pos	14	advcl	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P101.8
-# sent_id = sv-ud-train-16
-# text = Förvärvsavdragen ändras
-1	Förvärvsavdragen	förvärvsavdrag	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	2	nsubj:pass	_	_
-2	ändras	ändra	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 
 # sent_id = sv-ud-train-17
 # text = Förvärvsavdrag kan medges från A-inkomst, om det finns hemmavarande barn under 16 år.
@@ -591,12 +579,6 @@
 9	52500	52500	NUM	_	Case=Nom|NumType=Card	10	nummod	_	_
 10	kr	krona	NOUN	_	Abbr=Yes|Case=Ade	7	nmod	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P101.14
-# sent_id = sv-ud-train-34
-# text = Exempel:
-1	Exempel	exempel	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-35
 # text = Statligt taxerad inkomst uppgår till 40000 kr.
@@ -940,11 +922,6 @@
 7	utbildningsåret	utbildningsår	NOUN	_	Case=Sub|Definite=Def|Gender=Neut|Number=Sing	4	obl	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P102.2
-# sent_id = sv-ud-train-53
-# text = Inryckning
-1	Inryckning	inryckning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-54
 # text = En ny och ovan miljö väntar.
 1	En	en	DET	_	_	_	_	_	_
@@ -1013,11 +990,6 @@
 15	broschyren	broschyr	NOUN	_	Case=Ine|Definite=Def|Gender=Com|Number=Sing	13	obl	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P102.4
-# sent_id = sv-ud-train-58
-# text = Kasernlivet
-1	Kasernlivet	kasernliv	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-59
 # text = Den koncentrerade militära utbildning som du får sker av praktiska skäl i en internatförläggning - i kasern.
 1	Den	den	DET	_	_	_	_	_	_
@@ -1071,11 +1043,6 @@
 28	ett	en	DET	_	_	_	_	_	_
 29	förband	förband	NOUN	_	Case=Lat|Definite=Ind|Gender=Neut|Number=Sing	24	obl	_	_
 30	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P102.5
-# sent_id = sv-ud-train-61
-# text = Lydnad
-1	Lydnad	lydnad	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-62
 # text = Krig är hårt och brutalt.
@@ -1264,11 +1231,6 @@
 18	livet	liv	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	13	obj	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P102.8
-# sent_id = sv-ud-train-74
-# text = Hänsyn
-1	Hänsyn	hänsyn	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-75
 # text = Du kommer att bo tillsammans med 10-20 kamrater.
 1	Du	du	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	4	nsubj	_	_
@@ -1339,11 +1301,6 @@
 8	gemensam	gemensam	ADJ	_	Degree=Pos	9	amod	_	_
 9	trevnad	trevnad	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	7	obj	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P102.10
-# sent_id = sv-ud-train-80
-# text = Kamratskap
-1	Kamratskap	kamratskap	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-81
 # text = Alla människor är inte lika.
@@ -1423,11 +1380,6 @@
 8	alltså	alltså	ADV	_	|	9	advmod	_	_
 9	straffbart	straffbar	ADJ	_	Case=Conj|Degree=Pos	6	conj	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P102.11
-# sent_id = sv-ud-train-87
-# text = Ansvar
-1	Ansvar	ansvar	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-88
 # text = Du får redan första dagen ansvar för en mängd utrustning.
@@ -1522,11 +1474,6 @@
 15	du	du	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	16	nsubj	_	_
 16	gör	göra	VERB	_	Case=Pur|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P102.12
-# sent_id = sv-ud-train-93
-# text = Tystnadsplikt
-1	Tystnadsplikt	tystnadsplikt	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-94
 # text = Du kommer under din utbildning att få se och höra sådant som måste hållas hemligt.
@@ -1722,41 +1669,6 @@
 6	utanför	utanför	ADP	_	_	_	_	_	_
 7	kasern	kasern	NOUN	_	Case=Ext|Definite=Ind|Gender=Com|Number=Sing	5	nmod	_	_
 
-# newpar id = P102.17
-# sent_id = sv-ud-train-105
-# text = Sysaker
-1	Sysaker	sysak	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
-# newpar id = P102.18
-# sent_id = sv-ud-train-106
-# text = Tofflor
-1	Tofflor	toffel	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
-# newpar id = P102.19
-# sent_id = sv-ud-train-107
-# text = Pyjamas
-1	Pyjamas	pyjamas	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
-# newpar id = P102.20
-# sent_id = sv-ud-train-108
-# text = Näsdukar
-1	Näsdukar	näsduk	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
-# newpar id = P102.21
-# sent_id = sv-ud-train-109
-# text = Hänglås
-1	Hänglås	hänglås	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
-# newpar id = P102.22
-# sent_id = sv-ud-train-110
-# text = Klädhängare
-1	Klädhängare	klädhängare	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
-# newpar id = P102.23
-# sent_id = sv-ud-train-111
-# text = Skoputssaker
-1	Skoputssaker	skoputssak	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # newpar id = P102.24
 # sent_id = sv-ud-train-112
 # text = Äger du några av följande saker så ta med även dem:
@@ -1772,11 +1684,6 @@
 10	även	även	ADV	_	|	11	advmod	_	_
 11	dem	de	PRON	_	Case=Acc|Definite=Def|Number=Plur|PronType=Prs	8	obj	_	_
 12	:	:	PUNCT	_	_	_	_	_	_
-
-# newpar id = P102.25
-# sent_id = sv-ud-train-113
-# text = Träningsoverall
-1	Träningsoverall	träningsoverall	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # newpar id = P102.26
 # sent_id = sv-ud-train-114
@@ -2013,11 +1920,6 @@
 16	i	i	ADP	_	_	_	_	_	_
 17	mörker	mörker	NOUN	_	Case=Ine|Definite=Ind|Gender=Neut|Number=Sing	15	obl	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P102.32
-# sent_id = sv-ud-train-129
-# text = Utbildningstiden
-1	Utbildningstiden	utbildningstid	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-130
 # text = Alla värnpliktiga har inte lika lång utbildningstid.
@@ -2642,12 +2544,6 @@
 27	mottagningstiden	mottagningstid	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Sing	25	nmod	_	_
 28	)	)	PUNCT	_	_	_	_	_	_
 29	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P103.8
-# sent_id = sv-ud-train-165
-# text = Enhetliga avgifter
-1	Enhetliga	enhetlig	ADJ	_	Degree=Pos	2	amod	_	_
-2	avgifter	avgift	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-166
 # text = Det nya systemet innebär att du betalar 7 kronor när du besöker doktorn på mottagningen 15 kronor när doktorn kommer hem till dig 2 kronor när du rådfrågar doktorn per telefon.
@@ -5853,11 +5749,6 @@
 18	transport	transport	NOUN	_	Case=Gen|Definite=Ind|Gender=Com|Number=Sing	13	obl	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P106.10
-# sent_id = sv-ud-train-331
-# text = Inlämning
-1	Inlämning	inlämning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-332
 # text = Ingen speciell anteckning behövs på paket och adresskort.
 1	Ingen	ingen	DET	_	_	_	_	_	_
@@ -5869,11 +5760,6 @@
 7	och	och	CCONJ	_	_	_	_	_	_
 8	adresskort	adresskort	NOUN	_	Case=Conj|Definite=Ind|Gender=Neut|Number=Sing	6	conj	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P106.11
-# sent_id = sv-ud-train-333
-# text = Postbehandlingstid
-1	Postbehandlingstid	postbehandlingstid	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-334
 # text = Paket med vanlig befordran transporteras med de postlägenheter som är avsedda för den tyngre och utrymmeskrävande posten.
@@ -5981,11 +5867,6 @@
 17	posten	post	NOUN	_	Case=Ade|Definite=Def|Gender=Com|Number=Sing	14	obl	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P106.13
-# sent_id = sv-ud-train-338
-# text = Inlämning
-1	Inlämning	inlämning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-339
 # text = Paket och adresskort skall vara märkta med 'Utkörning' när de lämnas in på posten.
 1	Paket	paket	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	6	nsubj	_	_
@@ -6005,11 +5886,6 @@
 15	på	på	ADP	_	_	_	_	_	_
 16	posten	post	NOUN	_	Case=Ade|Definite=Def|Gender=Com|Number=Sing	13	obl	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P106.14
-# sent_id = sv-ud-train-340
-# text = Postbehandlingstid
-1	Postbehandlingstid	postbehandlingstid	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-341
 # text = Både paket och adresskort körs ut till adressatens bostad, kontor etc senast på tredje vardagen efter inlämningdagen.
@@ -6182,11 +6058,6 @@
 16	möjligt	möjlig	ADJ	_	Case=Rpl|Degree=Pos|Mood=Ind|Polarity=Pos	9	advcl	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P106.18
-# sent_id = sv-ud-train-349
-# text = Inlämning
-1	Inlämning	inlämning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-350
 # text = Paket och adresskort skall vara märkta med 'Ilpaket' vid inlämningen.
 1	Paket	paket	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	6	nsubj	_	_
@@ -6202,11 +6073,6 @@
 11	vid	vid	ADP	_	_	_	_	_	_
 12	inlämningen	inlämning	NOUN	_	Case=Loc|Definite=Def|Gender=Com|Number=Sing	6	obl	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P106.19
-# sent_id = sv-ud-train-351
-# text = Postbehandlingstid
-1	Postbehandlingstid	postbehandlingstid	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-352
 # text = Ett ilpaket transporteras till adressorten på snabbast möjliga sätt.
@@ -6324,11 +6190,6 @@
 27	möjligt	möjlig	ADJ	_	Degree=Pos	26	advmod	_	_
 28	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P106.21
-# sent_id = sv-ud-train-357
-# text = Inlämning
-1	Inlämning	inlämning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-358
 # text = Paket och adresskort skall vara märkta med 'Ilpaket' och 'Express' vid inlämningen.
 1	Paket	paket	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	6	nsubj	_	_
@@ -6348,11 +6209,6 @@
 15	vid	vid	ADP	_	_	_	_	_	_
 16	inlämningen	inlämning	NOUN	_	Case=Loc|Definite=Def|Gender=Com|Number=Sing	6	obl	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P106.22
-# sent_id = sv-ud-train-359
-# text = Postbehandlingstid
-1	Postbehandlingstid	postbehandlingstid	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-360
 # text = Samma transporttid som ovan, dvs ilpaketet når i regel fram till adressorten på första vardagen efter inlämningsdagen.
@@ -6499,13 +6355,6 @@
 18	,	,	PUNCT	_	_	_	_	_	_
 19	Huvudkassan	huvudkassa	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	17	nmod	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
-
-# newdoc id = P107
-# newpar id = P107.1
-# sent_id = sv-ud-train-367
-# text = RFSU-laboratoriet informerar
-1	RFSU-laboratoriet	RFSU-laboratorium	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	_
-2	informerar	informera	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = sv-ud-train-368
 # text = Det första tecknet på en graviditet är som regel utebliven menstruation.
@@ -7089,11 +6938,6 @@
 9	provet	prov	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	10	nsubj:pass	_	_
 10	lämnas	lämna	VERB	_	Case=Tem|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	7	advcl	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P107.14
-# sent_id = sv-ud-train-400
-# text = Svaret
-1	Svaret	svar	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-401
 # text = Resultat av urinundersökningen kan Ni få måndagar - fredagar per tel. 08/680940 mellan kl. 15.30 - 16.30 (juni, juli, augusti kl. 15.00 - 15.45) resp. tel. 031/119840 mellan kl. 14.30 - 15.00. 1. samma dag som provet inlämnats till någon av RFSU-klinikerna före kl 10.30 2. samma dag som laboratoriet i Stockholm resp. Göteborg fått provet per post eller från annat inlämningsställe.
@@ -7956,12 +7800,6 @@
 39	kronor	krona	NOUN	_	Case=Lat|Definite=Ind|Gender=Com|Number=Plur	34	obl	_	_
 40	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P109.10
-# sent_id = sv-ud-train-445
-# text = Lotteriet.
-1	Lotteriet	lotteri	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = sv-ud-train-446
 # text = För att delta i vinstdragningarna måste du ha minst 100 kronor innestående på ditt konto vid respektive dragningstillfälle.
 1	För	för	ADP	_	_	_	_	_	_
@@ -8063,12 +7901,6 @@
 8	3000	3000	NUM	_	Case=Nom|NumType=Card	9	nummod	_	_
 9	kronor	krona	NOUN	_	Case=Ade|Definite=Ind|Gender=Com|Number=Plur	5	nmod	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P109.12
-# sent_id = sv-ud-train-453
-# text = Övriga upplysningar
-1	Övriga	övrig	ADJ	_	Degree=Pos	2	amod	_	_
-2	upplysningar	upplysning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-454
 # text = Medlen på premiesparkontot är inte bundna.
@@ -8280,11 +8112,6 @@
 11	metallslöjd	metallslöjd	NOUN	_	Case=Conj|Definite=Ind|Gender=Com|Number=Sing	9	conj	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P111.3
-# sent_id = sv-ud-train-467
-# text = Högstadiet
-1	Högstadiet	högstadium	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-468
 # text = Engelska blir obligatoriskt hela högstadiet igenom (tidigare var det obligatoriskt t o m årskurs 7, sedan frivilligt).
 1	Engelska	engelsk	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nsubj	_	_
@@ -8442,12 +8269,6 @@
 9	årskurs	årskurs	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	10	nmod	_	_
 10	8	8	NUM	_	Case=Sub|NumType=Card	4	obl	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P111.7
-# sent_id = sv-ud-train-476
-# text = Nya tillvalsämnen
-1	Nya	ny	ADJ	_	Degree=Pos	2	amod	_	_
-2	tillvalsämnen	tillvalsämne	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-477
 # text = På högstadiet skall varje elev välja ett av fyra tillvalsämnen: * språk (franska eller tyska) * ekonomi * teknik * konst
@@ -9690,11 +9511,6 @@
 9	15	15	NUM	_	Case=Nom|NumType=Card	7	orphan	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P112.2
-# sent_id = sv-ud-train-548
-# text = Barnavård
-1	Barnavård	barnavård	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-549
 # text = Kommunens barnavårdsnämnd ska verka för att barn och ungdomar får en gynnsam utveckling och goda uppväxtförhållanden.
 1	Kommunens	kommun	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Sing	2	nmod:poss	_	_
@@ -9891,11 +9707,6 @@
 5	barnavårdsnämnden	barnavårdsnämnd	NOUN	_	Case=Lat|Definite=Def|Gender=Com|Number=Sing	2	obl	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P112.12
-# sent_id = sv-ud-train-556
-# text = Barnavårdscentral
-1	Barnavårdscentral	barnavårdscentral	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-557
 # text = Den förebyggande barnavården sköts av barnavårdscentralen.
 1	Den	den	DET	_	_	_	_	_	_
@@ -9992,11 +9803,6 @@
 5	barnavårdscentralen	barnavårdscentral	NOUN	_	Case=Lat|Definite=Def|Gender=Com|Number=Sing	2	obl	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P112.15
-# sent_id = sv-ud-train-564
-# text = Barnavårdsman
-1	Barnavårdsman	barnavårdsman	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-565
 # text = För varje utomäktenskapligt barn utser barnavårdsnämnden en barnavårdsman.
 1	För	för	ADP	_	_	_	_	_	_
@@ -10092,11 +9898,6 @@
 4	till	till	ADP	_	_	_	_	_	_
 5	barnavårdsnämnden	barnavårdsnämnd	NOUN	_	Case=Lat|Definite=Def|Gender=Com|Number=Sing	2	obl	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P112.19
-# sent_id = sv-ud-train-571
-# text = Barnbidrag
-1	Barnbidrag	barnbidrag	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-572
 # text = Varje barn under 16 år får 225 kr i kvartalet som barnbidrag, alltså 900 kr per år.
@@ -10237,11 +10038,6 @@
 5	barnavårdsnämnden	barnavårdsnämnd	NOUN	_	Case=Lat|Definite=Def|Gender=Com|Number=Sing	2	obl	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P112.23
-# sent_id = sv-ud-train-581
-# text = Barnhem
-1	Barnhem	barnhem	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-582
 # text = Det finns olika slags barnhem.
 1	Det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
@@ -10313,11 +10109,6 @@
 6	eller	eller	CCONJ	_	_	_	_	_	_
 7	barnavårdsnämnden	barnavårdsnämnd	NOUN	_	Case=Disj|Definite=Def|Gender=Com|Number=Sing	5	conj	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P112.25
-# sent_id = sv-ud-train-588
-# text = Barnkolonier
-1	Barnkolonier	barnkoloni	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-589
 # text = Barnkolonier eller enskilda feriehem kan ge barn upp till 15 år miljöbyte och tillfälle till friluftsliv under tre sommarveckor eller mera.
@@ -10396,11 +10187,6 @@
 7	skolan	skola	NOUN	_	Case=Disj|Definite=Def|Gender=Com|Number=Sing	5	conj	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P112.27
-# sent_id = sv-ud-train-594
-# text = Barnpension
-1	Barnpension	barnpension	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-595
 # text = Se Pension sida 16.
 1	Se	se	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -10408,11 +10194,6 @@
 3	sida	sida	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	4	nmod	_	_
 4	16	16	NUM	_	Case=Nom|NumType=Card	1	obl	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P112.28
-# sent_id = sv-ud-train-596
-# text = Barntillsyn
-1	Barntillsyn	barntillsyn	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-597
 # text = Många kommuner ordnar olika former av barntillsyn.
@@ -10729,11 +10510,6 @@
 11	eller	eller	CCONJ	_	_	_	_	_	_
 12	barnavårdsnämnden	barnavårdsnämnd	NOUN	_	Case=Disj|Definite=Def|Gender=Com|Number=Sing	5	conj	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P112.39
-# sent_id = sv-ud-train-620
-# text = Ungdomsverksamhet
-1	Ungdomsverksamhet	ungdomsverksamhet	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-621
 # text = För de ungas fritid har många kommuner en omfattande fritidsverksamhet.
@@ -11140,11 +10916,6 @@
 10	här	här	ADV	_	|	9	advmod	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P113.7
-# sent_id = sv-ud-train-645
-# text = Ansökan
-1	Ansökan	ansökan	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-646
 # text = Man måste ansöka om bostadstillägg.
 1	Man	man	PRON	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	3	nsubj	_	_
@@ -11275,11 +11046,6 @@
 8	16	16	NUM	_	Case=Nom|NumType=Card	1	obl	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P113.12
-# sent_id = sv-ud-train-656
-# text = Bostadsförmedling
-1	Bostadsförmedling	bostadsförmedling	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-657
 # text = I större kommuner finns vanligen en särskild kommunal bostadsförmedling.
 1	I	I	ADP	_	_	_	_	_	_
@@ -11321,11 +11087,6 @@
 5	är	vara	AUX	_	_	_	_	_	_
 6	gratis	gratis	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	0	root	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P113.13
-# sent_id = sv-ud-train-660
-# text = Bostadslån
-1	Bostadslån	bostadslån	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-661
 # text = Staten lämnar bostadslån - utöver bankernas långivning - för att bygga eller bygga om bostadshus.
@@ -11438,11 +11199,6 @@
 6	/	/	SYM	_	_	_	_	_	_
 7	drätselkammaren	drätselkammare	NOUN	_	Case=Disj|Definite=Def|Gender=Com|Number=Sing	5	conj	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P113.18
-# sent_id = sv-ud-train-669
-# text = Hyresfrågor
-1	Hyresfrågor	hyresfråga	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-670
 # text = Den nya hyreslagen gäller i hela landet.
@@ -11671,12 +11427,6 @@
 5	länshyresnämnden	länshyresnämnd	NOUN	_	Case=Lat|Definite=Def|Gender=Com|Number=Sing	2	obl	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P113.25
-# sent_id = sv-ud-train-684
-# text = Sanitär olägenhet
-1	Sanitär	sanitär	ADJ	_	Degree=Pos	2	amod	_	_
-2	olägenhet	olägenhet	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-685
 # text = Om man behöver klaga över t.ex. dålig uppvärmning, störande buller etc. vänder man sig till hälsovårdsnämnden.
 1	Om	om	SCONJ	_	_	_	_	_	_
@@ -11848,11 +11598,6 @@
 19	till	till	ADP	_	_	_	_	_	_
 20	KPI	KPI	NOUN	_	Abbr=Yes|Case=Lat	18	nmod	_	_
 21	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P115.3
-# sent_id = sv-ud-train-696
-# text = Prisinsamling
-1	Prisinsamling	prisinsamling	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-697
 # text = KPI kan förenklat beskrivas så här.
@@ -12052,11 +11797,6 @@
 7	)	)	PUNCT	_	_	_	_	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P115.4
-# sent_id = sv-ud-train-707
-# text = Kvalitetsförändringar
-1	Kvalitetsförändringar	kvalitetsförändring	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-708
 # text = Konsumentprisindex skall visa prisförändringar på jämförbara varor vid oförändrad kvalitet.
 1	Konsumentprisindex	konsumentprisindex	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	3	nsubj	_	_
@@ -12204,12 +11944,6 @@
 18	Maj:t	majestät	NOUN	_	Abbr=Yes	15	conj	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P115.6
-# sent_id = sv-ud-train-716
-# text = Fårsteken slopad
-1	Fårsteken	fårstek	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	2	nsubj	_	_
-2	slopad	slopad	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-717
 # text = Våra köpvanor har förändrats.
 1	Våra	vi	PRON	_	Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
@@ -12339,11 +12073,6 @@
 17	från	från	ADP	_	_	_	_	_	_
 18	år	år	NOUN	_	Case=Abl|Definite=Ind|Gender=Neut|Number=Sing	16	nmod	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P115.8
-# sent_id = sv-ud-train-725
-# text = Användningen
-1	Användningen	användning	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-726
 # text = Konsumentprisindex har fått ökad betydelse för varje år.
@@ -12889,12 +12618,6 @@
 8	öre	öre	NOUN	_	Case=Ben|Definite=Ind|Gender=Neut|Number=Plur	5	obl	_	_
 9	litern	liter	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	8	nmod	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P116.9
-# sent_id = sv-ud-train-762
-# text = Exempel:
-1	Exempel	exempel	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-763
 # text = Om du tankar 22 liter bensin för 98 öre litern kostar detta 21:56.
@@ -13753,12 +13476,6 @@
 28	röta	röta	NOUN	_	Case=Disj|Definite=Ind|Gender=Com|Number=Sing	22	conj	_	_
 29	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P117.15
-# sent_id = sv-ud-train-822
-# text = Kolla detta
-1	Kolla	kolla	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
-2	detta	denna	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	1	obj	_	_
-
 # newpar id = P117.16
 # sent_id = sv-ud-train-823
 # text = Stämmer västens storlek och barnets vikt?
@@ -14087,11 +13804,6 @@
 17	i	i	ADP	_	_	_	_	_	_
 18	pris	pris	NOUN	_	Case=Ine|Definite=Ind|Gender=Neut|Number=Sing	13	obl	_	_
 19	!	!	PUNCT	_	_	_	_	_	_
-
-# newpar id = P117.24
-# sent_id = sv-ud-train-844
-# text = Material
-1	Material	material	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-845
 # text = Cellplast är ett flytmaterial med 'slutna celler'.
@@ -16129,11 +15841,6 @@
 13	rösträtt	rösträtt	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	11	obj	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P120.6
-# sent_id = sv-ud-train-976
-# text = Röstkort
-1	Röstkort	röstkort	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-977
 # text = Alla som är upptagna i röstlängd får ett röstkort per post omkring den 17 augusti.
 1	Alla	all	PRON	_	Definite=Ind|Number=Plur|PronType=Tot	7	nsubj	_	_
@@ -16715,11 +16422,6 @@
 14	10-11	10-11	NUM	_	Case=Nom|NumType=Card	12	obj	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
 16	)	)	PUNCT	_	_	_	_	_	_
-
-# newpar id = P120.30
-# sent_id = sv-ud-train-1006
-# text = Valskjutsar
-1	Valskjutsar	valskjuts	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-1007
 # text = För väljare som har svårt att komma till vallokalen ordnar vissa kommuner valskjutsar.
@@ -17943,11 +17645,6 @@
 30	trafikleder	trafikled	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	24	conj	_	_
 31	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P121.15
-# sent_id = sv-ud-train-1077
-# text = Fotnot
-1	Fotnot	fotnot	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-1078
 # text = Tillväxtens storlek och sammansättning kan ändra sig mycket från år till år.
 1	Tillväxtens	tillväxt	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Sing	2	nmod:poss	_	_
@@ -18462,13 +18159,6 @@
 13	i	i	ADP	_	_	_	_	_	_
 14	bostadsområdena	bostadsområde	NOUN	_	Case=Ine|Definite=Def|Gender=Neut|Number=Plur	12	obl	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
-
-# newdoc id = P123
-# newpar id = P123.1
-# sent_id = sv-ud-train-1104
-# text = Kärnkraftens ABC
-1	Kärnkraftens	kärnkraft	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Sing	2	nmod:poss	_	_
-2	ABC	ABC	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-1105
 # text = Ett enda i naturen förekommande ämne har den unika egenskap, att dess minsta byggstenar, atomerna, lätt kan gå i stycken eller, enligt fackspråket, klyvas utan att man behöver tillgripa bombardemang med partiklar med hög energi.
@@ -19394,12 +19084,6 @@
 15	kronor	krona	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	10	xcomp	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P123.19
-# sent_id = sv-ud-train-1160
-# text = Formella tillstånd
-1	Formella	formell	ADJ	_	Degree=Pos	2	amod	_	_
-2	tillstånd	tillstånd	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-1161
 # text = För att bygga en kärnkraftstation fordras flera formella tillstånd.
 1	För	för	ADP	_	_	_	_	_	_
@@ -19510,11 +19194,6 @@
 8	halvårsskiftet	halvårsskifte	NOUN	_	Case=Loc|Definite=Def|Gender=Neut|Number=Sing	6	obl	_	_
 9	1970	1970	NUM	_	Case=Nom|NumType=Card	8	nummod	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P123.24
-# sent_id = sv-ud-train-1171
-# text = Skatteinkomster
-1	Skatteinkomster	skatteinkomst	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-1172
 # text = Forsmarks kraftstation kommer att tillföra kommunen ett avsevärt tillskott av skatteinkomster.
@@ -21016,11 +20695,6 @@
 3	skattepliktiga	skattepliktig	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	0	root	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P124.54
-# sent_id = sv-ud-train-1259
-# text = Ansökan
-1	Ansökan	ansökan	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-1260
 # text = Vid resekostnads- och flyttningsersättning lämnas ansökan till arbetsförmedlingen innan resan anträds resp. flyttning sker vid starthjälp och bostadsvistelsebidrag innan anställningen tillträds vid utrustningsbidrag innan familjen flyttar.
 1	Vid	vid	ADP	_	_	_	_	_	_
@@ -22067,11 +21741,6 @@
 2	på	på	ADP	_	_	_	_	_	_
 3	utbildning	utbildning	NOUN	_	Case=Ade|Definite=Ind|Gender=Com|Number=Sing	1	nmod	_	_
 
-# newpar id = P125.6
-# sent_id = sv-ud-train-1315
-# text = Tillträdesdatum
-1	Tillträdesdatum	tillträdesdatum	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # newpar id = P125.7
 # sent_id = sv-ud-train-1316
 # text = Löneform och förtjänstmöjligheter
@@ -22093,17 +21762,6 @@
 2	storlek	storlek	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 3	och	och	CCONJ	_	_	_	_	_	_
 4	produktion	produktion	NOUN	_	Case=Conj|Definite=Ind|Gender=Com|Number=Sing	2	conj	_	_
-
-# newpar id = P125.10
-# sent_id = sv-ud-train-1319
-# text = Bostad
-1	Bostad	bostad	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
-# newpar id = P125.11
-# sent_id = sv-ud-train-1320
-# text = Kommunal service
-1	Kommunal	kommunal	ADJ	_	Degree=Pos	2	amod	_	_
-2	service	service	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # newpar id = P125.12
 # sent_id = sv-ud-train-1321
@@ -22312,12 +21970,6 @@
 27	ort	ort	NOUN	_	Case=Ade|Definite=Ind|Gender=Com|Number=Sing	22	obl	_	_
 28	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P125.15
-# sent_id = sv-ud-train-1333
-# text = Börja nu
-1	Börja	börja	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
-2	nu	nu	ADV	_	|	1	advmod	_	_
-
 # sent_id = sv-ud-train-1334
 # text = Det är klokt att i god tid börja se sig om på arbetsmarknaden.
 1	Det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	3	expl	_	_
@@ -22489,21 +22141,6 @@
 3	arbete	arbete	NOUN	_	Case=Conj|Definite=Ind|Gender=Neut|Number=Sing	1	nmod	_	_
 4	och	och	CCONJ	_	_	_	_	_	_
 5	utbildning	utbildning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	conj	_	_
-
-# newpar id = P125.22
-# sent_id = sv-ud-train-1340
-# text = Flyttningshjälp
-1	Flyttningshjälp	flyttningshjälp	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
-# newpar id = P125.23
-# sent_id = sv-ud-train-1341
-# text = Anlagsprövning
-1	Anlagsprövning	anlagsprövning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
-# newpar id = P125.24
-# sent_id = sv-ud-train-1342
-# text = Arbetsmarknadsutbildning
-1	Arbetsmarknadsutbildning	arbetsmarknadsutbildning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # newpar id = P125.25
 # sent_id = sv-ud-train-1343
@@ -22957,12 +22594,6 @@
 20	i	i	ADP	_	_	_	_	_	_
 21	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P201.20
-# sent_id = sv-ud-train-1369
-# text = Ministerrådet:
-1	Ministerrådet	ministerråd	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = sv-ud-train-1370
 # text = Här sitter en minister från vart och ett av medlemsländerna.
 1	Här	här	ADV	_	|	2	advmod	_	_
@@ -23206,12 +22837,6 @@
 9	utdöma	utdöma	VERB	_	Mood=Ind;neg(Pot)|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P201.24
-# sent_id = sv-ud-train-1387
-# text = Sexstatsparlamentet:
-1	Sexstatsparlamentet	sexstatsparlament	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = sv-ud-train-1388
 # text = EEC:s riksdag.
 1	EEC:s	EEC	PROPN	_	Case=Gen	2	nmod:poss	_	_
@@ -23291,12 +22916,6 @@
 21	parlamentets	parlament	NOUN	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	22	nmod:poss	_	_
 22	yttranden	yttrande	NOUN	_	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	19	obl:agent	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P201.25
-# sent_id = sv-ud-train-1393
-# text = Kommissionen:
-1	Kommissionen	kommission	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-1394
 # text = Detta är en betydelsefull maktgrupp.
@@ -23945,12 +23564,6 @@
 5	till	till	ADP	_	_	_	_	_	_
 6	EEC	EEC	PROPN	_	Case=Lat	2	nmod	_	_
 
-# newpar id = P201.41
-# sent_id = sv-ud-train-1434
-# text = Slutligen:
-1	Slutligen	slutligen	ADV	_	|	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = sv-ud-train-1435
 # text = EEC kostar en oerhörd massa pengar.
 1	EEC	EEC	PROPN	_	Case=Nom	2	nsubj	_	_
@@ -24245,11 +23858,6 @@
 14	förmodan	förmodan	NOUN	_	Case=Lat|Definite=Ind|Gender=Com|Number=Sing	4	obl	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = sv-ud-train-1451
-# text = Nämligen:
-1	Nämligen	nämligen	ADV	_	|	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # newpar id = P201.49
 # sent_id = sv-ud-train-1452
 # text = - Släpper vi in britterna, så drar de med sig danskar, norrmän och irländare och då går det grus i maskineriet och hela EEC:s natur förändras i grunden.
@@ -24284,12 +23892,6 @@
 29	i	i	ADP	_	_	_	_	_	_
 30	grunden	grund	NOUN	_	Case=Ine|Definite=Def|Gender=Com|Number=Sing	28	obl	_	_
 31	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P201.50
-# sent_id = sv-ud-train-1453
-# text = Fotnot:
-1	Fotnot	fotnot	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-1454
 # text = EEC: European Economic Community (Den gemensamma marknaden. De sex).
@@ -25124,11 +24726,6 @@
 5	skatt	skatt	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P202.9
-# sent_id = sv-ud-train-1502
-# text = Skattesänkning
-1	Skattesänkning	skattesänkning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-1503
 # text = Variationerna mellan olika församlingar är ganska stora.
 1	Variationerna	variation	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur	7	nsubj	_	_
@@ -25306,12 +24903,6 @@
 9	står	stå	VERB	_	Case=Atr|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
 10	utanför	utanför	ADV	_	|	9	compound:prt	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P202.17
-# sent_id = sv-ud-train-1516
-# text = Kyrkans tro
-1	Kyrkans	kyrka	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Sing	2	nmod:poss	_	_
-2	tro	tro	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-1517
 # text = Men viktigare är naturligtvis de religiösa motiven.
@@ -26591,12 +26182,6 @@
 10	torkat	torka	VERB	_	Case=Tps|Mood=Ind|Polarity=Pos|VerbForm=Sup|Voice=Act	1	advcl	_	_
 11	ordentligt	ordentlig	ADV	_	Degree=Pos	10	advmod	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P203.28
-# sent_id = sv-ud-train-1598
-# text = Bagageutrymmet.
-1	Bagageutrymmet	bagageutrymme	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-train-1599
 # text = Släng bort allt skräp från sommaren och semestern.
@@ -28788,12 +28373,6 @@
 7	nu	nu	ADV	_	|	5	advmod	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P206.20
-# sent_id = sv-ud-train-1729
-# text = Fotnot:
-1	Fotnot	fotnot	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = sv-ud-train-1730
 # text = De högtsmällande närstridsvapnen - granatgevär, pansarvärnskanon osv - är ganska unga på de svenska militärförbanden.
 1	De	de	DET	_	_	_	_	_	_
@@ -29200,12 +28779,6 @@
 23	dr	doktor	NOUN	_	Abbr=Yes	24	nmod	_	_
 24	Horn	Horn	PROPN	_	Case=Nom	22	nsubj	_	_
 25	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P207.6
-# sent_id = sv-ud-train-1749
-# text = Läkarna slutade
-1	Läkarna	läkare	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur	2	nsubj	_	_
-2	slutade	sluta	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = sv-ud-train-1750
 # text = Sedan fick dr Horn en väldigt fin uppslutning från inte bara läkarna utan all hälso- och sjukvårdspersonal.
@@ -30057,12 +29630,6 @@
 22	Lund	Lund	PROPN	_	Case=Ine	14	obl	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P208.4
-# sent_id = sv-ud-train-1795
-# text = Utan ord
-1	Utan	utan	ADP	_	_	_	_	_	_
-2	ord	ord	NOUN	_	Case=Abe|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-1796
 # text = Målsättningen har varit inte bara att skapa ett kommunikationsinstrument mellan patient och vårdpersonal - i och för sig nog så angeläget - utan det viktigaste och svåraste har varit att 'Medicinsk bildtolk' också skall fungera som hjälpmedel för läkaren att klarlägga sjukdomsbilden utan att patienten behöver säga ett ord.
 1	Målsättningen	målsättning	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	nsubj	_	_
@@ -30714,11 +30281,6 @@
 29	geniala	genial	ADJ	_	Degree=Pos	30	amod	_	_
 30	bilduppslag	bilduppslag	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	26	obj	_	_
 31	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P208.17
-# sent_id = sv-ud-train-1836
-# text = Dövstumma
-1	Dövstumma	dövstum	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-1837
 # text = Det är inte bara mängden av utländsk arbetskraft och den expanderande turismen som skapar språksvårigheter i den medicinska vården.
@@ -33001,12 +32563,6 @@
 2	styr	styra	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	företagen	företag	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	2	obj	_	_
 
-# newpar id = P211.4
-# sent_id = sv-ud-train-1957
-# text = Glesare glesbygder
-1	Glesare	gles	ADJ	_	Degree=Cmp	2	amod	_	_
-2	glesbygder	glesbygd	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # newpar id = P211.5
 # sent_id = sv-ud-train-1958
 # text = En skräckvision?
@@ -33051,12 +32607,6 @@
 18	landet	land	NOUN	_	Case=Ine|Definite=Def|Gender=Neut|Number=Sing	13	obl	_	_
 19	1980	1980	NUM	_	Case=Nom|NumType=Card	13	nummod	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P211.8
-# sent_id = sv-ud-train-1962
-# text = Pensionärerna ökar
-1	Pensionärerna	pensionär	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur	2	nsubj	_	_
-2	ökar	öka	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = sv-ud-train-1963
 # text = I åldersklasserna räknar man med att pensionärerna ska öka mest - med 20 procent.
@@ -33166,12 +32716,6 @@
 8	denna	denna	DET	_	_	_	_	_	_
 9	grupp	grupp	NOUN	_	Case=Ine|Definite=Def|Dem=Prox|Gender=Com|Number=Sing	2	obl	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P211.12
-# sent_id = sv-ud-train-1969
-# text = Glesare bygder
-1	Glesare	gles	ADJ	_	Degree=Cmp	2	amod	_	_
-2	bygder	bygd	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-1970
 # text = Under 70-talet kommer riks- och centralorternas folkmängd att öka med bortåt 1 miljon - glesbygdsbefolkningen minskar med 200000 personer.
@@ -33312,12 +32856,6 @@
 16	att	att	PART	_	_	_	_	_	_
 17	sjunka	sjunka	VERB	_	Case=Disj|Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	13	conj	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P211.16
-# sent_id = sv-ud-train-1978
-# text = Högre löner
-1	Högre	hög	ADJ	_	Degree=Cmp	2	amod	_	_
-2	löner	lön	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-1979
 # text = Men trots ökade statsutgifter så blir det inkomstökning för privatpersoner.
@@ -33506,12 +33044,6 @@
 15	svenska	svensk	ADJ	_	Degree=Pos	16	amod	_	_
 16	samhället	samhälle	NOUN	_	Case=Ine|Definite=Def|Gender=Neut|Number=Sing	12	nmod	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P211.22
-# sent_id = sv-ud-train-1991
-# text = Datorns tidevarv
-1	Datorns	dator	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Sing	2	nmod:poss	_	_
-2	tidevarv	tidevarv	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-1992
 # text = Datatekniken kommer att förändra storföretagen - de tekniska framstegen underlättar och driver fram en utveckling mot stora företag i både produktion och distribution.
@@ -33797,12 +33329,6 @@
 11	psykologer	psykolog	NOUN	_	Case=Conj|Definite=Ind|Gender=Com|Number=Plur	9	conj	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P212.11
-# sent_id = sv-ud-train-2007
-# text = Fungerar sämre
-1	Fungerar	fungera	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	sämre	dålig	ADV	_	Degree=Cmp	1	advmod	_	_
-
 # sent_id = sv-ud-train-2008
 # text = Universitetslektor Oskar Öqvist, Göteborg, har i en stor undersökning kartlagt dygnsrytmen för tre olika grupper.
 1	Universitetslektor	universitetslektor	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nmod	_	_
@@ -34030,12 +33556,6 @@
 14	lektor	lektor	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	15	nmod	_	_
 15	Öqvist	Öqvist	PROPN	_	Case=Nom	13	nsubj	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P212.15
-# sent_id = sv-ud-train-2017
-# text = Hög temperatur
-1	Hög	hög	ADJ	_	Degree=Pos	2	amod	_	_
-2	temperatur	temperatur	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-2018
 # text = - Kvällsmänniskor som nu tvingas upp tidigt kan inte heller utnyttja sin fritid meningsfullt.
@@ -36475,12 +35995,6 @@
 15	torsdag	torsdag	NOUN	_	Case=Cmp|Definite=Ind|Gender=Com|Number=Sing	12	obl	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P216.15
-# sent_id = sv-ud-train-2142
-# text = Ingen återvändo
-1	Ingen	ingen	DET	_	_	_	_	_	_
-2	återvändo	återvändo	NOUN	_	Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-2143
 # text = Varför kan vi inte gå tillbaka till den potatis vi åt för trettio år sen?
 1	Varför	varför	ADV	_	|	5	advmod	_	_
@@ -36781,11 +36295,6 @@
 1	Deklarationstvång	deklarationstvång	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nsubj:pass	_	_
 2	saknas	sakna	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P216.21
-# sent_id = sv-ud-train-2164
-# text = Samhällsansvaret
-1	Samhällsansvaret	samhällsansvar	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-2165
 # text = På andra punkter gick de två forskarnas uppfattning stick i stäv.
@@ -37146,11 +36655,6 @@
 8	övergångstid	övergångstid	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	5	obj	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P217.4
-# sent_id = sv-ud-train-2185
-# text = Värderingskontor
-1	Värderingskontor	värderingskontor	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-2186
 # text = Vad har då hänt i ett par länder, där man avskaffat hyresregleringen?
 1	Vad	vad	PRON	_	Definite=Ind|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	_	_
@@ -37308,11 +36812,6 @@
 16	åtta	åtta	NUM	_	Case=Nom|NumType=Card	17	nummod	_	_
 17	år	år	NOUN	_	Case=Gen|Definite=Ind|Gender=Neut|Number=Plur	14	nmod	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P217.8
-# sent_id = sv-ud-train-2194
-# text = Missnöje
-1	Missnöje	missnöje	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-2195
 # text = Hela hyreshöjningen kom inte omedelbart fastighetsägaren till godo.
@@ -37592,12 +37091,6 @@
 38	och	och	CCONJ	_	_	_	_	_	_
 39	miljö	miljö	NOUN	_	Case=Conj|Definite=Ind|Gender=Com|Number=Sing	35	conj	_	_
 40	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P217.12
-# sent_id = sv-ud-train-2208
-# text = Diffusa bestämmelser
-1	Diffusa	diffus	ADJ	_	Degree=Pos	2	amod	_	_
-2	bestämmelser	bestämmelse	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-2209
 # text = Men precis som i den svenska hyreslagen är bestämmelserna så diffusa att de kan tolkas litet hur som helst.
@@ -38080,12 +37573,6 @@
 21	har	ha	AUX	_	_	_	_	_	_
 22	fått	få	VERB	_	Aspect=Perf|Case=Atr|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	16	ccomp	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P219.7
-# sent_id = sv-ud-train-2232
-# text = Skolket ökar
-1	Skolket	skolk	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nsubj	_	_
-2	ökar	öka	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # sent_id = sv-ud-train-2233
 # text = Resultatet av detta känner vi: ökad oro i skolan, skolk och studieavbrott.
@@ -39003,27 +38490,6 @@
 3	upp	upp	ADV	_	|	2	compound:prt	_	_
 4	främst	främst	ADV	_	Degree=Sup	2	advmod	_	_
 5	:	:	PUNCT	_	_	_	_	_	_
-
-# newpar id = P221.4
-# sent_id = sv-ud-train-2280
-# text = Tullar
-1	Tullar	tull	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
-# newpar id = P221.5
-# sent_id = sv-ud-train-2281
-# text = Jordbruk
-1	Jordbruk	jordbruk	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
-# newpar id = P221.6
-# sent_id = sv-ud-train-2282
-# text = Gemensam handelspolitik
-1	Gemensam	gemensam	ADJ	_	Degree=Pos	2	amod	_	_
-2	handelspolitik	handelspolitik	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
-# newpar id = P221.7
-# sent_id = sv-ud-train-2283
-# text = Teknologi
-1	Teknologi	teknologi	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # newpar id = P221.8
 # sent_id = sv-ud-train-2284
@@ -41762,11 +41228,6 @@
 21	stora	stor	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	19	xcomp	_	_
 22	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P224.3
-# sent_id = sv-ud-train-2446
-# text = Plomberas
-1	Plomberas	plombera	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Pass	0	root	_	_
-
 # sent_id = sv-ud-train-2447
 # text = När det gäller användandet av toaletter ombord, har olika områden sina bestämmelser.
 1	När	när	ADV	_	_	_	_	_	_
@@ -41926,11 +41387,6 @@
 9	nu	nu	ADV	_	|	7	advmod	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P224.5
-# sent_id = sv-ud-train-2455
-# text = Otrevligt
-1	Otrevligt	otrevlig	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-2456
 # text = Som det nu är ser det inte vidare trevligt ut med toalettpapper och avföringshögar vid stränderna till de populära ankringsvikarna i skärgårdarna.
 1	Som	som	SCONJ	_	_	_	_	_	_
@@ -42057,11 +41513,6 @@
 7	för	för	ADP	_	_	_	_	_	_
 8	spolning	spolning	NOUN	_	Case=Ben|Definite=Ind|Gender=Com|Number=Sing	5	obl	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P224.7
-# sent_id = sv-ud-train-2462
-# text = Händiga
-1	Händiga	händig	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-2463
 # text = Electrolux-systemet är ett helsvenskt toalettsystem, som är avsett för villor, fritidsanläggningar och större fartyg men det kan även passa in inom fritidsbåtssektorn som uppsamlingsanläggning.
@@ -43157,12 +42608,6 @@
 5	-67	-67	NUM	_	Case=Nom|NumType=Card	2	nummod	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P226.9
-# sent_id = sv-ud-train-2519
-# text = Sverige först
-1	Sverige	Sverige	PROPN	_	Case=Nom|Mood=Ind|Polarity=Pos	0	root	_	_
-2	först	först	ADV	_	|	1	advmod	_	_
-
 # sent_id = sv-ud-train-2520
 # text = Sverige blir det första land som tillämpar den nya matematiken i hela sitt skolväsende.
 1	Sverige	Sverige	PROPN	_	Case=Nom	2	nsubj	_	_
@@ -43324,11 +42769,6 @@
 25	grundligt	grundlig	ADV	_	Degree=Pos	26	advmod	_	_
 26	beredd	beredd	ADJ	_	Case=Tan|Degree=Pos|Mood=Ind|Polarity=Pos	18	advcl	_	_
 27	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P226.11
-# sent_id = sv-ud-train-2528
-# text = Lärarknorr
-1	Lärarknorr	lärarknorr	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-2529
 # text = Hos oss går det till nästan tvärtom.
@@ -43567,12 +43007,6 @@
 16	bättre	bra	ADJ	_	Degree=Cmp|Mood=Ind|Polarity=Pos	0	root	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
 18	'	'	PUNCT	_	_	_	_	_	_
-
-# newpar id = P226.14
-# sent_id = sv-ud-train-2542
-# text = Inte lättare
-1	Inte	inte	PART	_	_	_	_	_	_
-2	lättare	lätt	ADJ	_	Degree=Cmp|Mood=Ind|Polarity=Neg	0	root	_	_
 
 # sent_id = sv-ud-train-2543
 # text = Men hur man än tolkar den så nog skulle vi fått den nya matten oberoende av den.
@@ -46391,10 +45825,6 @@
 2	av	av	ADP	_	_	_	_	_	_
 3	familjer	familj	NOUN	_	Case=Gen|Definite=Ind|Gender=Com|Number=Plur	1	nmod	_	_
 
-# sent_id = sv-ud-train-2702
-# text = Kärnfamiljen
-1	Kärnfamiljen	kärnfamilj	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-2703
 # text = Pappa, mamma och barn bildar vad man brukar kalla för kärnfamiljen.
 1	Pappa	pappa	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	6	nsubj	_	_
@@ -47486,12 +46916,6 @@
 23	familj	familj	NOUN	_	Case=Ine|Definite=Ind|Gender=Com|Number=Sing	18	obl	_	_
 24	?	?	PUNCT	_	_	_	_	_	_
 
-# newpar id = P302.28
-# sent_id = sv-ud-train-2764
-# text = Familjens funktioner
-1	Familjens	familj	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Sing	2	nmod:poss	_	_
-2	funktioner	funktion	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-2765
 # text = När televisionen på allvar slog igenom i Sverige, påverkade detta ganska mycket antalet biobesök.
 1	När	när	SCONJ	_	_	_	_	_	_
@@ -47696,12 +47120,6 @@
 3	sjukdom	sjukdom	NOUN	_	Case=Loc|Definite=Ind|Gender=Com|Number=Sing	1	nmod	_	_
 4	etc	et_cetera	ADV	_	Abbr=Yes	3	conj	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P302.36
-# sent_id = sv-ud-train-2778
-# text = Fritidsfunktionen.
-1	Fritidsfunktionen	fritidsfunktion	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # newpar id = P302.37
 # sent_id = sv-ud-train-2779
@@ -47950,11 +47368,6 @@
 36	för	för	ADP	_	_	_	_	_	_
 37	födelsekontroll	födelsekontroll	NOUN	_	Case=Ben|Definite=Ind|Gender=Com|Number=Sing	35	nmod	_	_
 38	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P302.41
-# sent_id = sv-ud-train-2791
-# text = Diskutera
-1	Diskutera	diskutera	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
 
 # newpar id = P302.42
 # sent_id = sv-ud-train-2792
@@ -51995,12 +51408,6 @@
 24	liv	liv	NOUN	_	Case=Lat|Definite=Ind|Gender=Neut|Number=Sing	20	obl	_	_
 25	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P304.21
-# sent_id = sv-ud-train-2993
-# text = Profan äktenskapssyn
-1	Profan	profan	ADJ	_	Degree=Pos	2	amod	_	_
-2	äktenskapssyn	äktenskapssyn	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-2994
 # text = Det finns idag många variationer på icke religiösa äktenskapsuppfattningar.
 1	Det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
@@ -55274,11 +54681,6 @@
 21	)	)	PUNCT	_	_	_	_	_	_
 22	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P305.21
-# sent_id = sv-ud-train-3166
-# text = Uppgifter
-1	Uppgifter	uppgift	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # newpar id = P305.22
 # sent_id = sv-ud-train-3167
 # text = Vilka är de viktigaste energikällorna i vår tid?
@@ -56066,11 +55468,6 @@
 28	oljedriven	oljedriven	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos	19	acl:relcl	_	_
 29	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P305.38
-# sent_id = sv-ud-train-3206
-# text = Uppgifter
-1	Uppgifter	uppgift	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # newpar id = P305.39
 # sent_id = sv-ud-train-3207
 # text = Inom vilka industrigrenar är kol ännu den viktigaste energikällan?
@@ -56582,11 +55979,6 @@
 9	olika	olik	ADJ	_	Degree=Pos	10	amod	_	_
 10	rollsituationer	rollsituation	NOUN	_	Case=Ine|Definite=Def|Dem=Prox|Gender=Com|Number=Plur	4	obl	_	_
 11	?	?	PUNCT	_	_	_	_	_	_
-
-# newpar id = P306.5
-# sent_id = sv-ud-train-3233
-# text = Könsrollen
-1	Könsrollen	könsroll	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-3234
 # text = En av de roller som vi föds till är könsrollen.
@@ -59306,11 +58698,6 @@
 28	för	för	ADP	_	_	_	_	_	_
 29	tillfället	tillfälle	NOUN	_	Case=Ben|Definite=Def|Gender=Neut|Number=Sing	22	obl	_	_
 30	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P308.18
-# sent_id = sv-ud-train-3362
-# text = Socialhjälpslagen
-1	Socialhjälpslagen	socialhjälpslag	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-3363
 # text = Den obligatoriska hjälpen regleras i § 12.
@@ -62195,12 +61582,6 @@
 7	.	.	PUNCT	_	_	_	_	_	_
 8	)	)	PUNCT	_	_	_	_	_	_
 
-# newpar id = P309.16
-# sent_id = sv-ud-train-3514
-# text = Direktörernas familjetyp
-1	Direktörernas	direktör	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Plur	2	nmod:poss	_	_
-2	familjetyp	familjetyp	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # newpar id = P309.17
 # sent_id = sv-ud-train-3515
 # text = Denna familjetyp förekommer i socialgrupp 1.
@@ -62359,11 +61740,6 @@
 6	305	305	NUM	_	Case=Nom|NumType=Card	3	nmod	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 8	)	)	PUNCT	_	_	_	_	_	_
-
-# newpar id = P309.19
-# sent_id = sv-ud-train-3524
-# text = Kamratfamiljen
-1	Kamratfamiljen	kamratfamilj	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # newpar id = P309.20
 # sent_id = sv-ud-train-3525
@@ -62690,11 +62066,6 @@
 7	.	.	PUNCT	_	_	_	_	_	_
 8	)	)	PUNCT	_	_	_	_	_	_
 
-# newpar id = P309.24
-# sent_id = sv-ud-train-3547
-# text = Rollfördelningen
-1	Rollfördelningen	rollfördelning	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-3548
 # text = Hur mycket mannen hjälper till i hushållet beror på i vilken utsträckning hustrun förvärvsarbetar utanför hemmet.
 1	Hur	hur	ADV	_	|	2	advmod	_	_
@@ -62886,13 +62257,6 @@
 17	likformig	likformig	ADJ	_	Degree=Cmp	18	amod	_	_
 18	arbetsfördelning	arbetsfördelning	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	13	nsubj	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
-
-# newdoc id = P310
-# newpar id = P310.1
-# sent_id = sv-ud-train-3559
-# text = Socialt beteende
-1	Socialt	social	ADJ	_	Degree=Pos	2	amod	_	_
-2	beteende	beteende	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-3560
 # text = Kommunikationen mellan de olika individerna inom en art resulterar ofta i gruppbildningar av olika storlek och styrka.
@@ -65709,12 +65073,6 @@
 15	klosignalering	klosignalering	NOUN	_	Case=Per|Definite=Def|Dem=Prox|Gender=Com|Number=Sing	8	obl	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P310.31
-# sent_id = sv-ud-train-3710
-# text = Att diskutera
-1	Att	att	PART	_	_	_	_	_	_
-2	diskutera	diskutera	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	_	_
-
 # newpar id = P310.32
 # sent_id = sv-ud-train-3711
 # text = Diskutera olika sinnens betydelse för orienteringsförmågan hos insekter, fiskar, fåglar och fladdermöss.
@@ -66287,11 +65645,6 @@
 13	Eslöv	Eslöv	PROPN	_	Case=Nom	7	conj	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P312.11
-# sent_id = sv-ud-train-3730
-# text = Arbetsuppgifter
-1	Arbetsuppgifter	arbetsuppgift	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-3731
 # text = Undersök med utgångspunkt i detta schema din egen stad.
 1	Undersök	undersöka	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -66470,11 +65823,6 @@
 54	i	i	ADP	_	_	_	_	_	_
 55	stadsbilden	stadsbild	NOUN	_	Case=Ine|Definite=Def|Gender=Com|Number=Sing	53	nmod	_	_
 56	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P312.15
-# sent_id = sv-ud-train-3739
-# text = Arbetsuppgifter
-1	Arbetsuppgifter	arbetsuppgift	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # newpar id = P312.16
 # sent_id = sv-ud-train-3740
@@ -66915,11 +66263,6 @@
 19	strövtåg	strövtåg	NOUN	_	Case=Conj|Definite=Ind|Gender=Neut|Number=Plur	16	conj	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P312.23
-# sent_id = sv-ud-train-3760
-# text = Arbetsuppgifter
-1	Arbetsuppgifter	arbetsuppgift	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-3761
 # text = Studera park- och grönområden i din egen stad.
 1	Studera	studera	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -67076,11 +66419,6 @@
 6	överst	överst	ADV	_	Degree=Sup	5	nmod	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P312.26
-# sent_id = sv-ud-train-3771
-# text = Arbetsuppgifter
-1	Arbetsuppgifter	arbetsuppgift	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-3772
 # text = Studera hur denna zonindelning fungerat i din egen hemstad.
 1	Studera	studera	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -67114,12 +66452,6 @@
 16	arbetar	arbeta	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl:relcl	_	_
 17	där	där	ADV	_	|	16	advmod	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
-
-# newdoc id = P313
-# newpar id = P313.1
-# sent_id = sv-ud-train-3774
-# text = Könsroller
-1	Könsroller	könsroll	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-3775
 # text = Kön heter på latin sexus.
@@ -67687,11 +67019,6 @@
 11	264	264	NUM	_	Case=Nom|NumType=Card	9	obj	_	_
 12	)	)	PUNCT	_	_	_	_	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P313.6
-# sent_id = sv-ud-train-3800
-# text = Familjen
-1	Familjen	familj	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-3801
 # text = Att man och kvinna ingår äktenskap och bildar familj har alltid ansetts och anses av de flesta alltjämt som en normal och riktig form för samliv mellan könen.
@@ -68468,12 +67795,6 @@
 35	etc	et_cetera	ADV	_	Abbr=Yes	28	conj	_	_
 36	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P313.13
-# sent_id = sv-ud-train-3834
-# text = Föräktenskapliga förbindelser
-1	Föräktenskapliga	föräktenskaplig	ADJ	_	Degree=Pos	2	amod	_	_
-2	förbindelser	förbindelse	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-3835
 # text = Man kan som ovan nämnts hävda, att det främst är de ömsesidiga känslorna som håller man och kvinna samman i äktenskap.
 1	Man	man	PRON	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	6	nsubj	_	_
@@ -69046,12 +68367,6 @@
 9	också	också	ADV	_	|	7	advmod	_	_
 10	svårigheter	svårighet	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	7	obj	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# newdoc id = P314
-# newpar id = P314.1
-# sent_id = sv-ud-train-3862
-# text = Orientering
-1	Orientering	orientering	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-3863
 # text = I västerländska industriländer har brottsligheten ökat kraftigt och kontinuerligt.
@@ -69936,11 +69251,6 @@
 32	för	för	ADP	_	_	_	_	_	_
 33	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P314.11
-# sent_id = sv-ud-train-3908
-# text = Uppgifter
-1	Uppgifter	uppgift	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-
 # newpar id = P314.12
 # sent_id = sv-ud-train-3909
 # text = Vilka felkällor kan finnas i polisstatistiken?
@@ -70425,11 +69735,6 @@
 26	området	område	NOUN	_	Case=Ade|Definite=Def|Gender=Neut|Number=Sing	24	nmod	_	_
 27	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = sv-ud-train-3935
-# text = Slutsats:
-1	Slutsats	slutsats	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = sv-ud-train-3936
 # text = Barnen väljer inte själva sina föräldrar - men föräldrarna kan i relativt hög grad och borde i ännu högre grad påverka förutsättningarna för barnens uppväxt och forma miljön i vilken barnen växer upp, så att den erbjuder bästa tänkbara möjligheter för rik personlighetsutveckling och psykisk balans.
 1	Barnen	barn	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	2	nsubj	_	_
@@ -70856,12 +70161,6 @@
 32	skriker	skrika	VERB	_	Case=Tem|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	27	advcl	_	_
 33	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P401.4
-# sent_id = sv-ud-train-3949
-# text = Olycklig könsrollsprägling
-1	Olycklig	olycklig	ADJ	_	Degree=Pos	2	amod	_	_
-2	könsrollsprägling	könsrollsprägling	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-3950
 # text = Resultaten av uppväxten i denna miljö är rätt så uppenbara.
 1	Resultaten	resultat	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	10	nsubj	_	_
@@ -71180,13 +70479,6 @@
 4	vara	vara	AUX	_	_	_	_	_	_
 5	lösningen	lösning	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 6	?	?	PUNCT	_	_	_	_	_	_
-
-# newdoc id = P402
-# newpar id = P402.1
-# sent_id = sv-ud-train-3961
-# text = Evangeliets äktenskapsideal
-1	Evangeliets	evangelium	NOUN	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	2	nmod:poss	_	_
-2	äktenskapsideal	äktenskapsideal	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-3962
 # text = Det monogama äktenskapet är enligt kristen uppfattning den bästa förutsättningen för att kontrahenterna ska lära känna varandra och samman i ett inbördes förtroende.
@@ -74201,12 +73493,6 @@
 25	könen	kön	NOUN	_	Case=Int|Definite=Def|Gender=Neut|Number=Plur	23	nmod	_	_
 26	.	.	PUNCT	_	_	_	_	_	_
 
-# newpar id = P404.6
-# sent_id = sv-ud-train-4081
-# text = Familjens isolering
-1	Familjens	familj	NOUN	_	Case=Gen|Definite=Def|Gender=Com|Number=Sing	2	nmod:poss	_	_
-2	isolering	isolering	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = sv-ud-train-4082
 # text = Sociologer har vanligen tolkat den ökade äktenskapsfrekvensen som ett tecken på kärnfamiljens växande betydelse som primärgrupp eftersom samhället saknar alternativa former för samlevnad i varaktiga lojala och stödgivande kollektiv.
 1	Sociologer	sociolog	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	4	nsubj	_	_
@@ -75170,21 +74456,6 @@
 15	samhällets	samhälle	NOUN	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	16	nmod:poss	_	_
 16	bestånd	bestånd	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Mood=Ind|Number=Sing|Polarity=Pos	11	xcomp	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = sv-ud-train-4115
-# text = Kort.
-1	Kort	kort	ADV	_	Degree=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = sv-ud-train-4116
-# text = Realistiskt.
-1	Realistiskt	realistiskt	ADV	_	Degree=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = sv-ud-train-4117
-# text = Bibliskt.
-1	Bibliskt	bibliskt	ADV	_	Degree=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # newpar id = P405.3
 # sent_id = sv-ud-train-4118
@@ -77552,12 +76823,6 @@
 25	äktenskaps	äktenskap	NOUN	_	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	26	nmod:poss	_	_
 26	ingående	ingående	NOUN	_	Case=Cir|Definite=Ind|Gender=Neut|Number=Sing	21	nmod	_	_
 27	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P406.9
-# sent_id = sv-ud-train-4212
-# text = Trohetskravets innebörd
-1	Trohetskravets	trohetskrav	NOUN	_	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	2	nmod:poss	_	_
-2	innebörd	innebörd	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = sv-ud-train-4213
 # text = En vanlig och allvarlig invändning mot denna uppmaning till unga människor att gifta sig är, att den bortser från det orimliga i att människor skall lova varann trohet för hela livet, när de kanske inte alls är beredda till det.

@@ -8622,11 +8622,6 @@
 5	befordringsgång	befordringsgång	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	1	nsubj	_	_
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = sv-ud-dev-390
-# text = Uppsägningstid?
-1	Uppsägningstid	uppsägningstid	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	?	?	PUNCT	_	_	_	_	_	_
-
 # sent_id = sv-ud-dev-391
 # text = Trygghet i anställningen?
 1	Trygghet	trygghet	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
@@ -8741,11 +8736,6 @@
 28	kvar	kvar	ADV	_	|	26	compound:prt	_	_
 29	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = sv-ud-dev-396
-# text = Sjukförsäkring?
-1	Sjukförsäkring	sjukförsäkring	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	?	?	PUNCT	_	_	_	_	_	_
-
 # sent_id = sv-ud-dev-397
 # text = Jo visst har vi sjukförsäkring, sex kronor om dagen.
 1	Jo	jo	INTJ	_	|	3	discourse	_	_
@@ -8783,11 +8773,6 @@
 19	inte	inte	PART	_	_	_	_	_	_
 20	kan	kunna	VERB	_	Case=Conj|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	_
 21	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = sv-ud-dev-399
-# text = Pension?
-1	Pension	pension	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Sing|Polarity=Pos	0	root	_	_
-2	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = sv-ud-dev-400
 # text = Jag får pension efter min make, säger Du.
@@ -10472,12 +10457,6 @@
 26	föränderliga	föränderlig	ADJ	_	Case=Conj|Degree=Pos	21	conj	_	_
 27	tillvaro	tillvaro	NOUN	_	Case=Ine|Definite=Ind|Gender=Com|Number=Sing	16	obl	_	_
 28	.	.	PUNCT	_	_	_	_	_	_
-
-# newpar id = P417.13
-# sent_id = sv-ud-dev-479
-# text = Uppgifter:
-1	Uppgifter	uppgift	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Mood=Ind|Number=Plur|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # newpar id = P417.14
 # sent_id = sv-ud-dev-480

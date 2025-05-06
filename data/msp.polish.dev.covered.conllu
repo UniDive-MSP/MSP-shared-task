@@ -2150,10 +2150,6 @@
 # text = Zalecano inną taktykę.
 # orig_file_sentence = 200-4-000030_morph_9.24-s#8788
 
-# sent_id = dev-s541
-# text = Przeczekać.
-# orig_file_sentence = 200-4-000030_morph_9.26-s#8789
-
 # sent_id = dev-s542
 # text = Wtopić się w legalne struktury.
 # orig_file_sentence = 200-4-000030_morph_9.32-s#8790
@@ -2425,10 +2421,6 @@
 # sent_id = dev-s609
 # text = Podprawić przecierem, zielem angielskim, solą, pieprzem i czosnkiem.
 # orig_file_sentence = 620-3-010000096_morph_3.63-s#11080
-
-# sent_id = dev-s610
-# text = Zagotować.
-# orig_file_sentence = 620-3-010000096_morph_3.65-s#11081
 
 # sent_id = dev-s611
 # text = Dania odrzuciła w referendum konwergencję z eurozone.
@@ -5429,10 +5421,6 @@
 # sent_id = dev-s1375
 # text = 1 marca będzie ciężki mecz?
 # orig_file_sentence = TrybunaLudu_Trybuna_morph_83.37-s#13892
-
-# sent_id = dev-s1376
-# text = Trudno.
-# orig_file_sentence = 200-4-000000205_morph_10.26-s#8098
 
 # sent_id = dev-s1377
 # text = W tej sytuacji prokuratura wysłała do magistratu pismo ponaglające.

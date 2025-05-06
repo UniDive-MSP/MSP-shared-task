@@ -42039,18 +42039,6 @@
 2	umarlak	umarlak	NOUN	_	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	!	!	PUNCT	_	_	_	_	_	_
 
-# sent_id = train-s2825
-# text = Rządzić!
-# orig_file_sentence = 200-2-000065_morph_9.5-s#6851
-1	Rządzić	rządzić	VERB	_	Aspect=Imp|Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	0	root	_	_
-2	!	!	PUNCT	_	_	_	_	_	_
-
-# sent_id = train-s2826
-# text = Władać!
-# orig_file_sentence = 200-2-000065_morph_9.7-s#6852
-1	Władać	władać	VERB	_	Aspect=Imp|Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	0	root	_	_
-2	!	!	PUNCT	_	_	_	_	_	_
-
 # sent_id = train-s2827
 # text = Zaleźć za skórę!
 # orig_file_sentence = 200-2-000065_morph_9.11-s#6853
@@ -52108,18 +52096,6 @@
 7	zeznanie	zeznanie	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = train-s3661
-# text = Ośmieszyć.
-# orig_file_sentence = 330-2-000000032_morph_1.48-s#10292
-1	Ośmieszyć	ośmieszyć	VERB	_	Aspect=Perf|Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = train-s3662
-# text = Poniżyć.
-# orig_file_sentence = 330-2-000000032_morph_1.50-s#10293
-1	Poniżyć	poniżyć	VERB	_	Aspect=Perf|Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = train-s3663
 # text = Bezmyślnie zdeptałeś po drodze wszystko i wszystkich.
 # orig_file_sentence = 330-2-000000032_morph_4.9-s#10297
@@ -57682,12 +57658,6 @@
 12	spokojnie	spokojnie	ADV	_	Degree=Pos	13	advmod	_	_
 13	wyjść	wyjść	VERB	_	Aspect=Perf|Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	9	xcomp	_	_
 14	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = train-s4124
-# text = Można.
-# orig_file_sentence = SuperExpress_morph_208.7-s#13311
-1	Można	można	VERB	_	Mood=Ind|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|VerbType=Quasi	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = train-s4125
 # text = Lech Kaczyński w czasie kampanii wspiął się na szczyty.

@@ -1794,11 +1794,6 @@
 38	fallout	fallout	NOUN	_	Case=Chz|Definite=Def|Number=Sing	35	obl:agent	_	_
 39	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0003
-# text = UPDATE:
-1	UPDATE	update	NOUN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0004
 # text = Now you can tour Chernobyl and write your own story.
 1	Now	now	ADV	_	PronType=Dem	4	advmod	_	_
@@ -2354,106 +2349,6 @@
 3	Lessons	Lesson	PROPN	_	Number=Plur	2	appos	_	_
 4	learned	learn	VERB	_	Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	_
 
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0026
-# text = http://www.ibiblio.org/expo/soviet.exhibit/chernobyl.html
-1	http://www.ibiblio.org/expo/soviet.exhibit/chernobyl.html	http://www.ibiblio.org/expo/soviet.exhibit/chernobyl.html	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0027
-# text = http://www.ibrae.ac.ru/IBRAE/eng/chernobyl/nat_rep/nat_repe.htm#24
-1	http://www.ibrae.ac.ru/IBRAE/eng/chernobyl/nat_rep/nat_repe.htm#24	http://www.ibrae.ac.ru/IBRAE/eng/chernobyl/nat_rep/nat_repe.htm#24	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0028
-# text = http://www.nsrl.ttu.edu/chernobyl/wildlifepreserve.htm
-1	http://www.nsrl.ttu.edu/chernobyl/wildlifepreserve.htm	http://www.nsrl.ttu.edu/chernobyl/wildlifepreserve.htm	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0029
-# text = http://www.environmentalchemistry.com/yogi/hazmat/articles/chernobyl1.html
-1	http://www.environmentalchemistry.com/yogi/hazmat/articles/chernobyl1.html	http://www.environmentalchemistry.com/yogi/hazmat/articles/chernobyl1.html	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0030
-# text = http://digon_va.tripod.com/Chernobyl.htm
-1	http://digon_va.tripod.com/Chernobyl.htm	http://digon_va.tripod.com/Chernobyl.htm	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0031
-# text = http://www.oneworld.org/index_oc/issue196/byckau.html
-1	http://www.oneworld.org/index_oc/issue196/byckau.html	http://www.oneworld.org/index_oc/issue196/byckau.html	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0032
-# text = http://www.collectinghistory.net/chernobyl/
-1	http://www.collectinghistory.net/chernobyl/	http://www.collectinghistory.net/chernobyl/	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0033
-# text = http://www.ukrainianweb.com/chernobyl_ukraine.htm
-1	http://www.ukrainianweb.com/chernobyl_ukraine.htm	http://www.ukrainianweb.com/chernobyl_ukraine.htm	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0034
-# text = http://www.bullatomsci.org/issues/1993/s93/s93Marples.html
-1	http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0035
-# text = http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm
-1	http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0036
-# text = http://www.infoukes.com/history/chornobyl/gregorovich/index.html
-1	http://www.infoukes.com/history/chornobyl/gregorovich/index.html	http://www.infoukes.com/history/chornobyl/gregorovich/index.html	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0037
-# text = http://www.un.org/ha/chernobyl/
-1	http://www.un.org/ha/chernobyl/	http://www.un.org/ha/chernobyl/	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0038
-# text = http://www.tecsoc.org/pubs/history/2002/apr26.htm
-1	http://www.tecsoc.org/pubs/history/2002/apr26.htm	http://www.tecsoc.org/pubs/history/2002/apr26.htm	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0039
-# text = http://www.chernobyl.org.uk/page2.htm
-1	http://www.chernobyl.org.uk/page2.htm	http://www.chernobyl.org.uk/page2.htm	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0040
-# text = http://www.time.com/time/daily/chernobyl/860901.accident.html
-1	http://www.time.com/time/daily/chernobyl/860901.accident.html	http://www.time.com/time/daily/chernobyl/860901.accident.html	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0041
-# text = http://www.infoukes.com/history/chornobyl/elg/
-1	http://www.infoukes.com/history/chornobyl/elg/	http://www.infoukes.com/history/chornobyl/elg/	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0042
-# text = http://www.world-nuclear.org/info/chernobyl/inf07.htm
-1	http://www.world-nuclear.org/info/chernobyl/inf07.htm	http://www.world-nuclear.org/info/chernobyl/inf07.htm	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0043
-# text = http://www.nea.fr/html/rp/chernobyl/conclusions5.html
-1	http://www.nea.fr/html/rp/chernobyl/conclusions5.html	http://www.nea.fr/html/rp/chernobyl/conclusions5.html	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0044
-# text = http://www.nea.fr/html/rp/chernobyl/c01.html
-1	http://www.nea.fr/html/rp/chernobyl/c01.html	http://www.nea.fr/html/rp/chernobyl/c01.html	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0045
-# text = http://www.nea.fr/html/rp/chernobyl/c05.html
-1	http://www.nea.fr/html/rp/chernobyl/c05.html	http://www.nea.fr/html/rp/chernobyl/c05.html	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0046
-# text = http://www.physics.isu.edu/radinf/chern.htm
-1	http://www.physics.isu.edu/radinf/chern.htm	http://www.physics.isu.edu/radinf/chern.htm	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0047
-# text = http://www.chernobyl.info/en
-1	http://www.chernobyl.info/en	http://www.chernobyl.info/en	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0048
-# text = http://www.arps.org.au/Chernobyl.htm
-1	http://www.arps.org.au/Chernobyl.htm	http://www.arps.org.au/Chernobyl.htm	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0049
-# text = http://www-formal.stanford.edu/jmc/progress/chernobyl.html
-1	http://www-formal.stanford.edu/jmc/progress/chernobyl.html	http://www-formal.stanford.edu/jmc/progress/chernobyl.html	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0050
-# text = http://www.21stcenturysciencetech.com/articles/chernobyl.html
-1	http://www.21stcenturysciencetech.com/articles/chernobyl.html	http://www.21stcenturysciencetech.com/articles/chernobyl.html	PROPN	_	|	0	root	_	_
-
 # sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0051
 # newpar id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-p0004
 # text = I would be interested in hearing what conclusions you reached and what you found that was most convincing.
@@ -2476,11 +2371,6 @@
 17	most	most	ADV	_	Degree=Sup	18	advmod	_	_
 18	convincing	convincing	ADJ	_	Degree=Sup|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	12	acl:relcl	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0052
-# text = radiation:
-1	radiation	radiation	NOUN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = weblog-typepad.com_ripples_20040407125600_ENG_20040407_125600-0053
 # text = As a child in the 50's I had a lot of glandular problems and they treated it with radiation therapy (primitive at best!) and stopped when a lesion on my neck started enlarging--they said it was not CA but stopped the treatments....
@@ -3749,10 +3639,6 @@
 31	in	in	ADP	_	_	_	_	_	_
 32	Boston	Boston	PROPN	_	Case=Ine|Number=Sing	30	nmod	_	_
 33	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-juancole.com_juancole_20040708181175_ENG_20040708_181175-0010
-# text = Bush
-1	Bush	Bush	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = weblog-juancole.com_juancole_20040708181175_ENG_20040708_181175-0011
 # text = Hiller asked Bush to name the leaders of Chechnya, Taiwan, India and Pakistan.
@@ -6958,12 +6844,6 @@
 3	the	the	DET	_	_	_	_	_	_
 4	bluff	bluff	NOUN	_	Definite=Def|Number=Sing	2	obj	_	_
 
-# sent_id = weblog-blogspot.com_dakbangla_20041028153019_ENG_20041028_153019-0005
-# newpar id = weblog-blogspot.com_dakbangla_20041028153019_ENG_20041028_153019-p0002
-# text = M.D. Nalapat
-1	M.D.	M.D.	PROPN	_	Number=Sing	0	root	_	_
-2	Nalapat	Nalapat	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = weblog-blogspot.com_dakbangla_20041028153019_ENG_20041028_153019-0006
 # newpar id = weblog-blogspot.com_dakbangla_20041028153019_ENG_20041028_153019-p0003
 # text = While most U.S. secretaries of state -- save perhaps Dean Rusk -- have gobbled up credit for outcomes that they had little to do with, few have been as brazen as Colin Powell.
@@ -8075,13 +7955,6 @@
 2	Times	Times	PROPN	_	Number=Sing	0	root	_	_
 3	28/10/2004	28/10/2004	NUM	_	NumForm=Digit|NumType=Card	2	nmod:unmarked	_	_
 
-# newdoc id = weblog-blogspot.com_alaindewitt_20040929103700_ENG_20040929_103700
-# sent_id = weblog-blogspot.com_alaindewitt_20040929103700_ENG_20040929_103700-0001
-# newpar id = weblog-blogspot.com_alaindewitt_20040929103700_ENG_20040929_103700-p0001
-# text = Ok.
-1	Ok	ok	INTJ	_	|	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = weblog-blogspot.com_alaindewitt_20040929103700_ENG_20040929_103700-0002
 # text = We all know that John Kerry served in Vietnam.
 1	We	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
@@ -8421,11 +8294,6 @@
 5	the	the	DET	_	_	_	_	_	_
 6	facts	fact	NOUN	_	Definite=Def|Number=Plur	4	obj	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_alaindewitt_20040929103700_ENG_20040929_103700-0017
-# newpar id = weblog-blogspot.com_alaindewitt_20040929103700_ENG_20040929_103700-p0004
-# text = ---------
-1	---------	---------	PUNCT	_	_	_	_	_	_
 
 # sent_id = weblog-blogspot.com_alaindewitt_20040929103700_ENG_20040929_103700-0018
 # newpar id = weblog-blogspot.com_alaindewitt_20040929103700_ENG_20040929_103700-p0005
@@ -10314,10 +10182,6 @@
 10	seems	seem	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_healingiraq_20050121235804_ENG_20050121_235804-0025
-# text = ***
-1	***	***	PUNCT	_	_	_	_	_	_
-
 # sent_id = weblog-blogspot.com_healingiraq_20050121235804_ENG_20050121_235804-0026
 # newpar id = weblog-blogspot.com_healingiraq_20050121235804_ENG_20050121_235804-p0003
 # text = Several candidates were assassinated and targeted these last two weeks, others have been forced under threats to withdraw and to follow the example of the Islamic party.
@@ -11924,10 +11788,6 @@
 26	North	North	PROPN	_	Number=Sing	25	flat	_	_
 27	...	...	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0036
-# text = http://www.amazon.ca/exec/obidos/ASIN/0915765381/701-3377456-8181939
-1	http://www.amazon.ca/exec/obidos/ASIN/0915765381/701-3377456-8181939	http://www.amazon.ca/exec/obidos/ASIN/0915765381/701-3377456-8181939	PROPN	_	|	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0037
 # newpar id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-p0003
 # text = I've read the book- it's a first person memoir with the ring of truth, especially since so much of the wider context has confirmed the allegations of Contra drug connections that led to Terrell becoming a target for discrediting by the TWIG counterintelligence group that ran interference for the Contra effort, staffed by covert ops types including Ollie North, Robert Owen, Vince Cannistaro and Buck Revell.
@@ -12307,10 +12167,6 @@
 25	retiring	retire	VERB	_	Case=Teg|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	15	advcl	_	_
 26	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0048
-# text = http://www.disinfo.com/archive/pages/dossier/id334/pg1/
-1	http://www.disinfo.com/archive/pages/dossier/id334/pg1/	http://www.disinfo.com/archive/pages/dossier/id334/pg1/	PROPN	_	|	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0049
 # newpar id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-p0004
 # text = Last week, Federal District Judge Lynn Hughes in Huston, Texas, threw out Wilson's two-decades old conviction.
@@ -12364,15 +12220,6 @@
 21	government	government	NOUN	_	Case=Dat|Number=Sing	18	obl	_	_
 22	.	.	PUNCT	_	_	_	_	_	_
 23	'	'	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0051
-# text = http://www.bigeye.com/111003.htm
-1	http://www.bigeye.com/111003.htm	http://www.bigeye.com/111003.htm	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0052
-# newpar id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-p0005
-# text = http://www.thekcrachannel.com/news/4503872/detail.html
-1	http://www.thekcrachannel.com/news/4503872/detail.html	http://www.thekcrachannel.com/news/4503872/detail.html	PROPN	_	|	0	root	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0053
 # newpar id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-p0006
@@ -12715,10 +12562,6 @@
 14	were	be	AUX	_	_	_	_	_	_
 15	mentioned	mention	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0066
-# text = gandalf
-1	gandalf	gandalf	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0068
 # text = You really got me thinking, I enjoy reading this blog.
 1	You	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_
@@ -12949,10 +12792,6 @@
 3	totally	totally	ADV	_	|	2	advmod	_	_
 4	!	!	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0086
-# text = Paul
-1	Paul	Paul	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0087
 # newpar id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-p0019
 # text = How Would You Like To Know How YOU Can Live In A Beautiful NEW House That Is Custom-Designed To YOUR Specifications.........And At NO COST To You?
@@ -13031,10 +12870,6 @@
 12	A	a	DET	_	_	_	_	_	_
 13	Look	look	NOUN	_	Definite=Ind|Number=Sing	11	obj	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0092
-# text = Get-A-Free-House.com
-1	Get-A-Free-House.com	Get-A-Free-House.com	PROPN	_	|	0	root	_	_
 
 # newdoc id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134
 # sent_id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0001
@@ -13145,12 +12980,6 @@
 3	India	India	PROPN	_	Case=Gen|Number=Sing	5	nmod:poss	_	_
 4	's	's	PART	_	_	_	_	_	_
 5	islands	island	NOUN	_	Case=Ade|Number=Plur	1	nmod	_	_
-
-# sent_id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0005
-# newpar id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-p0002
-# text = Ramtanu Maitra
-1	Ramtanu	Ramtanu	PROPN	_	Number=Sing	2	compound	_	_
-2	Maitra	Maitra	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0006
 # newpar id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-p0003
@@ -13392,11 +13221,6 @@
 40	navy	navy	NOUN	_	Case=Lng;Com|Number=Sing	32	obl	_	_
 41	"	"	PUNCT	_	_	_	_	_	_
 42	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0014
-# text = Deteriorating security
-1	Deteriorating	deteriorate	VERB	_	VerbForm=Ger	2	amod	_	_
-2	security	security	NOUN	_	Number=Sing	0	root	_	_
 
 # sent_id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0015
 # newpar id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-p0004
@@ -13995,11 +13819,6 @@
 33	Southeast	Southeast	PROPN	_	Number=Sing	34	compound	_	_
 34	Asia	Asia	PROPN	_	Case=Conj|Number=Sing	31	conj	_	_
 35	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0032
-# text = Intelligence lapses
-1	Intelligence	intelligence	NOUN	_	Number=Sing	2	compound	_	_
-2	lapses	lapse	NOUN	_	Number=Plur	0	root	_	_
 
 # sent_id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0033
 # newpar id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-p0005
@@ -14681,11 +14500,6 @@
 33	coast	coast	NOUN	_	Case=Ade|Definite=Def|Number=Sing	24	nmod	_	_
 34	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0059
-# text = Steady buildup
-1	Steady	steady	ADJ	_	Degree=Pos	2	amod	_	_
-2	buildup	buildup	NOUN	_	Number=Sing	0	root	_	_
-
 # sent_id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0060
 # newpar id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-p0007
 # text = The real threat to the Andaman Islands is the steady building-up of ports and conduits that serve the Tamil Tigers and a host of less-strong militant groups.
@@ -14925,10 +14739,6 @@
 22	into	into	ADP	_	_	_	_	_	_
 23	Chittagong	Chittagong	PROPN	_	Case=Conj;Ade;Ill|Number=Sing	14	conj	_	_
 24	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0067
-# text = Note
-1	Note	note	NOUN	_	Number=Sing	0	root	_	_
 
 # sent_id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0068
 # newpar id = weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-p0008
@@ -15283,12 +15093,6 @@
 4	new	new	ADJ	_	Degree=Pos	6	amod	_	_
 5	regional	regional	ADJ	_	Degree=Pos	6	amod	_	_
 6	equations	equation	NOUN	_	Number=Plur	1	appos	_	_
-
-# sent_id = weblog-blogspot.com_dakbangla_20041016151002_ENG_20041016_151002-0008
-# newpar id = weblog-blogspot.com_dakbangla_20041016151002_ENG_20041016_151002-p0002
-# text = KABUL:
-1	KABUL	KABUL	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = weblog-blogspot.com_dakbangla_20041016151002_ENG_20041016_151002-0009
 # text = For the past 25 years landlocked Afghanistan has suffered from constant interference from its neighbours - Pakistan, Iran and the Central Asian Republics - and regional powers -Russia and India.
@@ -20086,10 +19890,6 @@
 32	handcuffs	handcuffs	NOUN	_	Case=Ine|Number=Sing	29	obl	_	_
 33	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0032
-# text = ...
-1	...	...	SYM	_	|	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0033
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0008
 # text = The crime occurred in the sacristy adjoining the hospital chapel in downtown Toledo on the Saturday before Easter in 1980.
@@ -20577,10 +20377,6 @@
 39	1890	1890	NUM	_	Case=Ine|NumForm=Digit|NumType=Card	33	obl	_	_
 40	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0058
-# text = ...
-1	...	...	SYM	_	|	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0059
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0015
 # text = Now, FLDS leader Warren Jeffs has been added to the FBI's list of "Ten Most Wanted Fugitives," a move that caps law enforcement's dramatic change of approach toward the polygamous group in recent years...[because of] the impact that the group's practices, law enforcement officials say, are having on the most vulnerable within the sect, particularly children and women.
@@ -20759,10 +20555,6 @@
 94	vigorously	vigorously	ADV	_	Degree=Cmp	91	advmod	_	_
 95	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0061
-# text = ...
-1	...	...	SYM	_	|	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0062
 # text = Specifically, Jeffs is charged in Utah and Arizona with sexual assault of underage girls and with arranging "spiritual" marriages for girls and older men.
 1	Specifically	specifically	ADV	_	|	5	advmod	_	_
@@ -20854,10 +20646,6 @@
 21	former	former	ADJ	_	Degree=Pos	22	amod	_	_
 22	members	member	NOUN	_	Case=accord to|Number=Plur	7	obl	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0065
-# text = ...
-1	...	...	SYM	_	|	0	root	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0066
 # text = As with Christian Identity and other hate-related philosophies tied to the Aryan Nations and the neo-Nazi Creativity Movement, Jeffs has preached racism as well.
@@ -21009,10 +20797,6 @@
 69	communities	community	NOUN	_	Case=Com|Number=Plur	66	obl	_	_
 70	.	.	PUNCT	_	_	_	_	_	_
 71	"	"	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0069
-# text = http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5
-1	http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	PROPN	_	|	0	root	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0070
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0016
@@ -21639,10 +21423,6 @@
 38	say	say	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 39	...	...	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0107
-# text = http://www.rawstory.com/news/2006/US_outsourcing_special_operations_intelligence_gathering_0413.html
-1	http://www.rawstory.com/news/2006/US_outsourcing_special_operations_intelligence_gathering_0413.html	http://www.rawstory.com/news/2006/US_outsourcing_special_operations_intelligence_gathering_0413.html	PROPN	_	|	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0108
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0023
 # text = A country deserves the leaders it has, my friends...
@@ -22062,10 +21842,6 @@
 32	Massoud	Massoud	PROPN	_	Case=Conj|Number=Sing	30	conj	_	_
 33	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0123
-# text = Link
-1	Link	link	NOUN	_	Number=Sing	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0124
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0025
 # text = One has to wonder whether the bright fellows in our government and military who set up the deals with these people don't know what they are, don't care, or know perfectly well.
@@ -22111,11 +21887,6 @@
 36	well	well	ADV	_	Degree=Pos	34	advmod	_	_
 37	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0125
-# text = Jeff,
-1	Jeff	Jeff	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0126
 # text = SPLOID.com cited you on the topic of that priest conviction: http://www.sploid.com/news/2006/05/evil_priest_gui.php
 1	SPLOID.com	SPLOID.com	PROPN	_	Number=Sing	2	nsubj	_	_
@@ -22130,17 +21901,6 @@
 10	conviction	conviction	NOUN	_	Case=Gen;Atr|Number=Sing	6	nmod	_	_
 11	:	:	PUNCT	_	_	_	_	_	_
 12	http://www.sploid.com/news/2006/05/evil_priest_gui.php	http://www.sploid.com/news/2006/05/evil_priest_gui.php	PROPN	_	|	2	parataxis	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0127
-# text = Umm...
-1	Umm	umm	INTJ	_	|	0	root	_	_
-2	...	...	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0128
-# newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0026
-# text = Question Mark
-1	Question	question	NOUN	_	Number=Sing	2	compound	_	_
-2	Mark	mark	NOUN	_	Number=Sing	0	root	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0129
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0027
@@ -22201,11 +21961,6 @@
 3	like	like	ADP	_	_	_	_	_	_
 4	that	that	PRON	_	Case=Sem|Number=Sing|PronType=Dem	2	nmod	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0133
-# newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0030
-# text = http://www.laweekly.com/general/features/satan-loves-you/13454/
-1	http://www.laweekly.com/general/features/satan-loves-you/13454/	http://www.laweekly.com/general/features/satan-loves-you/13454/	PROPN	_	|	0	root	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0134
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0031
@@ -22297,11 +22052,6 @@
 14	morality	morality	NOUN	_	Number=Sing	7	appos	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0140
-# text = Hmmmmmm....................
-1	Hmmmmmm	hmm	INTJ	_	Style=Expr	0	root	_	_
-2	....................	....................	PUNCT	_	_	_	_	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0141
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0032
 # text = The people who carry out these underground arms/drugs/sex trafficking deals are trauma based mind controlled slaves.
@@ -22373,10 +22123,6 @@
 19	it	it	PRON	_	Case=Ill|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obl	_	_
 20	....	....	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0144
-# text = http://en.wikipedia.org/wiki/Aerocom
-1	http://en.wikipedia.org/wiki/Aerocom	http://en.wikipedia.org/wiki/Aerocom	PROPN	_	|	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0145
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0034
 # text = So... put some information in there.
@@ -22400,11 +22146,6 @@
 7	void	void	NOUN	_	Definite=Ind|Number=Sing	5	obj	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 9	:)	:)	SYM	_	|	5	discourse	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0147
-# text = Richard,
-1	Richard	Richard	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0148
 # text = i agree, Hmmmmmm.
@@ -22768,12 +22509,6 @@
 2	Simone	Simone	PROPN	_	Number=Sing	0	root	_	_
 3	Weil	Weil	PROPN	_	Number=Sing	2	flat	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0170
-# newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0039
-# text = Starroute:
-1	Starroute	Starroute	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0171
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0040
 # text = I wouldn't wonder too hard.
@@ -22838,10 +22573,6 @@
 31	motives	motive	NOUN	_	Number=Plur	27	obj	_	_
 32	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0176
-# text = http://youtube.com/watch?v=d46_ctqDmI4
-1	http://youtube.com/watch?v=d46_ctqDmI4	http://youtube.com/watch?v=d46_ctqDmI4	PROPN	_	|	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0177
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0042
 # text = To not buying the BS
@@ -22899,10 +22630,6 @@
 26	of	of	ADP	_	_	_	_	_	_
 27	morality	morality	NOUN	_	Case=Gen|Number=Sing	25	nmod	_	_
 28	:	:	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0180
-# text = http://news.bbc.co.uk/2/hi/programmes/this_world/4446342.stm
-1	http://news.bbc.co.uk/2/hi/programmes/this_world/4446342.stm	http://news.bbc.co.uk/2/hi/programmes/this_world/4446342.stm	PROPN	_	|	0	root	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0181
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0045
@@ -23121,11 +22848,6 @@
 14	are	be	AUX	_	_	_	_	_	_
 15	closely	closely	ADV	_	|	16	advmod	_	_
 16	linked	link	VERB	_	Case=Atr|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	8	ccomp	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0189
-# text = Michele Tollis
-1	Michele	Michele	PROPN	_	Number=Sing	0	root	_	_
-2	Tollis	Tollis	PROPN	_	Number=Sing	1	flat	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0190
 # text = It emerged that Chiara, the girl who disappeared with Fabio, had a collection of satanic literature and paraphernalia in her bedroom.
@@ -23617,10 +23339,6 @@
 16	1937	1937	NUM	_	Case=Gen|NumForm=Digit|NumType=Card	14	nmod	_	_
 17	:	:	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0214
-# text = http://en.wikipedia.org/wiki/Degenerate_art
-1	http://en.wikipedia.org/wiki/Degenerate_art	http://en.wikipedia.org/wiki/Degenerate_art	PROPN	_	|	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0217
 # text = When the apparently cognitively functional take actions that seem senseless and incompetent, it is a most certain sign that they have ulterior or hidden motives.
 1	When	when	ADV	_	_	_	_	_	_
@@ -23741,17 +23459,6 @@
 5	exist	exist	VERB	_	Mood=Int|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0226
-# text = Confused?
-1	Confused	confused	ADJ	_	Degree=Pos	0	root	_	_
-2	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0227
-# newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0053
-# text = Good.
-1	Good	good	INTJ	_	|	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0228
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0054
 # text = so, enemy, what's your point?
@@ -23826,15 +23533,6 @@
 23	information	information	NOUN	_	Number=Sing	17	obj	_	_
 24	.	.	PUNCT	_	_	_	_	_	_
 25	)	)	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0234
-# text = http://en.wikipedia.org/wiki/John_Balance
-1	http://en.wikipedia.org/wiki/John_Balance	http://en.wikipedia.org/wiki/John_Balance	PROPN	_	|	0	root	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0235
-# newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0057
-# text = http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html
-1	http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	PROPN	_	|	0	root	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0236
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0058
@@ -23942,11 +23640,6 @@
 11	than	than	ADP	_	_	_	_	_	_
 12	20,000	20000	NUM	_	NumForm=Digit|NumType=Card	8	nsubj	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0241
-# text = E@tG:
-1	E@tG	E@tG	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0242
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0061
@@ -24136,10 +23829,6 @@
 11	Bush	Bush	PROPN	_	Number=Sing	10	flat	_	_
 12	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0254
-# text = http://www.thetruthseeker.co.uk/article.asp?id=4503
-1	http://www.thetruthseeker.co.uk/article.asp?id=4503	http://www.thetruthseeker.co.uk/article.asp?id=4503	PROPN	_	|	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0255
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0064
 # text = I don't know if this has been verified.
@@ -24289,10 +23978,6 @@
 13	scandals	scandal	NOUN	_	Case=Gen|Number=Plur	11	nmod	_	_
 14	:	:	PUNCT	_	_	_	_	_	_
 
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0262
-# text = http://www.dailykos.com/story/2006/5/12/232746/857
-1	http://www.dailykos.com/story/2006/5/12/232746/857	http://www.dailykos.com/story/2006/5/12/232746/857	PROPN	_	|	0	root	_	_
-
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0263
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0066
 # text = =Executive Orders -
@@ -24337,12 +24022,6 @@
 8	13011	13011	NUM	_	NumForm=Digit|NumType=Card	7	nummod	_	_
 9	today	today	NOUN	_	Number=Sing	5	obl:unmarked	_	_
 10	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0268
-# newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0067
-# text = by exmearden
-1	by	by	ADP	_	_	_	_	_	_
-2	exmearden	exmearden	PROPN	_	Case=Chz|Number=Sing	0	root	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0269
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0068
@@ -24472,11 +24151,6 @@
 20	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	19	obj	_	_
 21	TroubleFunk	TroubleFunk	PROPN	_	Number=Sing	19	xcomp	_	_
 22	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0275
-# text = Tronicus:
-1	Tronicus	Tronicus	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0276
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0070
@@ -25020,11 +24694,6 @@
 39	particular	particular	ADJ	_	Degree=Pos	40	amod	_	_
 40	lifestyle	lifestyle	NOUN	_	Case=Ade;Atr|Number=Sing	36	nmod	_	_
 41	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0300
-# text = Peace.
-1	Peace	peace	NOUN	_	Number=Sing	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0301
 # newpar id = weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-p0073
@@ -31133,11 +30802,6 @@
 14	and	and	CCONJ	_	_	_	_	_	_
 15	Opportunity	opportunity	NOUN	_	Case=Conj|Number=Sing	8	conj	_	_
 
-# sent_id = weblog-blogspot.com_dakbangla_20050311135387_ENG_20050311_135387-0007
-# text = Homeland Security
-1	Homeland	homeland	NOUN	_	Number=Sing	2	compound	_	_
-2	Security	security	NOUN	_	Number=Sing	0	root	_	_
-
 # sent_id = weblog-blogspot.com_dakbangla_20050311135387_ENG_20050311_135387-0008
 # text = In early June 2003, a Central Intelligence Agency ("CIA") report publicly disclosed that the reason for Mohammed Atta's and Zacarias Moussaoui's inquiries into cropdusters was for the contemplated use in dispersing biological agents such as anthrax.
 1	In	in	ADP	_	_	_	_	_	_
@@ -37145,13 +36809,6 @@
 42	case	case	NOUN	_	Definite=Def|Mood=Ind|Number=Sing|Polarity=Pos|VerbForm=Inf	38	xcomp	_	_
 43	.	.	PUNCT	_	_	_	_	_	_
 
-# newdoc id = email-enronsent19_01
-# sent_id = email-enronsent19_01-0001
-# newpar id = email-enronsent19_01-p0001
-# text = Maureen,
-1	Maureen	Maureen	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent19_01-0002
 # newpar id = email-enronsent19_01-p0002
 # text = Andre is going to look over the list of curves needed for the global assets (August Board meeting) one more time before I forward it to you.
@@ -37314,35 +36971,6 @@
 9	today	today	NOUN	_	Number=Sing	3	obl:unmarked	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent19_01-0008
-# newpar id = email-enronsent19_01-p0004
-# text = India
-1	India	India	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent19_01-0009
-# text = Philippines
-1	Philippines	Philippines	PROPN	_	Number=Ptan	0	root	_	_
-
-# sent_id = email-enronsent19_01-0010
-# text = Bolivia
-1	Bolivia	Bolivia	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent19_01-0011
-# text = Jamaica
-1	Jamaica	Jamaica	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent19_01-0012
-# text = Guatemala
-1	Guatemala	Guatemala	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent19_01-0013
-# text = Venezuela
-1	Venezuela	Venezuela	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent19_01-0014
-# text = Columbia
-1	Columbia	Columbia	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent19_01-0015
 # text = Puerto Rico CPI only (I need historical inflation data, as well)
 1	Puerto	Puerto	PROPN	_	Number=Sing	0	root	_	_
@@ -37359,10 +36987,6 @@
 12	as	as	ADV	_	_	_	_	_	_
 13	well	well	ADV	_	_	_	_	_	_
 14	)	)	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent19_01-0016
-# text = Panama
-1	Panama	Panama	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent19_01-0017
 # text = Brazil we have current data already
@@ -37420,17 +37044,6 @@
 28	already	already	ADV	_	|	26	advmod	_	_
 29	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent19_01-0021
-# newpar id = email-enronsent19_01-p0005
-# text = Thanks!
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	!	!	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent19_01-0022
-# newpar id = email-enronsent19_01-p0006
-# text = Cindy
-1	Cindy	Cindy	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent19_01-0023
 # newpar id = email-enronsent19_01-p0007
 # text = David and Cindy,
@@ -37466,22 +37079,6 @@
 22	meeting	meeting	NOUN	_	Case=Ben|Definite=Def|Number=Sing	14	obl	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent19_01-0025
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent19_01-0026
-# newpar id = email-enronsent19_01-p0009
-# text = Maureen
-1	Maureen	Maureen	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent19_01-0027
-# newpar id = email-enronsent19_01-p0010
-# text = Philip,
-1	Philip	Philip	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent19_01-0028
 # newpar id = email-enronsent19_01-p0011
 # text = I have to decline the invitation with regrets.
@@ -37505,18 +37102,6 @@
 6	right	right	ADV	_	|	7	advmod	_	_
 7	now	now	ADV	_	PronType=Dem	2	advmod	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent19_01-0030
-# newpar id = email-enronsent19_01-p0012
-# text = Vince Kaminski
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-2	Kaminski	Kaminski	PROPN	_	Number=Sing	1	flat	_	_
-
-# sent_id = email-enronsent19_01-0031
-# newpar id = email-enronsent19_01-p0013
-# text = Dear Vince
-1	Dear	dear	ADJ	_	Degree=Pos	2	amod	_	_
-2	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent19_01-0032
 # newpar id = email-enronsent19_01-p0014
@@ -37657,11 +37242,6 @@
 2	regards	regards	NOUN	_	Number=Ptan	0	root	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent19_01-0037
-# newpar id = email-enronsent19_01-p0015
-# text = Philip
-1	Philip	Philip	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent19_01-0038
 # newpar id = email-enronsent19_01-p0016
 # text = Philip Annesley Conference Producer Risk Waters Group +44 20 7484 9866 +44 20 7484 9800 www.risk-conferences.com/risk2001aus
@@ -37720,16 +37300,6 @@
 8	ling	ling	ADV	_	|	9	advmod	_	_
 9	overdue	overdue	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 
-# sent_id = email-enronsent19_01-0041
-# newpar id = email-enronsent19_01-p0017
-# text = Paula
-1	Paula	Paula	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent19_01-0042
-# text = Paula,
-1	Paula	Paula	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent19_01-0043
 # newpar id = email-enronsent19_01-p0018
 # text = Thanks a lot.
@@ -37747,11 +37317,6 @@
 5	that	that	DET	_	_	_	_	_	_
 6	day	day	NOUN	_	Case=Ade;Atr|Number=Sing	3	obl	_	_
 7	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent19_01-0045
-# newpar id = email-enronsent19_01-p0019
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent19_01-0046
 # newpar id = email-enronsent19_01-p0020
@@ -37792,20 +37357,6 @@
 8	ling	ling	ADV	_	|	9	advmod	_	_
 9	overdue	overdue	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 
-# sent_id = email-enronsent19_01-0048
-# newpar id = email-enronsent19_01-p0021
-# text = Paula
-1	Paula	Paula	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent19_01-0049
-# text = FYI
-1	FYI	fyi	ADV	_	|	0	root	_	_
-
-# sent_id = email-enronsent19_01-0050
-# newpar id = email-enronsent19_01-p0022
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent19_01-0051
 # newpar id = email-enronsent19_01-p0023
 # text = Anne, Mike will call you regarding Sarah.
@@ -37818,12 +37369,6 @@
 7	regarding	regard	VERB	_	Tense=Pres|VerbForm=Part	8	case	_	_
 8	Sarah	Sarah	PROPN	_	Case=regard|Number=Sing	5	obl	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent19_01-0052
-# newpar id = email-enronsent19_01-p0024
-# text = Vince,
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent19_01-0053
 # newpar id = email-enronsent19_01-p0025
@@ -37973,22 +37518,6 @@
 2	advise	advise	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent19_01-0060
-# newpar id = email-enronsent19_01-p0026
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent19_01-0061
-# text = Anne
-1	Anne	Anne	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent19_01-0062
-# newpar id = email-enronsent19_01-p0027
-# text = Clayton,
-1	Clayton	Clayton	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent19_01-0063
 # newpar id = email-enronsent19_01-p0028
 # text = Thanks a lot.
@@ -38005,17 +37534,6 @@
 4	your	your	PRON	_	Case=Gen|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 5	help	help	NOUN	_	Number=Sing	2	obj	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent19_01-0065
-# newpar id = email-enronsent19_01-p0029
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent19_01-0066
-# newpar id = email-enronsent19_01-p0030
-# text = Vince-
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-2	-	-	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent19_01-0067
 # newpar id = email-enronsent19_01-p0031
@@ -38112,23 +37630,6 @@
 5	this	this	PRON	_	Case=The|Number=Sing|PronType=Dem	3	obl	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent19_01-0072
-# newpar id = email-enronsent19_01-p0033
-# text = Clayton
-1	Clayton	Clayton	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent19_01-0073
-# newpar id = email-enronsent19_01-p0034
-# text = Iris,
-1	Iris	Iris	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent19_01-0074
-# newpar id = email-enronsent19_01-p0035
-# text = Congratulations.
-1	Congratulations	congratulation	NOUN	_	Number=Plur	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent19_01-0075
 # newpar id = email-enronsent19_01-p0036
 # text = Anne, please, include this info in Iris' file
@@ -38144,17 +37645,6 @@
 9	Iris	Iris	PROPN	_	Case=Gen|Number=Sing	11	nmod:poss	_	_
 10	'	's	PART	_	_	_	_	_	_
 11	file	file	NOUN	_	Case=Ine|Number=Sing	5	obl	_	_
-
-# sent_id = email-enronsent19_01-0076
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-
-# newdoc id = email-enronsent00_01
-# sent_id = email-enronsent00_01-0001
-# newpar id = email-enronsent00_01-p0001
-# text = Michael:
-1	Michael	Michael	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent00_01-0002
 # text = Thanks for putting the paperwork together.
@@ -38294,16 +37784,6 @@
 32	listen	listen	VERB	_	Mood=Cnd|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
 33	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent00_01-0007
-# text = John
-1	John	John	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent00_01-0008
-# newpar id = email-enronsent00_01-p0003
-# text = John -
-1	John	John	PROPN	_	Number=Sing	0	root	_	_
-2	-	-	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent00_01-0009
 # newpar id = email-enronsent00_01-p0004
 # text = We'll get the paperwork together and sent to you for naked options.
@@ -38378,11 +37858,6 @@
 18	Cell	cell	NOUN	_	Number=Sing	1	list	_	_
 19	:	:	PUNCT	_	_	_	_	_	_
 20	281-435-0295	281-435-0295	NUM	_	NumForm=Digit|NumType=Card	18	appos	_	_
-
-# sent_id = email-enronsent00_01-0012
-# text = Michael:
-1	Michael	Michael	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent00_01-0013
 # text = Appreciate the idea.
@@ -38462,17 +37937,6 @@
 5	for	for	ADP	_	_	_	_	_	_
 6	me	I	PRON	_	Case=Ben|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent00_01-0020
-# text = John.
-1	John	John	PROPN	_	Number=Sing	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent00_01-0021
-# newpar id = email-enronsent00_01-p0005
-# text = John -
-1	John	John	PROPN	_	Number=Sing	0	root	_	_
-2	-	-	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent00_01-0022
 # newpar id = email-enronsent00_01-p0006
@@ -38890,16 +38354,6 @@
 5	think	think	VERB	_	Mood=Int|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent30_01-0007
-# text = John
-1	John	John	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent30_01-0008
-# newpar id = email-enronsent30_01-p0003
-# text = OK.
-1	OK	ok	INTJ	_	|	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent30_01-0009
 # text = I will have to move my weekly meeting to Tuesday.
 1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
@@ -39006,10 +38460,6 @@
 5	think	think	VERB	_	Mood=Int|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent30_01-0017
-# text = John
-1	John	John	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent30_01-0019
 # newpar id = email-enronsent30_01-p0008
 # text = Did you happen to sign your employment agreement?
@@ -39032,11 +38482,6 @@
 4	request	request	NOUN	_	Case=Dat;Sub|Number=Sing	2	obl	_	_
 5	below	below	ADV	_	_	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent30_01-0021
-# text = Thanks.
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent30_01-0022
 # text = John Lavorato has requested the attached report.
@@ -39081,11 +38526,6 @@
 8	any	any	DET	_	PronType=Ind	9	det	_	_
 9	questions	question	NOUN	_	Number=Plur	7	obj	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent30_01-0026
-# text = Thanks!
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	!	!	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent30_01-0028
 # text = This is pretty easy math for me.
@@ -39133,11 +38573,6 @@
 7	done	do	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	_	_
 8	ASAP	ASAP	ADV	_	Abbr=Yes	7	advmod	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent30_01-0031
-# text = Thanks.
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent30_01-0032
 # newpar id = email-enronsent30_01-p0012
@@ -39480,10 +38915,6 @@
 16	,	,	PUNCT	_	_	_	_	_	_
 17	Florida	Florida	PROPN	_	Number=Sing	15	appos	_	_
 
-# sent_id = email-enronsent30_01-0058
-# text = OVERVIEW
-1	OVERVIEW	overview	NOUN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent30_01-0059
 # newpar id = email-enronsent30_01-p0019
 # text = This conference will examine the business and regulatory challenges to U.S. electric systems in transition in effectively expanding transmission capacity to meet new demands in the larger and more competitive regional markets emerging under FERC 's RTO initiatives.
@@ -39702,17 +39133,6 @@
 9	969	969	NUM	_	Case=Ben|NumForm=Digit|NumType=Card	7	nmod	_	_
 10	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent09_01-0003
-# newpar id = email-enronsent09_01-p0002
-# text = Essie
-1	Essie	Essie	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent09_01-0004
-# newpar id = email-enronsent09_01-p0003
-# text = Sonya City
-1	Sonya	Sonya	PROPN	_	Number=Sing	0	root	_	_
-2	City	City	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent09_01-0005
 # text = 07/30/2001 05:17 PM
 1	07/30/2001	07/30/2001	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -39847,16 +39267,6 @@
 6	morning	morning	NOUN	_	Number=Sing	2	obl:unmarked	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent09_01-0018
-# newpar id = email-enronsent09_01-p0007
-# text = Regards,
-1	Regards	regards	NOUN	_	Number=Ptan	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent09_01-0019
-# text = Vicsandra
-1	Vicsandra	Vicsandra	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent09_01-0020
 # newpar id = email-enronsent09_01-p0008
 # text = If you have not already made these decisions, Essie's guidance should be helpful.
@@ -39900,17 +39310,6 @@
 7	below	below	ADV	_	_	_	_	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent09_01-0023
-# newpar id = email-enronsent09_01-p0010
-# text = Essie
-1	Essie	Essie	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent09_01-0024
-# newpar id = email-enronsent09_01-p0011
-# text = Essie,
-1	Essie	Essie	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent09_01-0025
 # newpar id = email-enronsent09_01-p0012
 # text = Can you recommend where these companies each fit within the new organization?
@@ -39947,17 +39346,6 @@
 15	through	through	ADP	_	_	_	_	_	_
 16	5	5	NUM	_	Case=Inx|NumForm=Digit|NumType=Card	14	nmod	_	_
 17	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent09_01-0027
-# newpar id = email-enronsent09_01-p0013
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent09_01-0028
-# newpar id = email-enronsent09_01-p0014
-# text = Patty
-1	Patty	Patty	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent09_01-0029
 # newpar id = email-enronsent09_01-p0015
@@ -40613,16 +40001,6 @@
 6	morning	morning	NOUN	_	Number=Sing	2	obl:unmarked	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent09_01-0074
-# newpar id = email-enronsent09_01-p0028
-# text = Regards,
-1	Regards	regards	NOUN	_	Number=Ptan	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent09_01-0075
-# text = Vicsandra
-1	Vicsandra	Vicsandra	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent09_01-0076
 # newpar id = email-enronsent09_01-p0029
 # text = If you have not already made these decisions, Essie's guidance should be helpful.
@@ -40666,17 +40044,6 @@
 7	below	below	ADV	_	_	_	_	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent09_01-0079
-# newpar id = email-enronsent09_01-p0031
-# text = Essie
-1	Essie	Essie	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent09_01-0080
-# newpar id = email-enronsent09_01-p0032
-# text = Essie,
-1	Essie	Essie	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent09_01-0081
 # newpar id = email-enronsent09_01-p0033
 # text = Can you recommend where these companies each fit within the new organization?
@@ -40713,30 +40080,6 @@
 15	through	through	ADP	_	_	_	_	_	_
 16	5	5	NUM	_	Case=Inx|NumForm=Digit|NumType=Card	14	nmod	_	_
 17	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent09_01-0083
-# newpar id = email-enronsent09_01-p0034
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent09_01-0084
-# newpar id = email-enronsent09_01-p0035
-# text = Patty
-1	Patty	Patty	PROPN	_	Number=Sing	0	root	_	_
-
-# newdoc id = email-enronsent27_01
-# sent_id = email-enronsent27_01-0001
-# newpar id = email-enronsent27_01-p0001
-# text = Virginia,
-1	Virginia	Virginia	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent27_01-0002
-# newpar id = email-enronsent27_01-p0002
-# text = Hello.
-1	Hello	hello	INTJ	_	|	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent27_01-0003
 # text = I was originally inquiring about purchasing a Cross or Signac impressionist lithograph.
@@ -40991,10 +40334,6 @@
 4	only	only	ADV	_	|	3	advmod	_	_
 5	)	)	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent27_01-0021
-# text = Lautrec
-1	Lautrec	Lautrec	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent27_01-0022
 # text = Suerat (any works on paper? -
 1	Suerat	Suerat	PROPN	_	Number=Sing	0	root	_	_
@@ -41018,38 +40357,6 @@
 7	did	do	VERB	_	Case=Atr|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
 8	any	any	DET	_	PronType=Ind	7	obj	_	_
 9	)	)	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent27_01-0025
-# text = Braque
-1	Braque	Braque	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent27_01-0026
-# text = Moore
-1	Moore	Moore	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent27_01-0027
-# text = Arp
-1	Arp	Arp	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent27_01-0028
-# text = Rouault
-1	Rouault	Rouault	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent27_01-0029
-# text = Modrian
-1	Modrian	Modrian	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent27_01-0030
-# text = Rothko
-1	Rothko	Rothko	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent27_01-0031
-# text = Kline
-1	Kline	Kline	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent27_01-0032
-# text = Motherwell
-1	Motherwell	Motherwell	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent27_01-0033
 # newpar id = email-enronsent27_01-p0004
@@ -41145,15 +40452,6 @@
 4	available	available	ADJ	_	Degree=Pos	3	amod	_	_
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent27_01-0038
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent27_01-0039
-# text = mike
-1	mike	mike	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent27_01-0040
 # text = Huskers drool over Sooners.
 1	Huskers	Huskers	PROPN	_	Number=Plur	2	nsubj	_	_
@@ -41210,19 +40508,11 @@
 8	down	down	ADP	_	_	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent27_01-0049
-# text = m
-1	m	m	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent27_01-0051
 # text = 01/19/2001 07:24 AM
 1	01/19/2001	01/19/2001	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	07:24	07:24	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	AM	a.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent27_01-0052
-# text = Mike
-1	Mike	Mike	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent27_01-0053
 # text = I see that we are scheduled to have lunch today.
@@ -41289,10 +40579,6 @@
 27	over	over	ADP	_	_	_	_	_	_
 28	lunch	lunch	NOUN	_	Case=Spx|Number=Sing	26	obl	_	_
 29	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent27_01-0057
-# text = Ken
-1	Ken	Ken	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent27_01-0058
 # text = PS Your brother told me he went to 3 bowl games (when I found out that two of them were the galleryfurniture.com bowl and that one in Shreveport (I can't remember the name of it)) I realized he is a very, very sick college football fan.
@@ -41399,10 +40685,6 @@
 13	down	down	ADV	_	_	_	_	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent27_01-0062
-# text = Mike
-1	Mike	Mike	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent27_01-0063
 # text = Mark, I thought you would enjoy the comment about you.
 1	Mark	Mark	PROPN	_	Number=Sing	4	vocative	_	_
@@ -41418,19 +40700,11 @@
 11	you	you	PRON	_	Case=The|Person=2|PronType=Prs	9	nmod	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent27_01-0064
-# text = m
-1	m	m	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent27_01-0066
 # text = 01/19/2001 07:24 AM
 1	01/19/2001	01/19/2001	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	07:24	07:24	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	AM	a.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent27_01-0067
-# text = Mike
-1	Mike	Mike	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent27_01-0068
 # text = I see that we are scheduled to have lunch today.
@@ -41497,10 +40771,6 @@
 27	over	over	ADP	_	_	_	_	_	_
 28	lunch	lunch	NOUN	_	Case=Spx|Number=Sing	26	obl	_	_
 29	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent27_01-0072
-# text = Ken
-1	Ken	Ken	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent27_01-0073
 # text = PS Your brother told me he went to 3 bowl games (when I found out that two of them were the galleryfurniture.com bowl and that one in Shreveport (I can't remember the name of it)) I realized he is a very, very sick college football fan.
@@ -42015,16 +41285,6 @@
 13	me	I	PRON	_	Case=Ben|Number=Sing|Person=1|PronType=Prs	9	obl	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent26_01-0030
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent26_01-0031
-# newpar id = email-enronsent26_01-p0007
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent26_01-0032
 # newpar id = email-enronsent26_01-p0008
 # text = Forget the ONE or more contract questions.
@@ -42220,16 +41480,6 @@
 13	me	I	PRON	_	Case=Ben|Number=Sing|Person=1|PronType=Prs	9	obl	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent26_01-0042
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent26_01-0043
-# newpar id = email-enronsent26_01-p0010
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent26_01-0044
 # newpar id = email-enronsent26_01-p0011
 # text = On the issue of the contracts, the draft says that the $170m is paid when the EPC contract is signed.
@@ -42281,16 +41531,6 @@
 19	are	be	AUX	_	_	_	_	_	_
 20	signed	sign	VERB	_	Case=Ess|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	13	advcl	_	_
 21	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent26_01-0046
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent26_01-0047
-# newpar id = email-enronsent26_01-p0012
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent26_01-0048
 # newpar id = email-enronsent26_01-p0013
@@ -42558,11 +41798,6 @@
 7	her	she	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
 8	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent08_02-0003
-# newpar id = email-enronsent08_02-p0002
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent08_02-0004
 # newpar id = email-enronsent08_02-p0003
 # text = That is some good stuff.
@@ -42596,10 +41831,6 @@
 6	few	few	ADJ	_	Degree=Pos	7	amod	_	_
 7	beers	beer	NOUN	_	Definite=Ind|Number=Plur	4	obj	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0007
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent08_02-0008
 # newpar id = email-enronsent08_02-p0004
@@ -42945,12 +42176,6 @@
 7	see	see	VERB	_	Case=Conj|Polarity=Pos|VerbForm=Inf|Voice=Act	5	conj	_	_
 8	:-)	:-)	SYM	_	|	3	discourse	_	_
 
-# sent_id = email-enronsent08_02-0027
-# newpar id = email-enronsent08_02-p0007
-# text = Done!
-1	Done	done	ADJ	_	Degree=Pos	0	root	_	_
-2	!	!	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent08_02-0028
 # newpar id = email-enronsent08_02-p0008
 # text = Expect a call from Paul tonight.
@@ -42961,10 +42186,6 @@
 5	Paul	Paul	PROPN	_	Case=Abl|Number=Sing	3	nmod	_	_
 6	tonight	tonight	NOUN	_	Number=Sing	1	obl:unmarked	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0029
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent08_02-0030
 # newpar id = email-enronsent08_02-p0009
@@ -42983,11 +42204,6 @@
 2	your	your	PRON	_	Case=Gen|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
 3	co-workers	co-worker	NOUN	_	Number=Plur	1	obj	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0032
-# newpar id = email-enronsent08_02-p0010
-# text = cd
-1	cd	cd	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent08_02-0033
 # newpar id = email-enronsent08_02-p0011
@@ -43067,10 +42283,6 @@
 19	formality	formality	NOUN	_	Case=Conj|Definite=Ind|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Fin	5	conj	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent08_02-0036
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent08_02-0037
 # newpar id = email-enronsent08_02-p0012
 # text = Is that Microwave that you gave Dan really expensive?
@@ -43110,10 +42322,6 @@
 20	new	new	ADJ	_	Degree=Pos	21	amod	_	_
 21	one	one	NOUN	_	Definite=Ind|Number=Sing	18	obj	_	_
 22	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0039
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent08_02-0040
 # newpar id = email-enronsent08_02-p0013
@@ -43160,16 +42368,6 @@
 22	do	do	VERB	_	Case=Disj;Atr|Mood=Int|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
 23	that	that	PRON	_	Number=Sing|PronType=Dem	22	obj	_	_
 24	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0043
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent08_02-0044
-# newpar id = email-enronsent08_02-p0014
-# text = Kathy,
-1	Kathy	Kathy	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent08_02-0045
 # newpar id = email-enronsent08_02-p0015
@@ -43219,16 +42417,6 @@
 26	)	)	PUNCT	_	_	_	_	_	_
 27	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent08_02-0047
-# text = Thanx,
-1	Thanx	thank	NOUN	_	Abbr=Yes|Number=Plur	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0048
-# newpar id = email-enronsent08_02-p0016
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent08_02-0049
 # newpar id = email-enronsent08_02-p0017
 # text = Just a reminder to send me a currency report.
@@ -43242,17 +42430,6 @@
 8	currency	currency	NOUN	_	Number=Sing	9	compound	_	_
 9	report	report	NOUN	_	Definite=Ind|Number=Sing	5	obj	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0050
-# newpar id = email-enronsent08_02-p0018
-# text = Thanx,
-1	Thanx	thank	NOUN	_	Abbr=Yes|Number=Plur	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0051
-# newpar id = email-enronsent08_02-p0019
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent08_02-0052
 # newpar id = email-enronsent08_02-p0020
@@ -43282,10 +42459,6 @@
 15	then	then	ADV	_	_	_	_	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent08_02-0054
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent08_02-0055
 # newpar id = email-enronsent08_02-p0021
 # text = You should reply ASAP.
@@ -43306,11 +42479,6 @@
 6	Co.	Co.	PROPN	_	Case=Conj|Number=Sing	4	conj	_	_
 7	wait	wait	VERB	_	VerbForm=Inf	3	xcomp	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0057
-# newpar id = email-enronsent08_02-p0022
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent08_02-0058
 # newpar id = email-enronsent08_02-p0023
@@ -43338,11 +42506,6 @@
 5	tommorow	tommorow	NOUN	_	Number=Sing	1	obl:unmarked	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent08_02-0060
-# newpar id = email-enronsent08_02-p0024
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent08_02-0061
 # newpar id = email-enronsent08_02-p0025
 # text = Will you please run a June NX3/NX1 for our book.
@@ -43359,11 +42522,6 @@
 11	our	our	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	_
 12	book	book	NOUN	_	Case=Ben|Number=Sing	4	obl	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0062
-# newpar id = email-enronsent08_02-p0026
-# text = Paul
-1	Paul	Paul	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent08_02-0063
 # text = How about meeting at 11:30 or 12?
@@ -43390,12 +42548,6 @@
 10	call	call	NOUN	_	Definite=Ind|Number=Sing	7	obj	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent08_02-0065
-# newpar id = email-enronsent08_02-p0027
-# text = CD 3-1663
-1	CD	CD	PROPN	_	Number=Sing	0	root	_	_
-2	3-1663	3-1663	NUM	_	NumForm=Digit|NumType=Card	1	list	_	_
-
 # sent_id = email-enronsent08_02-0066
 # newpar id = email-enronsent08_02-p0028
 # text = The deed is done.
@@ -43404,11 +42556,6 @@
 3	is	be	AUX	_	_	_	_	_	_
 4	done	done	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0067
-# newpar id = email-enronsent08_02-p0029
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent08_02-0068
 # newpar id = email-enronsent08_02-p0030
@@ -43479,16 +42626,6 @@
 17	)	)	PUNCT	_	_	_	_	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent08_02-0073
-# text = Cheers,
-1	Cheers	cheer	NOUN	_	Number=Plur	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0074
-# newpar id = email-enronsent08_02-p0032
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent08_02-0075
 # newpar id = email-enronsent08_02-p0033
 # text = I haven't had a chance to send it yet.
@@ -43527,11 +42664,6 @@
 17	to	to	ADP	_	_	_	_	_	_
 18	him	he	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0078
-# newpar id = email-enronsent08_02-p0034
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent08_02-0079
 # newpar id = email-enronsent08_02-p0035
@@ -43618,10 +42750,6 @@
 18	)	)	PUNCT	_	_	_	_	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent08_02-0086
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent08_02-0087
 # newpar id = email-enronsent08_02-p0038
 # text = See you there!
@@ -43629,11 +42757,6 @@
 2	you	you	PRON	_	Case=Acc|Person=2|PronType=Prs	1	obj	_	_
 3	there	there	ADV	_	PronType=Dem	1	advmod	_	_
 4	!	!	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0088
-# newpar id = email-enronsent08_02-p0039
-# text = CD
-1	CD	CD	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent08_02-0089
 # newpar id = email-enronsent08_02-p0040
@@ -43651,11 +42774,6 @@
 4	high	hi	INTJ	_	Typo=Yes	3	discourse	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent08_02-0091
-# newpar id = email-enronsent08_02-p0042
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent08_02-0092
 # newpar id = email-enronsent08_02-p0043
 # text = I will be able to attend.
@@ -43666,23 +42784,6 @@
 5	to	to	PART	_	_	_	_	_	_
 6	attend	attend	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	4	xcomp	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent08_02-0093
-# newpar id = email-enronsent08_02-p0044
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-
-# newdoc id = email-enronsent01_02
-# sent_id = email-enronsent01_02-0001
-# newpar id = email-enronsent01_02-p0001
-# text = Mike Jordan
-1	Mike	Mike	PROPN	_	Number=Sing	0	root	_	_
-2	Jordan	Jordan	PROPN	_	Number=Sing	1	flat	_	_
-
-# sent_id = email-enronsent01_02-0002
-# text = 26/09/2000 14:14
-1	26/09/2000	26/09/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
-2	14:14	14:14	NUM	_	NumForm=Digit|NumType=Card	1	nmod:unmarked	_	_
 
 # sent_id = email-enronsent01_02-0003
 # text = Fernley / Sally
@@ -43773,11 +42874,6 @@
 8	cover	cover	NOUN	_	Case=Disj|Number=Sing	6	conj	_	_
 9	note	note	NOUN	_	Case=Ade|Number=Sing	4	nmod	_	_
 10	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent01_02-0007
-# newpar id = email-enronsent01_02-p0002
-# text = Mike
-1	Mike	Mike	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent01_02-0008
 # newpar id = email-enronsent01_02-p0003
@@ -43905,11 +43001,6 @@
 12	Sunday	Sunday	PROPN	_	Case=Disj|Number=Sing	10	conj	_	_
 13	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent01_02-0015
-# text = Hi...
-1	Hi	hi	INTJ	_	|	0	root	_	_
-2	...	...	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent01_02-0017
 # text = She said a shower would be grand.
 1	She	she	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
@@ -43960,11 +43051,6 @@
 4	into	into	ADP	_	_	_	_	_	_
 5	Mother	mother	NOUN	_	Case=Ill|Number=Sing	3	obl	_	_
 6	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent01_02-0022
-# newpar id = email-enronsent01_02-p0005
-# text = Cindy
-1	Cindy	Cindy	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent01_02-0023
 # newpar id = email-enronsent01_02-p0006
@@ -44423,11 +43509,6 @@
 18	some	some	DET	_	PronType=Ind	16	obj	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent01_02-0044
-# text = --Sally
-1	--	--	PUNCT	_	_	_	_	_	_
-2	Sally	Sally	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent20_01-0002
 # text = 11/10/2000 01:04 PM
 1	11/10/2000	11/10/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -44523,14 +43604,6 @@
 15	goal	goal	NOUN	_	Number=Sing	13	obj	_	_
 16	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent20_01-0006
-# text = Regards
-1	Regards	regards	NOUN	_	Number=Ptan	0	root	_	_
-
-# sent_id = email-enronsent20_01-0007
-# text = Delainey
-1	Delainey	Delainey	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent20_01-0008
 # text = Don't worry about it ... sorry for putting you back on speaker.
 1-2	Don't	_	_	_	_	_	_	_	_
@@ -44622,11 +43695,6 @@
 8	good	good	ADJ	_	Degree=Pos	7	xcomp	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent20_01-0014
-# text = Jeff Dasovich
-1	Jeff	Jeff	PROPN	_	Number=Sing	0	root	_	_
-2	Dasovich	Dasovich	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent20_01-0015
 # text = Sent by: Jeff Dasovich
 1	Sent	send	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
@@ -44705,15 +43773,6 @@
 16	left	leave	VERB	_	Case=Tps|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent20_01-0021
-# text = Best,
-1	Best	good	ADJ	_	Degree=Sup	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent20_01-0022
-# text = Jeff
-1	Jeff	Jeff	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent20_01-0023
 # text = Does she have any interest in meeting one-on-one or is she just looking for a public hanging?
 1	Does	do	AUX	_	_	_	_	_	_
@@ -44762,11 +43821,6 @@
 19	their	their	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod:poss	_	_
 20	approach	approach	NOUN	_	Number=Sing	18	obj	_	_
 21	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent20_01-0025
-# text = Jeff Dasovich
-1	Jeff	Jeff	PROPN	_	Number=Sing	0	root	_	_
-2	Dasovich	Dasovich	PROPN	_	Number=Sing	1	flat	_	_
 
 # sent_id = email-enronsent20_01-0026
 # text = Sent by: Jeff Dasovich
@@ -44836,11 +43890,6 @@
 49	everybody	everybody	PRON	_	Case=Ben|Number=Sing|PronType=Tot	47	obl	_	_
 50	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent20_01-0029
-# text = Amen.
-1	Amen	amen	INTJ	_	|	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent20_01-0030
 # newpar id = email-enronsent20_01-p0002
 # text = See below.
@@ -44861,21 +43910,11 @@
 9	issues	issue	NOUN	_	Case=Ade|Definite=Def|Number=Plur	5	nmod	_	_
 10	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent20_01-0032
-# text = Erin Rice
-1	Erin	Erin	PROPN	_	Number=Sing	0	root	_	_
-2	Rice	Rice	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent20_01-0033
 # text = 11/10/2000 11:08 AM
 1	11/10/2000	11/10/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	11:08	11:08	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	AM	a.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent20_01-0034
-# text = Steve:
-1	Steve	Steve	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent20_01-0035
 # newpar id = email-enronsent20_01-p0003
@@ -45167,12 +44206,6 @@
 9	questions	question	NOUN	_	Number=Plur	7	obj	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent20_01-0049
-# newpar id = email-enronsent20_01-p0004
-# text = - er
-1	-	-	PUNCT	_	_	_	_	_	_
-2	er	er	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent20_01-0050
 # newpar id = email-enronsent20_01-p0005
 # text = Steven J Kean
@@ -45206,11 +44239,6 @@
 16	home	home	NOUN	_	Number=Sing	17	compound	_	_
 17	offices	office	NOUN	_	Number=Plur	15	obj	_	_
 18	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent20_01-0054
-# text = Courtney Votaw
-1	Courtney	Courtney	PROPN	_	Number=Sing	0	root	_	_
-2	Votaw	Votaw	PROPN	_	Number=Sing	1	flat	_	_
 
 # sent_id = email-enronsent20_01-0055
 # text = 11/08/2000 11:02 AM
@@ -45264,19 +44292,6 @@
 12	pretty	pretty	ADV	_	|	13	advmod	_	_
 13	significant	significant	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent20_01-0059
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent20_01-0060
-# text = Courtney
-1	Courtney	Courtney	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent20_01-0061
-# text = calendar
-1	calendar	calendar	NOUN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent20_01-0064
 # text = 11/10/2000 05:59 PM
@@ -45482,15 +44497,6 @@
 8	#	#	SYM	_	Number=Sing	3	obj	_	_
 9	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent42_01-0007
-# newpar id = email-enronsent42_01-p0005
-# text = Thanks
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent42_01-0008
-# text = Darla
-1	Darla	Darla	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent42_01-0009
 # newpar id = email-enronsent42_01-p0006
 # text = Ok to book for me and my husband, Joseph.
@@ -45641,15 +44647,6 @@
 8	#	#	SYM	_	Number=Sing	3	obj	_	_
 9	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent42_01-0019
-# newpar id = email-enronsent42_01-p0009
-# text = Thanks
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent42_01-0020
-# text = Darla
-1	Darla	Darla	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent42_01-0022
 # newpar id = email-enronsent42_01-p0011
 # text = Jane, on deal 763736 for May 01 sales to Southwest Gas, we have a pricing discrepancy.
@@ -45714,11 +44711,6 @@
 15	if	if	SCONJ	_	_	_	_	_	_
 16	necessary	necessary	ADJ	_	Case=Cnd|Degree=Pos	10	advcl	_	_
 17	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent42_01-0025
-# newpar id = email-enronsent42_01-p0012
-# text = Thanks
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent42_01-0026
 # newpar id = email-enronsent42_01-p0013
@@ -45819,10 +44811,6 @@
 3	great	great	ADJ	_	Degree=Pos	4	amod	_	_
 4	day	day	NOUN	_	Definite=Ind|Number=Sing	1	obj	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent42_01-0033
-# text = Nancy
-1	Nancy	Nancy	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent42_01-0034
 # newpar id = email-enronsent42_01-p0015
@@ -45942,11 +44930,6 @@
 16	necessary	necessary	ADJ	_	Case=Cnd|Degree=Pos	10	advcl	_	_
 17	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent42_01-0040
-# newpar id = email-enronsent42_01-p0016
-# text = Thanks
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent42_01-0041
 # newpar id = email-enronsent42_01-p0017
 # text = Laurie Ellis Enron Net Works LLC Client Services Phone: (713) 345-9945 Fax: (713) 646-8420 Email: laurie.ellis@enron.com
@@ -46047,10 +45030,6 @@
 4	day	day	NOUN	_	Definite=Ind|Number=Sing	1	obj	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent42_01-0048
-# text = Nancy
-1	Nancy	Nancy	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent42_01-0049
 # newpar id = email-enronsent42_01-p0019
 # text = - ENRON.XLS << File: ENRON.XLS >>
@@ -46125,11 +45104,6 @@
 14	Non-Bondad	non-Bondad	PROPN	_	Number=Sing	15	compound	_	_
 15	GDP	gdp	NOUN	_	Case=Sbs|Number=Sing	10	conj	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent42_01-0054
-# newpar id = email-enronsent42_01-p0021
-# text = Thanks
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent42_01-0055
 # newpar id = email-enronsent42_01-p0022
@@ -46255,11 +45229,6 @@
 16	necessary	necessary	ADJ	_	Case=Cnd|Degree=Pos	10	advcl	_	_
 17	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent42_01-0060
-# newpar id = email-enronsent42_01-p0023
-# text = Thanks
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent42_01-0061
 # newpar id = email-enronsent42_01-p0024
 # text = Laurie Ellis Enron Net Works LLC Client Services Phone: (713) 345-9945 Fax: (713) 646-8420 Email: laurie.ellis@enron.com
@@ -46359,10 +45328,6 @@
 3	great	great	ADJ	_	Degree=Pos	4	amod	_	_
 4	day	day	NOUN	_	Definite=Ind|Number=Sing	1	obj	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent42_01-0068
-# text = Nancy
-1	Nancy	Nancy	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent42_01-0069
 # newpar id = email-enronsent42_01-p0026
@@ -46710,12 +45675,6 @@
 7	now	now	ADV	_	PronType=Dem	6	advmod	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent12_01-0007
-# newpar id = email-enronsent12_01-p0004
-# text = Chris,
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent12_01-0008
 # text = I didn't remember if your email mentioned Judy.
 1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
@@ -46754,10 +45713,6 @@
 11	Pager	pager	NOUN	_	Number=Sing	2	list	_	_
 12	:	:	PUNCT	_	_	_	_	_	_
 13	1.888.509.3736	1.888.509.3736	NUM	_	NumForm=Digit|NumType=Card	11	appos	_	_
-
-# sent_id = email-enronsent12_01-0011
-# text = ******************************************************************
-1	******************************************************************	******************************************************************	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent12_01-0012
 # text = This email and any files transmitted with it from the ElPaso Corporation are confidential and intended solely for the use of the individual or entity to whom they are addressed.
@@ -46808,10 +45763,6 @@
 11	the	the	DET	_	_	_	_	_	_
 12	sender	sender	NOUN	_	Definite=Def|Number=Sing	10	iobj	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent12_01-0014
-# text = ******************************************************************
-1	******************************************************************	******************************************************************	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent12_01-0015
 # text = Jared, Ruth and I are going to go over all the Florida activity tomorrow morning.
@@ -47075,12 +46026,6 @@
 18	Gray	Gray	PROPN	_	Number=Sing	17	flat	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent12_01-0031
-# newpar id = email-enronsent12_01-p0011
-# text = Chris:
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent12_01-0032
 # text = Per our conversation a few minutes ago, attached please find the revised Stipulation.
 1	Per	per	ADP	_	_	_	_	_	_
@@ -47254,10 +46199,6 @@
 22	e-mail	e-mail	NOUN	_	Number=Sing	1	list	_	_
 23	:	:	PUNCT	_	_	_	_	_	_
 24	dmetcalfe@cullenanddykman.com	dmetcalfe@cullenanddykman.com	PROPN	_	|	22	appos	_	_
-
-# sent_id = email-enronsent12_01-0040
-# text = ____________________________________________________
-1	____________________________________________________	____________________________________________________	SYM	_	|	0	root	_	_
 
 # sent_id = email-enronsent12_01-0042
 # text = Any review, reliance or distribution by others or forwarding without express permission is strictly prohibited.
@@ -47638,16 +46579,6 @@
 4	03:13:58	03:13:58	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	_
 5	PM	p.m.	NOUN	_	Number=Sing	3	nmod:unmarked	_	_
 
-# sent_id = email-enronsent12_01-0067
-# text = Funny.
-1	Funny	funny	ADJ	_	Degree=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent12_01-0068
-# text = No.
-1	No	no	INTJ	_	Polarity=Neg	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent12_01-0069
 # text = I didn't feel guilty about the garage sale, that's why I was annoyed - being notified at 10:00 at night GRRRRRRR.
 1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
@@ -47712,13 +46643,6 @@
 15	twinkies	twinky	NOUN	_	Case=Conj|Definite=Def|Number=Plur	12	conj	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
 
-# newdoc id = email-enronsent17_01
-# sent_id = email-enronsent17_01-0001
-# newpar id = email-enronsent17_01-p0001
-# text = Correction,
-1	Correction	correction	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent17_01-0002
 # newpar id = email-enronsent17_01-p0002
 # text = Jack welch is the CEO of GE, not GM.
@@ -47733,12 +46657,6 @@
 9	not	not	PART	_	_	_	_	_	_
 10	GM	GM	PROPN	_	Mood=Ind|Number=Sing|Polarity=Neg|VerbForm=Fin	7	conj	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0003
-# newpar id = email-enronsent17_01-p0003
-# text = Vince Kaminski
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-2	Kaminski	Kaminski	PROPN	_	Number=Sing	1	flat	_	_
 
 # sent_id = email-enronsent17_01-0004
 # newpar id = email-enronsent17_01-p0004
@@ -48104,29 +47022,6 @@
 6	participation	participation	NOUN	_	Case=Ben|Number=Sing	1	obl	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent17_01-0027
-# newpar id = email-enronsent17_01-p0006
-# text = Dale,
-1	Dale	Dale	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0028
-# newpar id = email-enronsent17_01-p0007
-# text = Confirmed.
-1	Confirmed	confirm	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0029
-# newpar id = email-enronsent17_01-p0008
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent17_01-0030
-# newpar id = email-enronsent17_01-p0009
-# text = Vince:
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent17_01-0031
 # newpar id = email-enronsent17_01-p0010
 # text = 7am at Hyatt Regency Downtown would be perfect.
@@ -48160,15 +47055,6 @@
 1	Best	good	ADJ	_	Degree=Sup	2	amod	_	_
 2	regards	regards	NOUN	_	Number=Ptan	0	root	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0034
-# text = Dale
-1	Dale	Dale	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent17_01-0035
-# text = Dale,
-1	Dale	Dale	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent17_01-0036
 # newpar id = email-enronsent17_01-p0011
@@ -48216,16 +47102,6 @@
 10	Street	Street	PROPN	_	Number=Sing	7	appos	_	_
 11	)	)	PUNCT	_	_	_	_	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0039
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent17_01-0040
-# newpar id = email-enronsent17_01-p0012
-# text = Vince:
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent17_01-0041
 # newpar id = email-enronsent17_01-p0013
@@ -48310,16 +47186,6 @@
 13	me	I	PRON	_	Case=Com|Number=Sing|Person=1|PronType=Prs	11	obl	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent17_01-0046
-# text = Dale Nesbitt
-1	Dale	Dale	PROPN	_	Number=Sing	0	root	_	_
-2	Nesbitt	Nesbitt	PROPN	_	Number=Sing	1	flat	_	_
-
-# sent_id = email-enronsent17_01-0047
-# newpar id = email-enronsent17_01-p0014
-# text = FYI
-1	FYI	fyi	ADV	_	|	0	root	_	_
-
 # sent_id = email-enronsent17_01-0048
 # newpar id = email-enronsent17_01-p0015
 # text = Vince sold!
@@ -48336,12 +47202,6 @@
 4	the	the	DET	_	_	_	_	_	_
 5	call	call	NOUN	_	Definite=Def|Number=Sing	3	obj	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0050
-# newpar id = email-enronsent17_01-p0016
-# text = Ed,
-1	Ed	Ed	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent17_01-0051
 # newpar id = email-enronsent17_01-p0017
@@ -48360,10 +47220,6 @@
 4	my	my	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 5	time	time	NOUN	_	Number=Sing	3	nmod:unmarked	_	_
 6	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0053
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent17_01-0054
 # newpar id = email-enronsent17_01-p0018
@@ -48385,12 +47241,6 @@
 5	July	July	PROPN	_	Number=Sing	3	appos	_	_
 6	6	6	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	_
 7	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0056
-# newpar id = email-enronsent17_01-p0020
-# text = Ed,
-1	Ed	Ed	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent17_01-0057
 # newpar id = email-enronsent17_01-p0021
@@ -48419,11 +47269,6 @@
 16	July	July	PROPN	_	Number=Sing	14	appos	_	_
 17	7	7	NUM	_	NumForm=Digit|NumType=Card	16	nummod	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0060
-# newpar id = email-enronsent17_01-p0022
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent17_01-0061
 # newpar id = email-enronsent17_01-p0023
@@ -48457,17 +47302,6 @@
 15	phone	phone	NOUN	_	Case=Spx|Definite=Def|Number=Sing	11	obl	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent17_01-0063
-# text = OK?
-1	OK	ok	INTJ	_	|	0	root	_	_
-2	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0064
-# newpar id = email-enronsent17_01-p0025
-# text = Ed,
-1	Ed	Ed	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent17_01-0065
 # newpar id = email-enronsent17_01-p0026
 # text = Will you be in Houston on that day or we shall do it over the phone?
@@ -48489,11 +47323,6 @@
 16	phone	phone	NOUN	_	Case=Spx|Definite=Def|Number=Sing	12	obl	_	_
 17	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent17_01-0066
-# newpar id = email-enronsent17_01-p0027
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent17_01-0067
 # newpar id = email-enronsent17_01-p0028
 # text = Please respond to <ekrapels@esaibos.com>
@@ -48503,12 +47332,6 @@
 4	<	<	PUNCT	_	_	_	_	_	_
 5	ekrapels@esaibos.com	ekrapels@esaibos.com	PROPN	_	Case=Dat	2	obl	_	_
 6	>	>	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0068
-# newpar id = email-enronsent17_01-p0029
-# text = Vince,
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent17_01-0069
 # newpar id = email-enronsent17_01-p0030
@@ -48530,17 +47353,6 @@
 15	AM	a.m.	NOUN	_	Case=Loc|Number=Sing	7	nmod	_	_
 16	EDT	EDT	PROPN	_	Number=Sing	15	nmod:unmarked	_	_
 17	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0070
-# newpar id = email-enronsent17_01-p0031
-# text = Ed
-1	Ed	Ed	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent17_01-0071
-# newpar id = email-enronsent17_01-p0032
-# text = Ed,
-1	Ed	Ed	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent17_01-0072
 # newpar id = email-enronsent17_01-p0033
@@ -48573,11 +47385,6 @@
 5	it	it	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 6	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent17_01-0075
-# newpar id = email-enronsent17_01-p0034
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent17_01-0076
 # newpar id = email-enronsent17_01-p0035
 # text = Please respond to <ekrapels@esaibos.com>
@@ -48587,12 +47394,6 @@
 4	<	<	PUNCT	_	_	_	_	_	_
 5	ekrapels@esaibos.com	ekrapels@esaibos.com	PROPN	_	Case=Dat	2	obl	_	_
 6	>	>	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0077
-# newpar id = email-enronsent17_01-p0036
-# text = Vince,
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent17_01-0078
 # newpar id = email-enronsent17_01-p0037
@@ -48628,16 +47429,6 @@
 15	AM	a.m.	NOUN	_	Case=Loc|Number=Sing	7	nmod	_	_
 16	EDT	EDT	PROPN	_	Number=Sing	15	nmod:unmarked	_	_
 17	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0080
-# text = Ed
-1	Ed	Ed	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent17_01-0081
-# newpar id = email-enronsent17_01-p0038
-# text = Ed,
-1	Ed	Ed	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent17_01-0082
 # newpar id = email-enronsent17_01-p0039
@@ -48688,10 +47479,6 @@
 15	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent17_01-0085
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent17_01-0086
 # newpar id = email-enronsent17_01-p0041
 # text = Please respond to <ekrapels@esaibos.com>
@@ -48701,12 +47488,6 @@
 4	<	<	PUNCT	_	_	_	_	_	_
 5	ekrapels@esaibos.com	ekrapels@esaibos.com	PROPN	_	Case=Dat	2	obl	_	_
 6	>	>	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0087
-# newpar id = email-enronsent17_01-p0042
-# text = Vince,
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent17_01-0088
 # newpar id = email-enronsent17_01-p0043
@@ -49017,17 +47798,6 @@
 4	weekend	weekend	NOUN	_	Definite=Ind|Number=Sing	1	obj	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent17_01-0102
-# newpar id = email-enronsent17_01-p0044
-# text = Ed
-1	Ed	Ed	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent17_01-0103
-# newpar id = email-enronsent17_01-p0045
-# text = Ed,
-1	Ed	Ed	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent17_01-0104
 # newpar id = email-enronsent17_01-p0046
 # text = I shall be available on both days.
@@ -49081,11 +47851,6 @@
 7	you	you	PRON	_	Case=Acc|Person=2|PronType=Prs	6	obj	_	_
 8	again	again	ADV	_	|	6	advmod	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent17_01-0108
-# newpar id = email-enronsent17_01-p0047
-# text = Vince
-1	Vince	Vince	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent17_01-0109
 # newpar id = email-enronsent17_01-p0048
@@ -49267,19 +48032,6 @@
 22	us	we	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	16	obl	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent36_02-0013
-# text = Thanks
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent36_02-0014
-# text = Joe
-1	Joe	Joe	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent36_02-0015
-# text = Joe-
-1	Joe	Joe	PROPN	_	Number=Sing	0	root	_	_
-2	-	-	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent36_02-0016
 # text = a few things regading the POA/ Cargill line..
 1	a	a	DET	_	_	_	_	_	_
@@ -49412,21 +48164,6 @@
 15	yourselves	yourselves	PRON	_	Case=Conj|Number=Plur|Person=2|PronType=Prs|Reflex=Yes	13	conj	_	_
 16	...	...	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent36_02-0023
-# text = Regards,
-1	Regards	regards	NOUN	_	Number=Ptan	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent36_02-0024
-# text = Caroline
-1	Caroline	Caroline	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent36_02-0025
-# newpar id = email-enronsent36_02-p0003
-# text = Dee:
-1	Dee	Dee	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent36_02-0026
 # text = Let me know if we need to discuss anything.
 1	Let	let	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -49455,32 +48192,11 @@
 11	copies	copy	NOUN	_	Number=Plur	9	obj	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent36_02-0028
-# text = Regards.
-1	Regards	regards	NOUN	_	Number=Ptan	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent36_02-0029
-# newpar id = email-enronsent36_02-p0004
-# text = Sara Shackleton
-1	Sara	Sara	PROPN	_	Number=Sing	0	root	_	_
-2	Shackleton	Shackleton	PROPN	_	Number=Sing	1	flat	_	_
-
-# sent_id = email-enronsent36_02-0030
-# text = Susan Bailey
-1	Susan	Susan	PROPN	_	Number=Sing	0	root	_	_
-2	Bailey	Bailey	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent36_02-0031
 # text = 02/27/2001 08:23 AM
 1	02/27/2001	02/27/2001	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	08:23	08:23	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	AM	a.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent36_02-0032
-# text = Dee,
-1	Dee	Dee	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent36_02-0035
 # text = We look forward to your response.
@@ -49491,12 +48207,6 @@
 5	your	your	PRON	_	Case=Gen|Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
 6	response	response	NOUN	_	Case=Dat|Number=Sing	2	obl	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent36_02-0036
-# newpar id = email-enronsent36_02-p0006
-# text = Cordially,
-1	Cordially	cordially	ADV	_	|	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent36_02-0037
 # text = Susan S. Bailey
@@ -49517,12 +48227,6 @@
 7	these	this	DET	_	Number=Plur|PronType=Dem	8	det	_	_
 8	transactions	transaction	NOUN	_	Case=The|Number=Plur	5	nmod	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent36_02-0039
-# newpar id = email-enronsent36_02-p0008
-# text = Sara Shackleton
-1	Sara	Sara	PROPN	_	Number=Sing	2	compound	_	_
-2	Shackleton	Shackleton	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent36_02-0041
 # text = 03/01/2001 01:35 PM
@@ -49612,17 +48316,6 @@
 2	advise	advise	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent36_02-0047
-# newpar id = email-enronsent36_02-p0010
-# text = Regards,
-1	Regards	regards	NOUN	_	Number=Ptan	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent36_02-0048
-# newpar id = email-enronsent36_02-p0011
-# text = Jorge
-1	Jorge	Jorge	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent36_02-0049
 # newpar id = email-enronsent36_02-p0012
 # text = "Calculation of Floating Amount: The Floating Amount payable by [ENA] on a Payment Date will be calculated for that Payment Date as follows:
@@ -49677,11 +48370,6 @@
 17	38,000	38000	NUM	_	NumForm=Digit|NumType=Card	15	nummod	_	_
 18	?	?	PUNCT	_	_	_	_	_	_
 19	]	]	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent36_02-0051
-# text = Sara Shackleton
-1	Sara	Sara	PROPN	_	Number=Sing	0	root	_	_
-2	Shackleton	Shackleton	PROPN	_	Number=Sing	1	flat	_	_
 
 # sent_id = email-enronsent36_02-0052
 # newpar id = email-enronsent36_02-p0013
@@ -49743,16 +48431,6 @@
 55	]	]	PUNCT	_	_	_	_	_	_
 56	"	"	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent36_02-0053
-# text = Sara Shackleton
-1	Sara	Sara	PROPN	_	Number=Sing	0	root	_	_
-2	Shackleton	Shackleton	PROPN	_	Number=Sing	1	flat	_	_
-
-# sent_id = email-enronsent36_02-0054
-# text = Sara Shackleton
-1	Sara	Sara	PROPN	_	Number=Sing	0	root	_	_
-2	Shackleton	Shackleton	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent36_02-0055
 # text = 03/02/2001 02:10 PM
 1	03/02/2001	03/02/2001	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -49813,11 +48491,6 @@
 18	?	?	PUNCT	_	_	_	_	_	_
 19	]	]	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent36_02-0058
-# text = Sara Shackleton
-1	Sara	Sara	PROPN	_	Number=Sing	0	root	_	_
-2	Shackleton	Shackleton	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent36_02-0060
 # text = At some point in the not so distant future, the Houson and London credit departments need to speak in order that each understands the "philosophy" behind credit analysis for the omnibus and master transactions.
 1	At	at	ADP	_	_	_	_	_	_
@@ -49870,15 +48543,6 @@
 7	you	you	PRON	_	Case=Abl|Person=2|PronType=Prs	5	obl	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent36_02-0062
-# text = Regards.
-1	Regards	regards	NOUN	_	Number=Ptan	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent36_02-0063
-# text = Sara
-1	Sara	Sara	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent36_02-0064
 # text = ps Congrats on your promotion!
 1	ps	ps	NOUN	_	Number=Sing	0	root	_	_
@@ -49928,22 +48592,11 @@
 1	looks	look	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	fine	fine	ADJ	_	Degree=Pos	1	xcomp	_	_
 
-# sent_id = email-enronsent36_02-0068
-# newpar id = email-enronsent36_02-p0014
-# text = Sara Shackleton
-1	Sara	Sara	PROPN	_	Number=Sing	2	compound	_	_
-2	Shackleton	Shackleton	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent36_02-0070
 # text = 02/27/2001 06:07 PM
 1	02/27/2001	02/27/2001	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	06:07	06:07	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	PM	p.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent36_02-0071
-# text = Sara:
-1	Sara	Sara	PROPN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent36_02-0072
 # text = We need to change the Prod Description fro the LME Product.
@@ -50237,14 +48890,6 @@
 11	changes	change	NOUN	_	Number=Plur	9	obj	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent36_02-0083
-# text = Thanks
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent36_02-0084
-# text = Carlos
-1	Carlos	Carlos	PROPN	_	Number=Sing	0	root	_	_
-
 # newdoc id = email-enronsent25_01
 # sent_id = email-enronsent25_01-0001
 # newpar id = email-enronsent25_01-p0001
@@ -50270,17 +48915,6 @@
 18	through	through	ADP	_	_	_	_	_	_
 19	Enron	Enron	PROPN	_	Case=Inx|Number=Sing	14	obl	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0003
-# newpar id = email-enronsent25_01-p0002
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0004
-# newpar id = email-enronsent25_01-p0003
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent25_01-0005
 # newpar id = email-enronsent25_01-p0004
@@ -50328,11 +48962,6 @@
 11	48	48	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	_
 12	hours	hour	NOUN	_	Number=Plur	10	obl:unmarked	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0009
-# newpar id = email-enronsent25_01-p0005
-# text = Scott
-1	Scott	Scott	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent25_01-0010
 # newpar id = email-enronsent25_01-p0006
@@ -50421,11 +49050,6 @@
 5	expectations	expectation	NOUN	_	Number=Plur	3	obj	_	_
 6	accordingly	accordingly	ADV	_	|	3	advmod	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0015
-# newpar id = email-enronsent25_01-p0008
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent25_01-0016
 # newpar id = email-enronsent25_01-p0009
@@ -50610,12 +49234,6 @@
 1	Thank	thank	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	You	you	PRON	_	Case=Acc|Person=2|PronType=Prs	1	obj	_	_
 
-# sent_id = email-enronsent25_01-0025
-# newpar id = email-enronsent25_01-p0010
-# text = Kay Mann
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-2	Mann	Mann	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent25_01-0026
 # text = 03/15/2001 04:03 PM
 1	03/15/2001	03/15/2001	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -50695,11 +49313,6 @@
 5	expectations	expectation	NOUN	_	Number=Plur	3	obj	_	_
 6	accordingly	accordingly	ADV	_	|	3	advmod	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0031
-# newpar id = email-enronsent25_01-p0011
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent25_01-0032
 # newpar id = email-enronsent25_01-p0012
@@ -50832,11 +49445,6 @@
 2	you	you	PRON	_	Case=Acc|Person=2|PronType=Prs	1	obj	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent25_01-0045
-# text = Lorie Leigh
-1	Lorie	Lorie	PROPN	_	Number=Sing	0	root	_	_
-2	Leigh	Leigh	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent25_01-0046
 # newpar id = email-enronsent25_01-p0014
 # text = Yes, but this time it is his carotid artery - the one that transports blood to the brain.
@@ -50903,26 +49511,11 @@
 15	)	)	PUNCT	_	_	_	_	_	_
 16	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent25_01-0050
-# text = Kathleen
-1	Kathleen	Kathleen	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent25_01-0051
-# newpar id = email-enronsent25_01-p0016
-# text = Kay Mann
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-2	Mann	Mann	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent25_01-0052
 # text = 03/15/2001 04:11 PM
 1	03/15/2001	03/15/2001	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	04:11	04:11	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	PM	p.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent25_01-0053
-# text = Kay Mann
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-2	Mann	Mann	PROPN	_	Number=Sing	1	flat	_	_
 
 # sent_id = email-enronsent25_01-0054
 # text = 03/15/2001 04:03 PM
@@ -51004,11 +49597,6 @@
 6	accordingly	accordingly	ADV	_	|	3	advmod	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent25_01-0059
-# newpar id = email-enronsent25_01-p0017
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent25_01-0060
 # newpar id = email-enronsent25_01-p0018
 # text = For better or worse, all the folks under the heading "Origination" and "Development" are ours, although Kathleen has a special role with Development.
@@ -51043,10 +49631,6 @@
 29	Development	development	NOUN	_	Case=Com|Number=Sing	27	nmod	_	_
 30	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent25_01-0061
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent25_01-0062
 # newpar id = email-enronsent25_01-p0019
 # text = FYI - See rows 49-53; columns E-J for our group.
@@ -51066,11 +49650,6 @@
 14	our	our	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	_
 15	group	group	NOUN	_	Case=Ben|Number=Sing	3	obl	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0063
-# newpar id = email-enronsent25_01-p0020
-# text = Kathleen
-1	Kathleen	Kathleen	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent25_01-0065
 # text = 03/15/2001 04:44 PM
@@ -51133,16 +49712,6 @@
 9	in	in	ADP	_	_	_	_	_	_
 10	red	red	ADJ	_	Case=Ine|Degree=Pos|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0069
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0070
-# text = Paula.
-1	Paula	Paula	PROPN	_	Number=Sing	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent25_01-0071
 # newpar id = email-enronsent25_01-p0021
@@ -51234,16 +49803,6 @@
 31	Kitchen	Kitchen	PROPN	_	Number=Sing	30	flat	_	_
 32	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent25_01-0075
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0076
-# text = Paula.
-1	Paula	Paula	PROPN	_	Number=Sing	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent25_01-0077
 # newpar id = email-enronsent25_01-p0022
 # text = Here's the version showing revisions.
@@ -51255,11 +49814,6 @@
 5	showing	show	VERB	_	Polarity=Pos|VerbForm=Ger|Voice=Act	4	acl	_	_
 6	revisions	revision	NOUN	_	Number=Plur	5	obj	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0078
-# text = Kay--
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-2	--	--	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent25_01-0079
 # text = I finally got it to blackline correctly.
@@ -51295,16 +49849,6 @@
 12	versions	version	NOUN	_	Number=Plur	7	appos	_	_
 13	)	)	PUNCT	_	_	_	_	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0082
-# text = - redvepco.doc
-1	-	-	PUNCT	_	_	_	_	_	_
-2	redvepco.doc	redvepco.doc	NOUN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent25_01-0083
-# text = - SAMPLE.DOC
-1	-	-	PUNCT	_	_	_	_	_	_
-2	SAMPLE.DOC	sample.doc	NOUN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent25_01-0085
 # text = 03/15/2001 04:17 PM
@@ -51416,11 +49960,6 @@
 2	Leigh	Leigh	PROPN	_	Number=Sing	1	flat	_	_
 3	46093	46093	NUM	_	NumForm=Digit|NumType=Card	1	list	_	_
 
-# sent_id = email-enronsent25_01-0096
-# text = Kay Mann
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-2	Mann	Mann	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent25_01-0097
 # text = 02/13/2001 04:13 PM
 1	02/13/2001	02/13/2001	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -51465,17 +50004,6 @@
 6	you	you	PRON	_	Case=Acc|Person=2|PronType=Prs	5	obj	_	_
 7	soon	soon	ADV	_	Degree=Pos	5	advmod	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0101
-# newpar id = email-enronsent25_01-p0026
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0102
-# newpar id = email-enronsent25_01-p0027
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent25_01-0103
 # text = Peggy Banczak is the ENA lawyer who handles Mexico.
@@ -51635,11 +50163,6 @@
 15	your	your	PRON	_	Case=Gen|Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
 16	response	response	NOUN	_	Case=Ade|Number=Sing	11	obl	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent25_01-0112
-# newpar id = email-enronsent25_01-p0030
-# text = JWVS
-1	JWVS	JWVS	PROPN	_	Number=Sing	0	root	_	_
 
 # newdoc id = email-enronsent22_01
 # sent_id = email-enronsent22_01-0001
@@ -52071,11 +50594,6 @@
 4	Executive	executive	ADJ	_	Degree=Pos	5	amod	_	_
 5	Secretary	secretary	NOUN	_	Number=Sing	1	appos	_	_
 
-# sent_id = email-enronsent22_01-0027
-# text = Hi -
-1	Hi	hi	INTJ	_	|	0	root	_	_
-2	-	-	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent22_01-0028
 # newpar id = email-enronsent22_01-p0006
 # text = Just to let you know that it looks like one day will work.
@@ -52106,16 +50624,6 @@
 8	before	before	SCONJ	_	_	_	_	_	_
 9	confirming	confirm	VERB	_	Case=Tan|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent22_01-0030
-# text = Thanks.
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent22_01-0031
-# newpar id = email-enronsent22_01-p0007
-# text = Rosalee
-1	Rosalee	Rosalee	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent22_01-0032
 # newpar id = email-enronsent22_01-p0008
@@ -52352,11 +50860,6 @@
 2	thanks	thanks	NOUN	_	Number=Ptan	0	root	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent22_01-0043
-# text = Jeff Garten
-1	Jeff	Jeff	PROPN	_	Number=Sing	0	root	_	_
-2	Garten	Garten	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent22_01-0044
 # newpar id = email-enronsent22_01-p0012
 # text = Good morning, Kitty -
@@ -52434,11 +50937,6 @@
 3	Kitty	Kitty	PROPN	_	Number=Sing	1	vocative	_	_
 4	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent22_01-0049
-# newpar id = email-enronsent22_01-p0014
-# text = Rosalee
-1	Rosalee	Rosalee	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent22_01-0050
 # newpar id = email-enronsent22_01-p0015
 # text = Here is the link to the latest commercial laptops on the market, I will follow up with the consumer models.
@@ -52486,10 +50984,6 @@
 17	heavier	heavy	ADJ	_	Case=Advs|Degree=Cmp	12	conj	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent22_01-0052
-# text = http://www.compaq.com/products/notebooks/index.html
-1	http://www.compaq.com/products/notebooks/index.html	http://www.compaq.com/products/notebooks/index.html	PROPN	_	|	0	root	_	_
-
 # sent_id = email-enronsent22_01-0055
 # newpar id = email-enronsent22_01-p0017
 # text = Unfortunately, Mr. Lay will be in San Jose, CA participating in a conference, where he is a speaker, on June 14.
@@ -52519,11 +51013,6 @@
 24	June	June	PROPN	_	Case=Ade|Number=Sing	21	obl	_	_
 25	14	14	NUM	_	NumForm=Digit|NumType=Card	24	nummod	_	_
 26	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent22_01-0056
-# text = Rosalee Fleming
-1	Rosalee	Rosalee	PROPN	_	Number=Sing	0	root	_	_
-2	Fleming	Fleming	PROPN	_	Number=Sing	1	flat	_	_
 
 # sent_id = email-enronsent22_01-0057
 # newpar id = email-enronsent22_01-p0018
@@ -52684,21 +51173,12 @@
 12	14th	14th	NOUN	_	Case=Ade|Definite=Def|NumForm=Combi|NumType=Ord|Number=Sing	7	obl	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent22_01-0065
-# text = Kent Grusendorf
-1	Kent	Kent	PROPN	_	Number=Sing	0	root	_	_
-2	Grusendorf	Grusendorf	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent22_01-0066
 # text = State Representative District 94
 1	State	State	PROPN	_	Number=Sing	2	compound	_	_
 2	Representative	Representative	PROPN	_	Number=Sing	0	root	_	_
 3	District	District	PROPN	_	Number=Sing	2	compound	_	_
 4	94	94	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
-
-# sent_id = email-enronsent22_01-0067
-# text = ?
-1	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent22_01-0068
 # text = This is o.k. for Ken Lay, but we are changing to a more uniform address, so would likely be better to use kenneth.lay@enron.com.
@@ -52798,10 +51278,6 @@
 6	Richard	Richard	PROPN	_	Case=Dat|Number=Sing	4	nmod	_	_
 7	Everett	Everett	PROPN	_	Number=Sing	6	flat	_	_
 8	713/871-5119	713/871-5119	NUM	_	NumForm=Digit|NumType=Card	1	list	_	_
-
-# sent_id = email-enronsent22_01-0073
-# text = ===================================================
-1	===================================================	===================================================	SYM	_	|	0	root	_	_
 
 # sent_id = email-enronsent22_01-0074
 # text = NOTE: The information in this email is confidential and may be legally privileged.
@@ -52917,10 +51393,6 @@
 70	use	use	NOUN	_	Case=Abl|Number=Sing	64	obl	_	_
 71	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent22_01-0077
-# text = ====================================================
-1	====================================================	====================================================	SYM	_	|	0	root	_	_
-
 # sent_id = email-enronsent22_01-0078
 # newpar id = email-enronsent22_01-p0020
 # text = Kenneth Lay has approved the attached expense report for Cindy Olson.
@@ -52977,16 +51449,6 @@
 26	,	,	PUNCT	_	_	_	_	_	_
 27	either	either	ADV	_	_	_	_	_	_
 28	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent22_01-0081
-# text = Sorry.
-1	Sorry	sorry	ADJ	_	Degree=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent22_01-0082
-# newpar id = email-enronsent22_01-p0023
-# text = Rosalee
-1	Rosalee	Rosalee	PROPN	_	Number=Sing	0	root	_	_
 
 # newdoc id = email-enronsent11_01
 # sent_id = email-enronsent11_01-0001
@@ -53090,22 +51552,6 @@
 5	the	the	DET	_	_	_	_	_	_
 6	spreadsheet	spreadsheet	NOUN	_	Definite=Def|Number=Sing	4	obj	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent11_01-0007
-# newpar id = email-enronsent11_01-p0004
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent11_01-0008
-# text = Brenda
-1	Brenda	Brenda	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent11_01-0009
-# newpar id = email-enronsent11_01-p0005
-# text = Pasquallie,
-1	Pasquallie	Pasquallie	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent11_01-0010
 # newpar id = email-enronsent11_01-p0006
@@ -53722,11 +52168,6 @@
 10	you	you	PRON	_	Case=Abl|Person=2|PronType=Prs	8	obl	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent11_01-0054
-# text = Jgerma5@aol.com.
-1	Jgerma5@aol.com	Jgerma5@aol.com	PROPN	_	|	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent11_01-0055
 # newpar id = email-enronsent11_01-p0008
 # text = At any rate, be careful and be safe.
@@ -53849,22 +52290,6 @@
 3	Powder	powder	NOUN	_	Number=Sing	1	obj	_	_
 4	Dry	dry	ADJ	_	Degree=Pos	1	xcomp	_	_
 5	!	!	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent11_01-0067
-# newpar id = email-enronsent11_01-p0010
-# text = Yo,
-1	Yo	yo	INTJ	_	|	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent11_01-0068
-# newpar id = email-enronsent11_01-p0011
-# text = Bro
-1	Bro	bro	NOUN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent11_01-0069
-# newpar id = email-enronsent11_01-p0012
-# text = Dow
-1	Dow	Dow	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent11_01-0070
 # text = W. Don Germany, Jr. 2301 N Brazosport Blvd B 3611, Investment Recovery Freeport, Texas 77541 Pager 1 800 451 0491 (0448) Office 979 238 2102 Home 979 548 7034
@@ -54162,15 +52587,6 @@
 16	invoiced	invoice	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Pass	12	acl:relcl	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent11_01-0090
-# newpar id = email-enronsent11_01-p0017
-# text = Thanks
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent11_01-0091
-# text = Darla
-1	Darla	Darla	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent11_01-0092
 # newpar id = email-enronsent11_01-p0018
 # text = I can't get through on the phones.
@@ -54280,17 +52696,6 @@
 4	out	out	ADP	_	_	_	_	_	_
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent11_01-0102
-# newpar id = email-enronsent11_01-p0023
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent11_01-0103
-# text = Ernie Simien
-1	Ernie	Ernie	PROPN	_	Number=Sing	0	root	_	_
-2	Simien	Simien	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent11_01-0104
 # text = 08/01/2001 09:14 AM
 1	08/01/2001	08/01/2001	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -54336,12 +52741,6 @@
 10	July	July	PROPN	_	Case=Conj|Number=Sing	5	conj	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent11_01-0109
-# newpar id = email-enronsent11_01-p0026
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent11_01-0110
 # text = Mary.Ellenberger@enron.com on 05/03/2001 04:06:52 PM
 1	Mary.Ellenberger@enron.com	Mary.Ellenberger@enron.com	PROPN	_	|	0	root	_	_
@@ -54357,12 +52756,6 @@
 2	respond	respond	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
 3	to	to	ADP	_	_	_	_	_	_
 4	Mary.Ellenberger@enron.com	Mary.Ellenberger@enron.com	PROPN	_	Case=Dat	2	obl	_	_
-
-# sent_id = email-enronsent11_01-0112
-# newpar id = email-enronsent11_01-p0028
-# text = cc:
-1	cc	cc	NOUN	_	Number=Sing	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent11_01-0113
 # newpar id = email-enronsent11_01-p0029
@@ -54428,28 +52821,11 @@
 20	2001	2001	NUM	_	NumForm=Digit|NumType=Card	13	nmod:unmarked	_	_
 21	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent11_01-0118
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# newdoc id = email-enronsent24_01
-# sent_id = email-enronsent24_01-0001
-# newpar id = email-enronsent24_01-p0001
-# text = Gregg Penman
-1	Gregg	Gregg	PROPN	_	Number=Sing	0	root	_	_
-2	Penman	Penman	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent24_01-0002
 # text = 10/23/2000 12:12 PM
 1	10/23/2000	10/23/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	12:12	12:12	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	PM	p.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent24_01-0003
-# text = Kay -
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-2	-	-	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent24_01-0004
 # text = Can you please review this additional language to the risk management policy ( or circulate to Jeff Hodge)?
@@ -54539,21 +52915,6 @@
 5	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	_
 6	think	think	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0008
-# newpar id = email-enronsent24_01-p0002
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0009
-# newpar id = email-enronsent24_01-p0003
-# text = Gregg
-1	Gregg	Gregg	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent24_01-0010
-# text = m.nordstrom@pecorp.com
-1	m.nordstrom@pecorp.com	m.nordstrom@pecorp.com	PROPN	_	|	0	root	_	_
 
 # sent_id = email-enronsent24_01-0011
 # text = 10/20/2000 11:32 AM
@@ -54658,10 +53019,6 @@
 4	prefer	prefer	VERB	_	Mood=Int|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent24_01-0021
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent24_01-0022
 # newpar id = email-enronsent24_01-p0006
 # text = Are you in the office to initial signature pages today?
@@ -54688,17 +53045,6 @@
 7	Portland	Portland	PROPN	_	Case=Atr;Ine|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent24_01-0025
-# newpar id = email-enronsent24_01-p0007
-# text = Gregg
-1	Gregg	Gregg	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent24_01-0026
-# newpar id = email-enronsent24_01-p0008
-# text = Kay Mann
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-2	Mann	Mann	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent24_01-0027
 # text = 10/26/2000 11:07 AM
 1	10/26/2000	10/26/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -54717,17 +53063,6 @@
 7	'm	be	AUX	_	_	_	_	_	_
 8	happy	happy	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0029
-# newpar id = email-enronsent24_01-p0009
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent24_01-0030
-# newpar id = email-enronsent24_01-p0010
-# text = Hello -
-1	Hello	hello	INTJ	_	|	0	root	_	_
-2	-	-	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent24_01-0031
 # text = I spoke with Jeff Hodge yesterday regarding the additional language from Peoples regarding Audit Rights.
@@ -54863,32 +53198,11 @@
 7	this	this	PRON	_	Case=Dat|Number=Sing|PronType=Dem	5	nmod	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent24_01-0041
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0042
-# newpar id = email-enronsent24_01-p0011
-# text = Gregg
-1	Gregg	Gregg	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent24_01-0043
-# newpar id = email-enronsent24_01-p0012
-# text = Gregg Penman
-1	Gregg	Gregg	PROPN	_	Number=Sing	0	root	_	_
-2	Penman	Penman	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent24_01-0044
 # text = 10/23/2000 12:12 PM
 1	10/23/2000	10/23/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	12:12	12:12	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	PM	p.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent24_01-0045
-# text = Kay -
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-2	-	-	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent24_01-0046
 # text = Can you please review this additional language to the risk management policy ( or circulate to Jeff Hodge)?
@@ -54979,21 +53293,6 @@
 6	think	think	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent24_01-0050
-# newpar id = email-enronsent24_01-p0013
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0051
-# newpar id = email-enronsent24_01-p0014
-# text = Gregg
-1	Gregg	Gregg	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent24_01-0052
-# text = m.nordstrom@pecorp.com
-1	m.nordstrom@pecorp.com	m.nordstrom@pecorp.com	PROPN	_	|	0	root	_	_
-
 # sent_id = email-enronsent24_01-0053
 # text = 10/20/2000 11:32 AM
 1	10/20/2000	10/20/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -55031,10 +53330,6 @@
 15	Audit	audit	NOUN	_	Number=Sing	16	compound	_	_
 16	Rights	right	NOUN	_	Case=concern|Number=Sing	11	nmod	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0056
-# text = Mary
-1	Mary	Mary	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent24_01-0059
 # newpar id = email-enronsent24_01-p0016
@@ -55119,16 +53414,6 @@
 8	form	form	NOUN	_	Definite=Def|Mood=Int|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent24_01-0065
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0066
-# newpar id = email-enronsent24_01-p0017
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent24_01-0067
 # text = Since it will be Janet signing, it will probably be better to have the initials on the pages first.
 1	Since	since	SCONJ	_	_	_	_	_	_
@@ -55177,16 +53462,6 @@
 9	can	can	AUX	_	_	_	_	_	_
 10	coordinate	coordinate	VERB	_	Case=Conj|Mood=Pot|Polarity=Pos|VerbForm=Fin|Voice=Act	1	conj	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0070
-# text = Gregg
-1	Gregg	Gregg	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent24_01-0071
-# newpar id = email-enronsent24_01-p0018
-# text = Kay Mann
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-2	Mann	Mann	PROPN	_	Number=Sing	1	flat	_	_
 
 # sent_id = email-enronsent24_01-0072
 # text = 10/26/2000 11:26 AM
@@ -55259,10 +53534,6 @@
 4	prefer	prefer	VERB	_	Mood=Int|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent24_01-0078
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent24_01-0079
 # text = Are you in the office to initial signature pages today?
 1	Are	be	AUX	_	_	_	_	_	_
@@ -55288,17 +53559,6 @@
 7	Portland	Portland	PROPN	_	Case=Atr;Ine|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent24_01-0082
-# newpar id = email-enronsent24_01-p0019
-# text = Gregg
-1	Gregg	Gregg	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent24_01-0083
-# newpar id = email-enronsent24_01-p0020
-# text = Kay Mann
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-2	Mann	Mann	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent24_01-0084
 # text = 10/26/2000 11:07 AM
 1	10/26/2000	10/26/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -55317,17 +53577,6 @@
 7	'm	be	AUX	_	_	_	_	_	_
 8	happy	happy	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0086
-# newpar id = email-enronsent24_01-p0021
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent24_01-0087
-# newpar id = email-enronsent24_01-p0022
-# text = Hello -
-1	Hello	hello	INTJ	_	|	0	root	_	_
-2	-	-	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent24_01-0088
 # text = I spoke with Jeff Hodge yesterday regarding the additional language from Peoples regarding Audit Rights.
@@ -55463,32 +53712,11 @@
 7	this	this	PRON	_	Case=Dat|Number=Sing|PronType=Dem	5	nmod	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent24_01-0098
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0099
-# newpar id = email-enronsent24_01-p0023
-# text = Gregg
-1	Gregg	Gregg	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent24_01-0100
-# newpar id = email-enronsent24_01-p0024
-# text = Gregg Penman
-1	Gregg	Gregg	PROPN	_	Number=Sing	0	root	_	_
-2	Penman	Penman	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent24_01-0101
 # text = 10/23/2000 12:12 PM
 1	10/23/2000	10/23/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	12:12	12:12	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	PM	p.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent24_01-0102
-# text = Kay -
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
-2	-	-	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent24_01-0103
 # text = Can you please review this additional language to the risk management policy ( or circulate to Jeff Hodge)?
@@ -55579,21 +53807,6 @@
 6	think	think	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent24_01-0107
-# newpar id = email-enronsent24_01-p0025
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0108
-# newpar id = email-enronsent24_01-p0026
-# text = Gregg
-1	Gregg	Gregg	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent24_01-0109
-# text = m.nordstrom@pecorp.com
-1	m.nordstrom@pecorp.com	m.nordstrom@pecorp.com	PROPN	_	|	0	root	_	_
-
 # sent_id = email-enronsent24_01-0110
 # text = 10/20/2000 11:32 AM
 1	10/20/2000	10/20/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -55631,10 +53844,6 @@
 15	Audit	audit	NOUN	_	Number=Sing	16	compound	_	_
 16	Rights	right	NOUN	_	Case=concern|Number=Plur	11	nmod	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0113
-# text = Mary
-1	Mary	Mary	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent24_01-0116
 # newpar id = email-enronsent24_01-p0028
@@ -55701,11 +53910,6 @@
 2	that	that	PRON	_	Number=Sing|PronType=Dem	3	nsubj	_	_
 3	work	work	VERB	_	Mood=Int|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent24_01-0121
-# newpar id = email-enronsent24_01-p0029
-# text = Kay
-1	Kay	Kay	PROPN	_	Number=Sing	0	root	_	_
 
 # newdoc id = email-enronsent15_01
 # sent_id = email-enronsent15_01-0001
@@ -56165,21 +54369,11 @@
 3	touch	touch	NOUN	_	Case=Ine|Number=Sing	1	obl	_	_
 4	!	!	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent15_01-0026
-# newpar id = email-enronsent15_01-p0004
-# text = Kyle.Jones@radianz.com
-1	Kyle.Jones@radianz.com	Kyle.Jones@radianz.com	PROPN	_	|	0	root	_	_
-
 # sent_id = email-enronsent15_01-0027
 # text = 11/29/2000 05:07 PM
 1	11/29/2000	11/29/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	05:07	05:07	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	PM	p.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent15_01-0028
-# text = Tana,
-1	Tana	Tana	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent15_01-0029
 # newpar id = email-enronsent15_01-p0005
@@ -56417,15 +54611,6 @@
 2	ya	you	PRON	_	Case=Acc|Person=2|PronType=Prs|Style=Coll	1	obj	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent15_01-0040
-# newpar id = email-enronsent15_01-p0011
-# text = Kyle
-1	Kyle	Kyle	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent15_01-0041
-# text = ====================================================
-1	====================================================	====================================================	SYM	_	|	0	root	_	_
-
 # sent_id = email-enronsent15_01-0042
 # text = (Harrison) Kyle Jones Technical Solutions Engineer
 1	(	(	PUNCT	_	_	_	_	_	_
@@ -56436,10 +54621,6 @@
 6	Technical	technical	ADJ	_	Degree=Pos	7	amod	_	_
 7	Solutions	solution	NOUN	_	Number=Plur	8	compound	_	_
 8	Engineer	engineer	NOUN	_	Number=Sing	2	appos	_	_
-
-# sent_id = email-enronsent15_01-0043
-# text = ====================================================
-1	====================================================	====================================================	SYM	_	|	0	root	_	_
 
 # sent_id = email-enronsent15_01-0044
 # text = Radianz 1251 Avenue of the Americas 7th Floor New York, NY 10016 USA Phone: +1 (212) 899-4425 Fax: +1 (212) 899-4310 Cell: +1 (917) 859-7187 Email: kyle.jones@radianz.com
@@ -56482,10 +54663,6 @@
 37	:	:	PUNCT	_	_	_	_	_	_
 38	kyle.jones@radianz.com	kyle.jones@radianz.com	PROPN	_	|	36	appos	_	_
 
-# sent_id = email-enronsent15_01-0045
-# text = ====================================================
-1	====================================================	====================================================	SYM	_	|	0	root	_	_
-
 # sent_id = email-enronsent15_01-0046
 # text = See our web page at" http://www.radianz.com
 1	See	see	VERB	_	Mood=Imp|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -56495,10 +54672,6 @@
 5	at	at	ADP	_	_	_	_	_	_
 6	"	"	PUNCT	_	_	_	_	_	_
 7	http://www.radianz.com	http://www.radianz.com	PROPN	_	Case=Loc	1	obl	_	_
-
-# sent_id = email-enronsent15_01-0047
-# text = ====================================================
-1	====================================================	====================================================	SYM	_	|	0	root	_	_
 
 # sent_id = email-enronsent15_01-0048
 # text = |--------+-----------------------> | | Tana.Jones@en| | | ron.com | | | | | | 11/29/2000 | | | 04:34 PM | | | | |--------+----------------------->
@@ -56555,16 +54728,6 @@
 15	sister	sister	NOUN	_	Case=Dat|Number=Sing	9	obl	_	_
 16	?!	?!	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent15_01-0051
-# newpar id = email-enronsent15_01-p0012
-# text = Kyle.Jones@ra
-1	Kyle.Jones@ra	Kyle.Jones@ra	PROPN	_	|	0	root	_	_
-
-# sent_id = email-enronsent15_01-0052
-# text = Return Receipt
-1	Return	return	NOUN	_	Number=Sing	2	compound	_	_
-2	Receipt	receipt	NOUN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent15_01-0054
 # text = You can take my assistant Taffy Milligan off these emails again.
 1	You	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_
@@ -56579,11 +54742,6 @@
 10	emails	email	NOUN	_	Case=Del|Number=Plur	3	obl	_	_
 11	again	again	ADV	_	|	3	advmod	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent15_01-0055
-# text = Thanks!
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	!	!	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent15_01-0057
 # text = 11/29/2000 04:49 PM
@@ -56611,25 +54769,11 @@
 16	Red	red	NOUN	_	Case=Ine|Number=Sing	14	obl	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent15_01-0059
-# text = Adnan Patel
-1	Adnan	Adnan	PROPN	_	Number=Sing	0	root	_	_
-2	Patel	Patel	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent15_01-0061
 # text = 11/29/2000 04:31 PM
 1	11/29/2000	11/29/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	04:31	04:31	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	PM	p.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent15_01-0062
-# text = Regards,
-1	Regards	regards	NOUN	_	Number=Ptan	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent15_01-0063
-# text = bd
-1	bd	bd	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent15_01-0064
 # newpar id = email-enronsent15_01-p0015
@@ -56755,11 +54899,6 @@
 27	agreement	agreement	NOUN	_	Case=Sub|Number=Sing	24	nmod	_	_
 28	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent15_01-0072
-# text = Richard Sage
-1	Richard	Richard	PROPN	_	Number=Sing	0	root	_	_
-2	Sage	Sage	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent15_01-0073
 # text = 11/30/2000 10:52 AM
 1	11/30/2000	11/30/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -56836,31 +54975,11 @@
 14	Group	group	NOUN	_	Case=Ine|Number=Sing	11	nmod	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent15_01-0079
-# text = Denis O'Connell
-1	Denis	Denis	PROPN	_	Number=Sing	0	root	_	_
-2	O'Connell	O'Connell	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent15_01-0080
 # text = 11/22/2000 06:05 AM
 1	11/22/2000	11/22/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	06:05	06:05	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	AM	a.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent15_01-0081
-# text = Tana -
-1	Tana	Tana	PROPN	_	Number=Sing	0	root	_	_
-2	-	-	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent15_01-0083
-# text = Tks,
-1	Tks	tks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent15_01-0084
-# newpar id = email-enronsent15_01-p0016
-# text = Denis
-1	Denis	Denis	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent15_01-0085
 # newpar id = email-enronsent15_01-p0017
@@ -56982,11 +55101,6 @@
 1	Thank	thank	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	1	obj	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent34_01-0004
-# newpar id = email-enronsent34_01-p0003
-# text = Russell
-1	Russell	Russell	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent34_01-0005
 # newpar id = email-enronsent34_01-p0004
@@ -57338,10 +55452,6 @@
 5	soon	soon	ADV	_	Degree=Pos	1	advmod	_	_
 6	,	,	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent34_01-0020
-# text = Susan
-1	Susan	Susan	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent34_01-0021
 # newpar id = email-enronsent34_01-p0007
 # text = Hey girlie,
@@ -57529,15 +55639,6 @@
 2	care	care	NOUN	_	Number=Sing	1	obj	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent34_01-0032
-# text = Chris
-1	Chris	Chris	PROPN	_	Number=Sing	0	root	_	_
-
-# sent_id = email-enronsent34_01-0033
-# newpar id = email-enronsent34_01-p0009
-# text = __________________________________________________
-1	__________________________________________________	__________________________________________________	SYM	_	|	0	root	_	_
-
 # sent_id = email-enronsent34_01-0034
 # text = Do You Yahoo!?
 1	Do	do	AUX	_	_	_	_	_	_
@@ -57558,10 +55659,6 @@
 9	Yahoo!	Yahoo!	PROPN	_	Number=Sing	10	compound	_	_
 10	Messenger	Messenger	PROPN	_	Case=Com|Number=Sing	5	obl	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent34_01-0036
-# text = http://im.yahoo.com/
-1	http://im.yahoo.com/	http://im.yahoo.com/	PROPN	_	|	0	root	_	_
 
 # sent_id = email-enronsent34_01-0037
 # newpar id = email-enronsent34_01-p0010
@@ -57917,11 +56014,6 @@
 10	meetings	meeting	NOUN	_	Case=Gen|Definite=Def|Number=Plur	4	nmod	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent34_01-0050
-# newpar id = email-enronsent34_01-p0011
-# text = Shorty
-1	Shorty	Shorty	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent34_01-0051
 # newpar id = email-enronsent34_01-p0012
 # text = -- Due to the lack of response yesterday, I'm beginning to worry about your success with the road test...
@@ -57948,11 +56040,6 @@
 20	road	road	NOUN	_	Number=Sing	21	compound	_	_
 21	test	test	NOUN	_	Case=Com|Definite=Def|Number=Sing	17	nmod	_	_
 22	...	...	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent34_01-0053
-# text = Ted Noble
-1	Ted	Ted	PROPN	_	Number=Sing	2	compound	_	_
-2	Noble	Noble	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent34_01-0054
 # text = 08/17/2000 10:05 AM
@@ -58253,21 +56340,11 @@
 39	needs	need	NOUN	_	Case=Conj|Number=Plur	36	conj	_	_
 40	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent34_01-0069
-# text = Ted Noble
-1	Ted	Ted	PROPN	_	Number=Sing	2	compound	_	_
-2	Noble	Noble	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent34_01-0070
 # text = 08/16/2000 10:56 AM
 1	08/16/2000	08/16/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
 2	10:56	10:56	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	AM	a.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
-
-# sent_id = email-enronsent34_01-0071
-# text = AAAAAGGGHHHHHH...
-1	AAAAAGGGHHHHHH	aagh	INTJ	_	Style=Expr	0	root	_	_
-2	...	...	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent34_01-0072
 # text = I just found out that I need to take the TX drivers exam both written and on the rode.
@@ -58387,13 +56464,6 @@
 2	Mary	Mary	PROPN	_	Number=Sing	0	root	_	_
 3	Little	Little	PROPN	_	Number=Sing	2	flat	_	_
 
-# newdoc id = email-enronsent40_01
-# sent_id = email-enronsent40_01-0001
-# newpar id = email-enronsent40_01-p0001
-# text = Bob Bowen
-1	Bob	Bob	PROPN	_	Number=Sing	0	root	_	_
-2	Bowen	Bowen	PROPN	_	Number=Sing	1	flat	_	_
-
 # sent_id = email-enronsent40_01-0002
 # text = 07/14/2000 03:58 PM
 1	07/14/2000	07/14/2000	NUM	_	NumForm=Digit|NumType=Card	0	root	_	_
@@ -58419,11 +56489,6 @@
 15	on	on	ADP	_	_	_	_	_	_
 16	Tuesday	Tuesday	PROPN	_	Case=Ade|Number=Sing	12	obl	_	_
 17	!	!	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent40_01-0004
-# newpar id = email-enronsent40_01-p0002
-# text = GILBERGD@sullcrom.com
-1	GILBERGD@sullcrom.com	GILBERGD@sullcrom.com	PROPN	_	|	0	root	_	_
 
 # sent_id = email-enronsent40_01-0005
 # text = 07/14/2000 02:18 PM
@@ -58613,15 +56678,6 @@
 10	condition	condition	NOUN	_	Case=Sem;Ine|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = email-enronsent40_01-0018
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent40_01-0019
-# text = Sharon
-1	Sharon	Sharon	PROPN	_	Number=Sing	0	root	_	_
-
 # sent_id = email-enronsent40_01-0020
 # text = I think they'll send us another update once he's out of emergency and into a room.?
 1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
@@ -58660,12 +56716,6 @@
 9	visitors	visitor	NOUN	_	Number=Plur	8	obj	_	_
 10	yet	yet	ADV	_	_	_	_	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent40_01-0023
-# newpar id = email-enronsent40_01-p0004
-# text = A.
-1	A	A	PROPN	_	Number=Sing	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = email-enronsent40_01-0024
 # text = Thanks for the heads up.?
@@ -58712,16 +56762,6 @@
 8	to	to	PART	_	_	_	_	_	_
 9	know	know	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent40_01-0028
-# newpar id = email-enronsent40_01-p0005
-# text = Thanks,
-1	Thanks	thanks	NOUN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent40_01-0029
-# text = Sharon
-1	Sharon	Sharon	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent40_01-0030
 # text = Thought you might like to know.
@@ -59024,11 +57064,6 @@
 2	06:15	06:15	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	PM	p.m.	NOUN	_	Number=Sing	1	nmod:unmarked	_	_
 
-# sent_id = email-enronsent40_01-0045
-# text = Mark,
-1	Mark	Mark	PROPN	_	Number=Sing	0	root	_	_
-2	,	,	PUNCT	_	_	_	_	_	_
-
 # sent_id = email-enronsent40_01-0046
 # newpar id = email-enronsent40_01-p0006
 # text = We are thinking of adding a Patent Pending message to key EnronOnline pages (like the homepage).
@@ -59063,11 +57098,6 @@
 7	/	/	SYM	_	|	8	cc	_	_
 8	guidelines	guideline	NOUN	_	Case=/|Number=Plur	4	conj	_	_
 9	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = email-enronsent40_01-0048
-# newpar id = email-enronsent40_01-p0007
-# text = Dave
-1	Dave	Dave	PROPN	_	Number=Sing	0	root	_	_
 
 # sent_id = email-enronsent40_01-0049
 # newpar id = email-enronsent40_01-p0008

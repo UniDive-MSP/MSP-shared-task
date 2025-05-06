@@ -1,9 +1,3 @@
-# newdoc = tanl
-# sent_id = isst_tanl-1
-# text = LONDRA.
-1	LONDRA	Londra	PROPN	_	Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = 7_WIKIShake-276
 # text = Tuttavia, ora, il documento è andato perduto e gli studiosi non sono d'accordo riguardo la sua autenticità.
 1	Tuttavia	tuttavia	ADV	_	|	9	advmod	_	_
@@ -2044,11 +2038,6 @@
 14	ordinamento	ordinamento	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	11	obj	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-104
-# text = Incendio.
-1	Incendio	incendio	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = 2_Europarl-123
 # text = Mi è stato detto che anche una parte cospicua del gruppo socialista vorrebbe che questo punto venisse ritirato dall'ordine del giorno, in quanto nella votazione in sede di conferenza dei presidenti è mancato il voto del gruppo di lavoro dei colleghi competenti del gruppo socialista.
 1	Mi	mi	PRON	_	Case=Dat|Clitic=Yes|Number=Sing|Person=1|Polarity=Pos|PronType=Prs	4	iobj	_	_
@@ -2316,11 +2305,6 @@
 7	coinvolte	coinvolgere	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	xcomp	_	_
 8	persone	persona	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	6	nsubj	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-113
-# text = Corruzione.
-1	Corruzione	corruzione	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = quest-2012
 # text = Quando ebbe luogo il primo Superbowl?
@@ -3277,11 +3261,6 @@
 6	terroristi	terrorista	NOUN	_	Case=Lat|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	2	nmod	_	_
 7	"	"	PUNCT	_	_	_	_	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-165
-# text = Fiorini:
-1	Fiorini	Fiorini	PROPN	_	Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-166
 # text = mi fecero pagare gli hezbollah per liberare due ostaggi in Libano.
@@ -5771,11 +5750,6 @@
 19	sempre	sempre	ADV	_	Case=Gen	17	advmod	_	_
 20	:	:	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-283
-# text = cuore.
-1	cuore	cuore	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-284
 # text = "Da anni soffre di miocardite, per questo fa un passettino alla volta:
 1	"	"	PUNCT	_	_	_	_	_	_
@@ -6843,11 +6817,6 @@
 23	personal	personal	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	20	nmod	_	_
 24	computer	computer	NOUN	_	|	23	compound	_	_
 25	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-328
-# text = KINDU.
-1	KINDU	Kindu	PROPN	_	Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-329
 # text = Nel 1961 trucidati tredici nostri aviatori.
@@ -8423,11 +8392,6 @@
 9	turisti	turista	NOUN	_	Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	7	xcomp	_	_
 10	"	"	PUNCT	_	_	_	_	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-397
-# text = Presentimenti?
-1	Presentimenti	presentimento	NOUN	_	Gender=Masc|Mood=Int|Number=Plur|Polarity=Pos	0	root	_	_
-2	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2Parole_4-78
 # text = I film che hanno vinto i premi Oscar del 2006
@@ -10380,11 +10344,6 @@
 21	e	e	CCONJ	_	_	_	_	_	_
 22	fisica	fisica	NOUN	_	Case=Gen;Conj|Gender=Fem|Number=Sing|Polarity=Pos	16	conj	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-507
-# text = Anzi.
-1	Anzi	anzi	ADV	_	|	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2Parole_5-225
 # text = Barrichello è uscito dalla gara per un errore in Australia ed è arrivato al secondo posto in Malesia.
@@ -14257,11 +14216,6 @@
 23	esercito	esercito	NOUN	_	Case=Cau|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	20	nmod	_	_
 24	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-723
-# text = Amen.
-1	Amen	amen	INTJ	_	|	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-724
 # text = Vedrete che su Pechino le Erinni cercheranno di farle cambiare idea e, se sceglierà di fare la democristiana, troverà un trucco per mandare pure la Melandri ".
 1	Vedrete	vedere	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -14573,11 +14527,6 @@
 1	L'	il	DET	_	_	_	_	_	_
 2	alternativa	alternativa	NOUN	_	Definite=Def|Gender=Fem|Mood=Int|Number=Sing|Polarity=Pos	0	root	_	_
 3	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-744
-# text = Chiaro:
-1	Chiaro	chiaro	ADJ	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-745
 # text = essere faziosi.
@@ -27856,11 +27805,6 @@
 8	polemica	polemica	NOUN	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	conj	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-1409
-# text = Biondi:
-1	Biondi	Biondi	PROPN	_	Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = 2Parole_6-132
 # text = È stato segretario del partito della Rifondazione Comunista e deputato del Parlamento italiano ed europeo.
 1	È	essere	AUX	_	_	_	_	_	_
@@ -27885,11 +27829,6 @@
 17	ed	e	CCONJ	_	_	_	_	_	_
 18	europeo	europeo	ADJ	_	Case=Conj|Gender=Masc|Number=Sing|Polarity=Pos	16	conj	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-1411
-# text = Violante:
-1	Violante	Violante	PROPN	_	Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-1412
 # text = "Si faccia subito una legge".
@@ -29852,11 +29791,6 @@
 40	Cimino	Cimino	PROPN	_	Case=Gen|Polarity=Pos	37	obl	_	_
 41	"	"	PUNCT	_	_	_	_	_	_
 42	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-1512
-# text = Sensuosità?
-1	Sensuosità	sensuosità	NOUN	_	Gender=Fem|Mood=Int|Polarity=Pos	0	root	_	_
-2	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2Parole_1-64
 # text = Mettiamo in un luogo fresco e buio gli alimenti che si conservano per un tempo abbastanza lungo.
@@ -32310,11 +32244,6 @@
 25	Italia	Italia	PROPN	_	Case=Cau|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	19	obl	_	_
 26	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-1626
-# text = Mostre.
-1	Mostre	mostra	NOUN	_	Gender=Fem|Number=Plur|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = quest-2115
 # text = Che cosa hanno mangiato i bambini?
 1	Che	che	DET	_	PronType=Int	2	det	_	_
@@ -34313,11 +34242,6 @@
 12	lettori	lettore	NOUN	_	Case=Lat|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	9	nmod	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-1706
-# text = Elzeviro.
-1	Elzeviro	Elzeviro	PROPN	_	Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = quest-2073
 # text = Come morì Harry Houdini?
 1	Come	come	ADV	_	|	2	advmod	_	_
@@ -36225,11 +36149,6 @@
 48	America	America	PROPN	_	Case=Gen|Polarity=Pos	46	obl	_	_
 49	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-1793
-# text = Intervista.
-1	Intervista	intervista	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = test-39
 # text = la notizia è stata gestita politicamente al fine di attaccare il presidente Nicola Zingaretti.
 1	la	il	DET	_	_	_	_	_	_
@@ -37513,11 +37432,6 @@
 12	internazionale	internazionale	ADJ	_	Polarity=Pos	11	amod	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-1863
-# text = Personaggi.
-1	Personaggi	personaggio	NOUN	_	Gender=Masc|Number=Plur|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = 5_WIKIBalzac-95
 # text = "Verso la fine degli anni '20 dell''800 Balzac si immerse in varie iniziative imprenditoriali, una inclinazione che sua sorella attribuiva alla tentazione dell'ignoto.
 1	"	"	PUNCT	_	_	_	_	_	_
@@ -37574,11 +37488,6 @@
 1	Dispettosa	dispettoso	ADJ	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 2	"	"	PUNCT	_	_	_	_	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-1869
-# text = Dillon:
-1	Dillon	Dillon	PROPN	_	Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-1870
 # text = è brutto esser bello.
@@ -45371,11 +45280,6 @@
 33	)	)	PUNCT	_	_	_	_	_	_
 34	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = 2_Europarl-138
-# text = Grazie!
-1	Grazie	grazie	ADV	_	|	0	root	_	_
-2	!	!	PUNCT	_	_	_	_	_	_
-
 # sent_id = 3_UDHR-81
 # text = Articolo 24.
 1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
@@ -45533,11 +45437,6 @@
 12	i	il	DET	_	_	_	_	_	_
 13	Deputati	Deputati	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	10	nmod	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-2265
-# text = 1.
-1	1	1	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 9_PS-323
 # text = Effettivamente, dopo aver visto le suddette prove, un ex primo ministro pakistano ha confessato che sarebbe stato più attivo in questo settore mentre era in carica se avesse saputo quello che sa adesso.
@@ -48886,11 +48785,6 @@
 5	Langer	Langer	PROPN	_	|	4	flat:name	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-2431
-# text = Ippica:
-1	Ippica	ippica	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-2433
 # text = Paura passata per Frank Dettori, il fantino britannico coinvolto in un incidente in corsa:
 1	Paura	paura	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
@@ -49329,11 +49223,6 @@
 16	prossimi	prossimo	ADJ	_	Polarity=Pos	17	amod	_	_
 17	anni	anno	NOUN	_	Case=Ine|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	5	obl	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-2452
-# text = 1.
-1	1	1	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = quest-1552
 # text = Da quale musical di Broadway è tratta la canzone "The Story is me"?
@@ -63008,11 +62897,6 @@
 26	cittadini	cittadino	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	23	nmod	_	_
 27	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3110
-# text = 1.
-1	1	1	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-3112
 # text = Due misure, cm 30,5x30,5 o cm 45,7x45,7.
 1	Due	due	NUM	_	NumType=Card|Polarity=Pos	2	nummod	_	_
@@ -63041,11 +62925,6 @@
 9	il	il	DET	_	_	_	_	_	_
 10	pezzo	pezzo	NOUN	_	Case=Lat|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	7	nmod	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3114
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-3115
 # text = "Marmo ricomposto" (materiale frantumato miscelato a resine e pressato sottovuoto) della serie "Stonit" di Stone Italia.
@@ -63194,11 +63073,6 @@
 34	bizzarri	bizzarro	ADJ	_	Polarity=Pos	33	amod	_	_
 35	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3125
-# text = 4.
-1	4	4	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-3126
 # text = "Sam", di Tecnomaiera, nelle varianti "Bianco di Carrara", "Rosso Antico" e "Nero Marquina".
 1	"	"	PUNCT	_	_	_	_	_	_
@@ -63340,16 +63214,6 @@
 95	Resource	Resource	PROPN	_	|	94	flat:name	_	_
 96	Identifier	Identifier	PROPN	_	|	94	flat:name	_	_
 97	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3129
-# text = 5.
-1	5	5	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3131
-# text = 6.
-1	6	6	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 8_WIT3-73
 # text = E la maggior parte dei piccoli muore.
@@ -63590,11 +63454,6 @@
 3.1	-	-	-	_	Case=Nom	3	nsubj	_	_
 4	perfetto	perfetto	ADJ	_	Gender=Masc|Number=Sing|Polarity=Pos	3	xcomp	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3147
-# text = 5.
-1	5	5	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 4_FB-113
 # text = Per maggiori informazioni sul pulsante "ricevi gli aggiornamenti", consulta il centro assistenza.
@@ -65581,11 +65440,6 @@
 2	importante	importante	ADJ	_	Polarity=Pos	1	amod	_	_
 3	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3237
-# text = Panico.
-1	Panico	panico	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-3239
 # text = Ansia paralizzante.
 1	Ansia	ansia	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
@@ -65633,11 +65487,6 @@
 34	sono	essere	AUX	_	_	_	_	_	_
 35	invertiti	invertire	VERB	_	Aspect=Imp|Case=Tem|Mood=Ind|Polarity=Pos|Tense=Past;Pres|VerbForm=Fin|Voice=Pass	30	advcl	_	_
 36	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3241
-# text = Stress.
-1	Stress	stress	NOUN	_	Gender=Masc|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-3242
 # text = E poi stasera c'è una festa da non perdere e tu ti senti uno straccio.
@@ -65774,11 +65623,6 @@
 12	”	”	PUNCT	_	_	_	_	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3250
-# text = Quando.
-1	Quando	quando	ADV	_	|	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = 2Parole_1-164
 # text = Dal 1989 al 1997 alcuni studiosi ed esperti dell'Università di Roma " La Sapienza " hanno pubblicato il giornale dueparole.
 1-2	Dal	_	_	_	_	_	_	_	_
@@ -65884,11 +65728,6 @@
 18	riposo	riposo	NOUN	_	Case=Int;Conj|Gender=Masc|Number=Sing|Polarity=Pos	15	conj	_	_
 19	completo	completo	ADJ	_	Polarity=Pos	18	amod	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3257
-# text = Dove.
-1	Dove	dove	ADV	_	|	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 9_PS-377
 # text = Traduzione di Federica Frasca.
@@ -66020,11 +65859,6 @@
 7	ripetere	ripetere	VERB	_	Case=Conj|Polarity=Pos|VerbForm=Inf|Voice=Act	5	conj	_	_
 8	regolarmente	regolarmente	ADV	_	|	7	advmod	_	_
 9	:	:	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3263
-# text = Respirazione.
-1	Respirazione	Respirazione	PROPN	_	Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2Parole_2-47
 # text = Queste persone fanno fatica a leggere e a capire gli articoli dei giornali che sono troppo lunghi e che contengono parole difficili.
@@ -66216,11 +66050,6 @@
 12	sostenuto	sostenere	VERB	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
 12.1	-	-	-	_	Case=Nom	12	nsubj	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3279
-# text = Meditazione.
-1	Meditazione	meditazione	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-3280
 # text = Ci sono varie tecniche.
@@ -67062,11 +66891,6 @@
 2	ora	ora	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3327
-# text = Costo:
-1	Costo	costo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = 2Parole_2-102
 # text = Appoggiamo i vasi delle nostre piante sopra i tappi di sughero.
 1	Appoggiamo	appoggiare	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -67084,11 +66908,6 @@
 11	di	di	ADP	_	_	_	_	_	_
 12	sughero	sughero	NOUN	_	Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	10	nmod	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3329
-# text = Dove:
-1	Dove	dove	ADV	_	|	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-3330
 # text = da Annette (Milano tel. 02/8399466; Bergamo, tel. 035/260612).
@@ -67626,11 +67445,6 @@
 33	)	)	PUNCT	_	_	_	_	_	_
 34	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3362
-# text = pelle.
-1	pelle	pelle	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-3363
 # text = Se la tua è ... pallida può essere un sintomo di anemia.
 1	Se	se	SCONJ	_	_	_	_	_	_
@@ -67933,11 +67747,6 @@
 18	di	di	ADP	_	_	_	_	_	_
 19	yoga	yoga	NOUN	_	Case=Gen|Gender=Masc|Polarity=Pos	17	nmod	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3383
-# text = seno.
-1	seno	seno	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 9_PS-537
 # text = E, con l'aiuto e l'assistenza tecnica dell'Europa, ne creeremo uno.
@@ -69324,11 +69133,6 @@
 30	solo	solo	ADV	_	Case=Abl	27	advmod	_	_
 31	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3453
-# text = Molteplici.
-1	Molteplici	molteplice	ADJ	_	Number=Plur|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-3454
 # text = Da quelle ereditarie a quelle ormonali, dalla vita sedentaria all'alimentazione.
 1	Da	da	ADP	_	_	_	_	_	_
@@ -69992,11 +69796,6 @@
 5	minerali	minerale	NOUN	_	Case=Gen;Conj|Gender=Masc|Number=Plur|Polarity=Pos	3	conj	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3499
-# text = Fumo.
-1	Fumo	fumo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-3501
 # text = Inquinamento atmosferico.
 1	Inquinamento	inquinamento	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
@@ -70027,11 +69826,6 @@
 18	lingue	lingua	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	15	obj	_	_
 19	europee	europeo	ADJ	_	Polarity=Pos	18	amod	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3503
-# text = Stress.
-1	Stress	stress	NOUN	_	Gender=Masc|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-3505
 # text = Ama il tuo corpo come te stessa.
@@ -70339,11 +70133,6 @@
 10	suona	suonare	VERB	_	Aspect=Imp|Mood=Int|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 11	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3521
-# text = quotidiano.
-1	quotidiano	quotidiano	ADJ	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = 2Parole_5-245
 # text = Il censimento ci dà anche notizie sulle case degli italiani.
 1	Il	il	DET	_	_	_	_	_	_
@@ -70394,11 +70183,6 @@
 4	la	il	DET	_	_	_	_	_	_
 5	cannella	cannella	NOUN	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj	_	_
 6	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3526
-# text = quotidiano.
-1	quotidiano	quotidiano	ADJ	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2Parole_1-263
 # text = Lula da Silva si era presentato alle elezioni per diventare Presidente del Brasile anche nel 1989, nel 1994 e nel 1998, ma è stato eletto.
@@ -70502,11 +70286,6 @@
 4	massaggiare	massaggiare	VERB	_	Case=Abe|Polarity=Pos|VerbForm=Inf|Voice=Act	2	advcl	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3532
-# text = Durata:
-1	Durata	durata	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = 5_WIKIBalzac-193
 # text = Queste opere pativano la mancanza di una conoscenza di prima mano;
 1	Queste	questo	DET	_	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
@@ -70521,11 +70300,6 @@
 10	prima	primo	ADJ	_	NumType=Ord|Polarity=Pos	11	amod	_	_
 11	mano	mano	NOUN	_	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	8	nmod	_	_
 12	;	;	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3535
-# text = Uso:
-1	Uso	uso	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = 9_PS-88
 # text = Londra - il governatore della Bank Of England (BOE), Mark Carney, ha sorpreso il pubblico in una conferenza alla fine dello scorso anno avanzando l'ipotesi che il giro d'affari di Londra crescerà e sarà oltre nove volte il pil della Gran Bretagna per il 2050.
@@ -70667,26 +70441,11 @@
 10	consecutivi	consecutivo	ADJ	_	Polarity=Pos	8	amod	_	_
 11	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3543
-# text = Uso:
-1	Uso	uso	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3545
-# text = Durata:
-1	Durata	durata	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-3546
 # text = due settimane.
 1	due	due	NUM	_	NumType=Card|Polarity=Pos	2	nummod	_	_
 2	settimane	settimana	NOUN	_	Gender=Fem|Number=Plur|Polarity=Pos	0	root	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3547
-# text = Extra:
-1	Extra	extra	NOUN	_	Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-3548
 # text = si consiglia il guanto da massaggio per preparare i tessuti all'applicazione del prodotto.
@@ -70720,11 +70479,6 @@
 5	di	di	ADP	_	_	_	_	_	_
 6	Vichy	Vichy	PROPN	_	Case=Gen|Polarity=Pos	2	nmod	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3550
-# text = Uso:
-1	Uso	uso	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = 5_WIKIBalzac-260
 # text = Lavorò all'osservazione dell'umanità nei suoi stati più rappresentativi, passando frequentemente in incognito tra le masse della società parigina per fare la sua ricerca.
@@ -70764,11 +70518,6 @@
 29	sua	suo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	30	det:poss	_	_
 30	ricerca	ricerca	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	27	obj	_	_
 31	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3552
-# text = Durata:
-1	Durata	durata	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = 4_FB-11
 # text = Ciò significa che gli account congiunti non sono consentiti.
@@ -70845,16 +70594,6 @@
 8	maratona	maratona	NOUN	_	Case=Lat|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	5	obl	_	_
 9	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3558
-# text = quotidiano.
-1	quotidiano	quotidiano	ADJ	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3559
-# text = Durata:
-1	Durata	durata	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = 2Parole_2-43
 # text = Le forze armate dei 28 Paesi erano comandate dai capi militari degli Stati Uniti d’America (Usa).
 1	Le	il	DET	_	_	_	_	_	_
@@ -70915,16 +70654,6 @@
 24	nazionali	nazionale	ADJ	_	Polarity=Pos	23	amod	_	_
 25	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3562
-# text = Uso:
-1	Uso	uso	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3564
-# text = Durata:
-1	Durata	durata	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-3565
 # text = 60 giorni, 3/4 volte la sett..
 1	60	60	NUM	_	NumType=Card|Polarity=Pos	2	nummod	_	_
@@ -70950,21 +70679,6 @@
 9	sono	essere	AUX	_	_	_	_	_	_
 10	giovani	giovane	ADJ	_	Aspect=Imp|Mood=Ind|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3567
-# text = Uso:
-1	Uso	uso	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3568
-# text = quotidiano.
-1	quotidiano	quotidiano	ADJ	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3569
-# text = Durata:
-1	Durata	durata	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-3570
 # text = 4 sett..
@@ -71000,16 +70714,6 @@
 22	aria	aria	NOUN	_	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	20	nmod	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3572
-# text = Uso:
-1	Uso	uso	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3573
-# text = quotidiano.
-1	quotidiano	quotidiano	ADJ	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-3574
 # text = Il prodotto si applica con leggero massaggio.
 1	Il	il	DET	_	_	_	_	_	_
@@ -71039,11 +70743,6 @@
 2	consigliati	consigliare	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	_
 3	:	:	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3577
-# text = 15.
-1	15	15	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = quest-2169
 # text = Che titolo si richiede?
 1	Che	che	DET	_	PronType=Int	2	det	_	_
@@ -71051,11 +70750,6 @@
 3	si	si	PRON	_	Clitic=Yes|Person=3|Polarity=Pos|PronType=Prs	4	expl:pass	_	_
 4	richiede	richiedere	VERB	_	Aspect=Imp|Mood=Int|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3580
-# text = Dove:
-1	Dove	dove	ADV	_	|	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = 4_FB-64
 # text = Facebook rappresenta per molte persone una parte integrante della loro vita:
@@ -71163,11 +70857,6 @@
 14	di	di	ADP	_	_	_	_	_	_
 15	Pinochet	Pinochet	PROPN	_	Case=Gen|Polarity=Pos	13	nmod	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3588
-# text = Protagonisti:
-1	Protagonisti	protagonista	NOUN	_	Gender=Masc|Number=Plur|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	_	_	_	_	_	_
 
 # sent_id = test-214
 # text = In effetti, il volto di una città è come un mosaico le cui tessere sono tutti coloro che vi abitano.
@@ -71783,11 +71472,6 @@
 11	televisive	televisivo	ADJ	_	Polarity=Pos	10	amod	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = isst_tanl-3615
-# text = Disprezzo?
-1	Disprezzo	disprezzo	NOUN	_	Gender=Masc|Mood=Int|Number=Sing|Polarity=Pos	0	root	_	_
-2	?	?	PUNCT	_	_	_	_	_	_
-
 # sent_id = isst_tanl-3616
 # text = C'è chi dice che, vista la situazione, la Payita abbia deciso di imporsi il silenzio.
 1	C'	ci	PRON	_	Clitic=Yes|Polarity=Pos|PronType=Prs	2	expl	_	_
@@ -71913,11 +71597,6 @@
 14	una	uno	DET	_	_	_	_	_	_
 15	parola	parola	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	13	obj	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3624
-# text = Perché?
-1	Perché	perché	ADV	_	Mood=Int	0	root	_	_
-2	?	?	PUNCT	_	_	_	_	_	_
 
 # sent_id = 9_PS-280
 # text = In modo analogo, la bolla Dot-Com che ha preceduto questo periodo fu marcata dall'innovazione - i siti web attraverso i quali si potevano ordinare cibi per cani e bibite online.
@@ -73486,11 +73165,6 @@
 7	finire	finire	VERB	_	Case=Pur|Polarity=Pos|VerbForm=Inf|Voice=Act	5	ccomp	_	_
 8	...	...	PUNCT	_	_	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3702
-# text = America.
-1	America	America	PROPN	_	Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-3705
 # text = Sette persone, tutte di colore, tutti giovani, muoiono a colpi di pistola, alla fine di gennaio, in un appartamento dei bassifondi di Washington.
@@ -75626,11 +75300,6 @@
 5	case	casa	NOUN	_	Gender=Fem|Number=Plur|Polarity=Pos	4	xcomp	_	_
 6	editrici	editore	ADJ	_	Polarity=Pos	5	amod	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3784
-# text = Il mercato
-1	Il	il	DET	_	_	_	_	_	_
-2	mercato	mercato	NOUN	_	Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = isst_tanl-3786
 # text = Numeri e percentuali dell'altra metà del cielo.
@@ -78622,11 +78291,6 @@
 37	a	a	ADP	_	_	_	_	_	_
 38	-20º	-20º	NUM	_	Case=Lat|NumType=Card|Polarity=Pos	36	nummod	_	_
 39	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-3922
-# text = Documento.
-1	Documento	documento	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 4_FB-97
 # text = Usa il pulsante "ricevi gli aggiornamenti" per scegliere quali contenuti di amici ed altri vedere nella sezione notizie.
@@ -81977,11 +81641,6 @@
 1	Tutti	tutto	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|PronType=Ind	2	nsubj	_	_
 2	dormono	dormire	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = isst_tanl-4090
-# text = Ricerche.
-1	Ricerche	ricerca	NOUN	_	Gender=Fem|Number=Plur|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = isst_tanl-4091
 # text = A quanto ammontava il patrimonio dei Ciano?
@@ -103997,11 +103656,6 @@
 23	)	)	PUNCT	_	_	_	_	_	_
 24	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = 8_WIT3-42
-# text = Inquinanti.
-1	Inquinanti	inquinante	NOUN	_	Gender=Masc|Number=Plur|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = 1_CC-68
 # text = in ogni caso, in ipotesi di opera derivata o collezione di Opere, tale menzione deve quantomeno essere posta nel medesimo punto dove viene indicato il nome di altri autori di rilevanza paragonabile e con lo stesso risalto concesso alla menzione di altri autori di rilevanza paragonabile.
 1	in	in	ADP	_	_	_	_	_	_
@@ -115171,11 +114825,6 @@
 23	dimensioni	dimensione	NOUN	_	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	19	nmod	_	_
 24	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = tut-1292
-# text = Parte prima
-1	Parte	parte	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	prima	primo	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
-
 # sent_id = 2Parole_5-101
 # text = L'indirizzo di dueparole su Internet è: www.dueparole.it.
 1	L'	il	DET	_	_	_	_	_	_
@@ -115188,11 +114837,6 @@
 8	:	:	PUNCT	_	_	_	_	_	_
 9	www.dueparole.it	www.dueparole.it	SYM	_	Polarity=Pos	7	obl	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = tut-1294
-# text = Titolo I
-1	Titolo	titolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	I	I	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
 
 # sent_id = 2Parole_4-271
 # text = Le squadre nazionali americane sono 8: Brasile, Argentina, USA, Costa Rica, Messico, Paraguay e la squadra di Trinidad e di Tobago.
@@ -116772,16 +116416,6 @@
 30	"	"	PUNCT	_	_	_	_	_	_
 31	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = tut-1386
-# text = Titolo III
-1	Titolo	titolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	III	III	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
-
-# sent_id = tut-1387
-# text = Rapporti economici
-1	Rapporti	rapporto	NOUN	_	Gender=Masc|Number=Plur|Polarity=Pos	0	root	_	_
-2	economici	economico	ADJ	_	Polarity=Pos	1	amod	_	_
-
 # sent_id = tut-1388
 # text = Art. 35.
 1	Art.	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
@@ -117841,11 +117475,6 @@
 35	Paese	paese	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	31	nmod	_	_
 36	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = tut-1442
-# text = Titolo IV
-1	Titolo	titolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	IV	IV	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
-
 # sent_id = 3_UDHR-44
 # text = Articolo 13.
 1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
@@ -118357,11 +117986,6 @@
 13	futuro	futuro	NOUN	_	Case=Lat|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	10	obl	_	_
 14	:	:	PUNCT	_	_	_	_	_	_
 
-# sent_id = tut-1471
-# text = Parte seconda
-1	Parte	parte	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	seconda	secondo	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
-
 # sent_id = 2Parole_5-242
 # text = Così, possiamo sapere quanti cittadini italiani hanno finito di frequentare la scuola elementare, o la scuola media, o la scuola superiore, o l'università.
 1	Così	così	ADV	_	|	4	advmod	_	_
@@ -118448,11 +118072,6 @@
 5	Bob	Bob	PROPN	_	Case=Nom|Polarity=Pos	4	nsubj	_	_
 6	Marley	Marley	PROPN	_	|	5	flat:name	_	_
 7	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = tut-1476
-# text = Le Camere
-1	Le	il	DET	_	_	_	_	_	_
-2	Camere	camera	NOUN	_	Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = 2Parole_4-39
 # text = Il 29 ottobre 2004 i capi dei governi dei 25 paesi dell’Unione Europea hanno firmato la Costituzione europea.
@@ -122001,11 +121620,6 @@
 2	91	91	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = tut-1626
-# text = Titolo III
-1	Titolo	titolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	III	III	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
-
 # sent_id = 9_PS-559
 # text = Se le zanzare maschio vengono sottoposte a queste radiazioni per diversi mesi, si dovrebbe in teoria arrivare ad una riduzione consistente della popolazione di zanzare.
 1	Se	se	SCONJ	_	_	_	_	_	_
@@ -122038,11 +121652,6 @@
 26	di	di	ADP	_	_	_	_	_	_
 27	zanzare	zanzara	NOUN	_	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	25	nmod	_	_
 28	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = tut-1628
-# text = Sezione I
-1	Sezione	sezione	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	I	I	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
 
 # sent_id = tut-1629
 # text = Il Consiglio dei Ministri
@@ -122827,16 +122436,6 @@
 7	Dale	Dale	PROPN	_	Case=Gen|Polarity=Pos	5	nmod	_	_
 8	Evan	Evan	PROPN	_	|	7	flat:name	_	_
 9	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = tut-1672
-# text = Sezione I
-1	Sezione	sezione	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	I	I	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
-
-# sent_id = tut-1673
-# text = Ordinamento giurisdizionale
-1	Ordinamento	ordinamento	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	giurisdizionale	giurisdizionale	ADJ	_	Polarity=Pos	1	amod	_	_
 
 # sent_id = tut-1674
 # text = Art. 101.
@@ -124268,11 +123867,6 @@
 41	il	il	DET	_	_	_	_	_	_
 42	potere	potere	NOUN	_	Case=Gen;Conj|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	38	conj	_	_
 43	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = tut-1737
-# text = Titolo V
-1	Titolo	titolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	V	V	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
 
 # sent_id = 2_Europarl-103
 # text = Ma un tale documento non esiste ancora!
@@ -127518,16 +127112,6 @@
 22	zucchero	zucchero	NOUN	_	Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	20	nmod	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = tut-1840
-# text = Garanzie costituzionali
-1	Garanzie	garanzia	NOUN	_	Gender=Fem|Number=Plur|Polarity=Pos	0	root	_	_
-2	costituzionali	costituzionale	ADJ	_	Polarity=Pos	1	amod	_	_
-
-# sent_id = tut-1841
-# text = Sezione I
-1	Sezione	sezione	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	I	I	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
-
 # sent_id = 8_WIT3-79
 # text = Questa è carne di balena, che ho fotografato in un negozio di alimentari a Tokyo - ma lo è davvero?
 1	Questa	questo	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|PronType=Dem	3	nsubj	_	_
@@ -127972,11 +127556,6 @@
 8	straordinario	straordinario	ADJ	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = tut-1860
-# text = Sezione II
-1	Sezione	sezione	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	II	II	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
-
 # sent_id = tut-1861
 # text = Revisione della Costituzione
 1	Revisione	revisione	NOUN	_	Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
@@ -128184,10 +127763,6 @@
 10	costituzionale	costituzionale	ADJ	_	Polarity=Pos	9	amod	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = tut-1871
-# text = I
-1	I	I	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = tut-1872
 # text = Con l'entrata in vigore della Costituzione il Capo provvisorio dello Stato esercita le attribuzioni di Presidente della Repubblica e ne assume il titolo.
 1	Con	con	ADP	_	_	_	_	_	_
@@ -128222,10 +127797,6 @@
 26	il	il	DET	_	_	_	_	_	_
 27	titolo	titolo	NOUN	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	25	obj	_	_
 28	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = tut-1873
-# text = II
-1	II	II	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = tut-1874
 # text = Se alla data della elezione del Presidente della Repubblica non sono costituiti tutti i Consigli regionali, partecipano alla elezione soltanto i componenti delle due Camere.
@@ -128374,10 +127945,6 @@
 13	acquario	acquario	NOUN	_	Case=Ine|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos	9	obl	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = tut-1880
-# text = IV
-1	IV	IV	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = 7_WIKIShake-150
 # text = Nonostante le documentazioni sulle esibizioni siano irregolari, i King's Men interpretarono a corte sette opere di Shakespeare fra il 1 novembre 1604 e il 31 ottobre 1605, fra cui due interpretazioni del mercante di Venezia.
 1	Nonostante	nonostante	ADP	_	_	_	_	_	_
@@ -128459,10 +128026,6 @@
 20	des	des	X	_	_	_	_	_	_
 21	vacances	vacances	X	_	_	_	_	_	_
 22	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = tut-1884
-# text = VI
-1	VI	VI	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = tut-1885
 # text = Entro cinque anni dall'entrata in vigore della Costituzione si procede alla revisione degli organi speciali di giurisdizione attualmente esistenti, salvo le giurisdizioni del Consiglio di Stato, della Corte dei conti e dei tribunali militari.
@@ -128816,10 +128379,6 @@
 19	università	università	NOUN	_	Case=Lat|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	15	obl	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = tut-1896
-# text = IX
-1	IX	IX	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = tut-1897
 # text = La Repubblica, entro tre anni dall'entrata in vigore della Costituzione, adegua le sue leggi alle esigenze delle autonomie locali e alla competenza legislativa attribuita alle Regioni.
 1	La	il	DET	_	_	_	_	_	_
@@ -128864,14 +128423,6 @@
 34	le	il	DET	_	_	_	_	_	_
 35	Regioni	regione	NOUN	_	Case=Lat|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	32	obl	_	_
 36	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = tut-1898
-# text = X
-1	X	X	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
-
-# sent_id = tut-1900
-# text = XI
-1	XI	XI	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = tut-1901
 # text = Fino a cinque anni dall'entrata in vigore della Costituzione si possono, con leggi costituzionali, formare altre Regioni, a modificazione dell'elenco di cui all'art. 131, anche senza il concorso delle condizioni richieste dal primo comma dell'articolo 132, fermo rimanendo tuttavia l'obbligo di sentire le popolazioni interessate.
@@ -128946,10 +128497,6 @@
 62	interessate	interessato	ADJ	_	Polarity=Pos	61	amod	_	_
 63	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = tut-1902
-# text = XII
-1	XII	XII	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
-
 # sent_id = tut-1903
 # text = È vietata la riorganizzazione, sotto qualsiasi forma, del disciolto partito fascista.
 1	È	essere	AUX	_	_	_	_	_	_
@@ -128968,10 +128515,6 @@
 13	partito	partito	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	4	nmod	_	_
 14	fascista	fascista	ADJ	_	Polarity=Pos	13	amod	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = tut-1905
-# text = XIII
-1	XIII	XIII	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = tut-1906
 # text = I beni, esistenti nel territorio nazionale, degli ex re di Casa Savoia, delle loro consorti e dei loro discendenti maschi, sono avocati allo Stato.
@@ -129049,10 +128592,6 @@
 26	nostre	nostro	DET	_	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	27	det:poss	_	_
 27	spese	spesa	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	17	nmod	_	_
 28	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = tut-1908
-# text = XIV
-1	XIV	XIV	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = 2Parole_1-203
 # text = La lingua di Capo Verde è il creolo portoghese.
@@ -129149,14 +128688,6 @@
 21	cattive	cattivo	ADJ	_	Polarity=Pos	22	amod	_	_
 22	condizioni	condizione	NOUN	_	Case=Ine|Gender=Fem|Number=Plur|Polarity=Pos	19	obl	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = tut-1913
-# text = XV
-1	XV	XV	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
-
-# sent_id = tut-1915
-# text = XVI
-1	XVI	XVI	ADJ	_	NumType=Ord|Number=Sing|Polarity=Pos	0	root	_	_
 
 # sent_id = 5_WIKIBalzac-204
 # text = la nazione è in lutto per un genio.
@@ -130568,11 +130099,6 @@
 35	i	il	DET	_	_	_	_	_	_
 36	costi	costo	NOUN	_	Case=Conj;Adt|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	32	conj	_	_
 37	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = 7_WIKIShake-258
-# text = insormontabile.
-1	insormontabile	insormontabile	ADJ	_	Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = quest-1845
 # text = Quale stato contò il maggior numero di firmatari della Dichiarazione di Indipendenza?
@@ -155191,11 +154717,6 @@
 11	un	uno	DET	_	_	_	_	_	_
 12	Turner	Turner	PROPN	_	Aspect=Imp|Case=che|Definite=Ind|Gender=Masc|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
 13	;	;	PUNCT	_	_	_	_	_	_
-
-# sent_id = 3_UDHR-4
-# text = Preambolo.
-1	Preambolo	preambolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2Parole_6-246
 # text = Però i piloti che decidono di partire con poca benzina nel serbatoio devono fermarsi durante la gara per fare rifornimento di benzina.
@@ -180372,11 +179893,6 @@
 18	violaceo	violaceo	ADJ	_	Polarity=Pos	17	amod	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-1
-# text = Articolo 3
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	3	3	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
 # sent_id = quest-1155
 # text = Qual è un parco nazionale dell'Indiana?
 1	Qual	Qual	PRON	_	Aspect=Imp|Mood=Int|Number=Sing|Polarity=Pos|PronType=Int|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -180732,16 +180248,6 @@
 22	Lazio	Lazio	PROPN	_	Case=Ine|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	18	nmod	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-17
-# text = Articolo 4
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	4	4	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
-# sent_id = splet-18
-# text = 1.
-1	1	1	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = splet-19
 # text = a) L'organizzatore e/o il venditore fornisce al consumatore, per iscritto o in qualsiasi altra forma appropriata, prima della conclusione del contratto, le informazioni di carattere generale concernenti le condizioni applicabili ai cittadini dello Stato membro o degli Stati membri in questione in materia di passaporti e visti in particolare per quanto riguarda i termini per ottenerli, nonché le informazioni relative alle formalità sanitarie necessarie per effettuare il viaggio ed il soggiorno;
 1	a	a	NOUN	_	Polarity=Pos	8	obl	_	_
@@ -181057,11 +180563,6 @@
 41	malattie	malattia	NOUN	_	Case=Gen;Disj|Gender=Fem|Number=Plur|Polarity=Pos	39	conj	_	_
 42	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-27
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = 7_WIKIShake-38
 # text = Gli studiosi fanno riferimento all'arco di tempo tra gli anni 1585 e 1592 come agli "anni perduti" di Shakespeare.
 1	Gli	il	DET	_	_	_	_	_	_
@@ -181279,11 +180780,6 @@
 48	detta	detta	ADJ	_	Polarity=Pos	49	amod	_	_
 49	cessione	cessione	NOUN	_	Case=Abl|Gender=Fem|Number=Sing|Polarity=Pos	46	obl	_	_
 50	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-36
-# text = 4.
-1	4	4	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = splet-38
 # text = - costi di trasporto, compreso il costo del carburante;
@@ -181567,11 +181063,6 @@
 14	propria	proprio	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	_
 15	decisione	decisione	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-47
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2Parole_1-116
 # text = Alcune persone rapiscono Champion e lo portano a Belleville, una città americana.
@@ -181860,11 +181351,6 @@
 19	comunali	comunale	ADJ	_	Polarity=Pos	18	amod	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-58
-# text = 1.
-1	1	1	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = splet-59
 # text = Nella prestazione dei servizi di cui agli articoli 12, 13 e 14, gli Stati membri non impongono ai prestatori un obbligo generale di sorveglianza sulle informazioni che trasmettono o memorizzano né un obbligo generale di ricercare attivamente fatti o circostanze che indichino la presenza di attività illecite.
 1-2	Nella	_	_	_	_	_	_	_	_
@@ -181929,11 +181415,6 @@
 53	attività	attività	NOUN	_	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	51	nmod	_	_
 54	illecite	illecito	ADJ	_	Polarity=Pos	53	amod	_	_
 55	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-60
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = splet-61
 # text = Gli Stati membri possono stabilire che i prestatori di servizi della società dell'informazione siano tenuti ad informare senza indugio la pubblica autorità competente di presunte attività o informazioni illecite dei destinatari dei loro servizi o a comunicare alle autorità competenti, a loro richiesta, informazioni che consentano l'identificazione dei destinatari dei loro servizi con cui hanno accordi di memorizzazione dei dati.
@@ -182241,11 +181722,6 @@
 17	noioso	noioso	ADJ	_	Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	14	nmod	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-67
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = 9_PS-90
 # text = la continua e profonda crisi finanziaria in tutto il mondo (ossia, una crescita degli asset finanziari più rapida di quella dell'economia reale) e il mantenimento nella City della propria quota di business finanziari globali.
 1	la	la	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	0	root	_	_
@@ -182460,11 +181936,6 @@
 19	membri	membro	NOUN	_	|	18	compound	_	_
 20	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-75
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = splet-76
 # text = Se il diritto di recesso è stato esercitato dal consumatore conformemente al presente articolo, il fornitore è tenuto al rimborso delle somme versate dal consumatore, che dovrà avvenire gratuitamente.
 1	Se	se	SCONJ	_	_	_	_	_	_
@@ -182661,11 +182132,6 @@
 10	contratto	contratto	NOUN	_	Case=Ine|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	7	obl	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-83
-# text = 4.
-1	4	4	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = 7_WIKIShake-125
 # text = All'inizio del XVII secolo, Shakespeare scrisse le cosiddette "opere problematiche" Misura per Misura, Troilo e Cressida, e Tutto è bene quel che finisce bene e numerose delle sue più famose tragedie.
 1-2	All'	_	_	_	_	_	_	_	_
@@ -182713,11 +182179,6 @@
 40	tragedie	tragedia	NOUN	_	Case=Gen|Definite=Def|Gender=Masc;Fem|Number=Plur;Sing|Polarity=Pos	34	nmod	_	_
 41	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-85
-# text = 6.
-1	6	6	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = test-229
 # text = a ottobre in Vaticano il Sinodo dei vescovi sulla famiglia con al centro il dibattito sulla comunione ai divorziati risposati.
 1	a	a	ADP	_	_	_	_	_	_
@@ -182751,11 +182212,6 @@
 24	divorziati	divorziato	NOUN	_	Case=Lat|Definite=Def|Gender=Masc|Number=Plur|Polarity=Pos	21	nmod	_	_
 25	risposati	risposato	ADJ	_	Polarity=Pos	24	amod	_	_
 26	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-87
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = splet-88
 # text = I mezzi di cui al paragrafo 1 comprendono disposizioni che permettano di adire secondo il diritto nazionale i tribunali o gli organi amministrativi competenti per fare applicare le disposizioni nazionali per l'attuazione della presente direttiva ad uno o più dei seguenti organismi:
@@ -183128,26 +182584,11 @@
 9	"	"	PUNCT	_	_	_	_	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-103
-# text = Disposizioni generali
-1	Disposizioni	disposizione	NOUN	_	Gender=Fem|Number=Plur|Polarity=Pos	0	root	_	_
-2	generali	generale	ADJ	_	Polarity=Pos	1	amod	_	_
-
-# sent_id = splet-104
-# text = Articolo 1
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	1	1	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
 # sent_id = splet-105
 # text = Campo di applicazione
 1	Campo	campo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
 2	di	di	ADP	_	_	_	_	_	_
 3	applicazione	applicazione	NOUN	_	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	nmod	_	_
-
-# sent_id = splet-106
-# text = 1.
-1	1	1	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = quest-1953
 # text = Come morì Marjorie Kinnan Rawlings?
@@ -183378,11 +182819,6 @@
 4	Frasca	Frasca	PROPN	_	|	3	flat:name	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-114
-# text = 4.
-1	4	4	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = splet-115
 # text = La presente convenzione si applica anche al trasporto di cui al capitolo V, fatte salve le disposizioni ivi previste.
 1	La	il	DET	_	_	_	_	_	_
@@ -183411,11 +182847,6 @@
 22	previste	previsto	ADJ	_	Polarity=Pos	20	amod	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-116
-# text = Articolo 2
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	2	2	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
 # sent_id = splet-117
 # text = Trasporto effettuato dallo Stato e trasporto di effetti postali
 1	Trasporto	trasporto	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
@@ -183429,11 +182860,6 @@
 8	di	di	ADP	_	_	_	_	_	_
 9	effetti	effetto	NOUN	_	Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	7	nmod	_	_
 10	postali	postale	ADJ	_	Polarity=Pos	9	amod	_	_
-
-# sent_id = splet-118
-# text = 1.
-1	1	1	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 2_Europarl-245
 # text = Trasporto di merci pericolose su strada.
@@ -183503,11 +182929,6 @@
 34	postali	postale	ADJ	_	Polarity=Pos	33	amod	_	_
 35	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-122
-# text = 3.
-1	3	3	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = 9_PS-230
 # text = Lasciando da parte i potenziali sconvolgimenti geopolitici, persistono formidabili sfide da superare, perlopiù derivanti da underperformance e disfunzioni politiche.
 1	Lasciando	lasciare	VERB	_	Polarity=Pos|VerbForm=Ger|Voice=Act	9	advcl	_	_
@@ -183532,11 +182953,6 @@
 20	disfunzioni	disfunzione	NOUN	_	Case=Abl;Conj|Gender=Fem|Number=Plur|Polarity=Pos	18	conj	_	_
 21	politiche	politico	ADJ	_	Polarity=Pos	20	amod	_	_
 22	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-124
-# text = Capo II
-1	Capo	capo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	II	II	ADJ	_	NumType=Ord|Polarity=Pos	1	amod	_	_
 
 # sent_id = 9_PS-68
 # text = L'aumento degli investimenti diretti stranieri comporterebbe inoltre la creazione di 1.800 nuovi posti di lavoro nell'industria farmaceutica.
@@ -183565,11 +182981,6 @@
 21	farmaceutica	farmaceutico	ADJ	_	Polarity=Pos	20	amod	_	_
 22	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-126
-# text = Articolo 3
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	3	3	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
 # sent_id = quest-1372
 # text = Chi era il presidente degli U.S.A. nel 1929?
 1	Chi	chi	PRON	_	Aspect=Imp|Mood=Int|Polarity=Pos|PronType=Int|Tense=Imp|VerbForm=Fin	0	root	_	_
@@ -183585,11 +182996,6 @@
 9	il	il	DET	_	_	_	_	_	_
 10	1929	1929	NUM	_	Case=Ine|Definite=Def|Gender=Masc|NumType=Card|Number=Sing|Polarity=Pos	1	obl	_	_
 11	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-128
-# text = 1.
-1	1	1	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = quest-1774
 # text = Come viene definito lo studio delle formiche?
@@ -183639,11 +183045,6 @@
 11	li	li	PRON	_	Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=3|Polarity=Pos|PronType=Prs	10	obj	_	_
 12	bene	bene	ADV	_	|	10	advmod	_	_
 13	:	:	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-132
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = splet-133
 # text = In sostituzione del titolo di trasporto di cui al paragrafo 1 è ammesso l'impiego di qualsiasi altro mezzo che attesti le indicazioni ivi menzionate.
@@ -183870,11 +183271,6 @@
 46	applicabile	applicabile	ADJ	_	Case=Cnd|Number=Sing|Polarity=Pos	43	advcl	_	_
 47	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-139
-# text = 5.
-1	5	5	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = 2Parole_5-218
 # text = A marzo sono cominciate le gare del mondiale di Formula Uno dell’anno 2003.
 1	A	a	ADP	_	_	_	_	_	_
@@ -183896,10 +183292,6 @@
 15	anno	anno	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	9	nmod	_	_
 16	2003	2003	NUM	_	NumType=Card|Polarity=Pos	15	nummod	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-142
-# text = Merci
-1	Merci	merce	NOUN	_	Gender=Fem|Number=Plur|Polarity=Pos	0	root	_	_
 
 # sent_id = 2Parole_2-251
 # text = Durante la campagna elettorale del 1946 uomini e donne andavano in giro nelle strade e nelle piazze delle città e dei paesi a parlare alla gente.
@@ -183959,11 +183351,6 @@
 12	aereo	aereo	ADJ	_	Polarity=Pos	11	amod	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-145
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = quest-1393
 # text = In quale città si trova l'Università Purdue?
 1	In	in	ADP	_	_	_	_	_	_
@@ -184022,11 +183409,6 @@
 39	esso	esso	PRON	_	Case=Ine|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	40	obl	_	_
 40	registrate	registrare	VERB	_	Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	37	acl	_	_
 41	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-148
-# text = Articolo 5
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	5	5	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
 
 # sent_id = splet-149
 # text = Contenuto della lettera di trasporto aereo o della ricevuta di carico
@@ -184099,11 +183481,6 @@
 9	la	il	DET	_	_	_	_	_	_
 10	spedizione	spedizione	NOUN	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	7	nmod	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-154
-# text = Articolo 6
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	6	6	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
 
 # sent_id = 2Parole_5-38
 # text = Marco Pantani era nato a Cesenatico il 13 gennaio del 1970.
@@ -184186,11 +183563,6 @@
 17	responsabilità	responsabilità	NOUN	_	Case=Acc;Disj|Gender=Fem|Number=Sing|Polarity=Pos	12	conj	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-158
-# text = Articolo 7
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	7	7	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
 # sent_id = quest-2118
 # text = Cosa ha rotto le luci?
 1	Cosa	cosa	PRON	_	Case=Nom|Number=Sing|Polarity=Pos|PronType=Int	3	nsubj	_	_
@@ -184199,11 +183571,6 @@
 4	le	il	DET	_	_	_	_	_	_
 5	luci	luce	NOUN	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|Polarity=Pos	3	obj	_	_
 6	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-160
-# text = 1.
-1	1	1	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = splet-161
 # text = La lettera di trasporto aereo viene emessa dal mittente in tre esemplari originali.
@@ -184223,11 +183590,6 @@
 13	esemplari	esemplare	NOUN	_	Case=Ine|Gender=Masc|Number=Plur|Polarity=Pos	7	obl	_	_
 14	originali	originale	ADJ	_	Polarity=Pos	13	amod	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-162
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = quest-1666
 # text = Quanto è grande la Carolina del Nord in miglia quadrate?
@@ -184272,11 +183634,6 @@
 20	il	il	DET	_	_	_	_	_	_
 21	vettore	vettore	NOUN	_	Case=Abl;Conj;Agt|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	17	conj	_	_
 22	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-166
-# text = 3.
-1	3	3	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = splet-167
 # text = La firma del vettore e quella del mittente possono essere stampate o sostituite da un timbro.
@@ -184400,11 +183757,6 @@
 34	mittente	mittente	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	31	nmod	_	_
 35	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-170
-# text = Articolo 19
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	19	19	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
 # sent_id = 2_Europarl-94
 # text = Soltanto un gruppo politico condivideva l'opinione da lei espressa in questa sede.
 1	Soltanto	soltanto	ADV	_	|	3	advmod	_	_
@@ -184436,11 +183788,6 @@
 10	Paolo	Paolo	PROPN	_	Case=Gen|Polarity=Pos	8	nmod	_	_
 11	Conte	Conte	PROPN	_	|	10	flat:name	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-173
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = splet-174
 # text = La procedura di cui all'articolo 15, paragrafo 2, si applica a decorrere dalla notifica della presente direttiva.
@@ -184485,16 +183832,6 @@
 9	americano	americano	ADJ	_	Polarity=Pos	8	amod	_	_
 10	?	?	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-176
-# text = Articolo 20
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	20	20	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
-# sent_id = splet-177
-# text = Articolo 2
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	2	2	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
 # sent_id = splet-178
 # text = Gli stati membri provvedono a comunicare alla Commissione il testo delle disposizioni essenziali di diritto interno che essi adottano nel settore disciplinato dalla presente direttiva.
 1	Gli	il	DET	_	_	_	_	_	_
@@ -184532,11 +183869,6 @@
 29	direttiva	direttiva	NOUN	_	Case=Agt|Definite=Def|Gender=Fem|Number=Sing|Polarity=Pos	25	obl:agent	_	_
 30	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-179
-# text = Articolo 21
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	21	21	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
 # sent_id = splet-180
 # text = La Commissione trasmette ogni cinque anni al Consiglio una relazione sull'applicazione della presente direttiva e gli presenta, se necessario, proposte appropriate.
 1	La	il	DET	_	_	_	_	_	_
@@ -184571,11 +183903,6 @@
 26	proposte	proposta	NOUN	_	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	21	obj	_	_
 27	appropriate	appropriato	ADJ	_	Polarity=Pos	26	amod	_	_
 28	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-181
-# text = Articolo 22
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	22	22	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
 
 # sent_id = splet-182
 # text = Gli stati membri sono destinatari della presente direttiva.
@@ -184650,16 +183977,6 @@
 17	sociale	sociale	ADJ	_	Polarity=Pos	16	amod	_	_
 18	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-185
-# text = Articolo 3
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	3	3	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
-# sent_id = splet-186
-# text = 1.
-1	1	1	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = splet-187
 # text = Il termine «produttore» designa il fabbricante di un prodotto finito, il produttore di una materia prima o il fabbricante di una parte componente, nonché ogni persona che, apponendo il proprio nome, marchio o altro segno distintivo sul prodotto, si presenta come produttore dello stesso.
 1	Il	il	DET	_	_	_	_	_	_
@@ -184718,11 +184035,6 @@
 52	lo	il	DET	_	_	_	_	_	_
 53	stesso	stesso	PRON	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Dem	50	nmod	_	_
 54	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-188
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = splet-189
 # text = Senza pregiudizio della responsabilità del produttore, chiunque importi un prodotto nella Comunità europea ai fini della vendita, della locazione, del «leasing» o di qualsiasi altra forma di distribuzione nell'ambito della sua attività commerciale, è considerato produttore del medesimo ai sensi della presente direttiva ed è responsabile allo stesso titolo del produttore.
@@ -184814,11 +184126,6 @@
 71	il	il	DET	_	_	_	_	_	_
 72	produttore	produttore	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	69	nmod	_	_
 73	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-190
-# text = 3.
-1	3	3	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = splet-191
 # text = Quando non può essere individuato il produttore del prodotto si considera tale ogni fornitore a meno che quest'ultimo comunichi al danneggiato, entro un termine ragionevole, l'identità del produttore o della persona che gli ha fornito il prodotto.
@@ -184915,11 +184222,6 @@
 35	produttore	produttore	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	32	nmod	_	_
 36	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-193
-# text = Articolo 4
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	4	4	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
-
 # sent_id = 9_PS-327
 # text = L'influenza dei livelli e della composizione della nutrizione materna su un feto di sesso femminile continuerà fino all'età adulta, quando anche lei diventerà una madre.
 1	L'	il	DET	_	_	_	_	_	_
@@ -184959,11 +184261,6 @@
 31	una	uno	DET	_	_	_	_	_	_
 32	madre	madre	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos	30	xcomp	_	_
 33	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-195
-# text = Articolo 5
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	5	5	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
 
 # sent_id = splet-196
 # text = Se, in applicazione della presente direttiva, più persone sono responsabili dello stesso danno, esse rispondono in solido, fatte salve le disposizioni nazionali in materia di diritto di rivalsa.
@@ -185031,11 +184328,6 @@
 20	in	in	ADP	_	_	_	_	_	_
 21	Lombardia	Lombardia	PROPN	_	Case=Ine|Polarity=Pos	14	nmod	_	_
 22	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-198
-# text = 1.
-1	1	1	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = splet-199
 # text = Un prodotto è difettoso quando non offre la sicurezza che ci si può legittimamente attendere tenuto conto di tutte le circostanze, tra cui:
@@ -185115,11 +184407,6 @@
 12	prodotto	prodotto	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos	9	nmod	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
 
-# sent_id = splet-203
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
-
 # sent_id = splet-204
 # text = Un prodotto non può essere considerato difettoso per il solo fatto che un prodotto più perfezionato sia stato messo in circolazione successivamente ad esso.
 1	Un	uno	DET	_	_	_	_	_	_
@@ -185147,11 +184434,6 @@
 23	ad	a	ADP	_	_	_	_	_	_
 24	esso	esso	PRON	_	Case=Lat|Gender=Masc|Number=Sing|Person=3|Polarity=Pos|PronType=Prs	22	obl	_	_
 25	.	.	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-205
-# text = Articolo 7
-1	Articolo	articolo	NOUN	_	Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
-2	7	7	NUM	_	NumType=Card|Polarity=Pos	1	nummod	_	_
 
 # sent_id = 2Parole_1-33
 # text = Abbiamo parlato della morte di Yasser Arafat nelle “Notizie dall’estero” del numero di dicembre 2004 di dueparole.
@@ -185430,11 +184712,6 @@
 6	di	di	ADP	_	_	_	_	_	_
 7	bradipo	bradipo	NOUN	_	Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	_	_
 8	?	?	PUNCT	_	_	_	_	_	_
-
-# sent_id = splet-216
-# text = 2.
-1	2	2	NUM	_	NumType=Card|Polarity=Pos	0	root	_	_
-2	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = splet-217
 # text = La responsabilità del produttore può essere ridotta o soppressa, tenuto conto di tutte le circostanze, quando il danno è provocato congiuntamente da un difetto del prodotto e per colpa del danneggiato o di una persona di cui il danneggiato è responsabile.
