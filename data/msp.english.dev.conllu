@@ -290,8 +290,8 @@
 # sent_id = weblog-juancole.com_juancole_20040114085100_ENG_20040114_085100-0006
 # text = It seems clear to me that the manhunt for high Baath officials in the Sunni heartland is being done wrong, or at least in ways that are bad for US standing with local Iraqis.
 1	It	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
-1.1	_	_	_	_	Number=Sing|Person=3	2	nsubj	_	_
 2	seems	seem	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2.1	_	_	_	_	Number=Sing|Person=3	2	nsubj	_	_
 3	clear	clear	ADJ	_	Degree=Pos	2	xcomp	_	_
 4	to	to	ADP	_	_	_	_	_	_
 5	me	I	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
@@ -772,8 +772,8 @@
 17	the	the	DET	_	_	_	_	_	_
 18	assassination	assassination	NOUN	_	Definite=Def|Number=Sing	16	obj	_	_
 19	and	and	CCONJ	_	_	_	_	_	_
-19.1	_	_	_	_	Number=Sing|Person=3	20	nsubj	_	_
 20	promised	promise	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	_
+20.1	_	_	_	_	Number=Sing|Person=3	20	nsubj	_	_
 21	immediate	immediate	ADJ	_	Degree=Pos	22	amod	_	_
 22	revenge	revenge	NOUN	_	Number=Sing	20	obj	_	_
 23	against	against	ADP	_	_	_	_	_	_
@@ -1294,8 +1294,8 @@
 7	tables	table	NOUN	_	Definite=Def|Number=Plur	5	obj	_	_
 8	and	and	CCONJ	_	_	_	_	_	_
 9	is	be	AUX	_	_	_	_	_	_
-9.1	_	_	_	_	Number=Sing|Person=3	10	nsubj	_	_
 10	inviting	invite	VERB	_	Aspect=Prog|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+10.1	_	_	_	_	Number=Sing|Person=3	10	nsubj	_	_
 11	cartoonists	cartoonist	NOUN	_	Number=Plur	10	obj	_	_
 12	to	to	PART	_	_	_	_	_	_
 13	do	do	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	10	xcomp	_	_
@@ -1754,8 +1754,8 @@
 25	look	look	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	23	xcomp	_	_
 26	weak	weak	ADJ	_	Degree=Pos	25	xcomp	_	_
 27	and	and	CCONJ	_	_	_	_	_	_
-27.1	_	_	_	_	Number=Sing|Person=3	28	nsubj	_	_
 28	brings	bring	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	_
+28.1	_	_	_	_	Number=Sing|Person=3	28	nsubj	_	_
 29	substantial	substantial	ADJ	_	Degree=Pos	30	amod	_	_
 30	shame	shame	NOUN	_	Number=Sing	28	obj	_	_
 31	on	on	ADP	_	_	_	_	_	_
@@ -1775,8 +1775,8 @@
 9	,	,	PUNCT	_	_	_	_	_	_
 10	but	but	CCONJ	_	_	_	_	_	_
 11	still	still	ADV	_	|	12	advmod	_	_
-11.1	_	_	_	_	Number=Plur|Person=3	12	nsubj	_	_
 12	face	face	VERB	_	Case=Advs|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+12.1	_	_	_	_	Number=Plur|Person=3	12	nsubj	_	_
 13	pockets	pocket	NOUN	_	Number=Plur	12	obj	_	_
 14	of	of	ADP	_	_	_	_	_	_
 15	resistance	resistance	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	_
@@ -2322,8 +2322,8 @@
 7	war	war	NOUN	_	Number=Sing	8	compound	_	_
 8	zone	zone	NOUN	_	Case=Ill|Definite=Ind|Number=Sing	4	obl	_	_
 9	and	and	CCONJ	_	_	_	_	_	_
-9.1	_	_	_	_	Number=Sing|Person=3	10	nsubj	_	_
 10	evacuates	evacuate	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+10.1	_	_	_	_	Number=Sing|Person=3	10	nsubj	_	_
 11	a	a	DET	_	_	_	_	_	_
 12	bunch	bunch	NOUN	_	Definite=Ind|Number=Sing	10	obj	_	_
 13	of	of	ADP	_	_	_	_	_	_
@@ -2874,8 +2874,8 @@
 4	example	example	NOUN	_	Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	of	of	ADP	_	_	_	_	_	_
 6	what	what	PRON	_	Case=Gen|PronType=Rel	4	nmod	_	_
-6.1	_	_	_	_	Number=Sing|Person=3	7	nsubj	_	_
 7	happens	happen	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+7.1	_	_	_	_	Number=Sing|Person=3	7	nsubj	_	_
 8	when	when	ADV	_	_	_	_	_	_
 9	Bush	Bush	PROPN	_	Number=Sing	10	nsubj	_	_
 10	gets	get	VERB	_	Case=Temp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
@@ -2893,8 +2893,8 @@
 # text = "Q Thank you -- I was wondering, there's a lot of talk right now about memoirs being written with the former President.
 1	"	"	PUNCT	_	_	_	_	_	_
 2	Q	Q	NOUN	_	Number=Sing	0	root	_	_
-2.1	_	_	_	_	Number=Sing|Person=1	3	nsubj	_	_
 3	Thank	thank	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+3.1	_	_	_	_	Number=Sing|Person=1	3	nsubj	_	_
 4	you	you	PRON	_	Case=Acc|Person=2|PronType=Prs	3	obj	_	_
 5	--	--	PUNCT	_	_	_	_	_	_
 6	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
@@ -3139,8 +3139,8 @@
 9	wife	wife	NOUN	_	Case=Conj|Number=Sing	6	conj	_	_
 10	Jan	Jan	PROPN	_	Number=Sing	9	appos	_	_
 11	,	,	PUNCT	_	_	_	_	_	_
-11.1	_	_	_	_	Number=Sing|Person=3	12	nsubj	_	_
 12	introduced	introduce	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	14	reparandum	_	_
+12.1	_	_	_	_	Number=Sing|Person=3	12	nsubj	_	_
 13	--	--	PUNCT	_	_	_	_	_	_
 14	reintroduced	reintroduce	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
 15	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	14	obj	_	_
@@ -3907,8 +3907,8 @@
 5	following	follow	VERB	_	Polarity=Pos|VerbForm=Ger|Voice=Act	8	csubj	_	_
 6	the	the	DET	_	_	_	_	_	_
 7	talent	talent	NOUN	_	Definite=Def|Number=Sing	5	obj	_	_
-7.1	_	_	_	_	Number=Sing|Person=3	8	nsubj	_	_
 8	leads	lead	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8.1	_	_	_	_	Number=Sing|Person=3	8	nsubj	_	_
 9	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	_
 10	to	to	PART	_	_	_	_	_	_
 11	think	think	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	8	xcomp	_	_
@@ -4105,8 +4105,8 @@
 2	open	open	ADJ	_	Degree=Pos	3	amod	_	_
 3	source	source	NOUN	_	Number=Sing	4	compound	_	_
 4	talent	talent	NOUN	_	Number=Sing	1	obj	_	_
-4.1	_	_	_	_	Number=Sing|Person=3	5	nsubj	_	_
 5	gives	give	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5.1	_	_	_	_	Number=Sing|Person=3	5	nsubj	_	_
 6	a	a	DET	_	_	_	_	_	_
 7	company	company	NOUN	_	Definite=Ind|Number=Sing	5	iobj	_	_
 8	an	a	DET	_	_	_	_	_	_
@@ -4433,8 +4433,8 @@
 9	Neocons	Neocon	PROPN	_	Case=Gen|Number=Plur	7	nmod	_	_
 10	in	in	ADP	_	_	_	_	_	_
 11	Iraq	Iraq	PROPN	_	Case=Ine|Number=Sing	9	nmod	_	_
-11.1	_	_	_	_	Number=Sing|Person=3	12	nsubj	_	_
 12	helps	help	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12.1	_	_	_	_	Number=Sing|Person=3	12	nsubj	_	_
 13	explain	explain	VERB	_	Polarity=Pos|VerbForm=Inf|Voice=Act	12	xcomp	_	_
 14	the	the	DET	_	_	_	_	_	_
 15	extreme	extreme	ADJ	_	Degree=Pos	16	amod	_	_
@@ -4497,8 +4497,8 @@
 5	sat	sit	VERB	_	Case=Dsc|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	down	down	ADV	_	_	_	_	_	_
 7	and	and	CCONJ	_	_	_	_	_	_
-7.1	_	_	_	_	Number=Sing|Person=3	8	nsubj	_	_
 8	thought	think	VERB	_	Case=Conj;Asc|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+8.1	_	_	_	_	Number=Sing|Person=3	8	nsubj	_	_
 9	up	up	ADP	_	_	_	_	_	_
 10	ways	way	NOUN	_	Number=Plur	8	obj	_	_
 11	to	to	PART	_	_	_	_	_	_
@@ -5046,8 +5046,8 @@
 20	great	great	ADJ	_	Degree=Pos	21	amod	_	_
 21	people	people	NOUN	_	Case=Abl|Number=Plur	18	obl	_	_
 22	and	and	CCONJ	_	_	_	_	_	_
-22.1	_	_	_	_	Number=Sing|Person=2	23	nsubj	_	_
 23	have	have	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	_
+23.1	_	_	_	_	Number=Sing|Person=2	23	nsubj	_	_
 24	fantastic	fantastic	ADJ	_	Degree=Pos	25	amod	_	_
 25	friends	friend	NOUN	_	Number=Plur	23	obj	_	_
 26	.	.	PUNCT	_	_	_	_	_	_
@@ -5934,8 +5934,8 @@
 # sent_id = email-enronsent20_02-0014
 # text = Just wanted to confirm our meeting on Tuesday Aug 29th from 1:30 -2:30 to discuss Uof H's endowment proposal.
 1	Just	just	ADV	_	|	2	advmod	_	_
-1.1	_	_	_	_	Number=Sing|Person=1	2	nsubj	_	_
 2	wanted	want	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2.1	_	_	_	_	Number=Sing|Person=1	2	nsubj	_	_
 3	to	to	PART	_	_	_	_	_	_
 4	confirm	confirm	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	2	xcomp	_	_
 5	our	our	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
@@ -6697,8 +6697,8 @@
 23	,	,	PUNCT	_	_	_	_	_	_
 24	called	call	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 25	and	and	CCONJ	_	_	_	_	_	_
-25.1	_	_	_	_	Number=Sing|Person=3	26	nsubj	_	_
 26	informed	inform	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	24	conj	_	_
+26.1	_	_	_	_	Number=Sing|Person=3	26	nsubj	_	_
 27	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	26	iobj	_	_
 28	that	that	SCONJ	_	_	_	_	_	_
 29	the	the	DET	_	_	_	_	_	_
@@ -6807,8 +6807,8 @@
 7	our	our	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
 8	discussions	discussion	NOUN	_	Case=base;Ade|Number=Plur	2	obl	_	_
 9	and	and	CCONJ	_	_	_	_	_	_
-9.1	_	_	_	_	Number=Sing|Person=1	10	nsubj	_	_
 10	added	add	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+10.1	_	_	_	_	Number=Sing|Person=1	10	nsubj	_	_
 11	the	the	DET	_	_	_	_	_	_
 12	language	language	NOUN	_	Definite=Def|Number=Sing	10	obj	_	_
 13	concerning	concern	VERB	_	Tense=Pres|VerbForm=Part	14	case	_	_
@@ -7513,8 +7513,8 @@
 # text = is it supposed to be storming?
 1	is	be	AUX	_	_	_	_	_	_
 2	it	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-2.1	_	_	_	_	Number=Sing|Person=3	3	nsubj	_	_
 3	supposed	suppose	VERB	_	Mood=Int|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+3.1	_	_	_	_	Number=Sing|Person=3	3	nsubj	_	_
 4	to	to	PART	_	_	_	_	_	_
 5	be	be	AUX	_	_	_	_	_	_
 6	storming	storm	VERB	_	Aspect=Prog|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	_
@@ -7839,8 +7839,8 @@
 3	well	well	ADJ	_	Degree=Pos|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	and	and	CCONJ	_	_	_	_	_	_
 5	has	have	AUX	_	_	_	_	_	_
-5.1	_	_	_	_	Number=Sing|Person=3	6	nsubj	_	_
 6	landed	land	VERB	_	Aspect=Perf|Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6.1	_	_	_	_	Number=Sing|Person=3	6	nsubj	_	_
 7	herself	herself	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	iobj	_	_
 8	a	a	DET	_	_	_	_	_	_
 9	pretty	pretty	ADV	_	|	10	advmod	_	_
@@ -8120,8 +8120,8 @@
 
 # sent_id = email-enronsent08_01-0045
 # text = Thank you.
-0.1	_	_	_	_	Number=Sing|Person=1	1	nsubj	_	_
 1	Thank	thank	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1.1	_	_	_	_	Number=Sing|Person=1	1	nsubj	_	_
 2	you	you	PRON	_	Case=Acc|Person=2|PronType=Prs	1	obj	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8274,8 +8274,8 @@
 9	maybe	maybe	ADV	_	|	12	advmod	_	_
 10	there	there	PRON	_	|	12	expl	_	_
 11	still	still	ADV	_	|	12	advmod	_	_
-11.1	_	_	_	_	Number=Plur|Person=3	12	nsubj	_	_
 12	are	be	VERB	_	Case=Conj|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+12.1	_	_	_	_	Number=Plur|Person=3	12	nsubj	_	_
 13	many	many	ADJ	_	Degree=Pos	14	amod	_	_
 14	things	thing	NOUN	_	Number=Plur	6	nsubj	_	_
 15	that	that	PRON	_	Case=Abe|PronType=Rel	20	obl	_	_
@@ -8561,8 +8561,8 @@
 8	earlier	early	ADV	_	Degree=Cmp	4	advmod	_	_
 9	(	(	PUNCT	_	_	_	_	_	_
 10	totally	totally	ADV	_	|	11	advmod	_	_
-10.1	_	_	_	_	Number=Sing|Person=1	11	nsubj	_	_
 11	forgot	forget	VERB	_	Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+11.1	_	_	_	_	Number=Sing|Person=1	11	nsubj	_	_
 12	to	to	PART	_	_	_	_	_	_
 13	open	open	VERB	_	Mood=Ind|Polarity=Pos|VerbForm=Inf|Voice=Act	11	xcomp	_	_
 14	my	my	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	_
@@ -8777,8 +8777,8 @@
 # sent_id = email-enronsent30_02-0032
 # newpar id = email-enronsent30_02-p0010
 # text = Thank you.
-0.1	_	_	_	_	Number=Sing|Person=1	1	nsubj	_	_
 1	Thank	thank	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1.1	_	_	_	_	Number=Sing|Person=1	1	nsubj	_	_
 2	you	you	PRON	_	Case=Acc|Person=2|PronType=Prs	1	obj	_	_
 3	.	.	PUNCT	_	_	_	_	_	_
 
@@ -8908,8 +8908,8 @@
 # sent_id = email-enronsent29_01-0007
 # text = Greatly appreciate your prompt feedback to this inquiry.
 1	Greatly	greatly	ADV	_	|	2	advmod	_	_
-1.1	_	_	_	_	Number=Sing|Person=1	2	nsubj	_	_
 2	appreciate	appreciate	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2.1	_	_	_	_	Number=Sing|Person=1	2	nsubj	_	_
 3	your	your	PRON	_	Case=Gen|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
 4	prompt	prompt	ADJ	_	Degree=Pos	5	amod	_	_
 5	feedback	feedback	NOUN	_	Number=Sing	2	obj	_	_

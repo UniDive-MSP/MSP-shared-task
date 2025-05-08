@@ -224,8 +224,8 @@
 2	rata	rat	NOUN	_	Case=Tps|Gender=Masc|Number=Sing	5	obl	_	_
 3	sam	biti	AUX	_	_	_	_	_	_
 4	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
-4.1	_	_	_	_	Gender=Masc|Number=Sing|Person=1	5	nsubj	_	_
 5	nadao	nadati	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5.1	_	_	_	_	Gender=Masc|Number=Sing|Person=1	5	nsubj	_	_
 6	da	da	SCONJ	_	_	_	_	_	_
 7	ću	hteti	AUX	_	_	_	_	_	_
 8	dobiti	dobiti	VERB	_	Case=da|Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	5	ccomp	_	_
@@ -255,8 +255,8 @@
 9	"	"	PUNCT	_	_	_	_	_	_
 10	nikada	nikada	ADV	_	Degree=Pos|PronType=Neg	12	advmod	_	_
 11	nisam	biti	AUX	_	_	_	_	_	_
-11.1	_	_	_	_	Gender=Masc|Number=Sing|Person=1	12	nsubj	_	_
 12	dobio	dobiti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12.1	_	_	_	_	Gender=Masc|Number=Sing|Person=1	12	nsubj	_	_
 13	bilo	bilo	PART	_	_	_	_	_	_
 14	kakvu	kakav	DET	_	Case=Acc|Gender=Fem|Mood=Ind|Number=Sing|Polarity=Pos|PronType=Int,Rel|VerbForm=Fin	15	det	_	_
 15	nadoknadu	nadoknada	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
@@ -393,8 +393,8 @@
 1	"	"	PUNCT	_	_	_	_	_	_
 2	Deceniju	decenija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	_
 3	kasnije	kasno	ADV	_	Degree=Cmp	4	advmod	_	_
-3.1	_	_	_	_	Number=Plur|Person=1	4	nsubj	_	_
 4	vidimo	videti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4.1	_	_	_	_	Number=Plur|Person=1	4	nsubj	_	_
 5	da	da	SCONJ	_	_	_	_	_	_
 6	je	biti	AUX	_	_	_	_	_	_
 7	ekonomija	ekonomija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
@@ -1558,8 +1558,8 @@
 16	rešenja	rešenje	NOUN	_	Case=za|Gender=Neut|Number=Plur	13	nmod	_	_
 17	,	,	PUNCT	_	_	_	_	_	_
 18	ali	ali	CCONJ	_	_	_	_	_	_
-18.1	_	_	_	_	Number=Sing|Person=1	19	nsubj	_	_
 19	mislim	misliti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+19.1	_	_	_	_	Number=Sing|Person=1	19	nsubj	_	_
 20	da	da	SCONJ	_	_	_	_	_	_
 21	argumenti	argument	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	_
 22	dokazuju	dokazivati	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	19	ccomp	_	_
@@ -1700,8 +1700,8 @@
 
 # sent_id = set-s578
 # text = Morao bi da podržava princip teritorijalnog integriteta, što bi dovelo do sukoba sa Moskvom, na čiju podršku Beograd računa u Savetu Bezbednosti UN.
-0.1	_	_	_	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 1	Morao	morati	VERB	_	Aspect=Imp|Mood=Cnd|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1.1	_	_	_	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 2	bi	biti	AUX	_	_	_	_	_	_
 3	da	da	SCONJ	_	_	_	_	_	_
 4	podržava	podržavati	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
@@ -2986,8 +2986,8 @@
 
 # sent_id = set-s835
 # text = Predložili smo da se izabere lokacija koju bi policija mogla da obezbedi, kako ne bismo bili odgovorni ni za jedan ljudski život", rekao je ministar unutrašnjih poslova Ivica Dačić.
-0.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	1	nsubj	_	_
 1	Predložili	predložiti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	1	nsubj	_	_
 2	smo	biti	AUX	_	_	_	_	_	_
 3	da	da	SCONJ	_	_	_	_	_	_
 4	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
@@ -3068,8 +3068,8 @@
 # sent_id = set-s838
 # text = Ne želimo da šetamo oko nekog travnjaka u blizini reke; to ne bi bila Parada ponosa", rekla je članica organizacionog odbora Majda Puača.
 1	Ne	ne	PART	_	_	_	_	_	_
-1.1	_	_	_	_	Number=Plur|Person=1	2	nsubj	_	_
 2	želimo	želeti	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2.1	_	_	_	_	Number=Plur|Person=1	2	nsubj	_	_
 3	da	da	SCONJ	_	_	_	_	_	_
 4	šetamo	šetati	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
 5	oko	oko	ADP	_	_	_	_	_	_
@@ -3535,8 +3535,8 @@
 # text = "Danas prekidam ćutnju jer je ono što danas govore mediji i ljudi koji iza njih stoje za mene neprihvatljivo."
 1	"	"	PUNCT	_	_	_	_	_	_
 2	Danas	danas	ADV	_	Degree=Pos	3	advmod	_	_
-2.1	_	_	_	_	Number=Sing|Person=1	3	nsubj	_	_
 3	prekidam	prekidati	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3.1	_	_	_	_	Number=Sing|Person=1	3	nsubj	_	_
 4	ćutnju	ćutnja	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
 5	jer	jer	SCONJ	_	_	_	_	_	_
 6	je	biti	AUX	_	_	_	_	_	_
@@ -4282,8 +4282,8 @@
 # sent_id = set-s1110
 # text = "Nadam se da će sudije, koje prvi put vrše pravo izbora članova Saveta, izabrati najbolje kandidate, rekao je ministar pravde Mihajlo Manevski.
 1	"	"	PUNCT	_	_	_	_	_	_
-1.1	_	_	_	_	Number=Sing|Person=1	2	nsubj	_	_
 2	Nadam	nadati	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2.1	_	_	_	_	Number=Sing|Person=1	2	nsubj	_	_
 3	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl	_	_
 4	da	da	SCONJ	_	_	_	_	_	_
 5	će	hteti	AUX	_	_	_	_	_	_
@@ -4489,8 +4489,8 @@
 # sent_id = set-s1118
 # text = "Nadam se da će sudije, koje prvi put vrše pravo izbora članova Saveta, izabrati najbolje kandidate.
 1	"	"	PUNCT	_	_	_	_	_	_
-1.1	_	_	_	_	Number=Sing|Person=1	2	nsubj	_	_
 2	Nadam	nadati	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2.1	_	_	_	_	Number=Sing|Person=1	2	nsubj	_	_
 3	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	2	expl	_	_
 4	da	da	SCONJ	_	_	_	_	_	_
 5	će	hteti	AUX	_	_	_	_	_	_
@@ -5002,8 +5002,8 @@
 5	da	da	SCONJ	_	_	_	_	_	_
 6	su	biti	AUX	_	_	_	_	_	_
 7	malo	malo	ADV	_	Degree=Pos	8	advmod	_	_
-7.1	_	_	_	_	Gender=Masc|Number=Plur|Person=3	8	nsubj	_	_
 8	poranili	poraniti	VERB	_	Aspect=Imp|Case=da|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	_	_
+8.1	_	_	_	_	Gender=Masc|Number=Plur|Person=3	8	nsubj	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
 10	s	sa	ADP	_	Case=Ins	15	mark	_	_
 11	obzirom	obzir	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	10	fixed	_	_
@@ -5030,8 +5030,8 @@
 1	Zbog	zbog	ADP	_	_	_	_	_	_
 2	toga	taj	DET	_	Case=Cau|Gender=Neut|Number=Sing|PronType=Dem	4	obl	_	_
 3	je	biti	AUX	_	_	_	_	_	_
-3.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	4	nsubj	_	_
 4	došlo	doći	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	4	nsubj	_	_
 5	do	do	ADP	_	_	_	_	_	_
 6	odlaganja	odlaganje	NOUN	_	Case=Lat|Gender=Neut|Number=Sing	4	obl	_	_
 7	početka	početak	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
@@ -5227,8 +5227,8 @@
 # sent_id = set-s1478
 # text = "Razmatrali smo situaciju i postupanje prema manjinama u Albaniji i napravljen je 'ustavni' dokument u okviru ustava, sa pravima manjina u Albaniji, u poređenju sa ostalim zemljama regiona", rekao je Veliju za SETimes.
 1	"	"	PUNCT	_	_	_	_	_	_
-1.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	2	nsubj	_	_
 2	Razmatrali	razmatrati	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	2	nsubj	_	_
 3	smo	biti	AUX	_	_	_	_	_	_
 4	situaciju	situacija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
 5	i	i	CCONJ	_	_	_	_	_	_
@@ -5336,8 +5336,8 @@
 # sent_id = set-s1482
 # text = "Digli smo svoj glas tražeći poboljšanje socijalne i ekonomske situacije romskog naroda, njihovog obrazovanja, zdravstva, infrastrukture, smeštaja, zapošljavanja, što je postalo deo nacionalne strategije za poboljšanje uslova života Roma", rekao je Veliju.
 1	"	"	PUNCT	_	_	_	_	_	_
-1.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	2	nsubj	_	_
 2	Digli	dići	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	2	nsubj	_	_
 3	smo	biti	AUX	_	_	_	_	_	_
 4	svoj	svoj	DET	_	_	_	_	_	_
 5	glas	glas	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|Reflex=Yes	2	obj	_	_
@@ -5581,16 +5581,16 @@
 # sent_id = set-s1490
 # text = Ne volim da me nazivaju manjinom i ne želim da to prihvatim", rekla je kosovska Srpkinja Milica Marković za SETimes.
 1	Ne	ne	PART	_	_	_	_	_	_
-1.1	_	_	_	_	Number=Sing|Person=1	2	nsubj	_	_
 2	volim	voleti	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2.1	_	_	_	_	Number=Sing|Person=1	2	nsubj	_	_
 3	da	da	SCONJ	_	_	_	_	_	_
 4	me	ja	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
 5	nazivaju	nazivati	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
 6	manjinom	manjina	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	5	xcomp	_	_
 7	i	i	CCONJ	_	_	_	_	_	_
-8.1	_	_	_	_	Number=Sing|Person=1	9	nsubj	_	_
 8	ne	ne	PART	_	_	_	_	_	_
 9	želim	želeti	VERB	_	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+9.1	_	_	_	_	Number=Sing|Person=1	9	nsubj	_	_
 10	da	da	SCONJ	_	_	_	_	_	_
 11	to	taj	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	obj	_	_
 12	prihvatim	prihvatiti	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	_
@@ -5710,8 +5710,8 @@
 8	kao	kao	SCONJ	_	_	_	_	_	_
 9	manjina	manjina	NOUN	_	Case=kao|Gender=Fem|Number=Sing	5	obl	_	_
 10	]	]	PUNCT	_	_	_	_	_	_
-10.1	_	_	_	_	Number=Plur|Person=2	11	nsubj	_	_
 11	morate	morati	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11.1	_	_	_	_	Number=Plur|Person=2	11	nsubj	_	_
 12	to	taj	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	14	obj	_	_
 13	da	da	SCONJ	_	_	_	_	_	_
 14	tražite	tražiti	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	11	xcomp	_	_
@@ -5847,8 +5847,8 @@
 # text = "Ne osećam se kao građanin drugog reda, mada je puno onih koji svakodnevno pokušavaju da me uvere da jesam", rekao je on za SETimes.
 1	"	"	PUNCT	_	_	_	_	_	_
 2	Ne	ne	PART	_	_	_	_	_	_
-2.1	_	_	_	_	Number=Sing|Person=1	3	nsubj	_	_
 3	osećam	osećati	VERB	_	Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3.1	_	_	_	_	Number=Sing|Person=1	3	nsubj	_	_
 4	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	3	expl	_	_
 5	kao	kao	SCONJ	_	_	_	_	_	_
 6	građanin	građanin	NOUN	_	Case=kao|Gender=Masc|Number=Sing	3	obl	_	_
@@ -5994,8 +5994,8 @@
 1	"	"	PUNCT	_	_	_	_	_	_
 2	Prvo	prvo	ADV	_	Degree=Pos	4	advmod	_	_
 3	smo	biti	AUX	_	_	_	_	_	_
-3.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	4	nsubj	_	_
 4	uzeli	uzeti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	4	nsubj	_	_
 5	kredit	kredit	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
 6	da	da	SCONJ	_	_	_	_	_	_
 7	odemo	otići	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
@@ -6008,22 +6008,22 @@
 14	,	,	PUNCT	_	_	_	_	_	_
 15	a	a	CCONJ	_	_	_	_	_	_
 16	onda	onda	ADV	_	Degree=Pos|PronType=Dem	18	advmod	_	_
-17.1	_	_	_	_	Gender=Masc|Number=Sing|Person=1	18	nsubj	_	_
 17	sam	biti	AUX	_	_	_	_	_	_
 18	nasledio	naslediti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+18.1	_	_	_	_	Gender=Masc|Number=Sing|Person=1	18	nsubj	_	_
 19	ovaj	ovaj	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	_
-21.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	22	nsubj	_	_
 20	stan	stan	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obj	_	_
 21	i	i	CCONJ	_	_	_	_	_	_
 22	uselili	useliti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+22.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	22	nsubj	_	_
 23	smo	biti	AUX	_	_	_	_	_	_
 24	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	22	expl	_	_
 25	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = set-s1863
 # text = Okrečili smo ga, kupili nov nameštaj, nov frižider, popravljali.
-0.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	1	nsubj	_	_
 1	Okrečili	okrečiti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	1	nsubj	_	_
 2	smo	biti	AUX	_	_	_	_	_	_
 3	ga	on	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
@@ -6041,8 +6041,8 @@
 # text = Nedavno smo morali da kupimo kola zbog bebe, pa smo uzeli još jedan kredit", rekao je Vladimir Mrdak za SETimes.
 1	Nedavno	nedavno	ADV	_	Degree=Pos	3	advmod	_	_
 2	smo	biti	AUX	_	_	_	_	_	_
-2.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	3	nsubj	_	_
 3	morali	morati	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	3	nsubj	_	_
 4	da	da	SCONJ	_	_	_	_	_	_
 5	kupimo	kupiti	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	xcomp	_	_
 6	kola	kola	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	_
@@ -6050,9 +6050,9 @@
 8	bebe	beba	NOUN	_	Case=Cau|Gender=Fem|Number=Sing	5	obl	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
 10	pa	pa	CCONJ	_	_	_	_	_	_
-11.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	12	nsubj	_	_
 11	smo	biti	AUX	_	_	_	_	_	_
 12	uzeli	uzeti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+12.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	12	nsubj	_	_
 13	još	još	ADV	_	Degree=Pos	14	advmod	_	_
 14	jedan	jedan	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc|NumType=Card|Number=Sing	15	nummod	_	_
 15	kredit	kredit	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
@@ -6089,8 +6089,8 @@
 3	,	,	PUNCT	_	_	_	_	_	_
 4	verovatno	verovatno	ADV	_	Degree=Pos	6	advmod	_	_
 5	će	hteti	AUX	_	_	_	_	_	_
-5.1	_	_	_	_	Number=Sing|Person=3	6	nsubj	_	_
 6	uzeti	uzeti	VERB	_	Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+6.1	_	_	_	_	Number=Sing|Person=3	6	nsubj	_	_
 7	još	još	ADV	_	Degree=Pos	8	advmod	_	_
 8	koji	koji	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel	9	amod	_	_
 9	kredit	kredit	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
@@ -6262,8 +6262,8 @@
 # sent_id = set-s1874
 # text = "Procenili smo da će državni dug do kraja ove godine dostići 50 odsto BDP -- što je više nego što zakon dozvoljava", rekao je član Fiskalnog saveta Vladimir Vučković za SETimes.
 1	"	"	PUNCT	_	_	_	_	_	_
-1.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	2	nsubj	_	_
 2	Procenili	proceniti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	2	nsubj	_	_
 3	smo	biti	AUX	_	_	_	_	_	_
 4	da	da	SCONJ	_	_	_	_	_	_
 5	će	hteti	AUX	_	_	_	_	_	_
@@ -6433,8 +6433,8 @@
 12	ga	on	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
 13	otplaćujemo	otplaćivati	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
 14	i	i	CCONJ	_	_	_	_	_	_
-14.1	_	_	_	_	Number=Plur|Person=1	15	nsubj	_	_
 15	sledimo	slediti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+15.1	_	_	_	_	Number=Plur|Person=1	15	nsubj	_	_
 16	preporuke	preporuka	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	15	obj	_	_
 17	MMF	MMF	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	16	nmod	_	_
 18	o	o	ADP	_	_	_	_	_	_
@@ -6443,8 +6443,8 @@
 
 # sent_id = set-s1880
 # text = Planiramo da uštedimo do 300 miliona evra do kraja ove godine", rekao je Nikezić.
-0.1	_	_	_	_	Number=Plur|Person=1	1	nsubj	_	_
 1	Planiramo	planirati	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1.1	_	_	_	_	Number=Plur|Person=1	1	nsubj	_	_
 2	da	da	SCONJ	_	_	_	_	_	_
 3	uštedimo	uštedeti	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	xcomp	_	_
 4	do	do	ADP	_	_	_	_	_	_
@@ -8117,8 +8117,8 @@
 17	na	na	ADP	_	_	_	_	_	_
 18	kraju	kraj	NOUN	_	Case=Ade|Gender=Masc|Number=Sing	20	obl	_	_
 19	je	biti	AUX	_	_	_	_	_	_
-19.1	_	_	_	_	Gender=Masc|Number=Sing|Person=3	20	nsubj	_	_
 20	svedočio	svedočiti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+20.1	_	_	_	_	Gender=Masc|Number=Sing|Person=3	20	nsubj	_	_
 21	protiv	protiv	ADP	_	_	_	_	_	_
 22	Haradinaja	Haradinaj	PROPN	_	Case=Adv|Gender=Masc|Number=Sing	20	obl	_	_
 23	i	i	CCONJ	_	_	_	_	_	_
@@ -8189,8 +8189,8 @@
 # url = NA
 # sent_id = set-s2084
 # text = Zauzmi pozu: modna sezona na Balkanu
-0.1	_	_	_	_	Number=Sing|Person=2	1	nsubj	_	_
 1	Zauzmi	zauzeti	VERB	_	Mood=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+1.1	_	_	_	_	Number=Sing|Person=2	1	nsubj	_	_
 2	pozu	poza	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
 3	:	:	PUNCT	_	_	_	_	_	_
 4	modna	modni	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
@@ -8670,8 +8670,8 @@
 # sent_id = set-s2105
 # text = "Uspeli smo ne samo da promovišemo bosanske kreatore, već i komercijalizujemo lokalne brendove", kaže osnivač SNM Amela Radan.
 1	"	"	PUNCT	_	_	_	_	_	_
-1.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	2	nsubj	_	_
 2	Uspeli	uspeti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	2	nsubj	_	_
 3	smo	biti	AUX	_	_	_	_	_	_
 4	ne	ne	PART	_	_	_	_	_	_
 5	samo	samo	ADV	_	Degree=Pos	7	mark	_	_
@@ -8681,9 +8681,9 @@
 9	kreatore	kreator	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
 11	već	već	ADV	_	_	_	_	_	_
-12.1	_	_	_	_	Number=Plur|Person=1	13	nsubj	_	_
 12	i	i	CCONJ	_	|	13	discourse	_	_
 13	komercijalizujemo	komercijalizovati	VERB	_	Case=već|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+13.1	_	_	_	_	Number=Plur|Person=1	13	nsubj	_	_
 14	lokalne	lokalan	ADJ	_	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	15	amod	_	_
 15	brendove	brend	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	13	obj	_	_
 16	"	"	PUNCT	_	_	_	_	_	_
@@ -9034,8 +9034,8 @@
 8	zemlje	zemlja	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
 9	članice	članica	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	8	nmod	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
-10.1	_	_	_	_	Gender=Masc|Number=Sing|Person=1	11	nsubj	_	_
 11	pokušao	pokušati	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11.1	_	_	_	_	Gender=Masc|Number=Sing|Person=1	11	nsubj	_	_
 12	sam	biti	AUX	_	_	_	_	_	_
 13	da	da	SCONJ	_	_	_	_	_	_
 14	napravim	napraviti	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	11	ccomp	_	_
@@ -9380,8 +9380,8 @@
 4	mesto	mesto	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
 5	u	u	ADP	_	_	_	_	_	_
 6	komisiji	komisija	NOUN	_	Case=Ine|Gender=Fem|Number=Sing	4	nmod	_	_
-6.1	_	_	_	_	Number=Sing|Person=3	7	nsubj	_	_
 7	otići	otići	VERB	_	Case=Sbs|Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+7.1	_	_	_	_	Number=Sing|Person=3	7	nsubj	_	_
 8	će	hteti	AUX	_	_	_	_	_	_
 9	Dačijanu	Dačijan	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
 10	Čološu	Čološ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	9	flat	_	_
@@ -9737,22 +9737,22 @@
 # text = Ovde smo imali rat.
 1	Ovde	ovde	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	_
 2	smo	biti	AUX	_	_	_	_	_	_
-2.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	3	nsubj	_	_
 3	imali	imati	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	3	nsubj	_	_
 4	rat	rat	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = set-s2438
 # text = Želeli smo da se otcepimo i pripojimo Srbiji, dok su ljudi u Federaciji želeli nezavisnu BiH.
-0.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	1	nsubj	_	_
 1	Želeli	želeti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	1	nsubj	_	_
 2	smo	biti	AUX	_	_	_	_	_	_
 3	da	da	SCONJ	_	_	_	_	_	_
 4	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
 5	otcepimo	otcepiti	VERB	_	Case=da|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
-6.1	_	_	_	_	Number=Plur|Person=1	7	nsubj	_	_
 6	i	i	CCONJ	_	_	_	_	_	_
 7	pripojimo	pripojiti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+7.1	_	_	_	_	Number=Plur|Person=1	7	nsubj	_	_
 8	Srbiji	Srbija	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
 10	dok	dok	SCONJ	_	_	_	_	_	_
@@ -9767,8 +9767,8 @@
 
 # sent_id = set-s2439
 # text = Postigli smo mir u Dejtonu koji su svi prihvatili.
-0.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	1	nsubj	_	_
 1	Postigli	postići	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1.1	_	_	_	_	Gender=Masc|Number=Plur|Person=1	1	nsubj	_	_
 2	smo	biti	AUX	_	_	_	_	_	_
 3	mir	mir	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
 4	u	u	ADP	_	_	_	_	_	_
@@ -9866,8 +9866,8 @@
 8	u	u	ADP	_	_	_	_	_	_
 9	početku	početak	NOUN	_	Case=Ine|Gender=Masc|Number=Sing	11	obl	_	_
 10	je	biti	AUX	_	_	_	_	_	_
-10.1	_	_	_	_	Gender=Fem|Number=Sing|Person=3	11	nsubj	_	_
 11	delovala	delovati	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+11.1	_	_	_	_	Gender=Fem|Number=Sing|Person=3	11	nsubj	_	_
 12	uglavnom	uglavnom	ADV	_	Degree=Pos	15	advmod	_	_
 13	kao	kao	SCONJ	_	_	_	_	_	_
 14	posmatračka	posmatrački	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
@@ -10227,8 +10227,8 @@
 24	u	u	ADP	_	_	_	_	_	_
 25	svakom	svaki	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	26	det	_	_
 26	slučaju	slučaj	NOUN	_	Case=Ine|Gender=Masc|Number=Sing	27	obl	_	_
-26.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	27	nsubj	_	_
 27	trebalo	trebati	VERB	_	Aspect=Imp|Mood=Cnd|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+27.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	27	nsubj	_	_
 28	bi	biti	AUX	_	_	_	_	_	_
 29	da	da	SCONJ	_	_	_	_	_	_
 30	bude	biti	AUX	_	_	_	_	_	_
@@ -10686,8 +10686,8 @@
 2	Do	do	ADP	_	_	_	_	_	_
 3	najprimetnijih	primetan	ADJ	_	Case=Gen|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing	4	amod	_	_
 4	poboljšanja	poboljšanje	NOUN	_	Case=Lat|Gender=Neut|Number=Sing	5	obl	_	_
-4.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	5	nsubj	_	_
 5	došlo	doći	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	5	nsubj	_	_
 6	je	biti	AUX	_	_	_	_	_	_
 7	na	na	ADP	_	_	_	_	_	_
 8	Kosovu	Kosovo	PROPN	_	Case=Ade|Gender=Neut|Number=Sing	5	obl	_	_
@@ -11784,8 +11784,8 @@
 1	"	"	PUNCT	_	_	_	_	_	_
 2	Zajedno	zajedno	ADV	_	Degree=Pos	4	advmod	_	_
 3	ćemo	hteti	AUX	_	_	_	_	_	_
-3.1	_	_	_	_	Number=Plur|Person=1	4	nsubj	_	_
 4	reći	reći	VERB	_	Mood=Ind|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+4.1	_	_	_	_	Number=Plur|Person=1	4	nsubj	_	_
 5	ne	ne	PART	_	_	_	_	_	_
 6	narušavanju	narušavanje	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	_
 7	suvereniteta	suverenitet	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
@@ -11893,8 +11893,8 @@
 11	Kosovo	Kosovo	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
 12	država	država	NOUN	_	Case=da|Gender=Fem|Mood=Ind|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	acl	_	_
 13	i	i	CCONJ	_	_	_	_	_	_
-13.1	_	_	_	_	Number=Plur|Person=1	14	nsubj	_	_
 14	krenemo	krenuti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+14.1	_	_	_	_	Number=Plur|Person=1	14	nsubj	_	_
 15	dalje	daleko	ADV	_	Degree=Cmp	14	advmod	_	_
 16	?	?	PUNCT	_	_	_	_	_	_
 17	"	"	PUNCT	_	_	_	_	_	_
@@ -12867,8 +12867,8 @@
 15	dve	dve	NUM	_	Case=Nom|Gender=Fem|NumType=Card|Number=Plur	16	nummod:gov	_	_
 16	godine	godina	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	13	nmod	_	_
 17	je	biti	AUX	_	_	_	_	_	_
-17.1	_	_	_	_	Gender=Masc|Number=Sing|Person=3	18	nsubj	_	_
 18	odležao	odležati	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+18.1	_	_	_	_	Gender=Masc|Number=Sing|Person=3	18	nsubj	_	_
 19	zbog	zbog	ADP	_	_	_	_	_	_
 20	nasilja	nasilje	NOUN	_	Case=Cau|Gender=Neut|Number=Sing	18	obl	_	_
 21	nad	nad	ADP	_	_	_	_	_	_
@@ -12988,8 +12988,8 @@
 3	samoj	sam	ADJ	_	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
 4	njegovoj	njegov	DET	_	_	_	_	_	_
 5	izjavi	izjava	NOUN	_	Case=Ine|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes	6	obl	_	_
-5.1	_	_	_	_	Number=Plur|Person=1	6	nsubj	_	_
 6	vidimo	videti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6.1	_	_	_	_	Number=Plur|Person=1	6	nsubj	_	_
 7	srž	srž	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
 8	problema	problem	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
@@ -13177,8 +13177,8 @@
 
 # sent_id = news-s128
 # text = Podsetimo se, kada je najavljen novi Zakon o sprečavanju nasilja u porodici, komentatori na internet portalima su imali samo jedan strah: žene će taj zakon zloupotrebljavati kako bi se osvetile muževima, kako bi ih isterale iz kuće i dovele ljubavnike, kako bi odvele decu itd.
-0.1	_	_	_	_	Number=Plur|Person=1	1	nsubj	_	_
 1	Podsetimo	podsetiti	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	20	parataxis	_	_
+1.1	_	_	_	_	Number=Plur|Person=1	1	nsubj	_	_
 2	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	1	expl	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
 4	kada	kada	ADV	_	_	_	_	_	_
@@ -13215,19 +13215,19 @@
 35	,	,	PUNCT	_	_	_	_	_	_
 36	kako	kako	SCONJ	_	_	_	_	_	_
 37	bi	biti	AUX	_	_	_	_	_	_
-38.1	_	_	_	_	Gender=Fem|Number=Sing|Person=3	39	nsubj	_	_
 38	ih	oni	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	39	obj	_	_
 39	isterale	isterati	VERB	_	Aspect=Imp|Case=kako|Mood=Cnd|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	33	conj	_	_
+39.1	_	_	_	_	Gender=Fem|Number=Sing|Person=3	39	nsubj	_	_
 40	iz	iz	ADP	_	_	_	_	_	_
 41	kuće	kuća	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	39	obl	_	_
 42	i	i	CCONJ	_	_	_	_	_	_
 43	dovele	dovesti	VERB	_	Tense=Past|VerbForm=Part|Voice=Act	39	conj	_	_
 44	ljubavnike	ljubavnik	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	43	obj	_	_
 45	,	,	PUNCT	_	_	_	_	_	_
-47.1	_	_	_	_	Gender=Fem|Number=Plur|Person=3	48	nsubj	_	_
 46	kako	kako	SCONJ	_	_	_	_	_	_
 47	bi	biti	AUX	_	_	_	_	_	_
 48	odvele	odvesti	VERB	_	Aspect=Imp|Case=kako|Mood=Cnd|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	33	conj	_	_
+48.1	_	_	_	_	Gender=Fem|Number=Plur|Person=3	48	nsubj	_	_
 49	decu	dete	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	48	obj	_	_
 50	itd.	itd.	PUNCT	_	_	_	_	_	_
 
@@ -13272,8 +13272,8 @@
 21	iste	isti	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
 22	javnosti	javnost	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
 23	,	,	PUNCT	_	_	_	_	_	_
-23.1	_	_	_	_	Number=Plur|Person=1	24	nsubj	_	_
 24	moramo	morati	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+24.1	_	_	_	_	Number=Plur|Person=1	24	nsubj	_	_
 25	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	24	expl	_	_
 26	zapitati	zapitati	VERB	_	VerbForm=Inf|Voice=Act	24	xcomp	_	_
 27	koliko	koliko	ADV	_	_	_	_	_	_
@@ -13298,8 +13298,8 @@
 2	bi	biti	AUX	_	_	_	_	_	_
 3	za	za	ADP	_	_	_	_	_	_
 4	početak	početak	NOUN	_	Animacy=Inan|Case=za|Gender=Masc|Number=Sing	5	obl	_	_
-4.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	5	nsubj	_	_
 5	trebalo	trebati	VERB	_	Aspect=Imp|Mood=Cnd|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	5	nsubj	_	_
 6	dati	dati	VERB	_	VerbForm=Inf|Voice=Act	5	xcomp	_	_
 7	jedno	jedan	NUM	_	Case=Acc|Gender=Neut|NumType=Card|Number=Sing	9	nummod	_	_
 8	jasno	jasan	ADJ	_	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
@@ -13337,8 +13337,8 @@
 18	sada	sada	ADV	_	Case=Lat|Degree=Pos|PronType=Dem	21	advmod	_	_
 19	nije	biti	AUX	_	_	_	_	_	_
 20	previše	previše	ADV	_	Degree=Pos	21	advmod	_	_
-20.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	21	nsubj	_	_
 21	govorilo	govoriti	VERB	_	Aspect=Imp|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis	_	_
+21.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	21	nsubj	_	_
 22	)	)	PUNCT	_	_	_	_	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
 
@@ -13408,8 +13408,8 @@
 1	I	i	CCONJ	_	|	4	discourse	_	_
 2	opet	opet	ADV	_	Degree=Pos	4	advmod	_	_
 3	se	sebe	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	4	expl	_	_
-3.1	_	_	_	_	Number=Plur|Person=1	4	nsubj	_	_
 4	vraćamo	vraćati	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4.1	_	_	_	_	Number=Plur|Person=1	4	nsubj	_	_
 5	na	na	ADP	_	_	_	_	_	_
 6	procenu	procena	NOUN	_	Case=Ade|Gender=Fem|Number=Sing	4	obl	_	_
 7	rizika	rizik	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
@@ -13634,8 +13634,8 @@
 12	niti	niti	CCONJ	_	_	_	_	_	_
 13	bi	biti	AUX	_	_	_	_	_	_
 14	to	taj	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	16	obj	_	_
-14.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	15	nsubj	_	_
 15	trebalo	trebati	VERB	_	Aspect=Imp|Mood=Cnd|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+15.1	_	_	_	_	Gender=Neut|Number=Sing|Person=3	15	nsubj	_	_
 16	očekivati	očekivati	VERB	_	VerbForm=Inf|Voice=Act	15	xcomp	_	_
 17	.	.	PUNCT	_	_	_	_	_	_
 
