@@ -29453,7 +29453,7 @@
 5	and	and	CCONJ	_	_	_	_	_	_
 6	must	must	AUX	_	_	_	_	_	_
 7	be	be	AUX	_	_	_	_	_	_
-8	destroyed	destroy	VERB	_	Mood=and(Pot;Nec)|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	destroyed	destroy	VERB	_	Mood=and(Pot,Nec)|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 9	by	by	ADP	_	_	_	_	_	_
 10	force	force	NOUN	_	Case=Chz|Number=Sing	8	obl	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
@@ -52537,7 +52537,7 @@
 1	Would	would	AUX	_	_	_	_	_	_
 2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_
 3	please	please	INTJ	_	|	4	discourse	_	_
-4	ck	ck	VERB	_	Mood=In t;Cnd|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ck	ck	VERB	_	Mood=Int;Cnd|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	_	_
 5	the	the	DET	_	_	_	_	_	_
 6	Oglethorpe	Oglethorpe	PROPN	_	Number=Sing	7	compound	_	_
 7	deal	deal	NOUN	_	Definite=Def|Number=Sing	4	obj	_	_
@@ -52960,7 +52960,7 @@
 1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	'll	will	AUX	_	_	_	_	_	_
 3	be	be	AUX	_	_	_	_	_	_
-4	in	in	ADV	_	Tesne=Fut|VerbForm=Fin	0	root	_	_
+4	in	in	ADV	_	Tense=Fut|VerbForm=Fin	0	root	_	_
 5	tomorrow	tomorrow	NOUN	_	Number=Sing	4	obl:unmarked	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
