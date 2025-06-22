@@ -1,0 +1,3887 @@
+# newdoc id = P108
+# newpar id = P108.1
+# sent_id = sv-ud-test-1
+# text = Den allmänna pensionen är av två slag: folkpension och tilläggspension (ATP).
+
+# newpar id = P108.2
+# sent_id = sv-ud-test-2
+# text = Folkpensionen får man oberoende av tidigare arbetsinkomst.
+
+# newpar id = P108.3
+# sent_id = sv-ud-test-3
+# text = Tilläggspension grundas på inkomst av förvärvsarbete (arbetsinkomst).
+
+# sent_id = sv-ud-test-4
+# text = Endast arbetsinkomst som man haft mellan 16 och 65 år beaktas.
+
+# sent_id = sv-ud-test-5
+# text = Arbetsinkomst för tid före år 1960 inverkar inte på ATP.
+
+# newpar id = P108.4
+# sent_id = sv-ud-test-6
+# text = Om arbetsinkomsten under ett år överstiger det s k basbeloppet vid samma års ingång med minst hundra kronor är inkomsten pensionsgrundande för ATP.
+
+# sent_id = sv-ud-test-7
+# text = Vid 1971 års ingång var basbeloppet 6400 kr.
+
+# newpar id = P108.5
+# sent_id = sv-ud-test-8
+# text = Basbeloppet är ett belopp, som fastställs för en månad i taget på grundval av en beräkning av statistiska centralbyrån.
+
+# sent_id = sv-ud-test-9
+# text = Allt efter som prisläget förändras, ändras också basbeloppet.
+
+# sent_id = sv-ud-test-10
+# text = Storleken av de utgående pensionerna följer basbeloppet.
+
+# sent_id = sv-ud-test-11
+# text = Därigenom blir pensionerna värdebeständiga.
+
+# sent_id = sv-ud-test-12
+# text = I juli 1971 var basbeloppet 6900 kr.
+
+# newpar id = P108.6
+# sent_id = sv-ud-test-13
+# text = Det behövs ingen anmälan för att komma med i ATP.
+
+# sent_id = sv-ud-test-14
+# text = Inkomst, som ger pensionsrätt, beräknas i regel efter självdeklarationen.
+
+# newpar id = P108.7
+# sent_id = sv-ud-test-15
+# text = Vem får folkpension?
+
+# sent_id = sv-ud-test-16
+# text = Folkpension kan den få som är svensk medborgare och bosatt här i landet.
+
+# sent_id = sv-ud-test-17
+# text = Om en svensk medborgare inte är bosatt här, kan han dock få pension, om han varit mantalsskriven här det år han fyllde 62 och de fem åren närmast dessförinnan (alltså i åldern 57-62 år).
+
+# newpar id = P108.8
+# sent_id = sv-ud-test-18
+# text = Enligt avtal med vissa länder kan i Sverige bosatta medborgare från dessa länder få folkpension, om de vistas här viss angiven tid.
+
+# newpar id = P108.9
+# sent_id = sv-ud-test-19
+# text = Vem kan få ATP?
+
+# sent_id = sv-ud-test-20
+# text = ATP kan den få, som har haft pensionsgrundande inkomst för minst 3 år.
+
+# sent_id = sv-ud-test-21
+# text = Det första år, för vilket pensionsgrundande inkomst beräknades, var år 1960.
+
+# newpar id = P108.10
+# sent_id = sv-ud-test-22
+# text = Inkomst av annat förvärvsarbete än anställning kan undantas från ATP.
+
+# sent_id = sv-ud-test-23
+# text = För undantagen inkomst erläggs inte ATP-avgift och givetvis kan inkomsten inte medföra pensionsrätt.
+
+# sent_id = sv-ud-test-24
+# text = Undantagandet kan även påverka pensionsrätten av anställningsinkomst.
+
+# sent_id = sv-ud-test-25
+# text = Undantagandet medför i regel sämre skydd vid ålderdom, invaliditet och vid dödsfall för familjen.
+
+# sent_id = sv-ud-test-27
+# text = Såväl folkpensioneringen som ATP ger möjligheter till följande förmåner:
+
+# newpar id = P108.13
+# sent_id = sv-ud-test-29
+# text = Förtidspension eller sjukbidrag
+
+# newpar id = P108.14
+# sent_id = sv-ud-test-30
+# text = Änkepension och barnpension
+
+# newpar id = P108.15
+# sent_id = sv-ud-test-31
+# text = Från folkpensioneringen kan dessutom utgå:
+
+# newpar id = P108.18
+# sent_id = sv-ud-test-34
+# text = Invaliditetsersättning och vårdbidrag
+
+# newpar id = P108.19
+# sent_id = sv-ud-test-35
+# text = Hustrutillägg (inkomstprövat)
+
+# newpar id = P108.20
+# sent_id = sv-ud-test-36
+# text = Kommunalt bostadstillägg (inkomstprövat)
+
+# newpar id = P108.21
+# sent_id = sv-ud-test-37
+# text = Att en förmån är inkomstprövad betyder, att den minskas eller inte alls utgår om den försäkrades inkomst överstiger vissa belopp.
+
+# sent_id = sv-ud-test-38
+# text = Även förmögenhet har betydelse.
+
+# sent_id = sv-ud-test-39
+# text = (Se vidare sid 8 ff.)
+
+# sent_id = sv-ud-test-41
+# text = Ålderspensionen från folkpensioneringen är i juli 1971 6210 kr per år för en ensam pensionär eller pensionär vars make inte har pension samt 9660 kr för två pensionsberättigade makar tillsammans.
+
+# sent_id = sv-ud-test-42
+# text = Dessutom utgår i vissa fall pensionstillskott.
+
+# sent_id = sv-ud-test-43
+# text = Hos försäkringskassan finns en särskild broschyr om pensionstillskott.
+
+# sent_id = sv-ud-test-44
+# text = Helt pensionstillskott är i juli 1971 621 kr per år.
+
+# newpar id = P108.23
+# sent_id = sv-ud-test-45
+# text = Full ålderspension från ATP får man, enligt huvudregeln, om man haft pensionsgrundande inkomst i 30 år.
+
+# sent_id = sv-ud-test-46
+# text = Storleken av pensionen räknas ut på grundval av ett genomsnitt av de pensionsgrundande inkomsterna under de 15 bästa åren (se sid 7 'ATP de första åren').
+
+# sent_id = sv-ud-test-47
+# text = Full pension motsvarar 60 procent av nämnda genomsnittsinkomst.
+
+# sent_id = sv-ud-test-48
+# text = Har man pensionsgrundande inkomst för mindre än 30 år reduceras pensionen i förhållande till det antal år, som fattas (halva antalet år ger halv pension osv).
+
+# sent_id = sv-ud-test-49
+# text = På grundval av den pensionsgrundande inkomsten beräknas pensionspoäng, som registreras på Ert poängkort hos försäkringskassan.
+
+# newpar id = P108.24
+# sent_id = sv-ud-test-50
+# text = På slutskattesedeln finns den pensionsgrundande inkomsten angiven.
+
+# sent_id = sv-ud-test-51
+# text = Vill man räkna ut poängen kan man göra detta genom att dela den pensionsgrundande inkomsten för ett visst år med basbeloppet vid ingången av det året.
+
+# sent_id = sv-ud-test-52
+# text = (Dessa basbelopp har varit följande: 1960 = 4200 kr, 1961 = 4300 kr, 1962 = 4500 kr, 1963 = 4700 kr, 1964 = 4800 kr, 1965 = 5000 kr, 1966 = 5300 kr, 1967 = 5500 kr, 1968 = 5700 kr, 1969 = 5800 kr, 1970 = 6000 kr och 1971 = 6400 kr.)
+
+# newpar id = P108.25
+# sent_id = sv-ud-test-53
+# text = Om den pensionsgrundande inkomsten för år 1971 blir 14000 kr (motsvarande en förvärvsinkomst av cirka 20400 kr) blir pensionspoängen 14000 : 6400 = 2,19.
+
+# sent_id = sv-ud-test-54
+# text = Högsta möjliga pensionspoäng är 6,50.
+
+# newpar id = P108.26
+# sent_id = sv-ud-test-55
+# text = Om basbeloppet är 6900 kr, blir full ATP av följande storlek:
+
+# newpar id = P108.27
+# sent_id = sv-ud-test-56
+# text = Att märka är att de angivna beloppen utgår utöver folkpensionen.
+
+# newpar id = P108.28
+# sent_id = sv-ud-test-57
+# text = För svenska medborgare som är födda 1896-1923 gäller särskilda regler, se 'ATP de första åren', sid 7.
+
+# sent_id = sv-ud-test-60
+# text = Pensionsåldern är densamma för folkpensionen och ATP.
+
+# newpar id = P108.30
+# sent_id = sv-ud-test-61
+# text = Möjlighet finns att ta ut ålderspension både före och efter 67-årsmånaden, dock tidigast från 63-årsmånaden.
+
+# sent_id = sv-ud-test-62
+# text = Både vid förtida uttag och uppskjutet uttag blir det dock vissa ändringar i pensionsbeloppen.
+
+# newpar id = P108.31
+# sent_id = sv-ud-test-63
+# text = Har man rätt till både folkpension och ATP måste ett förtida uttag gälla båda pensionerna samtidigt.
+
+# newpar id = P108.32
+# sent_id = sv-ud-test-64
+# text = Förtida uttag ger lägre pension
+
+# sent_id = sv-ud-test-65
+# text = Ålderspensionen blir alltid mindre vid förtida uttag.
+
+# sent_id = sv-ud-test-66
+# text = Och den förblir mindre livet ut.
+
+# sent_id = sv-ud-test-67
+# text = Minskningen utgör 0,6 procent för varje månad som man vid uttaget är yngre än 67 år.
+
+# newpar id = P108.33
+# sent_id = sv-ud-test-68
+# text = Den som har gjort förtida uttag av ålderspension kan återkalla detta.
+
+# sent_id = sv-ud-test-69
+# text = På försäkringskassan finns en särskild broschyr som lämnar information om förtida uttag av ålderspension.
+
+# sent_id = sv-ud-test-70
+# text = Och hur man gör exempelvis för att återkalla förtida uttag.
+
+# newpar id = P108.34
+# sent_id = sv-ud-test-71
+# text = Observera att förtida uttag av ålderspension inte är detsamma som förtidspension!
+
+# sent_id = sv-ud-test-72
+# text = (Om förtidspension kan Ni läsa i en annan broschyr hos försäkringskassan.)
+
+# newpar id = P108.35
+# sent_id = sv-ud-test-73
+# text = Uppskjutet uttag ger högre pension
+
+# sent_id = sv-ud-test-74
+# text = Den som väntar med att ta ut ålderspensionen till efter 67-årsmånaden får högre pension.
+
+# sent_id = sv-ud-test-75
+# text = Beloppet ökar med 0,6 procent för varje månad man väntar med uttaget, dock längst till 70-årsmånaden.
+
+# sent_id = sv-ud-test-76
+# text = Detta innebär att pensionen genom uppskjutet uttag kan förhöjas med högst 21,6 procent.
+
+# newpar id = P108.36
+# sent_id = sv-ud-test-77
+# text = ATP de första åren
+
+# sent_id = sv-ud-test-78
+# text = ATP infördes 1960.
+
+# sent_id = sv-ud-test-79
+# text = Inkomster som man haft dessförinnan ger inte rätt till ATP.
+
+# sent_id = sv-ud-test-80
+# text = För de inkomsterna har inte heller avgift erlagts.
+
+# newpar id = P108.37
+# sent_id = sv-ud-test-81
+# text = För att få full ålderspension från ATP fordras enligt huvudregeln att man har 30 år med pensionsgrundande inkomst.
+
+# sent_id = sv-ud-test-82
+# text = För svenska medborgare som är födda något av åren 1896-1923 gäller förmånligare regler.
+
+# sent_id = sv-ud-test-83
+# text = Sålunda behöver den som är född 1923 endast pensionsgrundande inkomst för 29 år för att få full ATP, den som är född 1922 behöver endast 28 år, osv; den som är född 1914 behöver endast 20 år.
+
+# newpar id = P108.38
+# sent_id = sv-ud-test-84
+# text = De som är födda 1913 och tidigare hinner inte förvärva pensionsgrundande inkomst för 20 år.
+
+# sent_id = sv-ud-test-85
+# text = De kan alltså inte få full ATP.
+
+# sent_id = sv-ud-test-86
+# text = Årsklass 1905 kan t ex få högst 11/20 av full pension, årsklass 1906 kan få högst 12/20 och årsklass 1907 kan få högst 13/20 .
+
+# sent_id = sv-ud-test-88
+# text = Kommunalt bostadstillägg är ett tillägg till bl a ålderspension och utgår enligt grunder som varje kommun själv bestämmer.
+
+# sent_id = sv-ud-test-89
+# text = Bostadstilläggets storlek varierar mellan olika kommuner.
+
+# newpar id = P108.40
+# sent_id = sv-ud-test-90
+# text = Kommunalt bostadstillägg är inkomstprövat.
+
+# sent_id = sv-ud-test-91
+# text = Det betyder att bostadstillägget minskas om inkomsterna utöver folkpensionen uppgår till mer än ett visst belopp, nämligen 2000 kr för en ensam pensionär och 3000 kr för två makar tillsammans.
+
+# sent_id = sv-ud-test-92
+# text = Även förmögenhet (exempelvis i fastighet) över vissa belopp kan påverka bostadstillägget.
+
+# newpar id = P108.41
+# sent_id = sv-ud-test-93
+# text = Hustrutillägg utgår om hustru till pensionär fyllt 60 år och inte har egen folkpension.
+
+# sent_id = sv-ud-test-94
+# text = Det fordras vidare att makarna varit gifta i 5 år för att hustrutillägg skall kunna utgå.
+
+# sent_id = sv-ud-test-95
+# text = I undantagsfall kan dock hustrutillägg beviljas även om hustrun inte fyllt 60 år eller makarna varit gifta kortare tid än 5 år.
+
+# sent_id = sv-ud-test-96
+# text = Hustrutillägget kan högst utgå med så stort belopp att makarna tillsammans får lika stor folkpension som två pensionsberättigade makar.
+
+# sent_id = sv-ud-test-97
+# text = Hustrutillägget, som är inkomstprövat på samma sätt som kommunalt bostadstillägg, utbetalas till hustrun.
+
+# newpar id = P108.42
+# sent_id = sv-ud-test-98
+# text = Barntillägg utgår till ålderspensionär, som har eget eller hustruns barn under 16 år i hemmet eller som har vårdnaden om sådant barn.
+
+# sent_id = sv-ud-test-99
+# text = Barntillägget utgår för varje barn med högst 25 procent av basbeloppet (i juli 1971 1725 kr för år räknat).
+
+# sent_id = sv-ud-test-100
+# text = Om pensionären är en gift kvinna utgår f n inte barntillägg.
+
+# newpar id = P108.43
+# sent_id = sv-ud-test-101
+# text = Invaliditetstillägg kompletterar i vissa fall ålderspension, om pensionären inte kan reda sig själv och vid upprepade tillfällen dagligen behöver hjälp av annan person.
+
+# sent_id = sv-ud-test-102
+# text = Hjälpbehovet skall ha uppstått innan pensionären fyller 63 år.
+
+# sent_id = sv-ud-test-103
+# text = Den som är blind har alltid rätt till invaliditetstillägg om blindheten inträffat före 63 år.
+
+# newpar id = P108.44
+# sent_id = sv-ud-test-104
+# text = Invaliditetstillägget utgör 30 procent av basbeloppet (i juli 1971 var det 2070 kr för år räknat).
+
+# newpar id = P108.45
+# sent_id = sv-ud-test-105
+# text = Om förtidspension eller sjukbidrag samt änkepension och barnpension kan Ni läsa i särskilda broschyrer som finns att hämta på försäkringskassan.
+
+# newdoc id = P110
+# newpar id = P110.1
+# sent_id = sv-ud-test-106
+# text = Vad menas med ett u-land?
+
+# sent_id = sv-ud-test-107
+# text = 'U-land' står för 'underutvecklat land' eller 'utvecklingsland'.
+
+# sent_id = sv-ud-test-108
+# text = Ibland talar man om 'de fattiga länderna'.
+
+# sent_id = sv-ud-test-109
+# text = Men det är viktigt att veta att de flesta u-länder är fattiga bara i den meningen att större delen av befolkningen lever i fattigdom.
+
+# sent_id = sv-ud-test-110
+# text = I nästan alla u-länder finns de för utvecklingen nödvändiga tillgångarna såsom arbetskraft, jord, vatten, mineraler, skog o s v .
+
+# sent_id = sv-ud-test-111
+# text = Men antingen förmår man ännu inte utnyttja de resurser man har - eller också utnyttjas dessa på ett sätt som inte kommer majoriteten av folket tillgodo.
+
+# newpar id = P110.2
+# sent_id = sv-ud-test-112
+# text = En vanlig karakteristik av ett u-land är att bruttonationalprodukten (BNP) per person och år understiger en viss summa.
+
+# sent_id = sv-ud-test-113
+# text = Ibland nämns 2000 kronor som gräns; länder ovanför detta genomsnittstal skulle inte vara u-länder (i Sverige är BNP / person ca 13000 kronor).
+
+# sent_id = sv-ud-test-114
+# text = Andra egenskaper utmärkande för u-länder är arbetslöshet; analfabetism, d v s brist på läs- och skrivkunnighet; låg medellivslängd.
+
+# sent_id = sv-ud-test-115
+# text = Man kan också mäta ett lands standard med sådana mått som antal läkare, lärare, böcker, tidningar, telefoner, radioapparater, bilar o s v per invånare.
+
+# newpar id = P110.3
+# sent_id = sv-ud-test-116
+# text = Dessa metoder för att söka mäta ett lands rikedom eller fattigdom är otillfredsställande.
+
+# sent_id = sv-ud-test-117
+# text = I BNP, exempelvis, inräknas inte oavlönat arbete och bara ytterst ungefärligt de varor som produceras inom självhushållen.
+
+# sent_id = sv-ud-test-118
+# text = Måtten säger heller ingenting om fördelningen av resurserna, om livet för de enskilda människorna.
+
+# sent_id = sv-ud-test-119
+# text = Genomsnittssiffrorna döljer stora materiella klyftor inom varje land.
+
+# newpar id = P110.4
+# sent_id = sv-ud-test-120
+# text = Men de existerande måtten är ändå användbara när man vill göra sig en bild av olika folks levnadsnivå.
+
+# sent_id = sv-ud-test-121
+# text = Ett exempel: enbart i USA ökar BNP varje år med ett belopp, som är ungefär lika stort som den totala bruttonationalprodukten i hela Afrika eller Indien!
+
+# newpar id = P110.5
+# sent_id = sv-ud-test-122
+# text = U-länderna är olika
+
+# sent_id = sv-ud-test-123
+# text = Från vår horisont kan u-länderna sinsemellan te sig likartade.
+
+# sent_id = sv-ud-test-124
+# text = Uppräkningen nyss av typiska 'u-landsegenskaper' bidrar till ett sådant intryck.
+
+# sent_id = sv-ud-test-125
+# text = Men dessa länder - där tre fjärdedelar av jordens befolkning bor - skiljer sig naturligtvis starkt från varandra.
+
+# sent_id = sv-ud-test-126
+# text = Peru har inte samma klimat, geografi eller kultur som Tanzania.
+
+# sent_id = sv-ud-test-127
+# text = Indien brottas med helt andra svårigheter än Kenya.
+
+# sent_id = sv-ud-test-128
+# text = En del länder är tättbefolkade, andra glest befolkade.
+
+# sent_id = sv-ud-test-129
+# text = Naturliga och mänskliga resurser skiftar liksom relationerna till omvärlden.
+
+# sent_id = sv-ud-test-130
+# text = Det finns inte två länder, som befinner sig i samma kulturella eller ekonomiska situation.
+
+# newpar id = P110.6
+# sent_id = sv-ud-test-131
+# text = Skillnaderna inom ett land kan vara mycket stora.
+
+# sent_id = sv-ud-test-132
+# text = I världens totalt sett rikaste land, USA, finns utbredd svår fattigdom.
+
+# sent_id = sv-ud-test-133
+# text = I oljeländer som Saudi-Arabien lever en del i ofattbart överflöd.
+
+# sent_id = sv-ud-test-134
+# text = Invånarna i Kenyas huvudstad Nairobi kan ha ännu svårare att finna sig tillrätta i isolerade byar på den kenyanska landsbygden än en stockholmare att klara sig i lappmarken.
+
+# sent_id = sv-ud-test-135
+# text = I Indien finns 845 skilda språk och dialekter.
+
+# newpar id = P110.7
+# sent_id = sv-ud-test-136
+# text = Många av de länder, som i dag kallas underutvecklade, har en kultur långt äldre än t ex den europeiska.
+
+# sent_id = sv-ud-test-138
+# text = Den kinesiska kulturen kan spåras tillbaka till 3000 f Kr.
+
+# sent_id = sv-ud-test-139
+# text = I Latinamerika, Afrika och Asien fanns vid europeernas ankomst ofta högt utvecklade samhällen.
+
+# newpar id = P110.8
+# sent_id = sv-ud-test-140
+# text = De flesta u-länder har varit koloniserade
+
+# sent_id = sv-ud-test-141
+# text = När dagens 30-åringar gick i skolan var Afrikas och Asiens kartor i huvudsak indelade i några få färgfält - för att utmärka de olika områden, som tillhörde England, Frankrike, Holland, Belgien eller Portugal.
+
+# sent_id = sv-ud-test-142
+# text = Vad som sedan skett, ett 70-tal länders politiska frigörelse, kan betecknas som en av de mera genomgripande händelserna i världshistorien.
+
+# newpar id = P110.9
+# sent_id = sv-ud-test-143
+# text = Att kolonisera ett land betyder att erövra det och utnyttja det för egna ändamål.
+
+# sent_id = sv-ud-test-144
+# text = 1700- och 1800-talens industrialisering i England, Frankrike, Tyskland, Holland o s v förutsatte en ordnad försörjning med råvaror för industrin (bomull, jute, hampa, metaller, gummi).
+
+# sent_id = sv-ud-test-145
+# text = Kolonierna utnyttjades för denna råvaruproduktion.
+
+# sent_id = sv-ud-test-146
+# text = De kunde också utnyttjas som marknad - befolkningen hemma räckte inte till som köpare av industrivarorna.
+
+# sent_id = sv-ud-test-147
+# text = På olika sätt kunde man se till att befolkningen i det koloniserade landet blev köpare av moderlandets produkter.
+
+# sent_id = sv-ud-test-148
+# text = Ett vanligt exempel är hur den indiska textilindustrin genom att man saknade tullskydd konkurrerades ut av engelsmännen.
+
+# sent_id = sv-ud-test-149
+# text = Härigenom fick den engelska textilindustrin avsättning för sina produkter också i Indien.
+
+# newpar id = P110.10
+# sent_id = sv-ud-test-150
+# text = På så sätt fastlades den arbetsfördelning mellan olika länder, som till stor del fortfarande gäller: industriländerna ('i-länderna') producerar förädlade produkter, som de måste få avsättning för, u-länderna måste få sälja sina råvaror.
+
+# sent_id = sv-ud-test-151
+# text = Råvaror - både naturprodukter och synteter - produceras dock numera i ökande omfattning även i i-länderna.
+
+# newpar id = P110.11
+# sent_id = sv-ud-test-152
+# text = Jordens befolkning: i dag 3,6 miljarder, om 30 år dubbelt så många?
+
+# sent_id = sv-ud-test-153
+# text = Tvärtemot vad man kunde tro är Europa den mest tättbebodda - men också vad beträffar jordbruk och industri den bäst utnyttjade - världsdelen med i genomsnitt 92 invånare per kvardratkilometer.
+
+# sent_id = sv-ud-test-154
+# text = Därefter följer Asien med 69 invånare per kvkm.
+
+# sent_id = sv-ud-test-155
+# text = Jordens sammanlagda befolkning ökar f n med 70-80 miljoner människor om året, och ökningen är störst där människorna är fattigast.
+
+# sent_id = sv-ud-test-156
+# text = Nu är vi drygt 3,6 miljarder, vid århundradets slut 6-7 miljarder om den nuvarande takten i befolkningstillväxten består.
+
+# newpar id = P110.12
+# sent_id = sv-ud-test-157
+# text = Fattigdomen är inte ny.
+
+# sent_id = sv-ud-test-158
+# text = De flesta människor har alltid levat i fattigdom.
+
+# sent_id = sv-ud-test-159
+# text = Men befolkningsexplosionen är unik i jordens historia.
+
+# sent_id = sv-ud-test-160
+# text = Den är följden av att stora folksjukdomar nu bekämpas med moderna hjälpmedel, att människornas kunskap om hygien har förbättrats och att tillgången på mat och vatten har ökat.
+
+# sent_id = sv-ud-test-161
+# text = Spädbarnsdödligheten har minskat särskilt kraftigt; det är inte så att varje kvinna föder fler barn än förr, men de som föds överlever i långt större utsträckning.
+
+# newpar id = P110.13
+# sent_id = sv-ud-test-162
+# text = Genom befolkningsutvecklingen får jorden en väldig försörjningsbörda, där än så länge de fattiga länderna bär det tyngsta lasset.
+
+# sent_id = sv-ud-test-163
+# text = I många u-länder är tillväxten så snabb, att barn under 15 år utgör inemot hälften av hela befolkningen.
+
+# sent_id = sv-ud-test-164
+# text = Att bygga skolor, utbilda lärare och producera undervisningsmaterial till dessa barnskaror är på många håll omöjligt.
+
+# sent_id = sv-ud-test-165
+# text = Ett snabbt växande antal människor i vuxen ålder kräver arbete och lön i en situation, där det redan råder arbetslöshet och undersysselsättning.
+
+# sent_id = sv-ud-test-166
+# text = De arbetslösa från landsbygden söker sig till städerna.
+
+# sent_id = sv-ud-test-167
+# text = När de inte heller där kan få arbete uppstår en slum, som med sin svält, sjuklighet, trångboddhet, smuts och brottslighet är ett stort och växande problem i u-länderna.
+
+# newpar id = P110.14
+# sent_id = sv-ud-test-168
+# text = U-ländernas tillgångar växer.
+
+# sent_id = sv-ud-test-169
+# text = Men det gör också folkmängden.
+
+# sent_id = sv-ud-test-170
+# text = Även med en jämn fördelning av produktionen blir det inte tillräckligt för var och en.
+
+# sent_id = sv-ud-test-171
+# text = Därför måste befolkningstillväxten hållas tillbaka.
+
+# sent_id = sv-ud-test-172
+# text = Samtidigt måste det skapas en rättvis fördelning av tillgångarna.
+
+# sent_id = sv-ud-test-173
+# text = Det har redan sagts att befolkningsökningen är störst där människor är fattigast.
+
+# sent_id = sv-ud-test-174
+# text = Färre barn skaffar man sig först då man ser en utväg ur sin fattigdom.
+
+# newpar id = P110.15
+# sent_id = sv-ud-test-175
+# text = Mat och hälsa
+
+# sent_id = sv-ud-test-176
+# text = Många svåra sjukdomar som malaria, smittkoppor och spetälska trängs alltmer tillbaka genom aktiva hälsovårdsinsatser.
+
+# sent_id = sv-ud-test-177
+# text = Fortfarande beräknas dock 300 milj människor vara sjuka i malaria, 10 milj i spetälska.
+
+# sent_id = sv-ud-test-178
+# text = Uppskattningsvis 400 milj lider av ögonsjukdomen trakom.
+
+# sent_id = sv-ud-test-179
+# text = Olika former av inälvsmask härjar stora delar av Afrika, Asien och Latinamerika och nedsätter starkt arbetsförmågan.
+
+# sent_id = sv-ud-test-180
+# text = Barndödligheten beräknas - trots den minskning som skett - i Indien vara tio gånger så hög som i Sverige, i Peru och Tunisien sex gånger så hög.
+
+# newpar id = P110.16
+# sent_id = sv-ud-test-181
+# text = Trots att u-ländernas sammanlagda livsmedelsproduktion ökat kraftigt är tillgången på livsmedel per person föga större än förut, tidvis och på sina håll inte alls större.
+
+# sent_id = sv-ud-test-182
+# text = I dessa länder får majoriteten av befolkningen varken tillräckligt med kalorier eller av de livsviktiga äggviteämnena (protein).
+
+# sent_id = sv-ud-test-183
+# text = I Sverige och andra länder, där de flesta lever i materiell välfärd, har vi mer än vad vi behöver av bådadera.
+
+# sent_id = sv-ud-test-184
+# text = Skall utvecklingen vända och en godtagbar näringsstandard uppnås, måste produktionen av sådana näringsämnen i världen tredubblas fram till år 2000.
+
+# sent_id = sv-ud-test-185
+# text = En rad undersökningar tyder på att brist på äggvita under spädbarnstiden kan medföra skador på hjärnan, som för hela livet minskar inlärningsförmågan och arbetskapaciteten.
+
+# newpar id = P110.17
+# sent_id = sv-ud-test-186
+# text = Kvinnan på bilden har själv vuxit upp i den här byn i den västafrikanska staten Dahomey.
+
+# sent_id = sv-ud-test-187
+# text = Hon har fått utbildning i näringslära (nutrition) inom ramen för ett FAO-projekt (FAO = FNs livsmedelsorganisation).
+
+# sent_id = sv-ud-test-188
+# text = Här visar hon hur lokal föda, fisk och grönsaker, kan användas, och betonar särskilt hur viktigt det är att barnen får rätt sammansatt kost.
+
+# newdoc id = P114
+# newpar id = P114.1
+# sent_id = sv-ud-test-189
+# text = Här nedan kan man läsa om några huvuddrag i äktenskapslagstiftningen.
+
+# sent_id = sv-ud-test-190
+# text = I Socialkatalogen finns vidare upplysningar om bl.a. barn- och ungdomsfrågor, bostadsfrågor, försäkringsskydd, arv och andra familjerättsliga frågor.
+
+# sent_id = sv-ud-test-192
+# text = När man ska gifta sig måste detta anmälas till pastorsexpeditionen där man bor.
+
+# sent_id = sv-ud-test-193
+# text = På pastorsexpeditionen kan man begära, att äktenskapet utlyses i kyrkan (lysning) om man så önskar.
+
+# sent_id = sv-ud-test-194
+# text = Där får man också upplysning om hur kyrklig och borgerlig vigsel går till.
+
+# newpar id = P114.3
+# sent_id = sv-ud-test-195
+# text = Den som är under 20 år ska ha föräldrarnas samtycke för att gifta sig.
+
+# sent_id = sv-ud-test-196
+# text = Är han eller hon under 18 år behövs också särskilt tillstånd från länsstyrelsen.
+
+# newpar id = P114.4
+# sent_id = sv-ud-test-197
+# text = När man har gift sig innebär det att båda makarna får omfattande personliga och ekonomiska skyldigheter mot varandra.
+
+# sent_id = sv-ud-test-198
+# text = Makarna har bl.a. skyldighet att försörja varandra.
+
+# newpar id = P114.5
+# sent_id = sv-ud-test-199
+# text = Vidare uppkommer giftorätt.
+
+# sent_id = sv-ud-test-200
+# text = Denna innebär bl.a. att vardera maken vid äktenskapets upplösning har rätt till hälften av den andre makens tillgångar.
+
+# sent_id = sv-ud-test-201
+# text = Man kan dock avtala om att sådan egendom som annars skulle ha ingått i giftorätten ska vara enskild egendom.
+
+# sent_id = sv-ud-test-202
+# text = Ett sådant avtal kallas äktenskapsförord.
+
+# sent_id = sv-ud-test-203
+# text = Äktenskapsförordet ska inregistreras hos domstol för att bli giltigt.
+
+# newpar id = P114.6
+# sent_id = sv-ud-test-204
+# text = Föräldrar har vårdnaden om sina barn.
+
+# sent_id = sv-ud-test-205
+# text = De har alltså ansvar och omsorg om barnen.
+
+# sent_id = sv-ud-test-206
+# text = De företräder barnen utåt i olika frågor och de är skyldiga att bekosta barnens uppehälle och uppfostran.
+
+# newpar id = P114.7
+# sent_id = sv-ud-test-207
+# text = Se Arv sida 5, Förmyndare sida 12 och Testamente sida 22.
+
+# newpar id = P114.8
+# sent_id = sv-ud-test-208
+# text = Man vänder sig till pastorsexpeditionen.
+
+# sent_id = sv-ud-test-211
+# text = Innan ett äktenskap upplöses ska i allmänhet domstolen först ha beslutat om att samlevnaden upphävs.
+
+# sent_id = sv-ud-test-212
+# text = Denna dom kallas hemskillnadsdom.
+
+# sent_id = sv-ud-test-213
+# text = Den kan sökas hos domstolen av båda makarna tillsammans.
+
+# sent_id = sv-ud-test-214
+# text = Då behöver inte annat skäl uppges än att de är överens om att inte fortsätta att leva tillsammans.
+
+# newpar id = P114.10
+# sent_id = sv-ud-test-215
+# text = Om bara den ena maken vill ha hemskillnad måste han eller hon stämma den andra inför domstol.
+
+# newpar id = P114.11
+# sent_id = sv-ud-test-216
+# text = Innan man begär hemskillnad är man skyldig att begära medling hos präst eller hos medlare, som är utsedd av kommunen.
+
+# newpar id = P114.12
+# sent_id = sv-ud-test-217
+# text = Hemskillnadstiden är till för att ge makarna en prövotid.
+
+# sent_id = sv-ud-test-218
+# text = Om de har börjat samlevnaden på nytt under hemskillnadstiden, vilket de får göra, upphävs hemskillnaden utom i fråga om ekonomiska förhållanden.
+
+# sent_id = sv-ud-test-220
+# text = Om makarna har levt var för sig (hemskilda) under minst ett år, kan en eller båda begära att domstolen dömer till äktenskapsskillnad.
+
+# sent_id = sv-ud-test-221
+# text = Det innebär att äktenskapet upplöses.
+
+# sent_id = sv-ud-test-222
+# text = Bl.a. i samband med otrohet kan domstolen döma till omedelbar äktenskapsskillnad utan föregående hemskillnad.
+
+# newpar id = P114.14
+# sent_id = sv-ud-test-223
+# text = Både vid hemskillnad och äktenskapsskillnad ska domstolen fastställa vem av makarna som ska ha vårdnaden om barnen.
+
+# sent_id = sv-ud-test-224
+# text = Om ingen av makarna bedöms vara lämplig att ha vårdnaden kan särskild förmyndare utses.
+
+# sent_id = sv-ud-test-225
+# text = Domstolen avgör vidare om det ska betalas underhållsbidrag, hur boet ska delas och om eventuellt skadestånd.
+
+# newpar id = P114.15
+# sent_id = sv-ud-test-226
+# text = Se också Förmyndare sida 12 och Underhållsbidrag sida 23.
+
+# newpar id = P114.16
+# sent_id = sv-ud-test-227
+# text = Man vänder sig till familjerådgivningsbyrå, medlare, härads- eller rådhusrätt, rättshjälpsanstalt eller advokat.
+
+# newdoc id = P122
+# newpar id = P122.1
+# sent_id = sv-ud-test-228
+# text = Att få ett barn är en stor upplevelse och glädje och medför en genomgripande förändring av vårt liv.
+
+# newpar id = P122.2
+# sent_id = sv-ud-test-229
+# text = Den nyblivna modern känner sig dock ofta mindre glad än hon hade trott.
+
+# sent_id = sv-ud-test-230
+# text = Men att vara trött och nedstämd efter förlossningen är normalt och naturligt och går över allteftersom krafterna återvänder.
+
+# newpar id = P122.3
+# sent_id = sv-ud-test-231
+# text = Den fulla känslan av moderlighet brukar komma så småningom när man fått pyssla om sitt barn en tid och känner sig säkrare och tryggare.
+
+# newpar id = P122.4
+# sent_id = sv-ud-test-232
+# text = Om modern är trött och klen en tid efter förlossningen, betyder ett yttre stöd mycket för henne.
+
+# sent_id = sv-ud-test-233
+# text = Är hon ensam kan den egna modern eller en god väninna ofta vara henne och därmed också barnet till stor nytta.
+
+# newpar id = P122.5
+# sent_id = sv-ud-test-234
+# text = Annars är naturligtvis pappan den som är närmast till hands att dela både bekymmer och glädjeämnen med.
+
+# sent_id = sv-ud-test-235
+# text = Pappan lär bäst känna sitt lilla barn genom att hjälpa till med att sköta det.
+
+# sent_id = sv-ud-test-236
+# text = Att båda föräldrarna från början upplever barnet tillsammans stärker familjens samhörighet.
+
+# newpar id = P122.6
+# sent_id = sv-ud-test-237
+# text = Anlag och miljö
+
+# sent_id = sv-ud-test-238
+# text = Alla föräldrar funderar över hur det skall gå för deras barn i livet och vilka möjligheter det har inom sig.
+
+# sent_id = sv-ud-test-239
+# text = Varje barn har fått arvsanlag från båda föräldrarna.
+
+# sent_id = sv-ud-test-240
+# text = Anlagen inverkar inte bara på hur barnet ser ut, utan också på sådant som t.ex. begåvning och lynne.
+
+# newpar id = P122.7
+# sent_id = sv-ud-test-241
+# text = Hur barnet kommer att bli som människa, vilka egenskaper det kommer att få och hur karaktären utformas beror också i hög grad på de erfarenheter det gör.
+
+# sent_id = sv-ud-test-242
+# text = Genom oss föräldrar får barnet sina första upplevelser av kärlek och trygghet, men också av bekymmer och konflikter.
+
+# sent_id = sv-ud-test-243
+# text = Det är lätt att förstå, att barn som har det bra med sina närmaste blir mer förtroendefulla och vänliga mot andra än de som ständigt upplever otrygghet och bristande förståelse.
+
+# sent_id = sv-ud-test-244
+# text = Här gäller det den grundton i hemmet som vardagslivet byggs upp på - inte de tillfälliga svårigheter som då och då drabbar oss alla utan att behöva skadligt påverka våra barn.
+
+# newpar id = P122.8
+# sent_id = sv-ud-test-245
+# text = Spädbarnet behöver trygg omvårdnad och mycket ömhet för att trivas.
+
+# newpar id = P122.9
+# sent_id = sv-ud-test-246
+# text = Det är viktigt att det lilla barnet i lugn och ro får växa samman med den som vårdar det, så att det från början känner sig tryggt och ompysslat.
+
+# newpar id = P122.10
+# sent_id = sv-ud-test-247
+# text = En mamma som har yrkesarbete känner sig ofta otillräcklig och tycker att hon inte kan ge sitt barn allt hon skulle vilja.
+
+# sent_id = sv-ud-test-248
+# text = Men, även om tiden man kan vara tillsammans med barnet är kort, kan man ge det vad det behöver av trygg och varm moderskontakt.
+
+# sent_id = sv-ud-test-249
+# text = Naturligtvis måste allt praktiskt arbete i hemmet skötas, men stunderna tillsammans med den lille är minst lika viktiga.
+
+# newpar id = P122.11
+# sent_id = sv-ud-test-250
+# text = Mamman måste också veta, att barnet har det bra på dagarna, antingen det vistas på daghem, i ett familjedaghem eller någon sköter det hemma.
+
+# sent_id = sv-ud-test-251
+# text = Det är betydelsefullt att barnet får behålla sina vardagsvanor, t.ex. får sova middag med en kär leksak eller suga på napp.
+
+# newpar id = P122.12
+# sent_id = sv-ud-test-252
+# text = Lämna aldrig spädbarn ensamma hemma någon längre stund!
+
+# sent_id = sv-ud-test-253
+# text = De är ju alldeles hjälplösa och kan inte klara sig själva om de t.ex. skulle börja kräkas eller råka få något över ansiktet.
+
+# sent_id = sv-ud-test-254
+# text = Plastskynken är särskilt farliga och bör inte finnas inom räckhåll för de små.
+
+# newpar id = P122.13
+# sent_id = sv-ud-test-255
+# text = Måste barnet vårdas på sjukhus, barnhem eller på annat sätt sändas bort, är det önskvärt, att föräldrarna besöker det så ofta som möjligt.
+
+# sent_id = sv-ud-test-257
+# text = Barnets utveckling sker i en viss ordningsföljd, i stort sett lika för alla barn.
+
+# sent_id = sv-ud-test-258
+# text = En del barn är tidiga och andra sena, skillnaderna brukar jämna ut sig på längre sikt.
+
+# sent_id = sv-ud-test-259
+# text = Det kan hända, att ett barn är tidigt på ett område, t.ex. när det gäller att gå, men senare med att tala eller tvärtom.
+
+# newpar id = P122.15
+# sent_id = sv-ud-test-260
+# text = Vi hjälper inte barnet genom att skynda på dess utveckling.
+
+# sent_id = sv-ud-test-261
+# text = Varje barn mognar i sin egen takt.
+
+# sent_id = sv-ud-test-262
+# text = Under det första året visar det nya färdigheter varje månad, sedan går det långsammare.
+
+# sent_id = sv-ud-test-263
+# text = Lugna perioder växlar med mera oroliga - sådan är utvecklingens gång.
+
+# newpar id = P122.16
+# sent_id = sv-ud-test-264
+# text = Under de första månaderna ligger spädbarnet helst på sidan, benen saknar stadga och det kan inte hålla uppe sitt stora huvud.
+
+# sent_id = sv-ud-test-265
+# text = Det kan inte fästa blicken och att ögonen tittar i kors ibland är inget att oroa sig för.
+
+# sent_id = sv-ud-test-266
+# text = Först vid 2-3 månaders ålder lär det sig att se ordentligt.
+
+# newpar id = P122.17
+# sent_id = sv-ud-test-267
+# text = Så småningom kan barnet lyfta upp bröst och huvud när det ligger på magen och det tycker om att ligga så och titta på sin omgivning.
+
+# sent_id = sv-ud-test-268
+# text = Det övar kryprörelser och lär sig rulla över på rygg.
+
+# sent_id = sv-ud-test-269
+# text = Man får passa det noga vid skötningarna, så att det inte ramlar ner och slår sig.
+
+# sent_id = sv-ud-test-270
+# text = Barnet sover nu helst på rygg med armarna uppåtböjda på var sida om huvudet.
+
+# sent_id = sv-ud-test-271
+# text = Det börjar gripa efter saker och då är tiden inne för de första leksakerna, t.ex. en skallra eller en bitring.
+
+# newpar id = P122.18
+# sent_id = sv-ud-test-272
+# text = Omkring halvåret brukar barnen kunna sitta med stöd, men sitta själva kan de inte förrän vid 8-10 månader.
+
+# sent_id = sv-ud-test-273
+# text = De griper efter alla saker som kommer i deras väg och stoppar allting i munnen.
+
+# sent_id = sv-ud-test-274
+# text = De tycker om granna färger.
+
+# sent_id = sv-ud-test-275
+# text = Målade klossar och andra lämpliga leksaker måste vara ofarliga och tåliga.
+
+# newpar id = P122.19
+# sent_id = sv-ud-test-276
+# text = Under andra halvåret börjar de flesta barn resa sig upp och stå.
+
+# sent_id = sv-ud-test-277
+# text = En del kryper eller hasar omkring på stjärten.
+
+# sent_id = sv-ud-test-278
+# text = De undersöker allt de kommer åt och nu börjar en tid när man måste plocka undan allt som kan gå sönder eller skada dem.
+
+# sent_id = sv-ud-test-279
+# text = Ju rörligare barnen blir desto mer måste man tänka på att inte i onödan hindra dem i deras rörelsefrihet och upptäckariver.
+
+# newpar id = P122.20
+# sent_id = sv-ud-test-280
+# text = Omkring året börjar en del barn ta de första stegen, men de flesta brukar inte gå förrän några månader senare.
+
+# newpar id = P122.21
+# sent_id = sv-ud-test-281
+# text = Det första riktiga leendet brukar visa sig vid 2-3 månaders ålder.
+
+# sent_id = sv-ud-test-282
+# text = Från den tiden behöver barnet mer av lek och sällskap.
+
+# sent_id = sv-ud-test-283
+# text = Också för utvecklingen av språket är det viktigt att vi jollrar och pratar med barnet.
+
+# sent_id = sv-ud-test-284
+# text = Språket utvecklas i en bestämd ordning: först kommer långa ljudramsor - jollret - då barnet liksom leker med olika ljud.
+
+# sent_id = sv-ud-test-285
+# text = I 1-årsåldern brukar de första enstaka orden komma, som senare blir meningar.
+
+# newpar id = P122.22
+# sent_id = sv-ud-test-286
+# text = Att följa med hur barnet utvecklas, se hur det förändras och lär sig nya saker är en stor upplevelse.
+
+# sent_id = sv-ud-test-287
+# text = Det är så mycket som händer under barnets första år, då det förvandlas från en helt beroende varelse till en liten personlighet redo att ta sin omvärld i besittning.
+
+# sent_id = sv-ud-test-289
+# text = Amningen är det bästa - och som regel också det enklaste - både för mamman och barnet.
+
+# sent_id = sv-ud-test-290
+# text = Bröstmjölken innehåller allt som barnet behöver.
+
+# sent_id = sv-ud-test-291
+# text = Amningen ger också mor och barn en alldeles särskild känsla av närhet och samhörighet.
+
+# newpar id = P122.24
+# sent_id = sv-ud-test-292
+# text = Men - om mamman har dåligt med mjölk eller kanske inte någon alls, kan hon ge barnet en tillfredsställande uppfödning i alla fall.
+
+# sent_id = sv-ud-test-293
+# text = Barnet klarar sig bra på en rätt skött flaskuppfödning och det finns numera färdiga mjölkblandningar, som utgör en god ersättning för bröstmjölken.
+
+# sent_id = sv-ud-test-294
+# text = Barnavårdscentralen hjälper gärna mamman med råd.
+
+# newpar id = P122.25
+# sent_id = sv-ud-test-295
+# text = Det är viktigt att flaskmatningen blir så lik amningen som möjligt.
+
+# sent_id = sv-ud-test-296
+# text = Det är därför bäst om barnet ligger i mammans famn under matningen, så att det får uppleva den varma kroppskontakten.
+
+# sent_id = sv-ud-test-297
+# text = Det är inte alltid lätt att få lugn omkring sig om man har flera småbarn i familjen - som kanske dessutom känner sig avundsjuka på den minste som får ha mamma alldeles för sig själv, men om matningen kan ordnas som en skön stund utan jäkt och brådska är det bäst för både mor och barn.
+
+# newpar id = P122.26
+# sent_id = sv-ud-test-298
+# text = Anpassa måltiderna någorlunda efter barnets behov.
+
+# newpar id = P122.27
+# sent_id = sv-ud-test-299
+# text = En god regel är att aldrig låta ett barn ligga och skrika av hunger någon längre stund.
+
+# sent_id = sv-ud-test-300
+# text = Man behöver inte heller väcka det till målen, utan kan vänta tills det vaknar av sig självt.
+
+# sent_id = sv-ud-test-301
+# text = De flesta barn ställer in sig på ganska regelbundna mål efter någon tid.
+
+# newpar id = P122.28
+# sent_id = sv-ud-test-302
+# text = Nattmål vill nästan alla spädbarn ha den första tiden och bör då också få det.
+
+# sent_id = sv-ud-test-303
+# text = Man undgår mycket skrik och onödig oro genom att ge dem detta i början och det brukar inte dröja länge förrän de sover över av sig själva.
+
+# sent_id = sv-ud-test-305
+# text = Alla små barn tycker om att suga och de behöver också göra det för att känna sig nöjda och tillfredsställda.
+
+# sent_id = sv-ud-test-306
+# text = För somliga räcker det med bröstet eller flaskan, andra hittar dessutom sin tumme eller tycker kanske om en tröstnapp.
+
+# sent_id = sv-ud-test-307
+# text = Har barnet napp bör man se till, att den är hel och av en säker modell, som inte kan glida ner i halsen.
+
+# newpar id = P122.30
+# sent_id = sv-ud-test-308
+# text = 'Sovtummen' behöver många barn ganska länge för att kunna slappna av och komma till ro.
+
+# sent_id = sv-ud-test-310
+# text = Det är oundvikligt att spädbarn skriker ibland, och om det inte beror på sjukdom är det inget att oroa sig för.
+
+# sent_id = sv-ud-test-311
+# text = Skriker de ihärdigt finns alltid en orsak, fast den många gånger kan vara svår att komma på.
+
+# sent_id = sv-ud-test-312
+# text = Barnen kan t.ex. vara hungriga eller törstiga.
+
+# sent_id = sv-ud-test-313
+# text = De kan vara för varma eller för kalla.
+
+# sent_id = sv-ud-test-314
+# text = Kläderna kan sitta åt och blöjorna vara våta.
+
+# sent_id = sv-ud-test-315
+# text = De kanske ligger obekvämt, har ont i magen eller störs av starka ljud eller ljus.
+
+# sent_id = sv-ud-test-316
+# text = En lika viktig orsak är att barnen känner sig ensamma och har behov av att komma upp i famnen en stund.
+
+# sent_id = sv-ud-test-317
+# text = Att trösta barn när de är ledsna är inte att skämma bort dem.
+
+# newpar id = P122.32
+# sent_id = sv-ud-test-318
+# text = Många nyblivna föräldrar känner sig först osäkra inför vården av sitt späda barn.
+
+# sent_id = sv-ud-test-319
+# text = Men snart blir skötningarna de efterlängtade stunderna.
+
+# sent_id = sv-ud-test-320
+# text = Försök ta god tid vid skötningen, lek och kela med barnet och njut av att vara tillsammans med det.
+
+# sent_id = sv-ud-test-321
+# text = Kärlek och ömhet kan barnet inte få för mycket av.
+
+# newdoc id = P204
+# newpar id = P204.1
+# sent_id = sv-ud-test-322
+# text = Mänsklighetens lämmeltåg rusar mot förintelsen.
+
+# sent_id = sv-ud-test-323
+# text = Det behöver inte ta mer än 100 år om allting fortsätter så här.
+
+# newpar id = P204.2
+# sent_id = sv-ud-test-324
+# text = Det beror ytterst på befolkningsexplosionen, fast det är en felaktig term.
+
+# sent_id = sv-ud-test-325
+# text = Partiklarna i en explosion förlorar så småningom farten när de sprider sig.
+
+# sent_id = sv-ud-test-326
+# text = Folkökningen går bara fortare och fortare.
+
+# newpar id = P204.3
+# sent_id = sv-ud-test-327
+# text = Under stenåldern fanns det uppskattningsvis en miljon människor på jorden.
+
+# sent_id = sv-ud-test-328
+# text = Inte förrän 1850 noterades den första miljarden.
+
+# sent_id = sv-ud-test-329
+# text = Sen började lavinen rulla.
+
+# sent_id = sv-ud-test-330
+# text = 1930 - bara 80 år senare - var det två miljarder.
+
+# sent_id = sv-ud-test-331
+# text = 1960 - bara 30 år senare - var det tre miljarder.
+
+# sent_id = sv-ud-test-332
+# text = 1975 - bara 15 år senare - är vi fyra miljarder.
+
+# sent_id = sv-ud-test-333
+# text = År 2000 eller strax därefter är vi sju miljarder.
+
+# newpar id = P204.4
+# sent_id = sv-ud-test-334
+# text = Och det hör till saken att verkligheten hittills har lämnat alla sådana beräkningar hopplöst på efterkälken.
+
+# newpar id = P204.5
+# sent_id = sv-ud-test-335
+# text = Redan om 30 år är läget bokstavligt olidligt.
+
+# sent_id = sv-ud-test-336
+# text = Våra miljövårdsproblem av i dag kommer att framstå som idylliska.
+
+# sent_id = sv-ud-test-337
+# text = Sju miljarder människor på jorden kan betyda drastiska förändringar i klimatet.
+
+# sent_id = sv-ud-test-338
+# text = Kan störa naturens balans så radikalt att endast en tredjedel överlever.
+
+# newpar id = P204.6
+# sent_id = sv-ud-test-339
+# text = Det gäller inte bara födan.
+
+# sent_id = sv-ud-test-340
+# text = Livets kretslopp är beroende av bakterier som förstör döda organismer och av de organismer som återger luften det syre som människor och djur förbrukar.
+
+# sent_id = sv-ud-test-341
+# text = Det är hela detta nätverk som löper faran.
+
+# newpar id = P204.7
+# sent_id = sv-ud-test-342
+# text = Kräva bevis?
+
+# sent_id = sv-ud-test-343
+# text = Finns det någon som bryr sig om varningarna?
+
+# sent_id = sv-ud-test-345
+# text = Eller som professor Göran Löfroth har formulerat det:
+
+# sent_id = sv-ud-test-346
+# text = 'Måste vi kräva bevis om en katastrof innan vi gör något?'
+
+# newpar id = P204.8
+# sent_id = sv-ud-test-347
+# text = Den brittiske författaren Gordon Rattray Taylor har i 'Domedagsboken' (Forum, cirkapris 49:50) samlat alla den globala miljöförstöringens argument till en förkrossande anklagelseskrift mot teknokraterna och politikerna.
+
+# sent_id = sv-ud-test-348
+# text = Det står ingenting nytt i boken, men bara att lyckas samla alla dessa synpunkter är imponerande.
+
+# newpar id = P204.9
+# sent_id = sv-ud-test-349
+# text = Han är pessimist förstås.
+
+# sent_id = sv-ud-test-350
+# text = Han tror att det är klippt om hundra år, om inte förr.
+
+# sent_id = sv-ud-test-351
+# text = Inte så att jorden går under precis, men han menar att vid det laget är människans situation så olidlig på grund av överbefolkning med åtföljande stress, nersjaskad miljö och anhopningar av allsköns djävligheter att det kommer till en social kollaps som innebär en drastisk reduktion av jordens befolkning till så där 2 miljarder.
+
+# newpar id = P204.10
+# sent_id = sv-ud-test-352
+# text = Om människan å andra sidan tack vare teknokraternas ansträngningar lyckas avgifta marken, rena luften så pass att man kan andas och rena åtminstone några vattendrag, så skapas därmed ett liv som knappt är värt att leva.
+
+# sent_id = sv-ud-test-353
+# text = Vi får äta alger i stället för kött, leva i grottor och tunnlar kring nordpolen, en värld där man inte kan plocka ett äpple från ett träd utan risk för förgiftning, en värld utan ensamhet och lugn, utan gröna fält och blå himmel ... en värld där människorna lever som broilers.
+
+# sent_id = sv-ud-test-355
+# text = När de optimistiska framtidsprofeterna börjar tala om en värld där vi skall flyga omkring vart som helst i tusensitsiga överljudsplan, ringa hem från djungeln tack vare satelliterna, bli fjärrundersökta av läkare, få all vår undervisning via datorer, äta samma mat, framställd av sojabönor och proppas med elektronisk kultur via TV, så låter det visserligen som skolpojksfantasier, men det är säkerligen inte tekniskt omöjligt.
+
+# sent_id = sv-ud-test-356
+# text = Det enda man kan säga med säkerhet är att u-länderna blir utestängda från en sådan värld och att klyftan mellan fattiga och rika bara blir större och större.
+
+# newpar id = P204.12
+# sent_id = sv-ud-test-357
+# text = Det är uppenbart att USA ligger närmast till denna framtidsvision.
+
+# sent_id = sv-ud-test-358
+# text = Men invånarna i hela Nordamerika, som utgör 7,5 procent av jordens befolkning, använder redan nu hälften av avkastningen av världens alla råvarutillgångar.
+
+# sent_id = sv-ud-test-359
+# text = Om alla världens resurser skulle fördelas rättvist och upp till USA:s nuvarande förbrukning, skulle de bara räcka för en halv miljard människor.
+
+# newpar id = P204.13
+# sent_id = sv-ud-test-360
+# text = Går inte ihop
+
+# sent_id = sv-ud-test-361
+# text = Ändå talar utvecklingsoptimisterna i USA om att tre- eller fyrdubbla den nuvarande konsumtionsstandarden och även utvidga den till u-länderna.
+
+# sent_id = sv-ud-test-362
+# text = Det går bara inte ihop.
+
+# sent_id = sv-ud-test-363
+# text = Det är rena struntpratet.
+
+# newpar id = P204.14
+# sent_id = sv-ud-test-364
+# text = Svalget mellan industriländer och utvecklingsländer kommer bara att bli större och större den tid vi har kvar på jorden.
+
+# sent_id = sv-ud-test-365
+# text = Analfabeterna blir fler och fler.
+
+# newpar id = P204.15
+# sent_id = sv-ud-test-366
+# text = Urbaniseringen leder till en förslummning av en omfattning som världen hittills aldrig har skådat.
+
+# sent_id = sv-ud-test-367
+# text = Taylor tar Turkiet som exempel.
+
+# sent_id = sv-ud-test-368
+# text = Han utgår från tumregeln att u-ländernas befolkning är fördelad med 80 procent på landsbygden och 20 procent i städerna.
+
+# sent_id = sv-ud-test-369
+# text = För industriländerna är det tvärtom.
+
+# sent_id = sv-ud-test-370
+# text = Städer i u-länderna växer explosionsartat, beroende bl a på jordbrukets mekanisering.
+
+# sent_id = sv-ud-test-371
+# text = Lantarbetarna blir överflödiga och söker sig till städerna för att få arbete i industrin.
+
+# sent_id = sv-ud-test-373
+# text = Turkiet har f n en lantbefolkning på 27 miljoner och en stadsbefolkning på 7 miljoner.
+
+# sent_id = sv-ud-test-374
+# text = Turkiets folkmängd ökar med en miljon om året och fördubblas vart 25:e år.
+
+# sent_id = sv-ud-test-375
+# text = År 2010 beräknas landet ha en folkmängd på 110 miljoner med 20 miljoner på landsbygden och 90 miljoner i städerna .
+
+# sent_id = sv-ud-test-376
+# text = Stadsbefolkningen har alltså ökat från 7 till 90 miljoner på 40 år.
+
+# newpar id = P204.17
+# sent_id = sv-ud-test-377
+# text = Hur skall man klara problemen med bostäder, skolor och andra samhälleliga anordningar i ett land som fortfarande befinner sig i början av industrialiseringen?
+
+# sent_id = sv-ud-test-378
+# text = Bara för att ta ett exempel på de ökade kraven behövs det 30000 nya lärare per år, frånsett att man redan nu har otillräckligt med lärare.
+
+# sent_id = sv-ud-test-380
+# text = Ett annat exempel är Kalkutta, låt vara det extremaste av alla.
+
+# sent_id = sv-ud-test-381
+# text = Stadens folkmängd växer för närvarande med 300000 per år.
+
+# sent_id = sv-ud-test-382
+# text = Det beräknas att staden framemot sekelskiftet har mellan 36 och 66 miljoner invånare.
+
+# newpar id = P204.19
+# sent_id = sv-ud-test-383
+# text = Bostadsfrågan löses redan nu med att man bygger skjul, öppna utåt gatan.
+
+# sent_id = sv-ud-test-384
+# text = 20-30 personer delar på en kallvattenskran.
+
+# sent_id = sv-ud-test-385
+# text = Avloppen består av öppna diken i gatorna, och när det blir översvämningar flyter avföring och matrester omkring var som helst.
+
+# sent_id = sv-ud-test-386
+# text = Folk tvättar både kläder och sig själva i förorenat vatten.
+
+# sent_id = sv-ud-test-387
+# text = Städer som Kalkutta kan näppeligen bli annat än djungler, där brottsligheten inte kan bekämpas, farsoterna får fritt spelrum och folk ligger och dör på gatorna utan att någon bryr sig om det.
+
+# newpar id = P204.20
+# sent_id = sv-ud-test-388
+# text = Slumstäderna kring den 'fina 'stadskärnan är sedan länge ett faktum i Asien, Afrika och Sydamerika, och de fortsätter att breda ut sig med en förfärande fart.
+
+# sent_id = sv-ud-test-389
+# text = Sao Paulo i Brasilien hade 900000 invånare 1930, har 7 miljoner nu och omkring 20 miljoner år 2000.
+
+# sent_id = sv-ud-test-390
+# text = Och det är folk som inte bor i hus, utan i lerkojor, under korrugerad plåt eller bakom säckväv, utspänd på fyra käppar.
+
+# sent_id = sv-ud-test-392
+# text = Jag har med flit plockat endast ur bokens rikhaltiga exempelflora av befolkningsproblem, därför att detta när allt kommer omkring är grundorsaken till världens desperata situation just nu.
+
+# sent_id = sv-ud-test-393
+# text = Allt det andra, miljöförstöringen i form av luft- och vatten- och jordföroreningar, jorderosionen och de minskade naturtillgångarna, är konsekvenser av överbefolkningen.
+
+# newpar id = P204.23
+# sent_id = sv-ud-test-395
+# text = Han utreder hur både amerikanska och brittiska myndigheter på helt godtyckliga grunder har fastslagit den 'godtagbara dosen' av radioaktiv strålning och hur de sedan med tvetydigt officiellt fikonspråk justerar den godtagbara dosen uppåt.
+
+# sent_id = sv-ud-test-397
+# text = Om det skulle visa sig att den godtagbara dosen är opraktisk för atomkraftindustrin, så är Taylor övertygad om att myndigheterna, de opportunistiska politikerna, är kapabla att höja den utan vidare med motiveringen:
+
+# sent_id = sv-ud-test-398
+# text = Vi måste ha elkraft.
+
+# sent_id = sv-ud-test-399
+# text = Om det så ska kosta oss ytterligare 50000 fall av blodkräfta per år.
+
+# newpar id = P204.25
+# sent_id = sv-ud-test-400
+# text = Och han citerar en amerikansk forskare som sökte förklara varför atomenergins folk driver på så hänsynslöst:
+
+# sent_id = sv-ud-test-401
+# text = 'Det finns en förståelig tendens hos dess duktiga människor att framhäva de positiva synpunkterna på atomenergin helt enkelt därför att de negativa följderna är så nedslående.'
+
+# newpar id = P204.26
+# sent_id = sv-ud-test-402
+# text = Kannibaler bör akta sig för att äta amerikaner.
+
+# sent_id = sv-ud-test-403
+# text = De innehåller över 10 milligram DDT per kilo, vilket är mer än dubbla tillåtna kvantiteten i USA.
+
+# sent_id = sv-ud-test-404
+# text = Svenskar ligger också över med 7 mg per kilo.
+
+# sent_id = sv-ud-test-405
+# text = Britterna klarar kvalgränsen precis med 5 mg DDT per kilo.
+
+# newpar id = P204.27
+# sent_id = sv-ud-test-406
+# text = Andelen stadsbor i procent
+
+# sent_id = sv-ud-test-407
+# text = I industriländer bor fyra av fem i städer år 2000 enligt FN:s (osäkra) beräkningar.
+
+# sent_id = sv-ud-test-408
+# text = Men procentuellt sett växer städerna mest i u-länderna.
+
+# newpar id = P204.28
+# sent_id = sv-ud-test-409
+# text = Antalet städer med över 2500000 invånare
+
+# sent_id = sv-ud-test-410
+# text = Om tio år finns det ungefär 60 jättestäder, alltså städer som har mer än 2,5 miljoner invånare hopklumpade.
+
+# sent_id = sv-ud-test-411
+# text = Detta enligt FN:s beräkningar .
+
+# newdoc id = P210
+# newpar id = P210.1
+# sent_id = sv-ud-test-412
+# text = 'Envar har rätt till undervisning ...
+
+# sent_id = sv-ud-test-413
+# text = Den elementära undervisningen skall vara obligatorisk.
+
+# sent_id = sv-ud-test-414
+# text = Yrkesundervisning och teknisk undervisning skall vara allmänt tillgänglig.
+
+# sent_id = sv-ud-test-415
+# text = Den högre undervisningen skall stå öppen för alla på grundval av deras duglighet.'
+
+# sent_id = sv-ud-test-416
+# text = (Förklaringen om de mänskliga rättigheterna, artikel 26.)
+
+# newpar id = P210.2
+# sent_id = sv-ud-test-417
+# text = FN har döpt sitt jubileumsår till 'internationella utbildningsåret' - ett försök att sporra till nationella ansträngningar på undervisningens område.
+
+# sent_id = sv-ud-test-418
+# text = Under veckan uppmärksammas detta i Sveriges skolor.
+
+# newpar id = P210.3
+# sent_id = sv-ud-test-419
+# text = Utbildningsåret har en symbol som ska visa hur kunskapen utgår från punkten i mitten av pannan.
+
+# newpar id = P210.4
+# sent_id = sv-ud-test-420
+# text = Artikeln bygger främst på Unesco Courier, January 1970; Världshorisont 1, 1970; och Svenska FN-förbundets och skolöverstyrelsens studiehäfte 'Undervisning eller undergång'.
+
+# newpar id = P210.5
+# sent_id = sv-ud-test-421
+# text = Under den tid som det tar att läsa den här meningen föds elva människor till världen.
+
+# sent_id = sv-ud-test-422
+# text = Under samma tid dör fem människor.
+
+# sent_id = sv-ud-test-423
+# text = Jordens befolkning har ökat med sex personer.
+
+# sent_id = sv-ud-test-424
+# text = Dvs när du läst hit har den hunnit öka med omkring tjugo personer.
+
+# newpar id = P210.6
+# sent_id = sv-ud-test-425
+# text = De 200000 som föds varje dag måste utbildas om de skall ha någon chans i livet, och om världens fattiga och utsugna länder skall kunna resa sig.
+
+# newpar id = P210.7
+# sent_id = sv-ud-test-426
+# text = Varför är utbildningen särskilt viktig?
+
+# sent_id = sv-ud-test-427
+# text = Den FN-ideologi som ligger bakom tanken på ett särskilt 'internationellt utbildningsår' 1970 ger ungefär detta svar:
+
+# newpar id = P210.8
+# sent_id = sv-ud-test-428
+# text = U-länderna måste ta en genväg för att komma i fatt.
+
+# sent_id = sv-ud-test-429
+# text = Genvägen är att utnyttja modern vetenskap och teknik.
+
+# sent_id = sv-ud-test-430
+# text = Då behövs utbildning.
+
+# sent_id = sv-ud-test-431
+# text = Utan utbildning ingen genväg.
+
+# newpar id = P210.9
+# sent_id = sv-ud-test-432
+# text = Mycket mer skall in i utvecklingsbilden, men en djärv satsning på utbildning kan ge resultat.
+
+# sent_id = sv-ud-test-433
+# text = Det har länder som Sovjet, Japan, Kina och Kuba visat.
+
+# sent_id = sv-ud-test-435
+# text = Folkökningen i världen är så stor att antalet människor som varken kan läsa eller skriva (analfabeter) ökar.
+
+# sent_id = sv-ud-test-436
+# text = Då har man alltså inte räknat med barn under skolåldern.
+
+# sent_id = sv-ud-test-437
+# text = Under 1960-talet blev det 60 miljoner fler analfabeter i världen.
+
+# newpar id = P210.11
+# sent_id = sv-ud-test-438
+# text = Dessutom är det många i u-länderna som slutar skolan efter ett par års dålig undervisning.
+
+# sent_id = sv-ud-test-439
+# text = Då glömmer de fort vad de lärt sig.
+
+# sent_id = sv-ud-test-440
+# text = Dessa analfabeter kommer aldrig i statistiken.
+
+# sent_id = sv-ud-test-441
+# text = Så när man säger att var tredje människa är analfabet så är det en underskattning.
+
+# newpar id = P210.12
+# sent_id = sv-ud-test-442
+# text = Befolkningstrycket är roten till det mesta onda i u-ländernas utbildningssystem.
+
+# sent_id = sv-ud-test-443
+# text = Undervisningsbudgeten måste ständigt och kraftigt utvidgas i takt med folkökningen.
+
+# sent_id = sv-ud-test-445
+# text = Vart denna (ojämna?) kapplöpning leder kan man konstatera: resurserna räcker inte till, det blir för få skolor och lärare, alltså blir undervisningen dålig och många slutar i förtid eller sitter kvar - om de ens får chansen att gå i skola.
+
+# newpar id = P210.14
+# sent_id = sv-ud-test-446
+# text = Ett annat problem är att u-landsbarnen får fel utbildning.
+
+# sent_id = sv-ud-test-447
+# text = Det beror på att undervisningssystemen övertagits från den forna kolonialmakten och ofta har värderingar från 1800-talet.
+
+# newpar id = P210.15
+# sent_id = sv-ud-test-448
+# text = Undervisningen är inte anpassad efter u-länders behov.
+
+# sent_id = sv-ud-test-449
+# text = Den är för teoretisk och humanistisk.
+
+# sent_id = sv-ud-test-450
+# text = Den lär inte ut de praktiska kunskaper som behövs för att förbättra jordbruket t ex .
+
+# newpar id = P210.16
+# sent_id = sv-ud-test-451
+# text = Undervisningen ger barnen uppfattningen att jordbruk och praktiskt arbete inte är riktigt fint.
+
+# sent_id = sv-ud-test-452
+# text = Den bidrar till elittänkande.
+
+# sent_id = sv-ud-test-453
+# text = Den skapar eller vidmakthåller klassklyftor.
+
+# newpar id = P210.17
+# sent_id = sv-ud-test-454
+# text = Detta problem är dock relativt lätt att lösa.
+
+# sent_id = sv-ud-test-455
+# text = Det går att göra undervisningen mer praktiskt inriktad, mer anpassad till jordbrukets behov, även om det är jobb med nya kursplaner och vidareutbildning av lärare.
+
+# sent_id = sv-ud-test-456
+# text = Sådana reformer har Kina och Tanzania just genomfört.
+
+# newpar id = P210.18
+# sent_id = sv-ud-test-457
+# text = Men det större problemet - folkökningen och bristen på resurser - är mer svårlöst.
+
+# sent_id = sv-ud-test-458
+# text = Ökad u-hjälp, ja, men det är inte mycket att hoppas på.
+
+# newpar id = P210.19
+# sent_id = sv-ud-test-459
+# text = Ett slags lösning är faktiskt att rätta mun efter matsäcken.
+
+# sent_id = sv-ud-test-460
+# text = De flesta länder har målsättningen att alla barn skall få gå i skolan.
+
+# sent_id = sv-ud-test-461
+# text = Men med nuvarande resurser betyder det i u-länderna att de flesta barn får en dålig undervisning.
+
+# sent_id = sv-ud-test-463
+# text = Tanzania tog nyligen det svåra beslutet att bara låta vartannat barn gå i skola.
+
+# sent_id = sv-ud-test-464
+# text = Därmed får de som går i skola bättre undervisning, en undervisning som är värd något.
+
+# sent_id = sv-ud-test-465
+# text = Andra länder som fattat liknande fast mindre drastiska beslut är Marocko, Algeriet och Nigeria.
+
+# newpar id = P210.21
+# sent_id = sv-ud-test-466
+# text = Vissa länder i Afrika har alltså övergivit målsättningen om allmän skolgång.
+
+# sent_id = sv-ud-test-467
+# text = I Sydasien, Mellanöstern och Latinamerika har de flesta länder aldrig försökt genomföra den målsättningen.
+
+# newpar id = P210.22
+# sent_id = sv-ud-test-468
+# text = Att rätta mun efter matsäcken - en provisorisk lösning, kanske en skenlösning?
+
+# newpar id = P210.23
+# sent_id = sv-ud-test-469
+# text = En samling kalla fakta
+
+# sent_id = sv-ud-test-470
+# text = 500 kronor per år - det är vad man genomsnittligt offrar i världen på ett barn som ska lära sig att läsa och skriva.
+
+# sent_id = sv-ud-test-471
+# text = Lite senare i livet använder man 39000 kronor för att lära den värnpliktige skjuta.
+
+# newpar id = P210.24
+# sent_id = sv-ud-test-472
+# text = Världen ger ut 40 procent mer på rustningar än på utbildning: 795000 miljoner kronor per år till militäranslag, 555000 till utbildning.
+
+# sent_id = sv-ud-test-473
+# text = Industriländerna (USA, Sovjet, Sverige etc) använder en mycket större del av sin nationalprodukt på utbildning (fem procent) än u-länderna (tre procent).
+
+# newpar id = P210.25
+# sent_id = sv-ud-test-474
+# text = U-länderna använder 25 kronor per år och person till utbildning, industriländerna 500 kronor.
+
+# sent_id = sv-ud-test-475
+# text = U-länderna har 72 procent av världens befolkning, men bara 11 procent av världens utbildningsbudget.
+
+# newpar id = P210.26
+# sent_id = sv-ud-test-476
+# text = U-ländernas militärutgifter är dubbelt så stora som deras inkomster i form av u-hjälp.
+
+# newpar id = P210.27
+# sent_id = sv-ud-test-477
+# text = Minst var tredje människa är analfabet, kan varken läsa eller skriva.
+
+# newpar id = P210.28
+# sent_id = sv-ud-test-478
+# text = Antalet analfabeter ökar varje år.
+
+# sent_id = sv-ud-test-479
+# text = Folkmängden ökar fortare än läskunnigheten.
+
+# newpar id = P210.29
+# sent_id = sv-ud-test-480
+# text = Av barnen i åldern 6-14 år i Mali gick 68000 i skolan 1961.
+
+# sent_id = sv-ud-test-481
+# text = Det var tio procent.
+
+# sent_id = sv-ud-test-482
+# text = 1964 gick 113000 av barnen i den åldersgruppen i skolan.
+
+# sent_id = sv-ud-test-483
+# text = Det var fortfarande bara tio procent.
+
+# newpar id = P210.30
+# sent_id = sv-ud-test-484
+# text = Nästan hälften av alla i u-länderna är under 15 år.
+
+# sent_id = sv-ud-test-485
+# text = Motsvarande siffra i industriländerna är 15-20 procent.
+
+# sent_id = sv-ud-test-486
+# text = Det betyder att u-länderna, som har sämst råd, måste satsa mest på utbildning.
+
+# sent_id = sv-ud-test-487
+# text = I stora delar av Afrika och Latinamerika slutar mer än varannan elev efter två år.
+
+# newpar id = P210.31
+# sent_id = sv-ud-test-488
+# text = Kvarsittning är vanlig i u-länderna.
+
+# sent_id = sv-ud-test-489
+# text = Av de barn som går ut grundskolan i arabvärlden är det bara vart fjärde barn som inte suttit kvar ett eller flera år.
+
+# sent_id = sv-ud-test-490
+# text = Det beror på dålig undervisning, bristande resurser.
+
+# newpar id = P210.32
+# sent_id = sv-ud-test-491
+# text = Antalet lärare i världen ökar långsammare än antalet elever, 3,9 procent mot 4,8 procent.
+
+# newpar id = P210.33
+# sent_id = sv-ud-test-492
+# text = Någon har räknat ut att om u-länderna ska ha en chans att bli ekonomiskt självförsörjande 1980, så behövs 1,5 miljoner tekniker och ingenjörer - fyra gånger fler än vad som finns i dag.
+
+# sent_id = sv-ud-test-493
+# text = Bara 38 procent av skolbarnen i Afrika och Asien är flickor (1967).
+
+# newpar id = P210.34
+# sent_id = sv-ud-test-494
+# text = Diagrammet ovan visar hur mycket världen satsar i tusental miljoner dollar per år till olika ändamål.
+
+# sent_id = sv-ud-test-495
+# text = Militära utgifter slukar t ex 159000 miljoner dollar, medan utbildningen bara får 111000 miljoner.
+
+# newdoc id = P213
+# newpar id = P213.1
+# sent_id = sv-ud-test-496
+# text = Miljöhotet mot Östersjön har resulterat i nästan totalstopp för strömmingsförsäljningen.
+
+# sent_id = sv-ud-test-497
+# text = I dag garanterar Folkhälsan och Naturvårdsverket att larmrapporten om gifthalten fått överdrivna proportioner - strömming, lax och ål är helt riskfritt att äta.
+
+# newpar id = P213.2
+# sent_id = sv-ud-test-498
+# text = Det är ingen fara med strömmingen!
+
+# newpar id = P213.3
+# sent_id = sv-ud-test-499
+# text = Så säger i dag Folkhälsan och Naturvårdsverket.
+
+# sent_id = sv-ud-test-500
+# text = Och anledningen till detta kategoriska uttalande är den larmrapport som släpptes ut förra veckan om PCB- och DDT-halterna i östersjöfisken.
+
+# newpar id = P213.4
+# sent_id = sv-ud-test-501
+# text = Visserligen är halterna oroande höga, men nån fara för människan är det inte.
+
+# newpar id = P213.5
+# sent_id = sv-ud-test-502
+# text = - Rubrikerna om gifthalterna i bland annat strömming har resulterat i nästan totalstopp för strömmingsförsäljningen i större delen av Sverige, säger direktör John Erik Boork, direktör i Ostkustfisk Centralförening till Aftonbladet.
+
+# newpar id = P213.6
+# sent_id = sv-ud-test-503
+# text = - Visserligen anser vi att miljöhotet mot Östersjön är oroande men ännu så länge finns det garantier för att både strömming, lax och ål är helt ofarliga.
+
+# newpar id = P213.7
+# sent_id = sv-ud-test-504
+# text = Rapporten om gifthalterna i de här fisksorterna kommer från en omfattande undersökning som gjorts av en forskargrupp på Riksmuseet.
+
+# sent_id = sv-ud-test-506
+# text = Under sommaren har man bedrivit vetenskapligt provfiske på ett 40-tal stationer i både Bottenhavet och Östersjön.
+
+# newpar id = P213.9
+# sent_id = sv-ud-test-507
+# text = Resultatet av detta fiske visar att södra Östersjön drabbats av oroväckande stora mängder DDT och PCB.
+
+# newpar id = P213.10
+# sent_id = sv-ud-test-508
+# text = - Situationen kan bli besvärlig men ännu så länge är det ingen fara, påpekar både Statens institut för Folkhälsan och Naturvårdsverket.
+
+# newpar id = P213.11
+# sent_id = sv-ud-test-509
+# text = Men deras upptäckter och artiklarna kring dessa har direkt resulterat i kaos för fisket längs hela svenska ostkusten.
+
+# newpar id = P213.12
+# sent_id = sv-ud-test-510
+# text = Massor av fiskare ringde i går i förtvivlan till sina organisationer för att få klarhet om gifthalterna i strömmingen.
+
+# newpar id = P213.13
+# sent_id = sv-ud-test-511
+# text = - Totalt finns det omkring 4000 yrkesfiskare längs ostkusten.
+
+# sent_id = sv-ud-test-512
+# text = Och deras situation är allaredan besvärlig.
+
+# sent_id = sv-ud-test-513
+# text = En sån här sak gör den inte bättre, säger ombudsman Gösta Lindebo i Svenska ostkustfiskarnas centralförbund.
+
+# sent_id = sv-ud-test-515
+# text = - Därför är det viktigt att svenska folket nu får reda på att Östersjöfisken fortfarande är perfekt som föda, förklarar Gösta Lindebo.
+
+# newpar id = P213.15
+# sent_id = sv-ud-test-516
+# text = - Vi är naturligtvis medvetna om att Östersjön innehåller olika sorters miljögifter.
+
+# sent_id = sv-ud-test-517
+# text = Och det är en oroande faktor.
+
+# newpar id = P213.16
+# sent_id = sv-ud-test-518
+# text = - Men fiskets olika organisationer ligger hårt på myndigheterna i den här frågan.
+
+# sent_id = sv-ud-test-519
+# text = Vi kräver att Naturvårdsverket med kraft tar itu med den här saken.
+
+# newpar id = P213.17
+# sent_id = sv-ud-test-520
+# text = - Ett sånt löfte har vi också fått av jordbrukminister Ingemund Bengtsson, säger Gösta Lindebo.
+
+# newdoc id = P214
+# newpar id = P214.1
+# sent_id = sv-ud-test-521
+# text = 39 barn av 100 föds ovälkomna och bara 43 av 100 är aktivt planerade.
+
+# sent_id = sv-ud-test-522
+# text = Var femte gravid kvinna visar besvärande psykiska störningar under graviditeten.
+
+# sent_id = sv-ud-test-523
+# text = Lika vanligt är det med svårare psykiska besvär hos modern under barnets sex första levnadsmånader.
+
+# sent_id = sv-ud-test-524
+# text = Detta är några av alla de data som med lic Åke Nilsson vid psykiatriska kliniken i Lund fått fram i en undersökning av 165 gravida kvinnor.
+
+# sent_id = sv-ud-test-525
+# text = På fredagen disputerar Åke Nilsson på avhandlingen.
+
+# newpar id = P214.2
+# sent_id = sv-ud-test-526
+# text = De 165 kvinnorna har intervjuats vid tre tillfällen: efter första besöket på mödravårdscentralen, omedelbart efter förlossningen och sex månader efter barnets födelse.
+
+# sent_id = sv-ud-test-527
+# text = I den första och tredje undersökningen deltog också psykolog Per-Erik Almgren.
+
+# newpar id = P214.3
+# sent_id = sv-ud-test-528
+# text = Lätta problem är 'normala'
+
+# sent_id = sv-ud-test-529
+# text = Vissa lättare psykiska symptom anses normala under en graviditet, säger Åke Nilsson.
+
+# sent_id = sv-ud-test-530
+# text = En ökad känslighet, lättare depressionsperioder eller mindre störningar hör till den normala bilden.
+
+# newpar id = P214.4
+# sent_id = sv-ud-test-531
+# text = Däremot finns det enligt undersökningen en stor grupp kvinnor, nära 45 procent, som under graviditeten visar psykiska symptom som i olika utsträckning påverkar välbefinnandet.
+
+# sent_id = sv-ud-test-532
+# text = I den gruppen har 17 procent symptom som tyder på påtagliga psykiska besvär.
+
+# newpar id = P214.5
+# sent_id = sv-ud-test-533
+# text = - Traditionellt anses ju att det är under tiden efter förlossningen man finner de flesta psykiska störningarna, säger Åke Nilsson.
+
+# sent_id = sv-ud-test-534
+# text = Men enligt mina resultat är psykiska besvär lika vanliga under graviditeten som efter förlossningen.
+
+# sent_id = sv-ud-test-536
+# text = En tidig sexualdebatt och många sexualpartners kan i en del fall tyda på neurotiska störningar.
+
+# sent_id = sv-ud-test-537
+# text = En moraliserande inställning till sexuallivet i uppväxtmiljön hör också till de faktorer som kan ge psykiska problem vid en graviditet.
+
+# newpar id = P214.7
+# sent_id = sv-ud-test-538
+# text = Oplanerat barn ger mer besvär
+
+# sent_id = sv-ud-test-539
+# text = Kvinnans anpassning till det väntade barnet beror också i hög grad på om graviditeten är planerad eller inte.
+
+# sent_id = sv-ud-test-540
+# text = Dålig eller ingen preventivteknik finns med i bakgrunden hos många av de kvinnor som har svåra problem.
+
+# newpar id = P214.8
+# sent_id = sv-ud-test-541
+# text = 47 procent av kvinnorna i dr Nilssons undersökning var gravida vid giftermålet.
+
+# newpar id = P214.9
+# sent_id = sv-ud-test-542
+# text = Dessa kvinnor är en riskgrupp, säger han.
+
+# sent_id = sv-ud-test-543
+# text = De blev i många fall gravida oavsiktligt.
+
+# sent_id = sv-ud-test-544
+# text = De blev 'tvungna att gifta sig'.
+
+# sent_id = sv-ud-test-545
+# text = Deras val av äktenskapspartner blev kanske slumpmässigt.
+
+# newpar id = P214.10
+# sent_id = sv-ud-test-546
+# text = Den personlighetspsykologiska delen av avhandlingen går mera på djupet.
+
+# newpar id = P214.11
+# sent_id = sv-ud-test-547
+# text = Kvinnor som inte kan acceptera modersrollen i djupare bemärkelse, som inte kan identifiera sig med sin egen mor eller har en markant starkare identifikation med fadern får oftare svårigheter vid en graviditet.
+
+# sent_id = sv-ud-test-548
+# text = En del kvinnor som förnekar att de haft menstruationssmärtor, som förnekar illamående under graviditeten, kan också få problem efter förlossningen.
+
+# newpar id = P214.12
+# sent_id = sv-ud-test-549
+# text = Frånvaron av besvär kan vara ett uttryck för en förträngning av graviditeten, säger Åke Nilsson.
+
+# sent_id = sv-ud-test-550
+# text = En omedvetet negativ inställning till havandeskapet kan ge en öppen konflikt först när barnet är fött.
+
+# sent_id = sv-ud-test-552
+# text = Man håller också på att undersöka upplevelsen av förlossningen närmare och det arbetet skall läggas fram i en särskild publikation.
+
+# newpar id = P214.14
+# sent_id = sv-ud-test-553
+# text = Jag har funnit att man inte kan betrakta själva förlossningen som en fristående företeelse, säger Åke Nilsson.
+
+# sent_id = sv-ud-test-554
+# text = Naturligtvis spelar faktorer som om barnet är önskat eller inte en stor roll vid upplevelsen av smärtan.
+
+# sent_id = sv-ud-test-555
+# text = Psykiskt instabila kvinnor, som betraktat sig som sjuka under hela graviditeten, anger också en starkare smärtupplevelse.
+
+# sent_id = sv-ud-test-556
+# text = Om mannen är med eller ej tycks inte spela någon större roll för smärtupplevelsen.
+
+# newpar id = P214.15
+# sent_id = sv-ud-test-557
+# text = - Jag är själv inte särskilt villig att dra långtgående slutsatser ur materialet, säger Åke Nilsson.
+
+# sent_id = sv-ud-test-558
+# text = Men jag anser att undersökningen visar att fri abort, naturligtvis efter kontroll av motiven för ansökan, skulle kunna lösa en del av de problem som finns.
+
+# sent_id = sv-ud-test-559
+# text = Men övervägande delen av problematiken ligger på attityderna till barnafödande och mödraskap och sådana attitydförändringar kommer på mycket lång sikt.
+
+# newdoc id = P218
+# newpar id = P218.1
+# sent_id = sv-ud-test-560
+# text = Åderförkalkning har blivit ett begrepp som bland lekmän och lärde användes för att förklara den försämring i hjärnans funktion som med stigande ålder drabbar oss alla.
+
+# sent_id = sv-ud-test-561
+# text = Hos somliga kan en sådan funktionsnedsättning vara ringa och långsamt insättande och är då att betrakta som ett led i det normala åldrandets process.
+
+# sent_id = sv-ud-test-562
+# text = Hos andra däremot kan nedsättningen vara snabbt insättande och ta sig dramatiska uttryck och kan då leda till sådana tillstånd som betecknas som senil demens.
+
+# sent_id = sv-ud-test-563
+# text = Det är patienter med dessa tillstånd som utgör en stor procent av det klientel som i dag vårdas på ålderdomshem, långvårdskliniker och mentalsjukhus.
+
+# newpar id = P218.2
+# sent_id = sv-ud-test-564
+# text = I bästa fall kan de nödtorftigt sköta sig själva eller enklare rutingöromål, i sämsta fall är de helt borta från denna världen.
+
+# sent_id = sv-ud-test-565
+# text = Det råder inget tvivel om att förändringar i hjärnans kärl i majoriteten av fall är orsaken till dessa grava symtom och man måste ha klart för sig att i denna grupp kan någon behandling inte erbjudas.
+
+# sent_id = sv-ud-test-566
+# text = Det är emellertid säkert så att det finns fall där den bakomliggande orsaken är av annan natur.
+
+# sent_id = sv-ud-test-567
+# text = Det är bland dessa sistnämnda man över huvud taget kan tänkas nå fram till någon form av åtgärd som kan leda till förbättring.
+
+# newpar id = P218.3
+# sent_id = sv-ud-test-568
+# text = Anledningen till denna mycket försiktiga optimism är att man under senare år funnit att somliga av dessa fall har haft god nytta av ett operativt ingrepp.
+
+# sent_id = sv-ud-test-569
+# text = Det rör sig alltså om fall där orsaken till patientens symtom inte primärt är åderförkalkning utan i stället beror på en sannolik störning i cirkulationen av den vätska som omger hjärnan.
+
+# sent_id = sv-ud-test-570
+# text = En sådan cirkulationsstörning kan bero på ett mekaniskt hinder men också på att balansen mellan nybildning och försvinnande av denna vätska är störd.
+
+# sent_id = sv-ud-test-572
+# text = I sådana fall kan neurokirurgerna borra ett litet hål i skallen och föra in ett tunt rör i hjärnans hålrum.
+
+# sent_id = sv-ud-test-574
+# text = Det är för övrigt samma operationsmetod som användes hos barn som föds med s k vattenskalle.
+
+# sent_id = sv-ud-test-575
+# text = Ett sådant operationsförfarande kan leda till 'normalisering' av den störda cirkulationen och kan understundom ge påfallande förbättringar i hjärnans funktion.
+
+# sent_id = sv-ud-test-576
+# text = Det är framför allt i USA som man tillämpat denna behandlingsmetod på äldre patienter med nedsatt hjärnfunktion.
+
+# newpar id = P218.5
+# sent_id = sv-ud-test-577
+# text = När man talar med svenska experter om detta ställer de flesta sig ganska tveksamma:
+
+# sent_id = sv-ud-test-578
+# text = 'Skriv inte om detta med för stora bokstäver.'
+
+# sent_id = sv-ud-test-579
+# text = 'Väck inget hopp om det.'
+
+# newpar id = P218.6
+# sent_id = sv-ud-test-580
+# text = De rapporter som föreligger har trots detta motiverat en planmässig forskning, bl a på lasarettet i Lund, ett projekt där både psykiater, neurologer, neurokirurger och röntgenologer är engagerade.
+
+# sent_id = sv-ud-test-581
+# text = SDS har talat med en av deltagarna i den vetenskapliga undersökningen, röntgenologen dr Sten Cronqvist i Lund.
+
+# sent_id = sv-ud-test-583
+# text = Vi måste lära oss att respektera och acceptera att åldrandet så ofta leder till tillstånd där ingen terapi finns.
+
+# sent_id = sv-ud-test-584
+# text = Det är emellertid å andra sidan i grunden fel att bunta ihop gamla människor på institutioner bara för att de är gamla, säger dr Cronqvist.
+
+# sent_id = sv-ud-test-585
+# text = Vi måste i det enskilda fallet inta en aktiv attityd för att utröna om något kan göras för att patientens tillvaro skall bli drägligare.
+
+# sent_id = sv-ud-test-586
+# text = På S:t Lars sjukhus i Lund tillhör mer än hälften av de patienter som årligen intas, gruppen åldringar.
+
+# sent_id = sv-ud-test-587
+# text = Om så bara en procent eller ännu mindre kan erbjudas en behandling av det slag som berörts ovan, så vore det en enorm vinst, både på det mänskliga och det praktiska planet.
+
+# sent_id = sv-ud-test-588
+# text = Det stora problemet är emellertid just att spåra upp de fall där förutsättning finns för ett operativt ingrepp, dvs de fall där en cirkulationsrubbning i hjärnvätskan kan tänkas föreligga.
+
+# sent_id = sv-ud-test-589
+# text = Genom den utrustning som finns på röntgendiagnostiska avdelningen vid lasarettet i Lund, en s k gammakamera, finns nu möjligheter att studera dessa cirkulationsförhållanden.
+
+# sent_id = sv-ud-test-590
+# text = Det är emellertid inte fråga om någon form av röntgenapparatur.
+
+# sent_id = sv-ud-test-592
+# text = Till skillnad från en vanlig röntgen som innebär att röntgenstrålar skickas tvärsigenom patienten och avsätter en bild på röntgenfilmen så sprutas, när gammakameran användes, ett radioaktivt ämne direkt in i patienten.
+
+# sent_id = sv-ud-test-593
+# text = Detta ämne, som alltså själv utsänder strålar kan via en detektor överföras till ett oscilloskop där man erhåller en bild som på olika sätt kan registreras.
+
+# sent_id = sv-ud-test-594
+# text = När det gäller de äldre patienterna där man önskar undersöka hjärnvätskans cirkulation sprutas det radioaktiva ämnet in i ryggmärgsvätskan och man kan med hjälp av gammakameran följa ämnets passage, om denna är fördröjd eller sker på vägar som avviker från det normala mönstret.
+
+# newpar id = P218.9
+# sent_id = sv-ud-test-595
+# text = Gammakameran har emellertid också ett annat användningsområde som ingår i rutinutredningarna vid den neuroradiologiska sektionen på röntgenavdelningen.
+
+# sent_id = sv-ud-test-596
+# text = Det radioaktiva ämnet kan i stället för att som i det ovan angivna exemplet sprutas in i ryggmärgsvätskan, i stället tillföras direkt till patientens blod.
+
+# sent_id = sv-ud-test-598
+# text = Hos patienter som har en tumör i hjärnan, hjärnblödning eller blodpropp i hjärnans kärl, sker då en ansamling av det radioaktiva materialet inom tumören, inom blödningshålan eller i den hjärnvävnad som skadats i anslutning till blodproppen.
+
+# sent_id = sv-ud-test-599
+# text = Det innebär alltså att man motsvarande det 'skadade' området får en ökad strålning i jämförelse med den omkringliggande vävnaden och att denna skillnad mellan abnorm och normal vävnad kan iakttagas med hjälp av gammakameran.
+
+# newpar id = P218.11
+# sent_id = sv-ud-test-600
+# text = Den detektor som uppfångar strålningen kan vridas kring patientens huvud och rutinmässigt tar man hos patienter med misstanke på en sådan 'skada' fem olika projektioner, vilket kan ske under loppet av 20-30 minuter.
+
+# sent_id = sv-ud-test-601
+# text = Det är alltså en snabb undersökning och dessutom försiggår hela proceduren utan minsta besvär för patienten frånsett ett stick i armen, på samma sätt som när sänka tages.
+
+# sent_id = sv-ud-test-602
+# text = Så snart registreringarna är klara kan patienten i princip resa sig från sin brits utan några kvarstående besvär.
+
+# sent_id = sv-ud-test-604
+# text = Gammakameran ger inte lika fullständig bild av hjärnan som en s k luftskalle eller en s k färgskalle, men båda dessa undersökningar är besvärande för patienten och kräver också att patienten intages på sjukhus.
+
+# sent_id = sv-ud-test-605
+# text = Eftersom undersökning med gammakameran är så lätt att genomföra och som påpekas utan besvär för patienten, ger alltså gammakameran oss möjligheter att undersöka också polikliniska patienter.
+
+# sent_id = sv-ud-test-606
+# text = Det är framför allt neurologerna som tagit fasta på detta.
+
+# sent_id = sv-ud-test-607
+# text = De är av den uppfattningen att kombinationen undersökning med gammakameran och en klinisk undersökning av en erfaren neurolog erbjuder både diagnostiska och praktiska fördelar.
+
+# sent_id = sv-ud-test-608
+# text = Professor Ragnar Muller vid neurologiska kliniken har gjort ett försiktigt överslag på de besparingar som kan göras genom att bedriva utredningsarbetet polikliniskt på detta sätt.
+
+# sent_id = sv-ud-test-609
+# text = Försiktig beräkning visar att en besparing på 75000 kronor, ungefär 300 vårddagar hade kunnat sparas redan under gammakamerans första användningsår.
+
+# newpar id = P218.13
+# sent_id = sv-ud-test-610
+# text = Gammakameran har också andra användningsområden utöver de två som nämnts här ovan.
+
+# sent_id = sv-ud-test-611
+# text = Den kan t ex användas också för att spåra tumörer i exempelvis skelett, lungor och njurar.
+
+# sent_id = sv-ud-test-612
+# text = Det kan förefalla vådligt att tillföra radioaktiva ämnen till patienten med tanke på den strålning som sker, men med de mängder som i dag behöver användas för ett gott resultat är stråldosen mindre, eller i alla fall inte större än vad patienten erhåller vid en ordinär undersökning.
+
+# newpar id = P218.14
+# sent_id = sv-ud-test-613
+# text = I en del fall - hur många vet man inte - av senil sinnessvaghet har forskarna funnit att det beror på för mycket hjärnvätska som hjärnans vävnader inte kan tillgodogöra sig.
+
+# sent_id = sv-ud-test-614
+# text = I dessa fall då orsaken alltså inte är den vanliga höggradig åderförkalkning, finns chansen att återföra patienten till ett normalt liv genom en operation av det slag som återges på skissen här intill
+
+# newpar id = P218.15
+# sent_id = sv-ud-test-615
+# text = Hjärnkirurgen borrar ett litet hål i kraniet och för in en sond i hjärnans hålrum.
+
+# sent_id = sv-ud-test-616
+# text = Den leds vidare under huden bakom örat, in i en av halsvenerna och utmynnar i hjärtat.
+
+# sent_id = sv-ud-test-617
+# text = På detta sätt fungerar hjärtat som en pump som håller hjärnhålorna fria från överflödig vätska
+
+# newpar id = P218.16
+# sent_id = sv-ud-test-618
+# text = Dr Sten Cronqvist förordar en 'storstädning' på mentalsjukhusen.
+
+# sent_id = sv-ud-test-619
+# text = Det skulle kunna återföra många patienter till ett normalt liv
+
+# newpar id = P218.17
+# sent_id = sv-ud-test-620
+# text = Med s k hjärnscintigrafi får forskarna en sådan här bild av patientens hjärna på ett mycket enkelt sätt.
+
+# sent_id = sv-ud-test-621
+# text = Metoden är snarlik till gammakameran som är beskriven i artikeln, men tar något längre tid.
+
+# sent_id = sv-ud-test-622
+# text = Den röda fläcken på bilden är en stor hjärntumör.
+
+# newpar id = P218.18
+# sent_id = sv-ud-test-623
+# text = Undersökningen med gammakameran i Lund tar inte längre tid än cirka tjugo minuter och sker fullständigt smärtfritt för patienten
+
+# newdoc id = P301
+# newpar id = P301.1
+# sent_id = sv-ud-test-624
+# text = Psykiatri är vetenskapen om psykiska störningar
+
+# sent_id = sv-ud-test-625
+# text = I det föregående har flera gånger framhållits likheter mellan djur och människor i fråga om beteende men också olikheter.
+
+# sent_id = sv-ud-test-626
+# text = Huruvida man skall anse likheterna större än olikheterna eller tvärtom är diskutabelt.
+
+# sent_id = sv-ud-test-627
+# text = Men en stor skillnad ligger däri att människan är i stånd att utforska sitt eget psyke och medvetet påverka det.
+
+# newpar id = P301.2
+# sent_id = sv-ud-test-628
+# text = Isolering från andra innebär även för människan en stor psykisk påfrestning.
+
+# sent_id = sv-ud-test-629
+# text = Men också samlevnaden med andra kan medföra stora problem.
+
+# sent_id = sv-ud-test-630
+# text = Överhuvudtaget är människans psyke med sin sammansatthet och känslighet utsatt för många slags påfrestningar, och psykiska besvär är också mycket vanliga.
+
+# sent_id = sv-ud-test-631
+# text = Den vetenskap som sysslar med dessa kallas psykiatri.
+
+# newpar id = P301.3
+# sent_id = sv-ud-test-632
+# text = Nervositet och stress
+
+# sent_id = sv-ud-test-633
+# text = Alla människor råkar någon gång ut för vissa psykiska störningar.
+
+# sent_id = sv-ud-test-634
+# text = Man känner sig nervös, nerverna krånglar, säger man.
+
+# sent_id = sv-ud-test-635
+# text = Det innebär oftast inte att någon verklig sjukdom drabbat nervsystemet utan är en tillfällig rubbning av den psykiska jämvikten på grund av fysisk eller psykisk påfrestning.
+
+# newpar id = P301.4
+# sent_id = sv-ud-test-636
+# text = Om en sådan påfrestning blir långvarig, kan resultatet bli ett tillstånd av s k stress, ett slags spänningstillstånd, som beror på att vissa försvarsmekanismer i kroppen trätt i funktion.
+
+# sent_id = sv-ud-test-637
+# text = Vissa hormoner avsöndras mer än normalt och håller kroppen i ständig alarmberedskap.
+
+# sent_id = sv-ud-test-638
+# text = Det anstränger olika organ mycket och kan leda till 'stressjukdomar' som magsår, hjärtbesvär och 'nervsammanbrott'.
+
+# newpar id = P301.5
+# sent_id = sv-ud-test-639
+# text = Pavlov kunde vid sina försök med hundar framkalla psykiska besvär hos försöksdjuren.
+
+# sent_id = sv-ud-test-640
+# text = De vande sig vid att mat sattes fram när klockan ringde.
+
+# sent_id = sv-ud-test-641
+# text = Om det dröjde länge med maten, eller om mat sattes fram bara vissa gånger, eller om signalen varierades så att hunden blev osäker, kunde den bli nervös och retlig och till sist så deprimerad att den inte alls ville äta.
+
+# newpar id = P301.7
+# sent_id = sv-ud-test-644
+# text = Det är mycket svårt att dra en gräns mellan svårare former av neuroser och de sjukdomar som ibland kallas psykoser och som förr brukade kallas sinnessjukdomar.
+
+# sent_id = sv-ud-test-645
+# text = Alla psykiska sjukdomar, både neuroser och psykoser, kallas numera mentalsjukdomar.
+
+# sent_id = sv-ud-test-646
+# text = De har vissa gemensamma symptom och kan behandlas med större eller mindre framgång.
+
+# sent_id = sv-ud-test-647
+# text = Det är svårt att skilja mellan fysiska och psykiska sjukdomar eftersom fysiska besvär kan ha psykiska orsaker och vice versa.
+
+# sent_id = sv-ud-test-648
+# text = Forna tiders uppfattning om mentalsjukdomars mystiska och skrämmande natur är helt förlegad.
+
+# newpar id = P301.8
+# sent_id = sv-ud-test-649
+# text = Som tidigare framhållits kan psykiska rubbningar uppstå vid yttre påfrestningar.
+
+# sent_id = sv-ud-test-650
+# text = Olika människor har olika lätt att utstå sådana.
+
+# sent_id = sv-ud-test-651
+# text = Somliga har en nervös och känslig läggning, andra en mer robust.
+
+# sent_id = sv-ud-test-652
+# text = I vissa fall kan psykiska störningar uppstå utan att man kan finna någon yttre anledning.
+
+# sent_id = sv-ud-test-653
+# text = Man kallar dem endogena (= av inre ursprung).
+
+# sent_id = sv-ud-test-654
+# text = De kan yttra sig som neuroser, depressioner, ångestkänslor eller tvångsföreställningar.
+
+# sent_id = sv-ud-test-655
+# text = Möjligen beror de på förändringar i hjärnans verksamhet.
+
+# newpar id = P301.9
+# sent_id = sv-ud-test-656
+# text = Vid vissa mentalsjukdomar spelar ärftliga faktorer en stor roll.
+
+# sent_id = sv-ud-test-657
+# text = Det gäller de två vanligaste av de mera kroniska mentalsjukdomarna, den manisk-depressiva och schizofrenin.
+
+# newpar id = P301.10
+# sent_id = sv-ud-test-658
+# text = Den manisk-depressiva sjukdomen
+
+# sent_id = sv-ud-test-659
+# text = Vissa människor drabbas av periodiskt återkommande anfall av onormal upprymdhet respektive nedstämdhet.
+
+# sent_id = sv-ud-test-660
+# text = Symptomen kan bli så allvarliga att en sjukhusvistelse blir nödvändig.
+
+# sent_id = sv-ud-test-661
+# text = Med moderna metoder kan man mildra symptomen avsevärt, men man kan inte förebygga nya attacker av sjukdomen.
+
+# sent_id = sv-ud-test-662
+# text = Den kan försvinna efter några sjukdomsperioder eller bli långvarig.
+
+# sent_id = sv-ud-test-663
+# text = Även periodernas längd kan skifta.
+
+# sent_id = sv-ud-test-664
+# text = Mellan perioderna är personen i allmänhet fullt frisk.
+
+# newpar id = P301.11
+# sent_id = sv-ud-test-665
+# text = Denna sjukdom är något vanligare hos kvinnor än hos män.
+
+# sent_id = sv-ud-test-666
+# text = Ungefär en procent av befolkningen har haft eller har denna sjukdom.
+
+# newpar id = P301.12
+# sent_id = sv-ud-test-667
+# text = Schizofreni - en gåtfull sjukdom
+
+# sent_id = sv-ud-test-668
+# text = Ungefär lika vanlig som den manisk-depressiva sjukdomen är schizofrenin.
+
+# sent_id = sv-ud-test-669
+# text = Eftersom den har en mera förödande effekt på den sjukes själsliv, är den ännu allvarligare.
+
+# sent_id = sv-ud-test-670
+# text = Omkring hälften av dem som insjuknar blir psykiskt invalidiserade under flera år eller för resten av sitt liv.
+
+# sent_id = sv-ud-test-671
+# text = I Sverige vårdas 15000-20000 personer på mentalsjukhus för schizofreni.
+
+# newpar id = P301.13
+# sent_id = sv-ud-test-672
+# text = Ordet schizofreni betyder ungefär kluven själ.
+
+# sent_id = sv-ud-test-673
+# text = Troligen är det inte fråga om en enda sjukdom utan en hel grupp av sjukdomar med likartade symptom.
+
+# sent_id = sv-ud-test-674
+# text = Dessa består av rubbningar i tanke- eller känslolivet.
+
+# sent_id = sv-ud-test-675
+# text = Inställningen till omvärlden blir förändrad.
+
+# sent_id = sv-ud-test-676
+# text = Misstänksamhet, fixa ideer och förföljelsemani är vanliga symptom.
+
+# sent_id = sv-ud-test-677
+# text = Den sjuke kan också bli slö och likgiltig, försjunka i fantasier och uppleva hallucinationer.
+
+# sent_id = sv-ud-test-678
+# text = I svåra fall blir patienten oåtkomlig och omöjlig att förstå i tankar och tal.
+
+# newpar id = P301.14
+# sent_id = sv-ud-test-679
+# text = Med moderna metoder kan man få ungefär en fjärdedel av de schizofrena nästan helt återställda och hälften någorlunda förbättrade, medan en fjärdedel blir kroniskt sjuka och därvid alltmer psykiskt avtrubbade.
+
+# newpar id = P301.15
+# sent_id = sv-ud-test-680
+# text = Eftersom man med mycket små doser av vissa gifter kan framkalla övergående schizofreni-symptom hos friska personer, tänker man sig att sjukdomen skulle kunna bero på ämnesomsättningsrubbningar.
+
+# sent_id = sv-ud-test-681
+# text = Ett intensivt arbete pågår för att klarlägga denna sjukdom.
+
+# newpar id = P301.16
+# sent_id = sv-ud-test-682
+# text = Kemiska ämnen med psykiska verkningar
+
+# sent_id = sv-ud-test-683
+# text = Att vissa i naturen förekommande ämnen verkar stimulerande eller bedövande har människan vetat sedan urminnes tider och också begagnat sig av.
+
+# sent_id = sv-ud-test-684
+# text = Sådana ämnen är t ex alkohol, koffein, opium och kokain.
+
+# newpar id = P301.17
+# sent_id = sv-ud-test-685
+# text = Kvist av kokabuske och opievallmo.
+
+# newpar id = P301.18
+# sent_id = sv-ud-test-686
+# text = Den medicinska vetenskapen har också utnyttjat dessa ämnen.
+
+# sent_id = sv-ud-test-687
+# text = Dessutom har man genom renframställning och på syntetisk väg fått fram ämnen med liknande och bättre effekter.
+
+# sent_id = sv-ud-test-688
+# text = Man kan nämna bedövningsmedel som kloroform och eter, smärtstillande medel som morfin- och barbitursyrepreparat m fl .
+
+# sent_id = sv-ud-test-689
+# text = Dessa ämnen har haft och har mycket stor betydelse för att lindra plågor, men de har också vissa nackdelar.
+
+# sent_id = sv-ud-test-690
+# text = Dels blir patienten efter hand lätt beroende av dem och dels har de en negativ inverkan på tankeförmåga och vakenhet.
+
+# newpar id = P301.19
+# sent_id = sv-ud-test-691
+# text = Under de senaste två decennierna har en ny stor grupp av ämnen upptäckts och framställts, som har mycket större och mer specifika verkningar på psyket.
+
+# sent_id = sv-ud-test-692
+# text = De kallas psykofarmaka och har fått stor betydelse för behandlingen av mentalsjuka.
+
+# newpar id = P301.20
+# sent_id = sv-ud-test-693
+# text = Olika slag av psykofarmaka
+
+# sent_id = sv-ud-test-694
+# text = Tidigare i detta kapitel har nämnts en del om transmittorsubstanserna, som överför impulser från en nervcell till en annan vid synapserna.
+
+# sent_id = sv-ud-test-695
+# text = Bland dem är flera monoaminer, som spelar en viktig roll vid överföringen av impulser inom hjärnan.
+
+# sent_id = sv-ud-test-696
+# text = Det har visat sig att ett överskott av monoaminer leder till att aktiviteten i vissa delar av hjärnan skruvas upp med oros- och spänningstillstånd som följd.
+
+# sent_id = sv-ud-test-697
+# text = Vid underskott mattas aktiviteten och depressionstillstånd kan bli följden.
+
+# sent_id = sv-ud-test-698
+# text = Detta gäller särskilt det retikulära och det limbiska systemet (se s 160 och 162).
+
+# newpar id = P301.21
+# sent_id = sv-ud-test-699
+# text = Psykofarmaka kan indelas i två grupper.
+
+# sent_id = sv-ud-test-700
+# text = Den ena består av de dämpande, rogivande medlen.
+
+# sent_id = sv-ud-test-701
+# text = Åtminstone en del av dem förstör vissa monoaminer eller hindrar dem från att verka.
+
+# newpar id = P301.22
+# sent_id = sv-ud-test-702
+# text = I Indien finns en växt, Rauwolfia, som befolkningen i hundratals år har använt för att bereda medicin mot sömnlöshet och orostillstånd.
+
+# sent_id = sv-ud-test-703
+# text = Sedan 1950 har man renframställt ett fyrtiotal olika ämnen från rötterna av denna växt.
+
+# sent_id = sv-ud-test-704
+# text = Ett av dem är reserpin, som har en starkt lugnande verkan och som av läkarna användes vid svåra maniska tillstånd.
+
+# sent_id = sv-ud-test-705
+# text = I små doser kan det också användas mot högt blodtryck.
+
+# sent_id = sv-ud-test-706
+# text = Reserpin kan emellertid ha en del biverkningar, som begränsar dess användbarhet.
+
+# newpar id = P301.23
+# sent_id = sv-ud-test-707
+# text = Rauwolfia-växten, ur vars rötter reserpin framställes.
+
+# newpar id = P301.24
+# sent_id = sv-ud-test-708
+# text = En grupp av rent syntetiskt framställda ämnen, fentiazinföreningarna, har fått stor betydelse som lugnande medel.
+
+# sent_id = sv-ud-test-709
+# text = Ett av dem (klorpromazin) säljes under namnet Hibernal och användes som ett verksamt medel mot schizofreni och även mot maniska tillstånd.
+
+# sent_id = sv-ud-test-710
+# text = Ett annat är Lergigan, som användes mot sjösjuka och allergier men också som lugnande medel och sömnmedel.
+
+# newpar id = P301.25
+# sent_id = sv-ud-test-711
+# text = Betydligt mildare verkningar har en annan grupp av ämnen, till vilken hör meprobamat.
+
+# sent_id = sv-ud-test-712
+# text = Det var den verksamma substansen i de mycket omtalade 'lyckopillerna', som för en del år sedan var de mest använda lugnande medlen.
+
+# sent_id = sv-ud-test-713
+# text = Det visade sig vara vanebildande och missbrukades i stor omfattning, varför man numera inte använder dem så mycket.
+
+# newpar id = P301.26
+# sent_id = sv-ud-test-714
+# text = Den andra gruppen av psykofarmaka är de uppiggande, stimulerande medlen, som användes mot depressionstillstånd.
+
+# sent_id = sv-ud-test-715
+# text = Till dem hör amfetaminerna, varav det mest kända är Preludin.
+
+# sent_id = sv-ud-test-716
+# text = De verkar snabbt men kortvarigt på lättare depressioner och trötthetstillstånd och är också aptitnedsättande, vilket gör att de användes som bantningsmedel.
+
+# sent_id = sv-ud-test-717
+# text = Dessvärre är de vanebildande och har särskilt i Sverige kommit att missbrukas i stor omfattning.
+
+# newpar id = P301.27
+# sent_id = sv-ud-test-718
+# text = Det finns också antidepressiva medel med långsammare och mera långvarig och kraftig verkan.
+
+# sent_id = sv-ud-test-719
+# text = De har i allmänhet vissa biverkningar och måste användas med försiktighet, men de har i stor utsträckning kunnat ersätta elchockbehandlingen, som är ett mycket verksamt medel vid svåra depressioner men som många människor känner skräck för.
+
+# newpar id = P301.28
+# sent_id = sv-ud-test-720
+# text = Ett nytt medel, som har visat sig kunna förebygga depressioner hos manisk-depressiva patienter, är alkalimetallen litium, nära besläktad med natrium.
+
+# sent_id = sv-ud-test-721
+# text = Det prövas nu vid svenska sjukhus.
+
+# sent_id = sv-ud-test-723
+# text = På senare tid har det skrivits och talats mycket om en del ämnen, som framkallar egendomliga psykiska tillstånd med bl a hallucinationer och som därför ofta kallas hallucinogener.
+
+# sent_id = sv-ud-test-724
+# text = I själva verket har de varit kända i tusentals år.
+
+# sent_id = sv-ud-test-725
+# text = I Mellanamerika användes de långt före Columbus' dagar av indianerna, särskilt i samband med religiösa ceremonier.
+
+# newpar id = P301.30
+# sent_id = sv-ud-test-726
+# text = Hallucinogener framställes ur olika växter.
+
+# sent_id = sv-ud-test-727
+# text = Ur en kaktusart framställes meskalin och ur mjöldryga, en svamp som parasiterar på sädesslag, får man råmaterialet till LSD.
+
+# sent_id = sv-ud-test-728
+# text = Dessa ämnen kan inte kallas psykofarmaka, eftersom de framkallar psykiska rubbningar i stället för att bota sådana.
+
+# sent_id = sv-ud-test-729
+# text = Men de har väckt vetenskapsmännens intresse, främst därför att man har tyckt sig finna likheter mellan deras verkningar och symptomen vid schizofreni.
+
+# sent_id = sv-ud-test-730
+# text = Till sin kemiska sammansättning påminner hallucinogenerna om vissa monoaminer.
+
+# newpar id = P301.31
+# sent_id = sv-ud-test-731
+# text = Meskalin framställes ur peyote-kaktusen.
+
+# newpar id = P301.32
+# sent_id = sv-ud-test-732
+# text = Rågax med mjöldryga.
+
+# newpar id = P301.33
+# sent_id = sv-ud-test-733
+# text = Det har emellertid uppstått strid om forskarnas juridiska och moraliska rätt att använda dessa droger på försökspersoner.
+
+# sent_id = sv-ud-test-734
+# text = Man fruktar att de kan ha varaktigt skadliga verkningar.
+
+# sent_id = sv-ud-test-735
+# text = I USA har entusiastiska skildringar av kända författare och konstnärer väckt ett stort intresse för hallucinogenerna.
+
+# sent_id = sv-ud-test-736
+# text = Man påstår sig med deras hjälp kunna 'frigöra inre krafter' och uppleva en 'högre verklighet'.
+
+# sent_id = sv-ud-test-737
+# text = Motståndarna menar att de bara möjliggör en tillfällig flykt från verkligheten och kan vara farliga, medicinskt och socialt sett.
+
+# newpar id = P301.34
+# sent_id = sv-ud-test-738
+# text = Alkohol och narkotika
+
+# sent_id = sv-ud-test-739
+# text = Som förut framhållits har stimulantia och narkotika, d v s uppiggande och bedövande medel, varit kända i alla tider och överallt.
+
+# sent_id = sv-ud-test-740
+# text = Man har använt dem på grund av deras verkningar på nervsystemet utan att känna till dessas fysiologiska natur.
+
+# sent_id = sv-ud-test-741
+# text = Att de i allmänhet varit vanebildande och vid långvarigt bruk haft farliga följder har man väl vetat, men det har inte avhållit alla från missbruk.
+
+# sent_id = sv-ud-test-742
+# text = I våra dagar vet man en hel del om de fysiologiska verkningarna också, men i nästan alla länder har man stora problem med alkohol- och narkotikamissbruk.
+
+# newpar id = P301.35
+# sent_id = sv-ud-test-743
+# text = Gemensamt för alkohol och narkotika är att de påverkar det centrala nervsystemet.
+
+# sent_id = sv-ud-test-744
+# text = I små doser ger de en känsla av avspänning och välbefinnande.
+
+# sent_id = sv-ud-test-745
+# text = I fråga om alkohol och många narkotika beror detta på att vissa nervcentra, som har en hämmande effekt på hjärnbarken, blir bedövade och mer eller mindre kopplas ur.
+
+# sent_id = sv-ud-test-746
+# text = Detta uppfattas som en stimulans.
+
+# sent_id = sv-ud-test-747
+# text = Större doser bedövar allt större delar av centrala nervsystemet, så att den narkotiska effekten slår igenom.
+
+# sent_id = sv-ud-test-748
+# text = Eftersom alkohol och många lugnande medel och sömnmedel har likartade verkningar, blir effekten kraftigt förstärkt vid en kombinerad förtäring av dessa ämnen.
+
+# newpar id = P301.36
+# sent_id = sv-ud-test-749
+# text = Bruk leder lätt till missbruk
+
+# sent_id = sv-ud-test-750
+# text = Regelbundet bruk av alkohol och narkotika leder ofta till att kroppen vänjer sig vid dem.
+
+# sent_id = sv-ud-test-751
+# text = Det behövs allt större doser för att framkalla effekt.
+
+# sent_id = sv-ud-test-752
+# text = Efter längre eller kortare tid kan så ett beroende uppstå.
+
+# sent_id = sv-ud-test-754
+# text = Tillståndet kallas alkoholism eller narkomani och är svårbehandlat.
+
+# newpar id = P301.37
+# sent_id = sv-ud-test-755
+# text = Särskilt farliga är morfinpreparaten.
+
+# sent_id = sv-ud-test-756
+# text = Redan efter några dagars behandling t ex på sjukhus kan tillvänjning och beroende uppstå.
+
+# sent_id = sv-ud-test-757
+# text = Doserna måste ökas 50-200 gånger, och om behandlingen avbrytes uppstår psykiska besvär i form av oro och ångest och fysiska i form av feber, smärtor och kramper.
+
+# sent_id = sv-ud-test-758
+# text = Ny tillförsel av giftet är det enda som snabbt häver symptomen.
+
+# sent_id = sv-ud-test-759
+# text = Det tar annars flera dagar innan de är helt borta.
+
+# newpar id = P301.38
+# sent_id = sv-ud-test-760
+# text = De tidigare nämnda lugnande medlen har samma verkningar, men det tar betydligt längre tid och fordrar betydligt större doser.
+
+# sent_id = sv-ud-test-761
+# text = Detsamma gäller alkohol, som måste missbrukas i åratal innan verklig alkoholism uppstår.
+
+# newpar id = P301.39
+# sent_id = sv-ud-test-762
+# text = De ämnen, som direkt stimulerar centrala nervsystemet, t ex amfetaminer och kokain, har inte samma fysiologiska tillvänjningseffekt, men de kan leda till ett starkt psykiskt beroende och till svåra rubbningar vid långvarigt bruk.
+
+# newpar id = P301.40
+# sent_id = sv-ud-test-763
+# text = Bruk av alkohol och narkotika i små doser kan innebära en omedelbar fara, t ex för trafikolyckor, eftersom omdömet trubbas av och reaktionstiden förlängs.
+
+# sent_id = sv-ud-test-764
+# text = Den största faran ligger emellertid i att allt bruk lätt leder till vanebildning och missbruk.
+
+# newpar id = P301.41
+# sent_id = sv-ud-test-765
+# text = Alkoholism och narkomani
+
+# sent_id = sv-ud-test-766
+# text = När missbruket har lett till alkoholism eller narkomani, har det också uppstått störningar i de fysiologiska förloppen i kroppen.
+
+# sent_id = sv-ud-test-767
+# text = Vid alkoholism uppstår t ex förändringar i levercellens mitokondrier.
+
+# sent_id = sv-ud-test-768
+# text = Många av sjukdomssymptomen beror emellertid på näringsbrist och vitaminbrist, som uppkommer genom att alkoholister och narkomaner oftast lever ett oregelbundet liv utan ordnade måltidsvanor.
+
+# newpar id = P301.42
+# sent_id = sv-ud-test-769
+# text = Den medicinska behandlingen, som givetvis är nödvändig om dessa personer skall kunna räddas till liv och hälsa, måste därför i första hand ta sikte på att förbättra allmäntillståndet genom närings- och vitamintillförsel.
+
+# sent_id = sv-ud-test-770
+# text = Samtidigt företas en 'avgiftning' genom att den sjuke långsamt avvänjes med allt mindre doser av giftet i fråga.
+
+# sent_id = sv-ud-test-771
+# text = Efter denna akutbehandling vidtar en betydligt svårare och långvarigare efterbehandling, då man skall försöka hindra patienten att återfalla i missbruk.
+
+# newdoc id = P307
+# newpar id = P307.1
+# sent_id = sv-ud-test-772
+# text = Sedan några årtionden tillbaka har bostadsfrågorna ansetts så viktiga att de blivit en hela samhällets angelägenhet.
+
+# newpar id = P307.2
+# sent_id = sv-ud-test-773
+# text = Stat och kommun har genom regleringar, lagstiftningar, subventioner och ekonomiskt stöd försökt påverka tillgång och efterfrågan på bostäder i en riktning som ansetts gagna samhället.
+
+# newpar id = P307.3
+# sent_id = sv-ud-test-774
+# text = Målet för bostadspolitiken är att var och en ska ha möjlighet att skaffa en tillräckligt rymlig, tillräckligt modern och samtidigt välbelägen bostad.
+
+# newpar id = P307.4
+# sent_id = sv-ud-test-775
+# text = Bostadspolitiken från 1920-talet och fram t o m krigsslutet
+
+# sent_id = sv-ud-test-776
+# text = Under 1920-talet höjdes hyrorna kraftigt i förhållande till realinkomsten och i förhållande till andra utgiftsposter.
+
+# sent_id = sv-ud-test-777
+# text = Det blev lönsamt att bygga och äga hyresfastigheter.
+
+# sent_id = sv-ud-test-778
+# text = Man kan med fog påstå att ett visst spekulationsbygge ägde rum.
+
+# sent_id = sv-ud-test-779
+# text = Byggnationen inriktades på små lägenheter.
+
+# sent_id = sv-ud-test-780
+# text = Lägenheter på ett rum och kök ställde sig lönsammast för hyresvärdarna, och denna lägenhetstyp var den vanligaste under en följd av år.
+
+# sent_id = sv-ud-test-781
+# text = Den trångboddhet som var alltför vanlig inom stora samhällsgrupper bibehölls härigenom.
+
+# sent_id = sv-ud-test-782
+# text = Samhället var ointresserat av att ingripa för att få en ändring till stånd.
+
+# sent_id = sv-ud-test-783
+# text = Man avvecklade t o m de begränsade insatser på bostadsmarknaden som gjorts under första världskriget.
+
+# newpar id = P307.5
+# sent_id = sv-ud-test-784
+# text = Under 30-talet förändrades sakta synen på bostadsbyggandet.
+
+# sent_id = sv-ud-test-785
+# text = Samhället började få upp ögonen för de rådande missförhållandena på bostadsmarknaden.
+
+# sent_id = sv-ud-test-786
+# text = Man gav lån och bidrag för att förbättra undermåliga bostäder på landsbygden.
+
+# sent_id = sv-ud-test-787
+# text = Ett försök till familjevänligare bostadspolitik var också de bidrag som gavs till kommuner som byggde s k barnrikehus.
+
+# sent_id = sv-ud-test-788
+# text = Man kan alltså under 30-talet se ett försök till aktiv bostadspolitik, även om den politiken fick karaktären av punktinsatser.
+
+# newpar id = P307.6
+# sent_id = sv-ud-test-789
+# text = När andra världskriget bröt ut sjönk takten i bostadsbyggandet.
+
+# sent_id = sv-ud-test-790
+# text = Medan 59000 lägenheter färdigställdes 1939, var motsvarande siffra år 1941 endast 17000.
+
+# sent_id = sv-ud-test-791
+# text = Räntorna höjdes, det rådde brist på material och arbetskraft, då andra områden inom näringslivet krävde ökade insatser av produktionsfaktorer.
+
+# newpar id = P307.7
+# sent_id = sv-ud-test-792
+# text = Man insåg att den dämpade takten i nybyggnaden ganska snart skulle leda till bostadsbrist och, som en följd av det minskade utbudet, höjda hyror.
+
+# sent_id = sv-ud-test-793
+# text = Ett sådant framtidsperspektiv var minst av allt lockande.
+
+# sent_id = sv-ud-test-794
+# text = Barnkullarna tenderade att öka och en fortsatt stark inflyttning från landsbygden till städerna kunde förväntas.
+
+# sent_id = sv-ud-test-795
+# text = Det var väsentligt att bostadsbyggandet höll jämna steg med de ökade krav på bostäder som detta ledde till.
+
+# sent_id = sv-ud-test-796
+# text = En hyreshöjning skulle få besvärande konsekvenser.
+
+# sent_id = sv-ud-test-797
+# text = Levnadskostnaderna i övrigt hölls tämligen konstanta och höjda hyror skulle öka fastighetsägarnas realinkomster på hyresgästernas bekostnad.
+
+# sent_id = sv-ud-test-798
+# text = Hyreshöjningar kunde också resultera i kompensationskrav vid löneförhandlingarna, något som lätt kunde få till följd en ovälkommen inflation.
+
+# newpar id = P307.8
+# sent_id = sv-ud-test-799
+# text = För att stimulera till ökat byggande och för att hålla hyreskostnaderna nere ingrep nu staten.
+
+# sent_id = sv-ud-test-800
+# text = Man gav statliga topplån till bostadsbyggandet.
+
+# sent_id = sv-ud-test-801
+# text = Man medgav räntefria tilläggslån för att byggkostnader och hyror skulle kunna hållas vid förkrigsnivå.
+
+# sent_id = sv-ud-test-802
+# text = Man subventionerade ränteutgifterna, så att tillfälliga räntehöjningar inte skulle slå igenom i form av höjda hyror.
+
+# sent_id = sv-ud-test-803
+# text = Man införde också en allmän hyresreglering.
+
+# sent_id = sv-ud-test-804
+# text = Hyrorna för hus som byggts före 1942 låstes fast vid den nivå som rådde detta år.
+
+# sent_id = sv-ud-test-805
+# text = För hus byggda senare räknade man fram en skälig hyra, som grundade sig på produktionskostnader, ränteutgifter och utgifter för skötsel av fastigheten.
+
+# sent_id = sv-ud-test-806
+# text = Med dessa metoder lyckades man hålla hyrorna under kontroll under krigsåren, men speciellt i städerna upplevde man en växande brist på bostäder.
+
+# newpar id = P307.9
+# sent_id = sv-ud-test-807
+# text = En ny bostadspolitik tar form
+
+# sent_id = sv-ud-test-808
+# text = Vid krigsslutet tog en helt ny bostadspolitik form.
+
+# sent_id = sv-ud-test-809
+# text = Huvuddragen i denna har blivit bestående till slutet av 60-talet.
+
+# sent_id = sv-ud-test-810
+# text = Man har strävat efter att bygga ifatt bostadsbristen, öka lägenhetsstandarden och samtidigt hålla hyrorna på rimlig nivå.
+
+# newpar id = P307.10
+# sent_id = sv-ud-test-811
+# text = För att en lägenhet skulle anses motsvara fordringarna borde den vara så stor att det förutom köket blev minst ett rum per två familjemedlemmar.
+
+# sent_id = sv-ud-test-812
+# text = Den skulle vidare vara försedd med vatten, avlopp, centralvärme och badrum.
+
+# sent_id = sv-ud-test-813
+# text = Rimliga hyreskostnader för en sådan standardlägenhet skulle få motsvara högst 20 % av en industriarbetares inkomst.
+
+# newpar id = P307.11
+# sent_id = sv-ud-test-814
+# text = Så här kommer många lägenheter att byggas.
+
+# sent_id = sv-ud-test-815
+# text = Av bilden framgår 'ramen' d v s bärande väggar samt vatten och avlopp.
+
+# sent_id = sv-ud-test-816
+# text = Hyresgästen bestämmer sedan själv hur rumsindelningen skall vara.
+
+# sent_id = sv-ud-test-817
+# text = Väggarna kan också lätt flyttas.
+
+# newpar id = P307.12
+# sent_id = sv-ud-test-818
+# text = För att nå upp till dessa mål var det givetvis inte tillräckligt att lagstifta om bostadsstandard eller övervaka byggandet.
+
+# sent_id = sv-ud-test-819
+# text = Man måste mera aktivt styra och stimulera byggandet.
+
+# sent_id = sv-ud-test-820
+# text = Ekonomiska lagar om tillgång och efterfrågan kunde inte ensamma få styra byggnationens inriktning.
+
+# sent_id = sv-ud-test-821
+# text = På en fri marknad skulle den som har ekonomiska möjligheter kunna bygga vad som helst.
+
+# newpar id = P307.13
+# sent_id = sv-ud-test-822
+# text = Kommunerna har huvudansvaret för bostadsförsörjningen.
+
+# sent_id = sv-ud-test-823
+# text = Kommunen avgör var, när och hur bebyggelse ska ske.
+
+# sent_id = sv-ud-test-824
+# text = Instrumenten för detta är de stads- och byggnadsplaner kommunerna upprättar.
+
+# sent_id = sv-ud-test-825
+# text = Som stöd för kommunerna finns lagar om kommunal förköpsrätt till mark och lagar om expropriation, dvs tvångsinlösen av mark.
+
+# newpar id = P307.14
+# sent_id = sv-ud-test-826
+# text = Kommunerna svarar också, genom allmännyttiga bostadsföretag, för en stor del av de flerfamiljshus som byggts.
+
+# sent_id = sv-ud-test-827
+# text = Kooperativa bostadsföretag och enskilda byggmästare har dock också möjlighet att köpa mark för att bygga bostäder.
+
+# sent_id = sv-ud-test-828
+# text = Diagrammet överst på s 72 visar flerfamiljshusens fördelning på olika ägandekategorier.
+
+# newpar id = P307.15
+# sent_id = sv-ud-test-829
+# text = Flerfamiljshusens fördelning på olika ägandekategorier
+
+# newpar id = P307.16
+# sent_id = sv-ud-test-830
+# text = För att friställa kapital, material och arbetskraft till sådan byggnation som anses mest samhällsnyttig, finns lagstiftning om igångsättningstillstånd för ur samhällets synpunkt mindre angelägna byggen.
+
+# newpar id = P307.17
+# sent_id = sv-ud-test-831
+# text = Statliga lån till bostäder
+
+# sent_id = sv-ud-test-832
+# text = I den statliga bostadspolitik som gällt t o m 1967 har staten givit stora ekonomiska bidrag till bostadsbyggandet.
+
+# sent_id = sv-ud-test-833
+# text = Man har fortsatt att lämna topplån.
+
+# sent_id = sv-ud-test-834
+# text = Lånevillkoren har varit så beskaffade att de har medverkat till att hålla bostadskostnaderna på rimlig nivå.
+
+# sent_id = sv-ud-test-835
+# text = Bottenlånen har placerats på den öppna kreditmarknaden, men staten har åtagit sig en garanti för att räntorna inte ska överstiga vissa procentsatser.
+
+# sent_id = sv-ud-test-836
+# text = Staten har också lämnat ränte- och amorteringsfria tilläggslån.
+
+# sent_id = sv-ud-test-837
+# text = Samtliga dessa lån och bidrag har förutsatt att de nyproducerade bostäderna hållit en viss minimistandard.
+
+# newpar id = P307.18
+# sent_id = sv-ud-test-838
+# text = Fr o m 1968 har den statliga bostadslånepolitiken radikalt förändrats.
+
+# sent_id = sv-ud-test-839
+# text = De tidigare subventionerna har borttagits.
+
+# sent_id = sv-ud-test-840
+# text = I princip ska de reella kostnaderna för en fastighet belasta densamma.
+
+# sent_id = sv-ud-test-841
+# text = I avsikt att neutralisera den kostnadshöjande effekten av detta har införts s k paritetslån, vars innebörd är att en del av de kostnader för en fastighet som skulle betalas när denna är ny, skjuts framåt i tiden.
+
+# sent_id = sv-ud-test-842
+# text = Genom denna omfördelning i tiden av kostnader motverkas också en del av den hyressplittring (se nedan) som kan uppkomma på grund av förändringar av byggnadskostnaderna.
+
+# newpar id = P307.19
+# sent_id = sv-ud-test-843
+# text = Hur finansieras bostadsbyggandet?
+
+# newpar id = P307.20
+# sent_id = sv-ud-test-844
+# text = Man har från samhällets sida garderat sig mot att de fastighetsägare som utnyttjat statliga lån och bidrag genom höga hyror gjort sig oförtjänt stora vinster.
+
+# sent_id = sv-ud-test-845
+# text = Man fortsatte därför även efter kriget den år 1942 införda hyresregleringen.
+
+# sent_id = sv-ud-test-846
+# text = Samtidigt förband man de statliga lånen och bidragen med hyreskontroll.
+
+# sent_id = sv-ud-test-847
+# text = Länsbostadsnämnderna fick i uppgift att fastställa maximihyror.
+
+# sent_id = sv-ud-test-848
+# text = På så sätt har man ansett att de statliga subventionerna kommit hyresgästerna tillgodo.
+
+# sent_id = sv-ud-test-850
+# text = Under 50-talet övergav man systemet med tilläggslån.
+
+# sent_id = sv-ud-test-851
+# text = Man började också gradvis avveckla den allmänna hyresregleringen.
+
+# sent_id = sv-ud-test-852
+# text = Avsikten var att den skulle avvecklas när det kunde konstateras att bostadsbrist inte längre rådde på en viss ort.
+
+# sent_id = sv-ud-test-853
+# text = Från början gällde hyresregleringen cirka 500 platser.
+
+# sent_id = sv-ud-test-854
+# text = Vid mitten av 60-talet fanns den kvar på endast 160 ställen.
+
+# sent_id = sv-ud-test-855
+# text = Man har så småningom kommit överens om att hyresregleringen i längden inte ens bör finnas kvar på platser där bostadsbrist råder.
+
+# newpar id = P307.22
+# sent_id = sv-ud-test-856
+# text = Anledningarna till detta förändrade synsätt är flera.
+
+# sent_id = sv-ud-test-857
+# text = Från början låstes hyrorna för äldre fastigheter till 1942 års nivå, eller - för senare byggda hus - till den aktuella produktionskostnaden.
+
+# sent_id = sv-ud-test-858
+# text = Under årens lopp har det varit nödvändigt att ge fastighetsägarna kompensation för starkt höjda omkostnader för reparationer och skötsel av fastigheter.
+
+# sent_id = sv-ud-test-859
+# text = Räntenivån har också höjts kraftigt, speciellt under 60-talet.
+
+# sent_id = sv-ud-test-860
+# text = Fastighetsägarna har fått kompensation via generella hyreshöjningar som bestämts av regeringen på förslag av statens hyresråd.
+
+# sent_id = sv-ud-test-861
+# text = Eftersom hyreshöjningarna varit generella, har vissa fastighetsägare fått mera än vad som motsvarat kostnadsökningen, andra har fått mindre.
+
+# newpar id = P307.23
+# sent_id = sv-ud-test-862
+# text = Ytterligare ett skäl för hyresregleringens slopande är att det varit svårt att hålla hyresstegringen inom de önskade gränserna när det gällt nyproduktion.
+
+# sent_id = sv-ud-test-863
+# text = Detta har medfört hyressplittring.
+
+# sent_id = sv-ud-test-864
+# text = Som en följd av att hyrorna knutits till produktionskostnaderna har lägenheter med ungefär samma standard och läge kunnat ha avsevärt olika hyror därför att de haft olika byggnadsår.
+
+# sent_id = sv-ud-test-865
+# text = I storstadsområdena märks hyressplittringen mest.
+
+# sent_id = sv-ud-test-866
+# text = Där har äldre centralt belägna, eftertraktade lägenheter varit betydligt billigare än nya lägenheter långt från stadens centrum.
+
+# sent_id = sv-ud-test-867
+# text = Denna hyressplittring, som oftast drabbat unga familjer, har betraktats som mycket otillfredsställande, särskilt som den uppkommit på grund av statliga ingripanden i marknadsmekanismen.
+
+# newpar id = P307.24
+# sent_id = sv-ud-test-868
+# text = 1969 - ny hyreslag och nya bostadstillägg
+
+# sent_id = sv-ud-test-869
+# text = År 1969 trädde en ny hyreslag i kraft.
+
+# sent_id = sv-ud-test-870
+# text = Samtidigt förändrades 1942 års hyresregleringslag på flera punkter.
+
+# sent_id = sv-ud-test-871
+# text = Den nya hyreslagen säger att hyressättningen grundas på avtal mellan hyresvärd och hyresgäst.
+
+# sent_id = sv-ud-test-872
+# text = Den ger också hyresgästen större besittningsrätt till sin lägenhet.
+
+# sent_id = sv-ud-test-873
+# text = Hans möjligheter att hyra ut lägenheten i andra hand eller att byta lägenhet har ökat.
+
+# sent_id = sv-ud-test-874
+# text = Den fria hyressättningen begränsades samtidigt av att hyresregleringslagen fram till 1971 existerar jämsides med den nya lagen.
+
+# sent_id = sv-ud-test-875
+# text = Hyrorna för de cirka en halv miljon lägenheterna på de år 1968 hyresreglerade orterna har inte kunnat höjas annat än i samband med ombyggnad och förbättring.
+
+# sent_id = sv-ud-test-876
+# text = De lägenheter som har färdigställts efter år 1968 undantas helt från varje hyresreglering.
+
+# newpar id = P307.25
+# sent_id = sv-ud-test-877
+# text = För att stimulera barnfamiljernas efterfrågan på bostäder av tillfredsställande storlek och standard har fr o m 1969 införts statliga och kommunala bostadstillägg.
+
+# sent_id = sv-ud-test-878
+# text = Dessa tillägg, som utbetalas kontant och inte är förbundna med några krav på att pengarna verkligen används till bostadskonsumtion, utgår i förhållande till följande tre faktorer: familjestorlek, inkomst samt bostadens storlek och i viss mån standard.
+
+# sent_id = sv-ud-test-879
+# text = Cirka 400000 familjer är berättigade till statliga bostadstillägg.
+
+# newpar id = P307.26
+# sent_id = sv-ud-test-880
+# text = Kan man komma tillrätta med bostadsköerna?
+
+# sent_id = sv-ud-test-881
+# text = Bostadspolitiken i Sverige har varit mycket omdiskuterad.
+
+# sent_id = sv-ud-test-882
+# text = Statens oförmåga att 'bygga bort' bostadsköerna har starkt kritiserats.
+
+# sent_id = sv-ud-test-883
+# text = Genom olika utbudsstimulerande åtgärder har man höjt bostadsproduktionen från 50000 lägenheter per år 1950 till omkring 100000 vid slutet av 1960-talet.
+
+# sent_id = sv-ud-test-884
+# text = På grund av omflyttningen från landsbygd till stad, lägre giftermålsålder och ökade krav på bostadsstandard har köerna på många håll ändå inte visat tendens till minskning.
+
+# newpar id = P307.27
+# sent_id = sv-ud-test-885
+# text = Många anser detta vara en naturlig följd av systemet.
+
+# sent_id = sv-ud-test-886
+# text = Hyreskontroll skapar bostadsbrist.
+
+# sent_id = sv-ud-test-887
+# text = Med bibehållen hyresreglering går det inte att bygga ifatt köerna.
+
+# newpar id = P307.28
+# sent_id = sv-ud-test-888
+# text = Hyreskontroll skapar bostadsbrist.
+
+# sent_id = sv-ud-test-889
+# text = Utan hyreskontroll skulle jämvikt råda vid P0.
+
+# sent_id = sv-ud-test-890
+# text = Hyreskontrollen maximerar hyran till P1.
+
+# sent_id = sv-ud-test-891
+# text = Följden blir ett efterfrågeöverskott = e.
+
+# newpar id = P307.29
+# sent_id = sv-ud-test-892
+# text = Bostadsbristen har, anser man, uppkommit därför att hyrorna har hållits under jämviktsnivå.
+
+# sent_id = sv-ud-test-893
+# text = Om priset på en vara hålls under jämviktspriset måste ett efterfrågeöverskott uppkomma.
+
+# sent_id = sv-ud-test-894
+# text = När marknadsmekanismen sätts ur spel, måste bostäderna fördelas efter andra grunder.
+
+# sent_id = sv-ud-test-895
+# text = I Sverige fungerar bostadsförmedlingar, som fördelar lägenheter efter speciella principer.
+
+# sent_id = sv-ud-test-896
+# text = Bostadsförmedlingarna - framförallt i storstadsområdena - har långa köer av bostadssökande.
+
+# sent_id = sv-ud-test-897
+# text = Dessa köer är dock av olika skäl mycket otillförlitliga mått på den reella bostadsefterfrågan.
+
+# newpar id = P307.30
+# sent_id = sv-ud-test-898
+# text = Om fortsatt hyresreglering gör att hyrorna hålls under jämviktsnivå, kommer vi att få dras med konstanta bostadsköer.
+
+# sent_id = sv-ud-test-899
+# text = Tillåts däremot hyrorna stiga utan kontroll, uppnås snart ett läge där tillgången motsvarar efterfrågan och köerna försvinner.
+
+# newpar id = P307.31
+# sent_id = sv-ud-test-900
+# text = Andra åter anser att denna metod inte löser bostadsfrågorna, endast maskerar den.
+
+# sent_id = sv-ud-test-901
+# text = Enda möjligheten att motverka bostadsbristen är att bygga ännu mera.
+
+# newpar id = P307.32
+# sent_id = sv-ud-test-902
+# text = Frågan är närmast vad man menar med bostadsbrist.
+
+# sent_id = sv-ud-test-903
+# text = Ställer man enbart krav på att varje människa ska ha någonstans att bo, är det troligt att en fri bostadsmarknad skulle lösa problemet med bostadsköerna.
+
+# sent_id = sv-ud-test-904
+# text = Ställer man däremot bestämda krav på lägenheternas beskaffenhet och storlek måste man bygga mer.
+
+# newpar id = P307.33
+# sent_id = sv-ud-test-905
+# text = Här, som på så många andra områden, måste det bli fråga om en avvägning där hänsyn måste tas till såväl sociala aspekter som till de resurser vårt samhälle förfogar över.
+
+# newpar id = P307.34
+# sent_id = sv-ud-test-906
+# text = Så här bor Svenskson enligt den senaste bostadsräkningen.
+
+# sent_id = sv-ud-test-907
+# text = Tabellen visar 1 antal hushåll, 2 antal personer som bodde i dessa hushåll och 3 hur många av dem som var barn.
+
+# sent_id = sv-ud-test-908
+# text = (Källa: Veckans affärer 9 oktober 1969.)
+
+# newpar id = P307.35
+# sent_id = sv-ud-test-909
+# text = Arbets- och diskussionsuppgifter
+
+# newpar id = P307.36
+# sent_id = sv-ud-test-910
+# text = Hyresbidragen och bostadstilläggen:
+
+# sent_id = sv-ud-test-911
+# text = Hur fungerar dessa, hur stora är de i olika inkomstklasser och vid skilda familjestorlekar?
+
+# newpar id = P307.37
+# sent_id = sv-ud-test-912
+# text = Hög bostadsstandard - vad är det?
+
+# sent_id = sv-ud-test-913
+# text = Är det en stor lägenhetsyta?
+
+# sent_id = sv-ud-test-914
+# text = Elektronugn och diskmaskin?
+
+# sent_id = sv-ud-test-915
+# text = Närhet till naturen, närhet till affärer och service?
+
+# newpar id = P307.38
+# sent_id = sv-ud-test-916
+# text = Servicehuset - ska vi sträva efter det som normal boendeform?
+
+# newdoc id = P311
+# newpar id = P311.1
+# sent_id = sv-ud-test-917
+# text = Vi upplever f n en befolkningsexplosion.
+
+# sent_id = sv-ud-test-918
+# text = Jordens befolkning ökar med mer än 50 miljoner människor om året.
+
+# sent_id = sv-ud-test-919
+# text = Om 40-50 år beräknas världens folkmängd vara fördubblad.
+
+# sent_id = sv-ud-test-920
+# text = Det allvarliga problemet är att livsmedelsproduktionen inte ökar i takt med befolkningstillväxten.
+
+# sent_id = sv-ud-test-921
+# text = Redan nu är situationen prekär.
+
+# sent_id = sv-ud-test-922
+# text = Två tredjedelar av jordens alla människor kan inte äta sig mätta och hälften lider av direkt svält.
+
+# newpar id = P311.2
+# sent_id = sv-ud-test-923
+# text = Man brukar skilja på industriländer (i-länder) och utvecklingsländer (u-länder).
+
+# sent_id = sv-ud-test-924
+# text = Industriländerna är starkt industrialiserade och har hög levnadsstandard.
+
+# sent_id = sv-ud-test-925
+# text = De rikaste av dem finns i Nordamerika, i Nord- och Västeuropa samt i Australien och på Nya Zeeland.
+
+# sent_id = sv-ud-test-926
+# text = U-länderna är i regel jordbruksländer med låg levnadsstandard och ofta med en kvardröjande analfabetism i stora befolkningsgrupper.
+
+# sent_id = sv-ud-test-927
+# text = Det går dock inte att dra någon skarp gräns mellan i-länder och u-länder.
+
+# sent_id = sv-ud-test-928
+# text = Termen utvecklingsländer tar fasta på att man i dessa länder är på väg mot eller i framtiden måste spåra in på en utveckling mot mera industrialiserat näringsliv och högre utbildningsstandard för att kunna uppnå högre levnadsstandard.
+
+# sent_id = sv-ud-test-929
+# text = I början av efterkrigstiden användes termen underutvecklade länder.
+
+# sent_id = sv-ud-test-930
+# text = Man har velat komma ifrån denna då den onekligen sätter en mindrevärdesstämpel på vissa länder.
+
+# newpar id = P311.3
+# sent_id = sv-ud-test-931
+# text = En av världens mest angelägna samarbetsuppgifter har under efterkrigstiden varit att försöka åstadkomma en försörjningsbalans så att industriländernas överskottsprodukter kan komma u-länderna tillgodo, samtidigt som möjligheter skapas för inhemsk industri i dessa länder.
+
+# newpar id = P311.4
+# sent_id = sv-ud-test-932
+# text = Nödvändigheten av utvecklingssamarbete har framstått allt klarare.
+
+# sent_id = sv-ud-test-933
+# text = Bistånd har också givits i olika former.
+
+# sent_id = sv-ud-test-934
+# text = Det har varit lån och gåvor i pengar.
+
+# sent_id = sv-ud-test-935
+# text = Det har varit experter som skickats ut för att bygga och organisera kommunikationer, jordbruk och industri, skolor, universitet och sjukhus.
+
+# sent_id = sv-ud-test-936
+# text = Det har varit stipendier till studenter från utvecklingsländerna för studier vid amerikanska, asiatiska och europeiska högskolor etc.
+
+# newpar id = P311.5
+# sent_id = sv-ud-test-937
+# text = Bistånd har givits genom internationella organ och främst då FN.
+
+# sent_id = sv-ud-test-938
+# text = Men hjälpen har framför allt kommit från enskilda stater.
+
+# sent_id = sv-ud-test-939
+# text = Sålunda satsade Förenta staterna under femårsperioden 1955-1960 sammanlagt 81 miljarder svenska kronor, varvid de största beloppen gick till Sydvietnam, Sydkorea och Indien.
+
+# sent_id = sv-ud-test-940
+# text = Under samma period lämnade Sovjetunionen 15 miljarder mätt i svenska kronor med Indien som störste mottagaren.
+
+# sent_id = sv-ud-test-941
+# text = Storbritannien, Frankrike och Västtyskland bidrog under samma tid med omkring 10 miljarder vardera.
+
+# sent_id = sv-ud-test-942
+# text = Siffrorna kan ställas under debatt.
+
+# sent_id = sv-ud-test-943
+# text = Bl.a. är det ofta oklart om militär hjälp räknas in i beloppen.
+
+# newpar id = P311.6
+# sent_id = sv-ud-test-944
+# text = Sverige har visat intresse för att ge sitt bidrag till utvecklingssamarbetet.
+
+# sent_id = sv-ud-test-945
+# text = Perioden 1955-1960 gav vi en sammanlagd hjälp på 75 miljoner kronor: 1960-65 hade den ökat till 575 miljoner.
+
+# sent_id = sv-ud-test-946
+# text = Riksdagen beslöt 1968 att anslaget till u-hjälpen skall öka, så att det senast 1974/75 utgör en procent av bruttonationalprodukten.
+
+# sent_id = sv-ud-test-947
+# text = Biståndet kommer då att omfatta mer än två miljarder kronor årligen.
+
+# sent_id = sv-ud-test-948
+# text = Ungefär 40 procent av anslaget går till FN och dess fackorgan för vidare utdelning.
+
+# sent_id = sv-ud-test-949
+# text = Den övriga delen, det direkta svenska biståndet till u-länderna, förvaltas av SIDA (Swedish International Development Authority), som är ett statligt ämbetsverk under utrikesdepartementet.
+
+# newpar id = P311.7
+# sent_id = sv-ud-test-950
+# text = WHO:s uppgift är att förebygga sjukdomar.
+
+# sent_id = sv-ud-test-951
+# text = Här tas ett blodprov på ett kongolesiskt barn för ett malariatest.
+
+# newpar id = P311.8
+# sent_id = sv-ud-test-952
+# text = FAO är FN:s organisation för närings- och jordbruksfrågor.
+
+# sent_id = sv-ud-test-954
+# text = Husdjursvaccinationen i u-länderna räddar miljonvärden och bidrar på sitt sätt till en högre levnadsstandard bland folket.
+
+# newpar id = P311.9
+# sent_id = sv-ud-test-955
+# text = Undervisning i alla former ingår i FN:s u-landshjälp.
+
+# sent_id = sv-ud-test-956
+# text = Här tränas afrikaner på en traktormotor.
+
+# sent_id = sv-ud-test-957
+# text = Det är inte minst tekniska framsteg som ger förutsättningar för högre levnadsstandard i u-länderna.
+
+# newpar id = P311.10
+# sent_id = sv-ud-test-958
+# text = Tidningsklipp DN 30 jan. 1968
+
+# sent_id = sv-ud-test-959
+# text = Det finns inte någon av alla omfattad definition på vad som menas med ett u-land.
+
+# sent_id = sv-ud-test-960
+# text = De länder om vilka tveksamhet oftast råder har på kartan givits en streckrandning.
+
+# sent_id = sv-ud-test-961
+# text = På grund av deras låga nationalinkomster finns det ändå skäl att beteckna dem som u-länder.
+
+# newpar id = P311.11
+# sent_id = sv-ud-test-962
+# text = I I-länderna de industrialiserade länderna, bor något över 1 miljard människor, 30 procent av jordens befolkning.
+
+# sent_id = sv-ud-test-963
+# text = De svarar för ungefär 70 procent av 'världsinkomsten', har över 80 procent av världsexporten och ökar i genomsnitt sin inkomst per invånare med över 300 kr om året.
+
+# sent_id = sv-ud-test-964
+# text = I USA ökar nationalinkomsten varje år med ett belopp som är jämförbart med den totala nationalinkomsten i Indien eller Afrika.
+
+# newpar id = P311.12
+# sent_id = sv-ud-test-965
+# text = Sverige tillhör de rikaste bland de rika.
+
+# sent_id = sv-ud-test-966
+# text = Nationalinkomsten är nästan dubbelt så stor som Pakistans - Pakistan har över 105 miljoner invånare.
+
+# sent_id = sv-ud-test-967
+# text = Med ett par promille av världens befolkning svarar Sverige för dryga två procent av världshandeln.
+
+# sent_id = sv-ud-test-968
+# text = Genomsnittssvensken har en inkomst på ungefär 12000 kr om året.
+
+# sent_id = sv-ud-test-969
+# text = I två tredjedelar av u-länderna är genomsnittsinkomsten under, ofta långt under, 700 kr om året.
+
+# sent_id = sv-ud-test-970
+# text = 1966 gick 0,64 procent av den svenska nationalinkomsten till u-länderna.
+
+# newpar id = P311.13
+# sent_id = sv-ud-test-971
+# text = I U-länderna bor över 2 miljarder människor, 70 procent av världens befolkning.
+
+# sent_id = sv-ud-test-972
+# text = Deras andel av 'världsinkomsten' är ungefär 30 procent.
+
+# sent_id = sv-ud-test-973
+# text = De svarar för knappa 20 procent av världens export.
+
+# sent_id = sv-ud-test-974
+# text = De ökar årligen sin genomsnittsinkomst per invånare med cirka 10 kr.
+
+# sent_id = sv-ud-test-975
+# text = 60 procent av tredje världens invånare är analfabeter.
+
+# sent_id = sv-ud-test-976
+# text = 300 miljoner har malaria, 10 miljoner spetälska, 400 miljoner ögonsjukdomen trakom.
+
+# sent_id = sv-ud-test-977
+# text = Barndödligheten ligger ofta 10 gånger över den svenska.
+
+# sent_id = sv-ud-test-978
+# text = Proteintillgången per invånare och dag är cirka 10 gram - över 50 i i-länderna - mot ett behov på 45 gram.
+
+# sent_id = sv-ud-test-979
+# text = I Indien går det nära 6000 människor på varje läkare, i Etiopien nära 100000, i Ruanda nära 150000 - i Sverige under 1000, i USA under 700.
+
+# newdoc id = P412
+# newpar id = P412.1
+# sent_id = sv-ud-test-980
+# text = Jag låg länge vaken i natt.
+
+# sent_id = sv-ud-test-981
+# text = Mina tankar snubblade på varann.
+
+# sent_id = sv-ud-test-982
+# text = Jag hade svårt att få någon ordning på dem.
+
+# sent_id = sv-ud-test-983
+# text = De kom alltför fort på varann.
+
+# sent_id = sv-ud-test-984
+# text = Något kort ögonblick tyckte jag att jag såg sakerna i deras rätta sammanhang.
+
+# sent_id = sv-ud-test-985
+# text = Så har det varit flera nätter, jag har haft tankarna springande i långa korridorer och inte kunnat hitta någon utväg för dem.
+
+# newpar id = P412.2
+# sent_id = sv-ud-test-986
+# text = Jag läste någonting i en aftontidning igår som snuddade vid jämlikhetsproblemet.
+
+# sent_id = sv-ud-test-987
+# text = Medan jag bäddade sängarna försökte jag komma ihåg i vilken tidning det var.
+
+# sent_id = sv-ud-test-988
+# text = Jo, ett uttalande i Expressen av Rose Kennedy.
+
+# sent_id = sv-ud-test-989
+# text = Hon sade någonting om kvinnans roll som jag reagerade starkt emot.
+
+# newpar id = P412.3
+# sent_id = sv-ud-test-990
+# text = Jag gick ner till matrummet och hittade vår tonåring vid matbordet.
+
+# sent_id = sv-ud-test-991
+# text = Han räckte mig tidningarna, så att jag kunde leta fram Rose Kennedys ord.
+
+# sent_id = sv-ud-test-992
+# text = Hennes berömmelse beror på att hon har fött ett antal barn och att två av dem i sin tur har gjort namnet Kennedy känt i hela världen.
+
+# sent_id = sv-ud-test-993
+# text = Nu säger denna kvinna:
+
+# sent_id = sv-ud-test-994
+# text = 'Kvinnans uppgift är att vara gift och att uppfostra barn.'
+
+# newpar id = P412.4
+# sent_id = sv-ud-test-995
+# text = Det har predikats genom århundraden om moderskapets salighetsvärde.
+
+# sent_id = sv-ud-test-996
+# text = Moderskapet har framställts som kvinnans första uppgift i livet och kanske också den enda.
+
+# sent_id = sv-ud-test-997
+# text = Man har sällan tänkt på dem som inte har kunnat få den sociala status som den gifta kvinnan har.
+
+# sent_id = sv-ud-test-998
+# text = Kvinnan ska ta den heliga modersrollen på sig, uppfostra sina barn, betjäna sin man och helst glömma sin egen existens.
+
+# sent_id = sv-ud-test-999
+# text = Framför allt ska hon veta att hon är skapad för den rollen, och om hon inte klarar den är hennes egenvärde inte mycket att tala om.
+
+# sent_id = sv-ud-test-1000
+# text = Den här typen av uttalanden förekommer i press och veckotidningar vecka efter vecka.
+
+# newpar id = P412.5
+# sent_id = sv-ud-test-1001
+# text = Det är mannen och barnen, framför allt barnen, som behöver kvinnan hemma, sägs det.
+
+# sent_id = sv-ud-test-1002
+# text = Det talas sällan om att det är kvinnan som behöver sina barn och sin man för att se sig själv som en allmänt accepterad individ i samhället.
+
+# sent_id = sv-ud-test-1003
+# text = Mannen och barnen är ju i själva verket hennes sociala status.
+
+# sent_id = sv-ud-test-1004
+# text = Var har en kvinna makt och en känsla av att hon är någonting väsentligt - och kan nå det så enkelt?
+
+# sent_id = sv-ud-test-1005
+# text = Det är i hemmet!
+
+# newpar id = P412.6
+# sent_id = sv-ud-test-1006
+# text = Kvinnan borde basera sitt liv på sina egna personliga prestationer.
+
+# sent_id = sv-ud-test-1007
+# text = Äktenskapet som en försörjningsmöjlighet borde helt försvinna.
+
+# sent_id = sv-ud-test-1008
+# text = Då först är det möjligt för två ekonomiskt oberoende människor att skapa en gemensam tillvaro med större förståelse och mera gemenskap.
+
+# sent_id = sv-ud-test-1009
+# text = Genom att båda delar yrkeslivet går det naturligare att dela hemarbetet också mellan makarna.
+
+# sent_id = sv-ud-test-1010
+# text = Visst kommer var och en att möta en del svårigheter, men de är till för att övervinnas.
+
+# sent_id = sv-ud-test-1011
+# text = Det är naturligtvis också fråga om att mannen får undvara den personliga servicen hemma lika mycket som att kvinnan delar den ekonomiska bördan med mannen.
+
+# sent_id = sv-ud-test-1012
+# text = Barnen klarar sig bra och bättre om man uppmuntrar dem att fungera självständigt.
+
+# sent_id = sv-ud-test-1013
+# text = Kvinnan behöver inga överflödiga varuhusronder eller dylikt för att pigga upp sitt humör.
+
+# sent_id = sv-ud-test-1014
+# text = Kontakten mellan familjemedlemmarna behöver inte vara kontinuerlig, men den bör vara av bra kvalitet.
+
+# newpar id = P412.7
+# sent_id = sv-ud-test-1015
+# text = Hur ska våra barn ha det för att trivas och få den bästa starten i livet?
+
+# sent_id = sv-ud-test-1016
+# text = Hur löser man bäst barntillsynsproblemen?
+
+# sent_id = sv-ud-test-1017
+# text = Varför dominerar kvinnorna de första åren i barnens liv?
+
+# sent_id = sv-ud-test-1018
+# text = Hör de människorna som tar hand om våra barn till de väl avlönade?
+
+# sent_id = sv-ud-test-1019
+# text = Det är så viktigt att våra barn ska bli lyckliga medborgare i världen!
+
+# newpar id = P412.8
+# sent_id = sv-ud-test-1020
+# text = Har vi någonsin frågat oss om människorna som arbetar med våra barn i daghem, lekskolor, skolor, är tillräckligt intresserade och 'inne' i yrket att ta hand om våra barn?
+
+# sent_id = sv-ud-test-1021
+# text = Hur arbetar de pedagogiskt?
+
+# sent_id = sv-ud-test-1022
+# text = Hur pass mycket och i vilken riktning indoktrinerar de våra barns tänkande och handlande?
+
+# sent_id = sv-ud-test-1023
+# text = Jag har inte tänkt på de här frågorna så mycket tidigare - i varje fall har jag inte tänkt att jag skulle kunna ändra på det som jag eventuellt har kritiserat.
+
+# sent_id = sv-ud-test-1024
+# text = Jag - och många med mig - har tänkt att när skolan tar över är allting bra.
+
+# sent_id = sv-ud-test-1025
+# text = Men hur är det med undervisningen när det gäller att sudda ut könstänkandet?
+
+# sent_id = sv-ud-test-1026
+# text = För utlänningar är det ju roligt att berätta - för de uppskattar det - att våra pojkar har hemkunskap i sjuan.
+
+# sent_id = sv-ud-test-1027
+# text = Men använder de kunskaperna i till exempel matlagning hemma?
+
+# newpar id = P412.9
+# sent_id = sv-ud-test-1028
+# text = Barnen är kvinnodominerade och blir ensidigt påverkade från allra första början.
+
+# sent_id = sv-ud-test-1029
+# text = Mor sköter om dem, hon är hemma.
+
+# sent_id = sv-ud-test-1030
+# text = Daghemmens personal är kvinnlig.
+
+# sent_id = sv-ud-test-1031
+# text = Barnen får den uppfattningen att det där med barn och kvinnor hör bestämt ihop.
+
+# sent_id = sv-ud-test-1032
+# text = Men är det verkligen så?
+
+# sent_id = sv-ud-test-1033
+# text = Om det inte är så måste väl den onda cirkeln brytas!
+
+# newpar id = P412.10
+# sent_id = sv-ud-test-1034
+# text = Industritjänstemannaförbundet har ställt samman en upplysande tabell över 'hur manliga och kvinnliga medlemmar fördelar sig på olika s.k. befattningsskikt inom företagen'.
+
+# sent_id = sv-ud-test-1035
+# text = Ungefär 80 procent av kvinnorna arbetar på de lägsta nivåerna mot ungefär 20 procent av männen.
+
+# sent_id = sv-ud-test-1036
+# text = Kvinnorna har praktiskt taget ingen möjlighet att nå de höga befattningarna inom industrin, inte ens någon mellanposition utom i undantagsfall.
+
+# sent_id = sv-ud-test-1037
+# text = Hur skulle de kunna det?
+
+# sent_id = sv-ud-test-1038
+# text = Procentuellt är ju kvinnorna färre i de tekniska yrkena.
+
+# sent_id = sv-ud-test-1039
+# text = Fortfarande siktar våra döttrar hellre på äktenskapet som yrke.
+
+# sent_id = sv-ud-test-1040
+# text = Eller de vill ha kvinnliga yrken, helst sådana som kan kombineras med tillvaron som hemmafru eller yrken som hjälper dem att bli hemmafruar.
+
+# sent_id = sv-ud-test-1041
+# text = För mannen skall man inte besvära med hemmatjänst och barnavård, det skulle bli för svårt att genomföra, tror säkert många kvinnor.
+
+# newdoc id = P415
+# newpar id = P415.1
+# sent_id = sv-ud-test-1042
+# text = Ingrid Sjöstrand vill ha flera alternativ till den gamla storfamiljen och den moderna lilla familjen.
+
+# sent_id = sv-ud-test-1043
+# text = Vi skall utgå ifrån vad barnen behöver.
+
+# newpar id = P415.2
+# sent_id = sv-ud-test-1044
+# text = Pappa, mamma, barn, det är de första roller vi leker oss in i - och vi har svårt att tänka oss dem annorlunda än så som vi upplevde dem från början.
+
+# newpar id = P415.3
+# sent_id = sv-ud-test-1045
+# text = Men ett kallt faktum är att förutsättningarna för de gamla tydliga pappa- och mammarollerna har försvunnit, familjen är inte längre en praktisk nödvändighet för att tillhandahålla dagligservicen.
+
+# sent_id = sv-ud-test-1046
+# text = Den är numera en ganska opraktisk nödvändighet, bottnande i vår trygghets avhängighet av vanor och konventioner, i våra föreställningar om familjen som garant för omtanken om barnen, för värme och samhörighet, ja t o m 'goda seder' och hög (sexual-) moral.
+
+# sent_id = sv-ud-test-1047
+# text = Och förresten har vi knappast längre några alternativ till pappa-mamma-barn-familjen, var och en inom sitt revir, i sin lägenhet bak låsta dörrar.
+
+# sent_id = sv-ud-test-1048
+# text = Den gamla storfamiljen är utdöd och de ansatser till en vidare gemenskap som vi hade i arbetarbaracken, statlängan och i samhörigheten kring gården i kvarterets mitt har vi inte tagit med oss till våra propra nya tätorter.
+
+# newpar id = P415.4
+# sent_id = sv-ud-test-1049
+# text = Vårt hemliga ideal är fortfarande Sörgårdsfamiljen åtminstone byggs lägenheterna, fast ytan har krympt, fortfarande för fullt självhushåll.
+
+# sent_id = sv-ud-test-1050
+# text = Unga herr far och unga fru mor sätter fortfarande bo med eget linneförråd och servis för tolv personer - och leken går bra så länge den ingenting kräver, d v s tills barnen å ena sidan kräver en vårdare på heltid, eller i den maskinellt topprustade lägenheten, på trekvartstid, medan arbetet å andra sidan kräver heltidsengagemang.
+
+# newpar id = P415.5
+# sent_id = sv-ud-test-1051
+# text = Möjligheterna att skaffa tillfredsställande föräldravikarier är jämförbara med chanserna att vinna på lotteri.
+
+# sent_id = sv-ud-test-1052
+# text = Medan man väntar på turen och barnen växer hankar man sej fram med de olika nödlösningarna: flickorna en flyktig och växlande skara av unga och instabila personer som hamnat i jobbet utan speciella kvalifikationer, dagmammorna, en ännu mera obekant faktor i barnens liv, det knepiga trebarnssystemet där tre grannfamiljer slår sej ihop om en utbildad sköterska - men där barnen lika lite kommer ut ur den trånga miljön med en isolerad kvinnsperson - aldrig en karl för den ensamma mammans barn.
+
+# sent_id = sv-ud-test-1053
+# text = Och slutligen daghemmet, den hittills bästa lösningen - för robusta, grupptåliga, utåtriktade barn.
+
+# sent_id = sv-ud-test-1054
+# text = Trots daghemmens otillräckliga resurser, framför allt personella, visar en färsk undersökning att daghemsbarn är självständigare, mindre ängsligt beroende och mer realitetsanpassade än barn som uppfostras i hemmet.
+
+# newpar id = P415.6
+# sent_id = sv-ud-test-1055
+# text = De här lösningarna går alla ut på att lösa frågan om tillsyn, knappast om fostran.
+
+# sent_id = sv-ud-test-1056
+# text = Också daghemmet ses som en form av förvaring som får rätta sej efter vad de vuxna kan prestera i fråga om lokaler och personal - inte som den plantskola det borde vara, där varje barn får de bästa förutsättningar för att växa.
+
+# newpar id = P415.7
+# sent_id = sv-ud-test-1057
+# text = Vad betyder t ex det två gånger om dygnet upprepade rycket från den ena miljön till den andra för daghemsbarnet?
+
+# sent_id = sv-ud-test-1058
+# text = Den detaljen är knappast planerad utifrån barnets bästa - men tillmötesgår ju vårt behov att 'äga' våra barn.
+
+# newpar id = P415.8
+# sent_id = sv-ud-test-1059
+# text = Först om vi går utanför landet och nuet kan vi få erfarenhet av kollektiv fostran, t ex från kibbutzerna.
+
+# sent_id = sv-ud-test-1060
+# text = Men i fråga om dem, åtminstone i deras ursprungliga form, måste man ta hänsyn till att de startades under hårt yttre tryck för att frigöra så många armar som möjligt.
+
+# sent_id = sv-ud-test-1061
+# text = Liten personal och mycket små resurser var ofrånkomliga villkor.
+
+# sent_id = sv-ud-test-1062
+# text = Att pröva den ursprungliga kibbutzen här vore ungefär som att fostra spartaner i välfärdslandet.
+
+# newpar id = P415.9
+# sent_id = sv-ud-test-1063
+# text = Då är erfarenheterna från helt annorlunda kulturer intressantare, t ex Margaret Meads från arapeshfolket där pappan hade det huvudsakliga ansvaret för barnavården, men där alla barn kunde söka hjälp hos alla vuxna om pappan eller mamman inte fanns till hands.
+
+# sent_id = sv-ud-test-1064
+# text = Barnen kände trygghet i gruppen och växte upp i en hos oss okänd frihet från ångest och neuroser.
+
+# newpar id = P415.10
+# sent_id = sv-ud-test-1065
+# text = Något av det samma kan vi studera där zigenarna ännu lever i sina ursprungliga storfamiljer.
+
+# sent_id = sv-ud-test-1066
+# text = Barnen går ur famn i famn och är trots bindningen till modern inte uteslutande beroende av henne, något som rimligen bör garantera en större trygghet än ett absolut beroende.
+
+# newpar id = P415.11
+# sent_id = sv-ud-test-1067
+# text = Storfamiljeiden har blivit aktuell på sistone.
+
+# sent_id = sv-ud-test-1068
+# text = Den praktiseras på några håll så att några familjer som trivs tillsammans flyttar ihop och delar på barnavården och skötseln av det jordiska - en rationell och öppen livsform som för barnen måste bli rikare på kontakter och därmed mer stimulerande än isoleringen med en ensam vuxen.
+
+# sent_id = sv-ud-test-1069
+# text = När de vuxna är hemma vill säja - på vardagarna blir det knappast annat än ett trebarnssystem i fast lokal, kanske med en större syskonskara bara.
+
+# newpar id = P415.12
+# sent_id = sv-ud-test-1070
+# text = Storfamiljen av denna typ ställer stora krav på tolerans, hänsyn, mognad - en kollektiv fostran, som inte kräver kollektivt liv av de vuxna måste i längden vara lättare att acceptera för flertalet människor.
+
+# sent_id = sv-ud-test-1071
+# text = Och här har vi inte mycket att utgå från: vi måste vara djärva och visionära nog att tänka oss något nytt.
+
+# newpar id = P415.13
+# sent_id = sv-ud-test-1072
+# text = Vi är tvungna att råda bot på det ångestskapande beroendet av en enda person - vem denna person än är blir friktionsytan abnormt stor.
+
+# newpar id = P415.14
+# sent_id = sv-ud-test-1073
+# text = Och vi måste bort från anstalten där barnen förskockas, tröttas ut och tvingas rivalisera om några få vuxna som inte orkar svara dem alla - en enkönad, avemotionaliserad, också den isolerad miljö utan anknytningar till världen utanför.
+
+# newpar id = P415.15
+# sent_id = sv-ud-test-1074
+# text = Låt oss utgå från vad barnen behöver: trygghet och värme, intresse och stimulans, flera vuxna att lita på och tycka om, kamrater i olika åldrar, svängrum, arbetsmaterial, en fredad vrå och en gemenskap att höra till, någon som putsar näsan och någon som hör på - allt går inte att räkna upp, men vad ska det gå ut på?
+
+# sent_id = sv-ud-test-1075
+# text = Möjlighet att utvecklas efter sina förutsättningar?
+
+# sent_id = sv-ud-test-1076
+# text = Så lite beskärning som möjligt av växandets oerhörda glädje?
+
+# sent_id = sv-ud-test-1077
+# text = Det kan formuleras så olika - men i varje fall vet vi att det inte räcker med att barn är mätta och rena och sysselsatta - saker som i och för sej kan hålla den enskilde vårdaren fullt sysselsatt.
+
+# newpar id = P415.16
+# sent_id = sv-ud-test-1078
+# text = Vi kan inte räkna med att det i framtiden blir lättare än nu för den enskilda familjen att åstadkomma en vardag så rik på upplevelser som barnens hungriga sinnen kräver.
+
+# newpar id = P415.17
+# sent_id = sv-ud-test-1079
+# text = Vi får räkna med att boendet slungas ännu längre bort från arbetsplatsen, att det ännu mer differentierade yrkeslivet kräver alltmer totala insatser, att den lilla familjen med ett eller två barn förblir den dominerande familjetypen.
+
+# sent_id = sv-ud-test-1080
+# text = Det kommer ännu mindre att löna sej att en vuxen ägnar huvudparten av sin arbetstid åt ett eller två barn, allra minst om han är utbildad för nånting annat.
+
+# newpar id = P415.18
+# sent_id = sv-ud-test-1081
+# text = Vi inser redan nu att det inte räcker med att ha fått barn för att kunna fostra barn.
+
+# newpar id = P415.19
+# sent_id = sv-ud-test-1082
+# text = Det skulle inte skada vårt framtidsplanerande om vi vågade tänka lite mer obundet av det existerande samhället.
+
+# sent_id = sv-ud-test-1083
+# text = Nog törs vi t ex ifrågasätta om alla våra bostadsområden måste se ut som de gör: travar med likadana topputrustade enheter centrerade kring snabbköp, kiosk och parkeringsplats?
+
+# newpar id = P415.20
+# sent_id = sv-ud-test-1084
+# text = Många av oss skulle kanske föredra att avstå från komplett privat ekonomiavdelning och få utökad gemensam service i stället.
+
+# sent_id = sv-ud-test-1085
+# text = Vi skulle klara oss alldeles utmärkt utan självhushållets hela prylarsenal, vi skulle kanske rentav trivas bättre med ett mera lättmanövrerat liv, i turistklass.
+
+# newpar id = P415.21
+# sent_id = sv-ud-test-1086
+# text = Men bostadstänkandet - eller är det ett statustänkande? - går mot allt mer totalutrustade bomaskiner - som skulle varje familj kunna utstå en belägring.
+
+# sent_id = sv-ud-test-1087
+# text = Egendomligt i ett samhälle där kollektiv utspisning i skolor och på arbetsplatser allt mer brer ut sej, där konsumtionen går mot allt mera bara-att-värma-produkter i en allt smidigare distribution!
+
+# newpar id = P415.22
+# sent_id = sv-ud-test-1088
+# text = Men så länge barnen är uteslutande hänvisade till att växa upp inom familjens bostad utrustar vi varje bostad så att den ska inge sina bebyggare hoppet att här ska det gå att förverkliga en låt vara maskinell sörgårdsdröm.
+
+# newpar id = P415.23
+# sent_id = sv-ud-test-1089
+# text = Vågade vi släppa bostadens Stavnsbaand och lämna barnen till sina egna bostäder, utformade som ideala hem för barn, skulle vi också våga utforma hela bostadsområdet mer rationellt, mer samhälleligt, mindre lägenhetslåst.
+
+# newpar id = P415.24
+# sent_id = sv-ud-test-1090
+# text = I stället för att sprida bostäderna kring ett renodlat kommersiellt centrum kunde vi knyta dem till en verklig samhällskärna, som tillgodosåg behoven av service, kultur, umgänge.
+
+# sent_id = sv-ud-test-1091
+# text = Här skulle utom affärer och hantverkare finnas tvätteri med klädvård, kantin med matförsäljning, cafe, bibliotek med lyssningsrum, kanske en kvartersbio, teverum, lokaler för sällskapsliv och sport, bastu, möjligen en liten bassäng.
+
+# newpar id = P415.25
+# sent_id = sv-ud-test-1092
+# text = I nära anslutning härtill hemgården, eller vad man vill kalla dem, av intim kvarterstyp, inom sina längor rymmande barnens hus, ungdomsgård, hobbylokaler.
+
+# newpar id = P415.26
+# sent_id = sv-ud-test-1093
+# text = Barnens hus tänker jag mej hellre av modell äldre villa med stora och små rum, fantasieggande prång och skrubbar, dit man kan dra sej tillbaka i ensamhet eller med sin bästis, än som hyperhygieniska och lättstädade lokaler där allt har sitt fastställda ändamål.
+
+# sent_id = sv-ud-test-1094
+# text = Men den viktigaste frågan är inte lokalerna utan personalen.
+
+# sent_id = sv-ud-test-1095
+# text = De som ska handleda barn är en av samhällets viktigaste yrkesgrupper och vi måste rekrytera, utbilda och betala dem därefter.
+
+# sent_id = sv-ud-test-1096
+# text = Varje liten barngrupp bör ha sina 'vikarierande föräldrar' och deras assistenter som stadiga referenser, bland dem bör finnas både män och kvinnor, någon med gedigen psykologisk-pedagogisk skolning - och ingen utan kunskaper om barn och barnuppfostran.
+
+# sent_id = sv-ud-test-1097
+# text = Viktigare än pappersmeriter måste vara viljan till personlig satsning - och viljan att stanna på platsen.
+
+# newpar id = P415.27
+# sent_id = sv-ud-test-1098
+# text = Årsklasskiktningen som håller på att spalta upp hela vårt samhälle - snart kan 41/2-åringar bara leka med 41/2-åringar - bör kunna luckras upp i dessa åldersblandade grupper och kan motverkas genom ett mindre strängt kategoribyggande.
+
+# sent_id = sv-ud-test-1099
+# text = Skolbarnen bör från sina närbelägna fritidslokaler ha fritt tillträde till småsyskon och mindre kamrater, pensionärer må ha möjlighet att fraternisera nedom åldersstrecket, föräldrar må komma och gå - överhuvudtaget kan de äldres speciella kunskaper och intressen komma fler barn tillgodo.
+
+# sent_id = sv-ud-test-1100
+# text = (I framtiden kommer vi förmodligen inte alla att översvämma den fria världen just på söndagar - också ledigheten måste differentieras - små barn kan få se män, vanliga portföljpappor, också på vardagar.)
+
+# newpar id = P415.28
+# sent_id = sv-ud-test-1101
+# text = I stället för den nuvarande situationen där föräldrar och barn är varandras livegna - med överbindningar, aggressioner, otrygghet som följd - (en ny uteslutningsgemenskap som inte kännetecknade den gamla mångfacetterade familjen) har föräldrar och barn ett ömsesidigt oberoende - med obeskurna möjligheter till fritidsumgänge.
+
+# newpar id = P415.29
+# sent_id = sv-ud-test-1102
+# text = Barnen bor i 'sin' gård, men gästar föräldrarna när de vill - och barnens hus har plats för gästande föräldrar.
+
+# sent_id = sv-ud-test-1103
+# text = Föräldrar och barn bör med föräldrarnas ökade fritid få ökade möjligheter att ha roligt tillsammans, men ingendera är utlämnad åt den andra parten så som föräldrar nu kan känna sej utlämnade åt en alltför krävande fostraruppgift - liksom barn är totalt utlämnade åt inkapabla föräldrar.
+
+# sent_id = sv-ud-test-1104
+# text = Barnen har en viss känslomässig och en orubbad materiell trygghet garanterad vad som än händer de biologiska föräldrarna.
+
+# sent_id = sv-ud-test-1105
+# text = Olämpliga föräldrar är inte samma outjämnbara handikapp som nu.
+
+# newpar id = P415.30
+# sent_id = sv-ud-test-1106
+# text = Utopier har den nackdelen att de låter så utopiska, men - eftersom förhållandena nu inte är gynnsamma för någon kategori - borde vi inte i liten skala pröva också andra sätt att leva?
+
+# newpar id = P415.31
+# sent_id = sv-ud-test-1107
+# text = Detta förslag som är ett samlingsförslag av en mängd uppslagsändar som länge legat i tiden är avsett för liten skala.
+
+# newpar id = P415.32
+# sent_id = sv-ud-test-1108
+# text = Alldeles säkert kommer en så annorlunda uppfostran att skapa en annorlunda människa - men det behöver inte bli en sämre.
+
+# sent_id = sv-ud-test-1109
+# text = Det kan bli en öppnare, friare människa, mindre benägen att hänga in sitt privata revir.
+
+# newdoc id = P416
+# newpar id = P416.1
+# sent_id = sv-ud-test-1110
+# text = Det blir allt vanligare att man i födelseannonser ser att föräldrarna har olika efternamn.
+
+# sent_id = sv-ud-test-1111
+# text = Att på det sättet öppet visa att ett barn är fött 'utom äktenskapet' skulle i de flesta andra länder vara helt otänkbart - hos oss är det väl knappast längre någon som reagerar.
+
+# sent_id = sv-ud-test-1112
+# text = Detta innebär inte att förhållandena är oförändrade i andra länder, som exempel kan nämnas den nya synen på skilsmässa i Italien.
+
+# newpar id = P416.2
+# sent_id = sv-ud-test-1113
+# text = Man måste kanske ändå ställa sig frågan:
+
+# sent_id = sv-ud-test-1114
+# text = Varför har just vi svenskar blivit så toleranta mot olika former av sammanlevnad och varför blir det hos oss allt vanligare att man bildar familj utan att ingå äktenskap?
+
+# sent_id = sv-ud-test-1115
+# text = Antingen är det fel på äktenskapet eller också har våra värderingar förändrats.
+
+# sent_id = sv-ud-test-1116
+# text = Kanske bådadera.
+
+# newpar id = P416.3
+# sent_id = sv-ud-test-1117
+# text = Att värderingarna förändrats är helt säkert riktigt, och om någon förnekar det så låt oss jämföra vår reaktion inför upplysningen om att två ungdomar sammanbor med den vi skulle haft för tjugo år sedan.
+
+# sent_id = sv-ud-test-1118
+# text = Det är här inte bara fråga om ett vagt accepterande av rådande förhållanden.
+
+# sent_id = sv-ud-test-1119
+# text = Den 'nya' sexualmoralen har påverkat oss alla men samtidigt djupt oroat oss.
+
+# newpar id = P416.4
+# sent_id = sv-ud-test-1120
+# text = Mest oroande är att synen på äktenskapet som samlevnadsform förändras i en riktning som ifrågasätter värdet av familjebildning och ansvarstagande i den form som i de flesta kulturer och under sekler varit allmänt rådande.
+
+# newpar id = P416.5
+# sent_id = sv-ud-test-1121
+# text = Förutvarande justitieminister Kling tillsatte strax före sin avgång en utredning, familjesakkunniga, med utomordentligt specificerade direktiv för utredningsarbetet.
+
+# sent_id = sv-ud-test-1122
+# text = Enligt direktiven skall lagstiftningen ses som ett medel att påverka utvecklingen och därjämte förändra samhällstrukturen mot ett samhälle där varje vuxen kan ta ansvar för sig själv utan ekonomiskt beroende av anhöriga.
+
+# sent_id = sv-ud-test-1123
+# text = Äktenskapet är en form av 'frivillig samlevnad mellan självständiga personer'.
+
+# sent_id = sv-ud-test-1124
+# text = Särskilt betonas självständigheten i ekonomiskt avseende, var och en skall helt enkelt försörja sig själv i framtiden.
+
+# newpar id = P416.6
+# sent_id = sv-ud-test-1125
+# text = De flesta människor torde förlova och gifta sig utan närmare tanke på att deras förhållande blir rättsligt reglerat.
+
+# sent_id = sv-ud-test-1126
+# text = I allmänhet är det först vid äktenskapets upplösning, genom skilsmässa eller genom att en av makarna avlider som rättsverkan träder i funktion.
+
+# sent_id = sv-ud-test-1127
+# text = Lagens mening att makarna under äktenskapets bestånd skall leva på lika standard och att var och en efter sin förmåga skall bidra till försörjningen är för de flesta självklar.
+
+# newpar id = P416.7
+# sent_id = sv-ud-test-1128
+# text = Den nya familjelagstiftningen, som kan väntas om några år, kommer att i grunden förinta denna uppfattning.
+
+# newpar id = P416.8
+# sent_id = sv-ud-test-1129
+# text = I den förändringens tid som vi lever i bör man sträva efter att åtminstone bevara det som är värdefullt.
+
+# sent_id = sv-ud-test-1130
+# text = Till det mest värdefulla måste räknas människors vilja att ta ansvar för varandra, att försöka att leva i 'viform' i stället för i 'jagform'.
+
+# sent_id = sv-ud-test-1131
+# text = Familjegemenskapen, föräldrars och barns gemensamma ansvar för varandra skapar också trygghet.
+
+# sent_id = sv-ud-test-1132
+# text = I ett förhållande är aldrig bägge parter lika starka.
+
+# sent_id = sv-ud-test-1133
+# text = För den svagare har ofta vetskapen om att leva i nära gemenskap med en annan utgjort en ovärderlig tillgång.
+
+# sent_id = sv-ud-test-1134
+# text = För barnen är det ytterst viktigt att veta att föräldrarna hör samman 'på riktigt'.
+
+# newpar id = P416.9
+# sent_id = sv-ud-test-1135
+# text = Äktenskap och politik
+
+# sent_id = sv-ud-test-1136
+# text = Teol dr Tom Hardt skrev i denna tidskrift en artikel: 'Till storms mot äktenskapet' där han kommenterade den svenska regeringens rapport i kvinnofrågan till FN.
+
+# sent_id = sv-ud-test-1137
+# text = Av artikeln framgick klart, att den rapporten måste ses som representativ för det socialdemokratiska partiets familjesyn men att någon majoritet av svenska folket säkert inte står bakom de uppfattningar som förs fram i rapporten.
+
+# newpar id = P416.10
+# sent_id = sv-ud-test-1138
+# text = Samma slutsats drar jag när det gäller direktiven till familjelagsakkunniga.
+
+# sent_id = sv-ud-test-1139
+# text = Man vill från socialdemokraternas sida förändra samhället i riktning mot kollektivitet och jämlikhet.
+
+# sent_id = sv-ud-test-1140
+# text = Eftersom den nuvarande familjebildningen utgör ett hot mot förverkligandet därav måste familjen och äktenskapet förändras.
+
+# newpar id = P416.11
+# sent_id = sv-ud-test-1141
+# text = Familjen är emellertid konservativ på samma sätt som kärleken ofta är egoistisk.
+
+# sent_id = sv-ud-test-1142
+# text = Kärlekens innersta väsen lär inte något politiskt parti kunna påverka, men formerna för dess yttringar kan alltid regleras i lag.
+
+# sent_id = sv-ud-test-1143
+# text = Familjen är också i sin grund kapitalistisk, därför att känslan av ansvar för de närstående främjar sparande och ägandelust.
+
+# sent_id = sv-ud-test-1144
+# text = Känslan av varaktighet i ett förhållande ökar viljan till investeringar i eget hem och andra kapitalvaror.
+
+# sent_id = sv-ud-test-1145
+# text = Familjen blir lätt det primära, samhället kommer i andra rummet; förhållanden som ett socialistiskt parti självfallet bekämpar.
+
+# newpar id = P416.12
+# sent_id = sv-ud-test-1146
+# text = Individens ekonomiska självständighet, den bärande tanken i utredningens direktiv, förutsätter att bägge makarna i en familj förvärvsarbetar.
+
+# sent_id = sv-ud-test-1147
+# text = Detta underlättas givetvis genom att samhället tar över en allt större del av ansvaret för barnens vård.
+
+# sent_id = sv-ud-test-1148
+# text = Den enorma satsningen för att få ut mödrarna i förvärvslivet görs inte enbart därför att dessa skulle eftersträva arbete utom hemmet.
+
+# sent_id = sv-ud-test-1149
+# text = Bakom finns med all säkerhet också tanken att man genom en kollektiv uppfostran av barnen kan komma närmare ett socialdemokratiskt jämlikhetsideal.
+
+# sent_id = sv-ud-test-1150
+# text = Skattepolitiken är ett annat verksamt medel att få ut mödrarna i förvärvslivet och därigenom förhindra att barnen får den personliga vård som ges i ett hem.
+
+# newpar id = P416.13
+# sent_id = sv-ud-test-1151
+# text = Den konservativa uppfattningen att familjen är samhällets grund bygger på en annan ideologi.
+
+# sent_id = sv-ud-test-1152
+# text = Äktenskapet är ett avtal, och ett bindande avtal.
+
+# sent_id = sv-ud-test-1153
+# text = Det ställer krav på parternas ansvar såväl för varandra som för barnen.
+
+# sent_id = sv-ud-test-1154
+# text = Bundenheten i avtalet underlättar samlevnaden och ansvaret begränsas inte till vissa områden.
+
+# sent_id = sv-ud-test-1155
+# text = 'Äktenskapet är av Gud instiftat' heter det i vigselformuläret, och för de flesta människor innebär äktenskapets ingående ett allvarligt och noga övervägt ställningstagande.
+
+# newpar id = P416.14
+# sent_id = sv-ud-test-1156
+# text = Vi kan vänta oss en politisk strid om äktenskapet och dess funktion.
+
+# newpar id = P416.15
+# sent_id = sv-ud-test-1157
+# text = Är det fel på äktenskapet?
+
+# sent_id = sv-ud-test-1158
+# text = Frågan är om man med den konservativa grundsynen helt enkelt kan slå bort tanken på att revidera den nuvarande äktenskapslagstiftningen.
+
+# sent_id = sv-ud-test-1159
+# text = Jag tror inte att man kan det.
+
+# sent_id = sv-ud-test-1160
+# text = Den starka negativa reaktion som mött direktiven beror på att dessa så detaljerat pekat ut lösningar och eftersträvade förändringar och lämnat mycket lite utrymme åt ställningstaganden från utredningens sida.
+
+# sent_id = sv-ud-test-1161
+# text = Bl a anses att den nya lagstiftningen måste vara objektiv till olika samlevnadsformer, och moraliska värderingar får inte förekomma.
+
+# newpar id = P416.16
+# sent_id = sv-ud-test-1162
+# text = Om man emellertid är helt övertygad om att den för alla parter bästa samlevnadsformen är äktenskapet, så innebär det inte att man gör moraliska värderingar.
+
+# sent_id = sv-ud-test-1163
+# text = Det innebär i stället att man vill underlätta samlevnaden för dem som vill bilda familj.
+
+# newpar id = P416.17
+# sent_id = sv-ud-test-1164
+# text = Varför ökar då antalet ogifta familjebildare?
+
+# sent_id = sv-ud-test-1166
+# text = Man måste göra antaganden.
+
+# newpar id = P416.18
+# sent_id = sv-ud-test-1167
+# text = De troliga orsakerna är i första hand tre:
+
+# sent_id = sv-ud-test-1168
+# text = Det är för besvärligt att gifta sig, det blir bara inte av.
+
+# newpar id = P416.19
+# sent_id = sv-ud-test-1169
+# text = Man vill inte 'binda sig', (ofta bara en part).
+
+# sent_id = sv-ud-test-1170
+# text = Kärleken är stark nog att klara sig utan yttre band (tror man).
+
+# newpar id = P416.20
+# sent_id = sv-ud-test-1171
+# text = Vad gäller det första fallet föreslår direktiven till familjelagsakkunniga att vigsel icke längre skall konstituera äktenskap.
+
+# sent_id = sv-ud-test-1172
+# text = I stället bör man undersöka huruvida inte en registrering skulle kunna utgöra det konstitutiva momentet vid äktenskapets ingående.
+
+# sent_id = sv-ud-test-1173
+# text = Givetvis kan sedan var och en efter egen vilja komplettera registreringen med vigsel.
+
+# newpar id = P416.21
+# sent_id = sv-ud-test-1174
+# text = Vad man tycks glömma bort är det personliga engagemanget i det avtal som äktenskaps ingående medför.
+
+# sent_id = sv-ud-test-1175
+# text = Om någon 'gifter sig' en lördag, troligtvis i kyrkan där majoriteten av dagens vigslar sker, skulle äktenskapet inte vara giltigt förrän registrering skett, kanske nästkommande onsdag.
+
+# sent_id = sv-ud-test-1176
+# text = För parterna som önskar vigsel måste det vara en orimlighet att ur vigselformuläret skulle utgå:' förklarar jag Eder som man och hustru'.
+
+# sent_id = sv-ud-test-1177
+# text = En sådan vigsel skulle i hög grad sakna berättigande och bidraga till att formen för äktenskapets ingående reducerades till postandet av ett ifyllt formulär.
+
+# sent_id = sv-ud-test-1178
+# text = Däremot kan det vara riktigt att man förenklar äktenskapets ingående till en juridiskt bindande överenskommelse med vittnen, varvid detta kan ske antingen i samband med vigsel eller på annat sätt för dem som önskar ett mindre formellt ingående.
+
+# newpar id = P416.22
+# sent_id = sv-ud-test-1179
+# text = Ofta hör man från moderat håll att 'det skall vara svårt att gifta sig'.
+
+# sent_id = sv-ud-test-1180
+# text = Jag tror inte heller det är riktigt.
+
+# sent_id = sv-ud-test-1181
+# text = Om man vill underlätta för unga familjebildare att ingå äktenskap gör man detta genom att inte i onödan krångla till proceduren.
+
+# sent_id = sv-ud-test-1182
+# text = Själva avtalet måste emellertid vara det konstitutiva elementet, inte registreringen av detsamma.
+
+# newpar id = P416.23
+# sent_id = sv-ud-test-1183
+# text = Den andra orsaken till att man inte gifter sig, man vill inte binda sig, kan man knappast komma åt lagstiftningsvägen.
+
+# sent_id = sv-ud-test-1184
+# text = Den måste ses som en följd av en minskad benägenhet att ta ansvar och som ett tecken på osäkerhet.
+
+# sent_id = sv-ud-test-1185
+# text = I de fall samlevnaden resulterar i barn kan man dock juridisk reglera förhållandena parterna emellan.
+
+# sent_id = sv-ud-test-1186
+# text = Teoretiskt kan man resonera så, att har en samlevnad pågått en viss given tid och parterna fått barn tillsammans skall samma regler gälla för sammanlevnaden som om parterna ingått äktenskap.
+
+# sent_id = sv-ud-test-1187
+# text = Med all sannolikhet skulle en sådan lagstiftning bidraga till att ordna upp de ofta stora svårigheter som uppkommer när förbindelsen bryts genom dödsfall eller genom separation.
+
+# sent_id = sv-ud-test-1188
+# text = I detta fall skulle vi få ett nytt slags äktenskap, som syftar till att reglera förhållandena familjemedlemmarna emellan och som juridiskt jämställer dessa förhållanden med dem som råder i ett vanligt äktenskap.
+
+# newpar id = P416.24
+# sent_id = sv-ud-test-1189
+# text = Att kärleken kan klara sig utan yttre band är i de flesta fall sant.
+
+# sent_id = sv-ud-test-1190
+# text = Vad de som resonerar så glömmer är dels att kärleken inte alltid är beständig och att den i alla händelser inte är evig.
+
+# sent_id = sv-ud-test-1191
+# text = Förr eller senare blir alltid den ena parten lämnad ensam, och då kommer svårigheterna.
+
+# sent_id = sv-ud-test-1192
+# text = Arvsrätt och giftorätt finns inte.
+
+# sent_id = sv-ud-test-1193
+# text = Kanske har hus- och bilköp skett i den avlidnes namn, och den efterlämnade har i så fall ingen rätt till den egendom som under samlevnaden varit gemensam.
+
+# sent_id = sv-ud-test-1194
+# text = Skulle modern dö och efterlämna barn har fadern inte självklart någon vårdnadsrätt till de barn som han levt och bott med fram till dödsfallet.
+
+# sent_id = sv-ud-test-1195
+# text = Inte ens umgängesrätt med dem finns reglerad i lag.
+
+# newpar id = P416.25
+# sent_id = sv-ud-test-1196
+# text = Man skulle önska att alla de som tvärsäkert vet med sig att deras kärlek skall klara alla problem övervägde följderna av att kärleken eller motparten dör.
+
+# sent_id = sv-ud-test-1197
+# text = Detta ställer stora krav på upplysning.
+
+# sent_id = sv-ud-test-1198
+# text = Det är märkvärdigt så litet moderna ungdomar vet om rättsverkningar av olika samlevnadsformer.
+
+# sent_id = sv-ud-test-1199
+# text = Genom en ökad effektiv information kan vi kanske i någon mån göra äktenskapet mer attraktivt.
+
+# sent_id = sv-ud-test-1200
+# text = Ännu brister det i förfärande hög grad.
+
+# sent_id = sv-ud-test-1202
+# text = Familjelagstiftningen är egentligen inte begränsad till äktenskapet.
+
+# sent_id = sv-ud-test-1203
+# text = I dagens samhälle premieras emellertid på flera olika sätt sammanboende i förhållande till gifta.
+
+# sent_id = sv-ud-test-1204
+# text = Även om detta inte sker enligt lagens bokstav är det ett faktum.
+
+# sent_id = sv-ud-test-1205
+# text = En ensamstående moder har betydligt lättare att få in sitt barn på daghem (även om hon i verkligheten sammanbor med barnets far).
+
+# sent_id = sv-ud-test-1206
+# text = En studerandes studiemedel behovsprövas gentemot makes inkomst, inte gentemot sammanboendes.
+
+# sent_id = sv-ud-test-1207
+# text = Genom litet 'skicklighet' kan de få dubbelt barntillägg.
+
+# newpar id = P416.27
+# sent_id = sv-ud-test-1208
+# text = Bostadsbidrag kan utgå till den 'ensamstående' i betydligt högre grad än om föräldrarnas inkomst läggs samman - detsamma gäller arbetsmarknadspolitiska och sociala förmåner av olika slag.
+
+# newpar id = P416.28
+# sent_id = sv-ud-test-1209
+# text = Där måste en ändring ske.
+
+# sent_id = sv-ud-test-1210
+# text = Vi kan inte förhindra att familjebildning sker utanför äktenskapet, men vi måste åstadkomma sådana kontrollmöjligheter att ogifta familjer inte får större privilegier än andra.
+
+# newpar id = P416.29
+# sent_id = sv-ud-test-1211
+# text = Vi upplever i dag en rotlöshet och rådvillhet hos många unga.
+
+# sent_id = sv-ud-test-1212
+# text = Genom att försvaga äktenskapet ökar vi dessa företeelser och vi gör dem urarva.
+
+# sent_id = sv-ud-test-1213
+# text = Vi måste i stället försöka skapa ett samhälle byggt på gemenskap människor emellan, och den gemenskapen har sin grund i familjen.
+
+# sent_id = sv-ud-test-1214
+# text = Det innebär inte, att vi kan bortse från den förändring som skett vad gäller familjens levnadsförhållanden.
+
+# sent_id = sv-ud-test-1215
+# text = Den lilla tvågenerationsfamiljen går miste om mycket som fanns i forna tiders stora familjer med flera generationer.
+
+# sent_id = sv-ud-test-1216
+# text = Dagens familj ställer självklart nya krav på en utvidgad gemenskap, men den gemenskapen måste börja mellan familjemedlemmarna.
+
+# sent_id = sv-ud-test-1217
+# text = Det är inte familjelagstiftarnas sak att i övrigt förbättra relationer mellan människor, det är en uppgift för hela samhället.
+
+# sent_id = sv-ud-test-1218
+# text = Den socialdemokratiska bostadspolitiken med cellbildning och ålderssegregation har försvårat kommunikationerna mellan människor, skattepolitiken har nedvärderat det personliga ägandet och kollektiviteten har försvårat personliga insatser utöver det vanliga.
+
+# sent_id = sv-ud-test-1219
+# text = Nu måste vi slå vakt om äktenskapet - medan tid är.
+
