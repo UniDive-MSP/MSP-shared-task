@@ -56,7 +56,6 @@ from __future__ import print_function
 
 import argparse
 import io
-import itertools
 import sys
 import unicodedata
 import unittest
@@ -218,13 +217,6 @@ def load_conllu(file, path=None):
         index += len(columns[FORM])
 
         try:
-            word_id = int(columns[ID])
-        except:
-            if '.' not in columns[ID]:
-                raise UDError("incorrect ID format")
-            word_id = columns[ID]
-
-        try:
             head_id = int(columns[HEAD])
         except:
             # TODO
@@ -267,28 +259,16 @@ def evaluate(gold_ud, system_ud):
             self.gold_words = gold_words
             self.system_words = system_words
             self.matched_words = []
-            self.matched_words_map = {}
+            self.system_to_gold = {}
+            self.gold_to_system = {}
             if not include_function:
                 self.gold_words = [word for word in self.gold_words if word.columns[FEATS]]
                 self.system_words = [word for word in self.system_words if word.columns[FEATS]]
         def append_aligned_words(self, gold_word, system_word):
             if (gold_word.columns[FEATS] and system_word.columns[FEATS]) or self.include_function:
                 self.matched_words.append(AlignmentWord(gold_word, system_word))
-                self.matched_words_map[system_word] = gold_word
-
-    def spans_score(gold_spans, system_spans):
-        correct, gi, si = 0, 0, 0
-        while gi < len(gold_spans) and si < len(system_spans):
-            if system_spans[si].start < gold_spans[gi].start:
-                si += 1
-            elif gold_spans[gi].start < system_spans[si].start:
-                gi += 1
-            else:
-                correct += gold_spans[gi].end == system_spans[si].end
-                si += 1
-                gi += 1
-
-        return Score(len(gold_spans), len(system_spans), correct)
+                self.system_to_gold[system_word] = gold_word
+                self.gold_to_system[gold_word] = system_word
 
     def feats_dict(feats_str: str):
         if feats_str == '|':
@@ -309,52 +289,71 @@ def evaluate(gold_ud, system_ud):
         matched_feats = [(gold_feats.get(key, None), system_feats.get(key, None)) for key in all_keys]
         correct = sum([mf[0]==mf[1] for mf in matched_feats if mf[0] and mf[1]])
 
-        precision = correct / len(system_feats)
-        recall = correct / len(gold_feats)
         f1 = 2 * correct / (len(system_feats) + len(gold_feats)) if len(system_feats) + len(gold_feats) else 0.0
 
         return f1
+    
 
-    def alignment_score(alignment, key_fn=None, filter_fn=None, LAS=False):
-        if filter_fn is not None:
-            gold = sum(1 for gold in alignment.gold_words if filter_fn(gold))
-            system = sum(1 for system in alignment.system_words if filter_fn(system))
-            aligned = sum(1 for word in alignment.matched_words if filter_fn(word.gold_word))
-        else:
-            gold = len(alignment.gold_words)
-            system = len(alignment.system_words)
-            aligned = len(alignment.matched_words)
-
-        if key_fn is None:
-            # Return score for whole aligned words
-            return Score(gold, system, aligned)
+    
+    def combined_alignment_score(gold_ud, forward_alignment, backward_alignment, key_fn=None, LAS=False):
 
         def gold_aligned_gold(word):
             return word
-        def gold_aligned_system(word):
-            return alignment.matched_words_map.get(word, "NotAligned") if word is not None else None
+        def gold_aligned_system_forward(word):
+            return forward_alignment.system_to_gold.get(word, "NotAligned") if word is not None else None
+        def gold_aligned_system_backward(word):
+            return backward_alignment.system_to_gold.get(word, "NotAligned") if word is not None else None
+   
         correct = 0
-        for words in alignment.matched_words:
-            if filter_fn is None or filter_fn(words.gold_word):
-                if key_fn(words.gold_word, gold_aligned_gold) == key_fn(words.system_word, gold_aligned_system):
-                    if LAS:
-                        correct += 1
-                    else:
-                        gold_feats = feats_dict(words.gold_word.columns[FEATS])
-                        system_feats = feats_dict(words.system_word.columns[FEATS])
-                        correct += f1_of_feats(gold_feats, system_feats)
+        aligned = 0 #len(alignment.matched_words)
+        
+        gold = len(forward_alignment.gold_words)
+        system = len(forward_alignment.system_words)
+        
+        for sent in gold_ud.sentences:
+            sent_correct_forward = 0
+            sent_correct_backward = 0
+            sent_aligned_forward = 0
+            sent_aligned_backward = 0
+            
+            for gold_word in gold_ud.words[sent.start:sent.end]:
+                system_word_forward = forward_alignment.gold_to_system.get(gold_word, None)
+                
+                if system_word_forward:
+                    # If the gold word is aligned in either forward or backward alignment, we count it as aligned
+                    sent_aligned_forward += 1
+
+                    if key_fn(gold_word, gold_aligned_gold) == key_fn(system_word_forward, gold_aligned_system_forward):
+                        if LAS:
+                            sent_correct_forward += 1
+                        else:
+                            gold_feats = feats_dict(gold_word.columns[FEATS])
+                            system_feats = feats_dict(system_word_forward.columns[FEATS])
+                            sent_correct_forward += f1_of_feats(gold_feats, system_feats)
+                        
+        
+                system_word_backward = backward_alignment.gold_to_system.get(gold_word, None)
+                
+                if system_word_backward:
+                    # If the gold word is aligned in either forward or backward alignment, we count it as aligned
+                    sent_aligned_backward += 1
+                        
+                    if key_fn(gold_word, gold_aligned_gold) == key_fn(system_word_backward, gold_aligned_system_backward):
+                        if LAS:
+                            sent_correct_backward += 1
+                        else:
+                            gold_feats = feats_dict(gold_word.columns[FEATS])
+                            system_feats = feats_dict(system_word_backward.columns[FEATS])
+                            sent_correct_backward += f1_of_feats(gold_feats, system_feats)
+             
+            if sent_correct_forward > sent_correct_backward:
+                correct += sent_correct_forward
+                aligned += sent_aligned_forward
+            else:
+                correct += sent_correct_backward
+                aligned += sent_aligned_backward   
 
         return Score(gold, system, correct, aligned)
-
-    def compute_lcs(gold_words, system_words, gi, si, gs, ss):
-        lcs = [[0] * (si - ss) for i in range(gi - gs)]
-        for g in reversed(range(gi - gs)):
-            for s in reversed(range(si - ss)):
-                if gold_words[gs + g].columns[FORM].lower() == system_words[ss + s].columns[FORM].lower():
-                    lcs[g][s] = 1 + (lcs[g+1][s+1] if g+1 < gi-gs and s+1 < si-ss else 0)
-                lcs[g][s] = max(lcs[g][s], lcs[g+1][s] if g+1 < gi-gs else 0)
-                lcs[g][s] = max(lcs[g][s], lcs[g][s+1] if s+1 < si-ss else 0)
-        return lcs
 
     def align_words(gold_words, system_words, gold_sentences, system_sentences):
         alignment = Alignment(gold_words, system_words)
@@ -399,17 +398,77 @@ def evaluate(gold_ud, system_ud):
                 si += 1
 
         return alignment
+    
+    def reverse_align_words(gold_words, system_words, gold_sentences, system_sentences):
+        alignment = Alignment(gold_words, system_words)
+        
+        words_to_align_later_in_reverse = []
+
+        sent_idx = 0
+        gold_sent_end = gold_sentences[sent_idx].start
+        system_sent_end = system_sentences[sent_idx].start
+        gold_start_of_last_sentence = gold_sentences[-1].start
+        system_start_of_last_sentence = system_sentences[-1].start
+        gi, si = gold_sentences[sent_idx].end-1, system_sentences[sent_idx].end-1
+        
+        while (gi >= gold_start_of_last_sentence and si >= system_start_of_last_sentence) or sent_idx < len(gold_sentences)-1:
+            # make sure we don't align words across sentences
+            # print(gold_words[gi], gold_words[gi].columns[FEATS], system_words[si].columns[FEATS])
+
+            if gold_words[gi].columns[FEATS] and system_words[si].columns[FEATS]:
+                if gold_words[gi].columns[FORM] == '_' or system_words[si].columns[FORM] == '_':
+                    if gold_words[gi].columns[FORM] == system_words[si].columns[FORM]:
+                        words_to_align_later_in_reverse.append((gold_words[gi], system_words[si]))
+                        gi -= 1
+                        si -= 1
+                    elif gold_words[gi].columns[FORM] == '_':
+                        gi -= 1
+                    else: # system_words[si].columns[FORM] == '_':
+                        si -= 1
+                else:
+                    words_to_align_later_in_reverse.append((gold_words[gi], system_words[si]))
+                    si -= 1
+                    gi -= 1
+            elif not gold_words[gi].columns[FEATS]:
+                gi -= 1
+            else: # not system_words[si].columns[FEATS]
+                si -= 1
+            
+            # if gi == gold_sent_end and si != system_sent_end:
+            #     print("only gi has reached the end of sentence", gi, gold_words[gi], gold_sent_end, "SYSTEM", si, system_words[si], system_sent_end, sent_idx, len(gold_sentences))
+            # elif si == system_sent_end and gi != gold_sent_end:
+            #     print("only si has reached the end of sentence", gi, gold_words[gi], gold_sent_end, "SYSTEM", si, system_words[si], system_sent_end, sent_idx, len(gold_sentences))
+            if gi < gold_sent_end or si < system_sent_end:
+            
+
+                if gi != gold_sent_end:
+                    gi = gold_sent_end
+                elif si != system_sent_end:
+                    si = system_sent_end
+
+                sent_idx += 1
+                for gold_word, system_word in words_to_align_later_in_reverse[::-1]:
+                    alignment.append_aligned_words(gold_word, system_word)
+                words_to_align_later_in_reverse = []
+                if sent_idx >= len(gold_sentences):
+                    break
+                gold_sent_end = gold_sentences[sent_idx].start
+                system_sent_end = system_sentences[sent_idx].start
+                gi, si = gold_sentences[sent_idx].end - 1, system_sentences[sent_idx].end - 1
+
+        return alignment
 
     # Align words
-    alignment = align_words(gold_ud.words, system_ud.words, gold_ud.sentences, system_ud.sentences)
+    forward_alignment = align_words(gold_ud.words, system_ud.words, gold_ud.sentences, system_ud.sentences)
+    backward_alignment = reverse_align_words(gold_ud.words, system_ud.words, gold_ud.sentences, system_ud.sentences)
 
-    # Compute the F1-scores
-    scores = {
-        "MSLAS": alignment_score(alignment, lambda w, ga: (ga(w.parent), w.columns[DEPREL])),
-        "Feats": alignment_score(alignment, lambda w, ga: True),
-        "LAS": alignment_score(alignment, lambda w, ga: (ga(w.parent), w.columns[DEPREL]), LAS=True),
+    combined_scores = {
+        "MSLAS": combined_alignment_score(gold_ud,forward_alignment,backward_alignment, lambda w, ga: (ga(w.parent), w.columns[DEPREL])),
+        "Feats": combined_alignment_score(gold_ud,forward_alignment,backward_alignment, lambda w, ga: True),
+        "LAS": combined_alignment_score(gold_ud,forward_alignment,backward_alignment, lambda w, ga: (ga(w.parent), w.columns[DEPREL]), LAS=True),
     }
-    return scores
+    
+    return combined_scores
 
 
 def load_conllu_file(path):
