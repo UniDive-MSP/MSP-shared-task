@@ -277,6 +277,7 @@ def evaluate(gold_ud, system_ud):
             raise ValueError('evaluating features of a function node?!')
         feats = feats_str.split('|')
         feats = dict([feat.split('=') for feat in feats])
+        feats = {key: ';'.join(sorted(value.split(';'))) for key, value in feats.items()}  # making sure that lists of values are not punished for order
         return {k: v for k,v in feats.items() if k in UNIVERSAL_FEATURES}
 
     def f1_of_feats(gold_feats, system_feats):
